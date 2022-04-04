@@ -30,7 +30,7 @@ Package: com.dx.altstore
 Version: 1.4.9
 Section: Utilities
 Maintainer: DX <cuentasdesechable1@gmail.com>
-Depends: firmware (>= 12.2)
+Depends: firmware (>= 12.2) com.dx.altdaemon
 Architecture: iphoneos-arm
 Filename: ./debs/com.dx.altstore_1.4.9_iphoneos-arm-1.deb
 Size: 3653200
