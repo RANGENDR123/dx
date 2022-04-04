@@ -30,7 +30,7 @@ Package: com.dx.altstore
 Version: 1.4.9
 Section: Utilities
 Maintainer: DX <cuentasdesechable1@gmail.com>
-Depends: firmware (>= 12.2) com.dx.altdaemon
+Depends: firmware (>= 12.2), com.dx.altdaemon
 Architecture: iphoneos-arm
 Filename: ./debs/com.dx.altstore_1.4.9_iphoneos-arm-1.deb
 Size: 3653200
@@ -68,3 +68,16 @@ Name: libhooker support
 Author: DX <cuentasdesechable1@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=me.dx.libhookersupport
 
+Package: com.dx.altdaemon
+Version: 1.0.1
+Section: System
+Maintainer: Riley Testut <support@altstore.io>
+Depends: firmware (>= 12.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.altdaemon_1.0.1_iphoneos-arm.deb
+Size: 598160
+MD5sum: 2c2a8c29fdea7f21a4c9dcf04c3b5352
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDaemon
+Author: Riley Testut <support@altstore.io>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=me.dx.altdaemon
