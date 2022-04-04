@@ -53,3 +53,18 @@ Description: Monitor your network traffic
 Name: NetFence
 Author: DX <cuentasdesechable1@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.netfence
+
+Package: me.dx.libhookersupport
+Version: 1.0.0
+Section: System
+Maintainer: DX <cuentasdesechable1@gmail.com>
+Depends: firmware (>= 12), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/me.dx.libhookersupport_1.0.0_iphoneos-arm.deb
+Size: 7452
+MD5sum: da60c4f9fe983771162fc1ff5d590cfb
+Description: Compatibility layer to use coolstar tweaks on substrate/substitute based bootstraps
+Name: libhooker support
+Author: DX <cuentasdesechable1@gmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=me.dx.libhookersupport
+
