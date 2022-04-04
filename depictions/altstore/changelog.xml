@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.4.9</version>
+		<change>Fixes app crashing at launch on devices running iOS 13 or earlier</change>
+	</changes>
+</changelog>

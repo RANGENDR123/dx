@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.dx.altstore
+Version: 1.4.9
+Section: Utilities
+Maintainer: DX <cuentasdesechable1@gmail.com>
+Depends: firmware (>= 12.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.altstore_1.4.9_iphoneos-arm-1.deb
+Size: 3653200
+MD5sum: 22d986b7f956870779c6b178d8903c1b
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore
+Author: DX <cuentasdesechable1@gmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.altstore
