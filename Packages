@@ -39,3 +39,17 @@ Description: Jailbroken version of AltStore with on device signing feauture.
 Name: AltStore
 Author: DX <cuentasdesechable1@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.altstore
+
+Package: com.dx.netfence
+Version: 1.2.10
+Section: Tweaks
+Maintainer: DX <cuentasdesechable1@gmail.com>
+Depends: firmware (>= 13.0), com.dx.rocketbootstrap, com.dx.preferenceloader. com.dx.applist, com.dx.foxforttools (>= 1.2.23)
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.netfence_1.2.10_iphoneos-arm.deb
+Size: 4511344
+MD5sum: de96525cd0c13fc4aa049b77b1bd8c8b
+Description: Monitor your network traffic
+Name: NetFence
+Author: DX <cuentasdesechable1@gmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.netfence
