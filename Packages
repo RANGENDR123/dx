@@ -80,4 +80,18 @@ MD5sum: 2c2a8c29fdea7f21a4c9dcf04c3b5352
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
 Author: Riley Testut <support@altstore.io>
-Depiction: https://rangendr123.github.io/dx/depictions/?p=me.dx.altdaemon
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.altdaemon
+
+Package: com.dx.guatemalaflag
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.guatemalaflag_1.0_iphoneos-arm.deb
+Size: 9004
+MD5sum: 619fba715408ece626addb6791f3a67b
+Description: This is a beautiful Guatemala flag icon Pack for Zeppelin
+Name: Guatemalaflag for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.guatemalaflag
