@@ -44,7 +44,7 @@ Package: com.dx.netfence
 Version: 1.2.10
 Section: Tweaks
 Maintainer: DX <cuentasdesechable1@gmail.com>
-Depends: firmware (>= 13.0), com.dx.rocketbootstrap, com.dx.preferenceloader. com.dx.applist, com.dx.foxforttools (>= 1.2.23)
+Depends: mobilesubstrate (>0 0.9.5000), firmware (>= 13.0), com.dx.rocketbootstrap, com.dx.preferenceloader, com.dx.applist, com.dx.foxforttools (>= 1.2.23)
 Architecture: iphoneos-arm
 Filename: ./debs/com.dx.netfence_1.2.10_iphoneos-arm.deb
 Size: 4511344
