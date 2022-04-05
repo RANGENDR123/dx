@@ -1,19 +1,19 @@
 <package>
-	<id>bzip2</id>
-	<name>bzip2</name>
-	<version>1.0.6-1</version>
+	<id>org.coolstar.libhooker</id>
+	<name>libhooker</name>
+	<version>1.6.9</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>compression that's slightly better than gzip.</shortDescription>
+	<shortDescription>General Purpose Injection and Hooking library for 64-bit devices.</shortDescription>
 	<descriptionlist>
-		<description>bzip2 1.0.6-1,   compatible to iOS 7.0 - later.</description>
-		<description>bzip2 For Jailbreak!.</description>
+		<description>libhooker 1.6.9,   compatible to iOS 11.0 - later.</description>
+		<description>libhooker For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
