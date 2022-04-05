@@ -137,3 +137,18 @@ Description: The ultimate tweak to monitor, save and tune your battery
 Name: SmartBattery 2
 Author: EliasFeir <esfeir4@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=xyz.dx.smartbattery2
+
+Package: xyz.dx.zebra
+Version: 1.1.26
+Section: Packaging
+Maintainer: Zebra Team <teamqgetzbra.com>
+Depends: dpkg, uikittools, firmware (>= 9.0),
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.dx.zebra_1.1.26_iphoneos-arm.deb
+Size: 8245792
+MD5sum: 394a9049f05610b5708a5d4e57e372ad
+Description: A Useful Package Manager
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=xyz.dx.zebra
+
