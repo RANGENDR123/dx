@@ -129,7 +129,7 @@ Description: a modern APT package manager frontend
 Icon: https://getsileo.app/img/icon.png
 Name: Sileo
 Author: SIleo Team <getsileoapp@gmail.com>
-Depiction: https://featuredpage.getsileo.app/depiction.json
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: xyz.dx.smartbattery2
 Version: 2.1
