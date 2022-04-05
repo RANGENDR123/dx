@@ -235,8 +235,8 @@ Name: Hestia
 Author: iCraze <icrazeios@protonmail.com>
 Depiction: https://havoc.app/depiction/hestia
 
-Package: com.dx.smarterlpm
-Version: 1.0.9
+Package: com.dx.crane
+Version: 1.2.3
 Section: Tweaks
 Maintainer: opa334 <opa334@protonmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.altlist (>= 1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>= 1.1), firmware (<<= 14.0)
