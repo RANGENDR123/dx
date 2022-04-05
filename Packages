@@ -252,20 +252,3 @@ Name: libhooker-contigurator
 Author: CoolStar <coolstarorganization@gmail.com>
 SileoDepiction: https://repo.theodyssey.dev/depictions/json/libhooker-contigurator.json
 
-Package: org.coolstar.libhookerbeta
-Version: 1.6.9b2
-Section: System
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
-Conflicts : com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
-Replaces : com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
-Provides: com.ex.libsubstitute (= 2.0)
-Architecture: iphoneos-arm
-Filename: ./debs/org.coolstar.libhooker_1.6.9b2_iphoneos-arm.deb
-Size: 55904
-MD5sum: d4cb163a2f5376a3182803fc16ec8975
-Description: General Purpose Injection and Hooking library for 64-bit devices
-Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev/depictions/icons/libhooker.png
-Name: libhooker beta
-Author: CoolStar <coolstarorganization@gmail.com>
-SileoDepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
