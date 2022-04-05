@@ -152,3 +152,17 @@ Name: Zebra
 Author: Zebra Team <team@getzbra.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=xyz.dx.zebra
 
+Package: com.dx.smarterlpm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.smarterlpm_1.0.9_iphoneos-arm.deb
+Size: 55980
+MD5sum: 1ae4405ba78aa38740ca3ba8ad5a6c67
+Description: A smarter low power mode !!
+Name: SmarterLPM
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.smarterlpm
+
