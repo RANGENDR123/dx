@@ -166,3 +166,16 @@ Name: SmarterLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.smarterlpm
 
+Package: com.dx.customplayer
+Version: 1.1.2-1
+Section: Tweaks
+Maintainer: iCraze <icrazeios@protonmail.com>
+Depends: firmware (>= 12.2), org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.customplayer_1.1.2-1_iphoneos-arm.deb
+Size: 20328
+MD5sum: ce494c38d3b44b22eecdd0b7d4b1d893
+Description: Customize Your Media Player!
+Name: CustomPlayer
+Author: iCraze <icrazeios@protonmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.customplayer
