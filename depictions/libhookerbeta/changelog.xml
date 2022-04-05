@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.6.9</version>
+		<change>Fixes regression in libhooker v1.6.9 beta 1 with respect to WebContent hooking, Adds preliminary support for iOS & iPadOS 15, Fixes rare case scenarios with memory hooking </change>
+	</changes>
+</changelog>
