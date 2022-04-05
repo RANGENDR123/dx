@@ -220,35 +220,3 @@ Name: bzip2
 Author: Procursus Team <support@procurs.us>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=bzip2
 
-Package: org.coolstar.libhooker
-Version: 1.6.9
-Section: System
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
-Conflicts : com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
-Replaces : com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
-Architecture: iphoneos-arm
-Filename: ./debs/org.coolstar.libhooker_1.6.9_iphoneos-arm.deb
-Size: 56032
-MD5sum: baf916c12b2cff38525884bf93aac39a
-Description: General Purpose Injection and Hooking library for 64-bit devices
-Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev/depictions/icons/libhooker.png
-Name: libhooker
-Author: CoolStar <coolstarorganization@gmail.com>
-SileoDepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
-
-Package: org.coolstar.libhooker-configurator
-Version: 1.3
-Section: Packaging
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Depends: firmware (>= 12.2), org.coolstar.libhooker (>=1.4.0), | org.swift.libswift (>= 5.0), firmware (>= 12.0)
-Architecture: iphoneos-arm
-Filename: ./debs/org.coolstar.libhooker-configurator_1.3_iphoneos-arm.deb
-Size: 268708 
-MD5sum: b4379721e1c144af4882cd679625cb11
-Description: Configuration Utility for libhooker
-Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev/depictions/icons/libhooker.png
-Name: libhooker-contigurator
-Author: CoolStar <coolstarorganization@gmail.com>
-SileoDepiction: https://repo.theodyssey.dev/depictions/json/libhooker-contigurator.json
-

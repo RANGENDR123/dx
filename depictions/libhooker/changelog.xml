@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.6.9</version>
-		<change>Add Initial Support For iOS 15, Add support for tweaks to hook libhooker itself, Add support for hooking more system methods</change>
-	</changes>
-</changelog>
