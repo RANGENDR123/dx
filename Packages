@@ -188,3 +188,18 @@ Icon: https://havoc.app/media/61f8ad5be40b9eda481119f8
 Name: CustomPlayer
 Author: iCraze <icrazeios@protonmail.com>
 Depiction: https://havoc.app/depiction/customplayer
+
+Package: com.opa334.altlist
+Version: 1.0.8
+Section: Development
+Maintainer: opa334 <opa334@protonmail.com>
+Depends: firmware (>= 7.0), 
+Architecture: iphoneos-arm
+Filename: ./debs/altlist_1.0.8.deb
+Size: 46412
+MD5sum: a09c874d849e30e7e2551e7a958b44cc
+Description: A modern AppList alternative
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.altlist.png
+Name: AltList
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
