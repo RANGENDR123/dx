@@ -109,3 +109,18 @@ Description: graphical iPhone front-end for APT
 Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.cydia
+
+ackage: org.dx.sileo
+Version: 2.3
+Section: Packaging
+Maintainer: Hayden Seay <ne@diatr.us>
+Depends: firmware (>= 12.0), firmware (>= 12.2), | org.swift.libswift (>= 5.0), coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0), libzstd1
+Architecture: iphoneos-arm
+Filename: ./debs/org.dx.sileo_2.3_iphoneos-arm.deb
+Size: 1997820
+MD5sum: 34ab42a871778b9b1d32c5ed23c6dff3
+Description: a modern APT package manager frontend
+Name: Sileo
+Author: SIleo Team <getsileoapp@gmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=org.dx.sileo
+
