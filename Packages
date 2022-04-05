@@ -50,6 +50,7 @@ Filename: ./debs/com.dx.netfence_1.2.10_iphoneos-arm.deb
 Size: 4511344
 MD5sum: de96525cd0c13fc4aa049b77b1bd8c8b
 Description: Monitor your network traffic
+Icon: https://havoc.app/media/61f8d9fc28560770cfb2d631
 Name: NetFence
 Author: DX <cuentasdesechable1@gmail.com>
 Depiction: https://havoc.app/depiction/netfence
@@ -79,7 +80,7 @@ Filename: ./debs/com.dx.altdaemon_1.0.1_iphoneos-arm.deb
 Size: 598160
 MD5sum: 2c2a8c29fdea7f21a4c9dcf04c3b5352
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
-Icon: https://cdn.chariz.cloud/icon/altdaemon/
+Icon: https://img.chariz.cloud/icon/altdaemon/icon@3x.png
 Name: AltDaemon
 Author: Riley Testut <support@altstore.io>
 Depiction: https://chariz.com/get/altdaemon
@@ -108,6 +109,7 @@ Filename: ./debs/com.dx.cydia_1.1.36-2_iphoneos-arm.deb
 Size: 1240444
 MD5sum: d3df992dd2767226306c6b62f1e4e112
 Description: graphical iPhone front-end for APT
+Icon: https://cydia.saurik.com/icon@2x/cydia7.png
 Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: https://cydia.saurik.com/info/cydia/
@@ -137,6 +139,7 @@ Filename: ./debs/xyz.dx.smartbattery2_2.1k_iphoneos-arm.deb
 Size: 709852 
 MD5sum: cd63077cb2ab718a7b8e8875eff0b634
 Description: The ultimate tweak to monitor, save and tune your battery
+Icon: https://havoc.app/media/61fc6f3094bb9ecb0d320107
 Name: SmartBattery 2
 Author: EliasFeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/smartbattery2
@@ -151,6 +154,7 @@ Filename: ./debs/xyz.dx.zebra_1.1.26_iphoneos-arm.deb
 Size: 8245792
 MD5sum: 394a9049f05610b5708a5d4e57e372ad
 Description: A Useful Package Manager
+Icon: https://getzbra.com/assets/zeeb.svg
 Name: Zebra
 Author: Zebra Team <team@getzbra.com>
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
@@ -165,6 +169,7 @@ Filename: ./debs/com.dx.smarterlpm_1.0.9_iphoneos-arm.deb
 Size: 55980
 MD5sum: 1ae4405ba78aa38740ca3ba8ad5a6c67
 Description: A smarter low power mode !!
+Icon: https://havoc.app/depiction/smarterlpm
 Name: SmarterLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://havoc.app/depiction/smarterlpm
@@ -179,6 +184,7 @@ Filename: ./debs/com.dx.customplayer_1.1.2-1_iphoneos-arm.deb
 Size: 20328
 MD5sum: ce494c38d3b44b22eecdd0b7d4b1d893
 Description: Customize Your Media Player!
+Icon: https://havoc.app/media/61f8ad5be40b9eda481119f8
 Name: CustomPlayer
 Author: iCraze <icrazeios@protonmail.com>
 Depiction: https://havoc.app/depiction/customplayer
