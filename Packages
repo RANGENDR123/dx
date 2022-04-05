@@ -154,7 +154,7 @@ Filename: ./debs/xyz.dx.zebra_1.1.26_iphoneos-arm.deb
 Size: 8245792
 MD5sum: 394a9049f05610b5708a5d4e57e372ad
 Description: A Useful Package Manager
-Icon: https://getzbra.com/assets/zeeb.svg
+Icon: https://th.bing.com/th/id/R.bae30efdcfa9fb9cec1703646c8f24a7?rik=imWzqrkL7%2bOxsA&pid=ImgRaw&r=0
 Name: Zebra
 Author: Zebra Team <team@getzbra.com>
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
@@ -169,7 +169,7 @@ Filename: ./debs/com.dx.smarterlpm_1.0.9_iphoneos-arm.deb
 Size: 55980
 MD5sum: 1ae4405ba78aa38740ca3ba8ad5a6c67
 Description: A smarter low power mode !!
-Icon: https://havoc.app/depiction/smarterlpm
+Icon: https://havoc.app/media/61f88b68ca54d59904e3c82c
 Name: SmarterLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://havoc.app/depiction/smarterlpm
