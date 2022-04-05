@@ -95,3 +95,17 @@ Description: This is a beautiful Guatemala flag icon Pack for Zeppelin
 Name: Guatemalaflag for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.guatemalaflag
+
+Package: com.dx.cydia
+Version: 1.1.36-2
+Section: Packaging
+Maintainer: Procursus Team <support@procurs.us>
+Depends: firmware (>= 7.0), com.dx.bzip2, com.dx.darwintools, com.dx.debianutils, dpkg (>= 1.19.1), com.dx.gzip, com.dx.sed, com.dx.shell-cmds, com.dx.system-cmds, com.dx.uikittools (>= 1.1.14), com.dx.xzutils, com.dx.zstd
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.cydia_1.1.36-2_iphoneos-arm.deb
+Size: 1240444
+MD5sum: d3df992dd2767226306c6b62f1e4e112
+Description: graphical iPhone front-end for APT
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.cydia
