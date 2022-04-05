@@ -110,10 +110,10 @@ Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.cydia
 
-ackage: org.dx.sileo
+Package: org.dx.sileo
 Version: 2.3
 Section: Packaging
-Maintainer: Hayden Seay <ne@diatr.us>
+Maintainer: Hayden Seay <me@diatr.us>
 Depends: firmware (>= 12.0), firmware (>= 12.2), | org.swift.libswift (>= 5.0), coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0), libzstd1
 Architecture: iphoneos-arm
 Filename: ./debs/org.dx.sileo_2.3_iphoneos-arm.deb
@@ -124,3 +124,16 @@ Name: Sileo
 Author: SIleo Team <getsileoapp@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=org.dx.sileo
 
+Package: xyz.dx.smartbattery2
+Version: 2.1
+Section: Tweaks
+Maintainer: EliasSfeir <esfeir4@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.dx.smartbattery2_2.1k_iphoneos-arm.deb
+Size: 709852 
+MD5sum: cd63077cb2ab718a7b8e8875eff0b634
+Description: The ultimate tweak to monitor, save and tune your battery
+Name: SmartBattery 2
+Author: EliasFeir <esfeir4@gmail.com>
+Depiction: https://rangendr123.github.io/dx/depictions/?p=xyz.dx.smartbattery2
