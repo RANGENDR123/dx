@@ -36,6 +36,7 @@ Filename: ./debs/com.dx.altstore_1.4.9_iphoneos-arm-1.deb
 Size: 3653200
 MD5sum: 22d986b7f956870779c6b178d8903c1b
 Description: Jailbroken version of AltStore with on device signing feauture.
+Icon: file://Applications/AltStore.app/AppIcon60x60@2x.png
 Name: AltStore
 Author: DX <cuentasdesechable1@gmail.com>
 Depiction: https://cydia.ichitaso.com/depiction/altstore.html
