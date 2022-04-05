@@ -220,3 +220,17 @@ Name: bzip2
 Author: Procursus Team <support@procurs.us>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=bzip2
 
+Package: com.dx.hestia
+Version: 1.6.2
+Section: Tweaks
+Maintainer: iCraze <icrazeios@protonmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), sed, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.hestia_1.6.2_iphoneos-arm.deb
+Size: 314048
+MD5sum: 091738d886741a5f54e7ef56aa799b27
+Description: Global Jailbreak Detection Bypass
+Icon: https://havoc.app/media/61f8ada5e40b9eda48112f38
+Name: Hestia
+Author: iCraze <icrazeios@protonmail.com>
+Depiction: https://havoc.app/depiction/hestia
