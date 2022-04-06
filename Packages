@@ -525,3 +525,35 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: libfoxfortutils
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/libfoxfortutils
+
+Package: com.matchstic.reprovision
+Version: 0.5.2~EOL
+Section: System
+Maintainer: Matt Clarke <matt@incendo.ws>
+Depends: firmware (>= 9.0), 
+Replaces: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Filename: ./debs/com.matchstic.reprovision_0.5.2_EOL_iphoneos-arm.deb
+Size: 14406348
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+Description: Re-sign applications on your device
+Icon: https://2.bp.blogspot.com/-XiSYinut2ZI/XKnOAID34WI/AAAAAAAAT5s/qGou12CZdtI6ui3d73oMj09hWhzNN-BPgCPcBGAYYCw/s200/unnamed.png
+Name: ReProvision
+Author: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+
+Package: jp.soh.reprovision
+Version: 0.8.4~release
+Section: Applications
+Maintainer: soh_satoh <tweaks@satoh.dev>
+Depends: firmware (>= 9.0), 
+Conflicts: com.matchstic.reprovision
+Architecture: iphoneos-arm
+Filename: ./debs/jp.soh.reprovision_0.8.4_release_iphoneos-arm.deb
+Size: 16816862
+MD5sum: 226e27fc058aa29af55ecccd267e9382
+Description: Re-sign applications on your device
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/62108e544bc779297260bd62
+Name: ReProvision Reborn
+Author: soh_satoh <tweaks@satoh.dev>
+Depiction: https://havoc.app/depiction/rpr
