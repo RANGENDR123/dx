@@ -265,3 +265,19 @@ Icon: https://i.repo.co.kr/images/com.rpgfarm.a-bypass-icon-abypass.png.png
 Name: A-Bypass
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/package/com.rpgfarm.a-bypass
+
+Package: me.apptapp.installer
+Version: 5.0.3-2
+Section: Packaging
+Maintainer: AppTapp <support@apptapp.me>
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/Installer_503.deb
+Size: 24127482
+MD5sum: bd30e3633b97aedeea67f46a07ce403a
+Description: The fastest package manager built specifically for iOS!
+Icon: https://synnygr.dev/AppTapp/installer_icon.png
+Name: Installer
+Author: AppTapp <support@apptapp.me>
+Depiction: https://apptapp.me/repo/installer.html
+SileoDepiction: https://apptapp.me/repo/installer.json
