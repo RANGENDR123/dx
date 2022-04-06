@@ -493,3 +493,35 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621
 Name: Checkl0ck
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/checkl0ck
+
+Package: com.foxfort.foxforttools
+Version: 1.2.24
+Section: Development
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.2.4), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, com.bo7ios.translomatic
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.foxforttools_1.2.24_iphoneos-arm.deb
+Size: 581636
+MD5sum: 23da8fc6e4cd61209f0a8dac88aa5c70
+Description: Helper tools for Foxfort tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d83428560770cfb25ee1
+Name: FoxFort Tools
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/foxforttools
+
+Package: com.foxfort.libfoxfortutils
+Version: 1.2.4
+Section: Development
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.libfoxfortutils_1.2.4_iphoneos-arm.deb
+Size: 204450
+MD5sum: 005416dcd6bc45198236a2abbbd1e42d
+Description: library for Foxfort tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d80a28560770cfb25dfe
+Name: libfoxfortutils
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/libfoxfortutils
