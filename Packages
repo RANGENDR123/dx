@@ -589,3 +589,76 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Return YouTube Dislike
 Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Depiction: https://chariz.com/get/return-youtube-dislike
+
+Package: com.rpgfarm.confirmpasteboard
+Version: 1.0
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), applist
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpgfarm.confirmpasteboard.deb
+Size: 22766
+MD5sum: 803e6f26f333d2aa0d1b1d31aeaa9491
+Description: Confirm before accessing the clipboard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.confirmpasteboard-icon-ConfirmPasteboard.png.png
+Name: ConfirmPasteboard
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.confirmpasteboard
+
+Package: com.opa334.libundirect
+Version: 1.1.3
+Section: Development
+Maintainer: opa334 <opa334@protonmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/libundirect_1.1.3.deb
+Size: 8904
+MD5sum: d763727107ed1a2825dc1b2b3fe651f5
+Description: Patchfinder and rebinder for objc_direct methods
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.libundirect.png
+Name: libundirect
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1647495588
+Section: Applications
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Architecture: iphoneos-arm
+Filename: ./debs/saily_2.1-REL-1647495588.deb
+Size: 3869806
+MD5sum: 4eb38b6afe2d656101e04828209b90eb
+Description: Modern. Fast. Beautiful.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/wiki.qaq.chromatic.png
+Name: Saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
+
+Package: flex3beta
+Version: 3~Beta98
+Section: Tweaks
+Maintainer: John Coates
+Architecture: iphoneos-arm
+Filename: ./debs/Flex3_3_Beta98.deb
+Size: 14346,600
+MD5sum: 693c569e78f37e6d0e9c2e63287bc97e
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Icon: https://api.ios-repo-updates.com/images/repositories/delta.png
+Name: Flex 3 Beta
+Author: John Coates
+Depiction: http://v2.getdelta.co/depictions/Flex3beta.html
+
+Package: com.opa334.cranelite
+Version: 1.2.3
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0
+Conflicts: com.opa334.crane, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Architecture: iphoneos-arm
+Filename: ./debs/com.opa334.cranelite_1.2.3_iphoneos-arm.deb
+Size: 282252
+MD5sum: 70545cbd42a5b64e0e561d43613a0d08
+Description: Multiple containers for one application!
+Icon: https://havoc.app/media/61ffad2382c2e1d835f52444
+Name: Crane Lite
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://havoc.app/depiction/cranelite
