@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.6.9</version>
+		<change>This package is now marked as a replacement for another color picker, allowing you to switch to libcolorpicker even if the former is a dependency.</change>
+	</changes>
+</changelog>

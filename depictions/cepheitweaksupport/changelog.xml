@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.17</version>
+		<change>No longer requires RocketBootstrap dependency to be installed when using a libhooker-based jailbreak, such as Taurine or Odyssey. (This was already the case for Cydia Substrate-based jailbreaks.), Fixes an issue where Twitter profile photos in Settings pages wouldn’t load., Fixes an issue where some icons were not displaying in Settings pages on iOS 14., Fixes a crash with Settings pages on iOS 5., Improves memory usage when tweaks use HBPreferences., Updates various translations.</change>
+	</changes>
+</changelog>

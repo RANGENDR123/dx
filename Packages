@@ -416,3 +416,35 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: Notifica (BawAppie)
 Author: Nepeta & BawAppie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.notifica
+
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Section: Development
+Maintainer: PixelFire <opa334@protonmail>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpgfarm.notifica.deb
+Size: 508544 
+MD5sum: 3665bce7b851346a6b0e09bcb646c3e1
+Description: color picker library for developers
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/org.thebigboss.libcolorpicker.png
+Name: libcolorpicker
+Author: PixelFire <opa334@protonmail>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+
+Package: ws.hbang.common
+Version: 1.17
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends:  firmware (<< 8.0) | firmware (>= 11.0) | com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Size: 207662
+MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
+Description: Support library for tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
