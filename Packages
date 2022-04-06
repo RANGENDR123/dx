@@ -26,18 +26,21 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.dx.altstore
+Package: com.ichitaso.altstore
 Version: 1.4.9
 Section: Utilities
-Maintainer: DX <cuentasdesechable1@gmail.com>
-Depends: firmware (>= 12.2), com.dx.altdaemon
+Maintainer: ichitaso <cuentasdesechable1@gmail.com>
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Conflicts: com.rileytestut.altstore.alpha.jailbroken, com.rileytestut.AltStore
+Replaces: com.ichitaso.altstore
 Architecture: iphoneos-arm
-Filename: ./debs/com.dx.altstore_1.4.9_iphoneos-arm-1.deb
-Size: 3653200
-MD5sum: 22d986b7f956870779c6b178d8903c1b
+Filename: ./debs/com.ichitaso.altstore_1.4.9_iphoneos-arm.deb
+Size: 5165138
+MD5sum: 11a8df9c2a767334201d4dd8a3544463
 Description: Jailbroken version of AltStore with on device signing feauture.
+Icon: https://img.chariz.cloud/icon/altdaemon/icon@3x.png
 Name: AltStore
-Author: DX <cuentasdesechable1@gmail.com>
+Author: Riley Testut <support@altstore.io>
 Depiction: https://cydia.ichitaso.com/depiction/altstore.html
 
 Package: com.dx.netfence
@@ -72,15 +75,15 @@ Name: libhooker support
 Author: DX <cuentasdesechable1@gmail.com>
 Depiction: https:/repo.lauren.sh/depiction/web/me.lau.libhookersupport.html
 
-Package: com.dx.altdaemon
+Package: com.rileytestut.altdaemon
 Version: 1.0.1
 Section: System
 Maintainer: Riley Testut <support@altstore.io>
 Depends: firmware (>= 12.2)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dx.altdaemon_1.0.1_iphoneos-arm.deb
-Size: 598160
-MD5sum: 2c2a8c29fdea7f21a4c9dcf04c3b5352
+Filename: ./debs/com.rileytestut.altdaemon_1.0.1_iphoneos-arm.deb
+Size: 597754
+MD5sum: 86b026f3f838e0ca193b086898e7152a
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Icon: https://img.chariz.cloud/icon/altdaemon/icon@3x.png
 Name: AltDaemon
