@@ -448,3 +448,32 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Cephei Tweak Support
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/cephei
+
+Package: com.spark.libsparkapplist
+Version: 1.0.10
+Section: System
+Maintainer: Spark <info@sparkdev.me>
+Depends:  firmware (>= 7.0), firmware (<< 14.3)
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.10.deb
+Size: 27440
+MD5sum: 7ea393c06401822def242bc36e4b93b3
+Description: AppList alternative
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.libsparkapplist
+Name: libSparkAppList
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.libsparkapplist
+
+Package: sed
+Version: 4.8-2
+Section: Utilities
+Maintainer: Procursus Team <support@procurs.us>
+Depends: libintl8
+Architecture: iphoneos-arm
+Filename: ./debs/sed_4.8-2_iphoneos-arm.deb
+Size: 88968
+MD5sum: 337de52caf551f810c4d1467652bee6e
+Description: edits streams of text using patterns
+Name: sed
+Author: Procursus Team <support@procurs.us>
+Depiction:  https://rangendr123.github.io/dx/depictions/?p=sed
