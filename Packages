@@ -400,3 +400,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: Choicy
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+
+Package: com.rpgfarm.notifica
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Nepeta & BawAppie <pp121324@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.9), ws.hbang.common (>= 1.11), 
+Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpgfarm.notifica.deb
+Size: 508544 
+MD5sum: 3665bce7b851346a6b0e09bcb646c3e1
+Description: Notification customizer
+Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.notifica-icon-bigIcon.png.png
+Name: Notifica (BawAppie)
+Author: Nepeta & BawAppie <pp121324@gmail.com>
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.notifica
