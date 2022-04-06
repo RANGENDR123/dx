@@ -405,7 +405,7 @@ Package: com.rpgfarm.notifica
 Version: 1.0.1
 Section: Tweaks
 Maintainer: Nepeta & BawAppie <pp121324@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.9), ws.hbang.common (>= 1.11), 
+Depends: firmware (>= 11.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.9), ws.hbang.common (>= 1.11)
 Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta
 Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.notifica.deb
@@ -530,7 +530,7 @@ Package: com.matchstic.reprovision
 Version: 0.5.2~EOL
 Section: System
 Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 9.0), 
+Depends: firmware (>= 9.0)
 Replaces: com.matchstic.Extender-Installer
 Architecture: iphoneos-arm
 Filename: ./debs/com.matchstic.reprovision_0.5.2_EOL_iphoneos-arm.deb
@@ -546,7 +546,7 @@ Package: jp.soh.reprovision
 Version: 0.8.4~release
 Section: Applications
 Maintainer: soh_satoh <tweaks@satoh.dev>
-Depends: firmware (>= 9.0), 
+Depends: firmware (>= 9.0)
 Conflicts: com.matchstic.reprovision
 Architecture: iphoneos-arm
 Filename: ./debs/jp.soh.reprovision_0.8.4_release_iphoneos-arm.deb
