@@ -288,3 +288,18 @@ Name: Installer
 Author: AppTapp <support@apptapp.me>
 Depiction: https://apptapp.me/repo/installer.html
 SileoDepiction: https://apptapp.me/repo/installer.json
+
+Package: com.muirey03.libmryipc
+Version: 2.0.1
+Section: Development
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (=1.0)
+Architecture: iphoneos-arm
+Filename: ./debs/libmryipc_2.0.1.deb
+Size: 28236
+MD5sum: 5be4446b36ceeb8f300cefbc10dbcded
+Description: Easy-to-use, RocketBootstrap-less iOS IPC
+Name: libMRYIPC
+Author: Muirey03 <tommy.muir@btinternet.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libmryipcDp
