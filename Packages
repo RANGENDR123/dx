@@ -678,3 +678,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Alderis Color Picker
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/alderis
+
+Package: com.rpgfarm.slices3
+Version: 3.1.3
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: firmware (>=11), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.rpetrich.rocketbootstrap (>=1.0.7~beta3)
+Conflicts: com.opa334.crane, com.opa334.cranelite, com.expetelek.slices, com.subdiox.slices2
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpgfarm.slices3.deb
+Size: 131040
+MD5sum: 6d7bb393f464296f124ed04f8c922d2d
+Description: Allows you to have multiple setting and data bundles for a single application
+Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.slices3-icon-SlicesPreferences@2x.png.png
+Name: Slices 3
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.slices3
