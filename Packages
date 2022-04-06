@@ -557,3 +557,35 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621
 Name: ReProvision Reborn
 Author: soh_satoh <tweaks@satoh.dev>
 Depiction: https://havoc.app/depiction/rpr
+
+Package: net.angelxwind.appsyncunified
+Version: 104.0
+Section: Tweaks
+Maintainer: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 59144
+MD5sum: 4d4f867de80c03237897a0396d1bd90b
+Description: Enables the ability to install unsigned/fakesigned iOS applications
+Icon: https://api.ios-repo-updates.com/images/repositories/karen-s-repo.png
+Name: AppSync Unifed
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+
+Package: weeb.lillie.youtubedislikesreturn
+Version: 1.6.4
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.6.4_iphoneos-arm.deb
+Size: 15172
+MD5sum: a8e99db8707e79395ffcbb8510c99ce8
+Description: Bring Back Dislikes On YouTube
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Name: Return YouTube Dislike
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Depiction: https://chariz.com/get/return-youtube-dislike
