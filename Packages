@@ -250,3 +250,18 @@ Icon: https://havoc.app/media/61ffad4e82c2e1d835f525ba
 Name: Crane
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://havoc.app/depiction/crane
+
+Package: com.dx.a-bypass
+Version: 1.5.4
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.dx.a-bypass_1.5.4_iphoneos-arm.deb
+Size: 100652
+MD5sum: 5fecc3840fcddcddbef14ef91dcd8bf8
+Description: Super Jailbreak detecion bypass!
+Icon: https://i.repo.co.kr/images/com.rpgfarm.a-bypass-icon-abypass.png.png
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://repo.co.kr/package/com.rpgfarm.a-bypass
