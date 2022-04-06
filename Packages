@@ -477,3 +477,19 @@ Description: edits streams of text using patterns
 Name: sed
 Author: Procursus Team <support@procurs.us>
 Depiction:  https://rangendr123.github.io/dx/depictions/?p=sed
+
+Package: com.foxfort.checkl0ck
+Version: 1.0.0
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends:  mobilesubstrate (>= 0.9.5000), firmware (>= 14.3), com.rpetrich.rocketbootstrap, preferenceloader, com.foxfort.foxforttools (>= 1.2.24)
+Conflicts: me.krit.lockdown, org.mr.lockdown, com.hackyouriphone.lockdown, com.wxhbts.lockdown, com.trappledestek.lockdown, com.34306.lockdown, com.cydiabc.lockdown, apt.cydiakk.lockdown, com.foxfort.vizage, com.longmen06.check4round, com.yourepo.plat-ykor.check4round, me.myclassic.checkl0ck, com.ex.substitute
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.checkl0ck_1.0.0_iphoneos-arm.deb
+Size: 1223672
+MD5sum: 1d09d318434fd269cc362e3ac3cba8d3
+Description: FaceID/TouchID for Checkra1n A11 devices
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/62172d2585978d56d69fe476
+Name: Checkl0ck
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/checkl0ck
