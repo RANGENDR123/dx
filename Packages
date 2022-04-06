@@ -318,3 +318,42 @@ Description: Allow extensions to read the list of installed apps
 Name: AppList
 Author: Ryan Petrich <rpetrich@gmail.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+
+Package: com.rpgfarm.libaptoast
+Version: 1.0
+Section: System
+Maintainer: Baw Appie <pp121324@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpgfarm.libaptoast.deb
+Size: 7066
+MD5sum: b6885d2503f2f35cb17eb13ca7aa6bbb
+Description: Baw Appie's Toast Library
+Name: libAPToast
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.libaptoast
+
+Package: preferenceloader
+Version: 2.2.6
+Section: System
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/preferenceloader_2.2.6.deb
+Size: 36414
+MD5sum: 551c39b9d6d58be5ad82e81a59a1715f
+Description: load preferences in style
+Name: PreferenceLoader
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.10-beta1
+Section: Tweaks
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10_beta1.deb
+Size: 38344 
+MD5sum: b52417e29631c59cdb267379e71e2a69
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Name: RocketBootstrap
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
