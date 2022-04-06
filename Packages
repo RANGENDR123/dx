@@ -90,15 +90,15 @@ Name: AltDaemon
 Author: Riley Testut <support@altstore.io>
 Depiction: https://chariz.com/get/altdaemon
 
-Package: com.dx.guatemalaflag
+Package: com.carloztech.guatemalaflag
 Version: 1.0
 Section: Addons (Zeppelin)
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
 Depends: firmware (>= 9.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dx.guatemalaflag_1.0_iphoneos-arm.deb
-Size: 9004
-MD5sum: 619fba715408ece626addb6791f3a67b
+Filename: ./debs/com.carloztech.guatemalaflag_1.0_iphoneos-arm.deb
+Size: 10732
+MD5sum: 2c5a3d3bbb671d06dd1afbc5b1d5c96c
 Description: This is a beautiful Guatemala flag icon Pack for Zeppelin
 Name: Guatemalaflag for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail.com>
@@ -164,15 +164,15 @@ Name: Zebra
 Author: Zebra Team <team@getzbra.com>
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
 
-Package: com.dx.smarterlpm
+Package: com.smkoin1337.smarterlpm
 Version: 1.0.9
 Section: Tweaks
 Maintainer: smokin1337 <smokin1337@gmail.com>
 Depends: firmware (>= 13.0), mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm
-Filename: ./debs/com.dx.smarterlpm_1.0.9_iphoneos-arm.deb
-Size: 55980
-MD5sum: 1ae4405ba78aa38740ca3ba8ad5a6c67
+Filename: ./debs/com.smokin1337.smarterlpm_1.0.9_iphoneos-arm.deb
+Size: 55654
+MD5sum: afcc1b5eb1b485c24674b104692f5f17
 Description: A smarter low power mode !!
 Icon: https://havoc.app/media/61f88b68ca54d59904e3c82c
 Name: SmarterLPM
