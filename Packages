@@ -385,3 +385,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: A-Shields
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-shields
+
+Package: com.opa334.choicy
+Version: 1.4.1
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/choicy_1.4.1.deb
+Size: 156462
+MD5sum: 201ae32a702c2dbf059cb770cc97351b
+Description: Advanced Tweak Contiguration!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.choicy.png
+Name: Choicy
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp

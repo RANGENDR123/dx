@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.4.1</version>
+		<change>Fix search bar issues on iOS 11-12</change>
+	</changes>
+</changelog>
