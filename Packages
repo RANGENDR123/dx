@@ -47,7 +47,7 @@ Package: com.foxfort.netfence
 Version: 1.2.10
 Section: Tweaks
 Maintainer: foxfortmobile <foxfortmobile@gmail.com>
-Depends: mobilesubstrate (>0 0.9.5000), firmware (>= 13.0), com.dx.rocketbootstrap, com.dx.preferenceloader, com.dx.applist, com.dx.foxforttools (>= 1.2.23)
+Depends: mobilesubstrate (>0 0.9.5000), firmware (>= 13.0), rocketbootstrap, preferenceloader, applist, foxforttools (>= 1.2.23)
 Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.netfence_1.2.10_iphoneos-arm.deb
 Size: 4486594
@@ -58,7 +58,7 @@ Name: NetFence
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/netfence
 
-Package: me.dx.libhookersupport
+Package: me.lau.libhookersupport
 Version: 1.0.0
 Section: System
 Maintainer: DX <cuentasdesechable1@gmail.com>
@@ -66,9 +66,9 @@ Depends: firmware (>= 12), mobilesubstrate
 Conflicts: org.coolstar.libhooker
 Provides: org.coolstar.libhooker
 Architecture: iphoneos-arm
-Filename: ./debs/me.dx.libhookersupport_1.0.0_iphoneos-arm.deb
-Size: 7452
-MD5sum: da60c4f9fe983771162fc1ff5d590cfb
+Filename: ./debs/me.lau.libhookersupport_1.0.0_iphoneos-arm.deb
+Size: 13970
+MD5sum: 45ff62e43be9c2fcf7992022ddd18596
 Description: Compatibility layer to use coolstar tweaks on substrate/substitute based bootstraps
 Icon: https://repo.lauren.sh/assets/me.lau.libhookersupport/icon.png
 Name: libhooker support
@@ -104,60 +104,64 @@ Name: Guatemalaflag for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.guatemalaflag
 
-Package: com.dx.cydia
+Package: cydia
 Version: 1.1.36-2
 Section: Packaging
 Maintainer: Procursus Team <support@procurs.us>
-Depends: firmware (>= 7.0), bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xzutils, zstd
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
+Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xzutils, zstd
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Architecture: iphoneos-arm
-Filename: ./debs/com.dx.cydia_1.1.36-2_iphoneos-arm.deb
-Size: 1240444
-MD5sum: d3df992dd2767226306c6b62f1e4e112
+Filename: ./debs/cydia_1.1.36-2_iphoneos-arm.deb
+Size: 1240728 
+MD5sum: a5d19b0410bd817c62328d0189ad15c8
 Description: graphical iPhone front-end for APT
 Icon: https://cydia.saurik.com/icon@2x/cydia7.png
 Name: Cydia Installer
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: https://cydia.saurik.com/info/cydia/
 
-Package: org.dx.sileo
+Package: org.coolstar.sileo
 Version: 2.3
 Section: Packaging
 Maintainer: Hayden Seay <me@diatr.us>
 Depends: firmware (>= 12.0), firmware (>= 12.2), | org.swift.libswift (>= 5.0), coreutils (>= 8.32-4), dpkg (>= 1.20.0), apt (>= 2.3.0), libzstd1
 Architecture: iphoneos-arm
-Filename: ./debs/org.dx.sileo_2.3_iphoneos-arm.deb
-Size: 1997820
-MD5sum: 34ab42a871778b9b1d32c5ed23c6dff3
+Filename: ./debs/org.coolstar.sileo_2.3_iphoneos-arm.deb
+Size: 1997556
+MD5sum: 8ec089704f0bd944d914ff044fef91a4
 Description: a modern APT package manager frontend
 Icon: https://getsileo.app/img/icon.png
 Name: Sileo
 Author: SIleo Team <getsileoapp@gmail.com>
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
-Package: xyz.dx.smartbattery2
+Package: com.idevicelover.smartbattery2
 Version: 2.1
 Section: Tweaks
 Maintainer: EliasSfeir <esfeir4@gmail.com>
 Depends: firmware (>= 12.0), mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Conflicts: com.idevicelover.smartbattery
 Architecture: iphoneos-arm
-Filename: ./debs/xyz.dx.smartbattery2_2.1k_iphoneos-arm.deb
-Size: 709852 
-MD5sum: cd63077cb2ab718a7b8e8875eff0b634
+Filename: ./debs/xyz.cypwn.smartbattery2_2.1k_iphoneos-arm.deb
+Size: 915150
+MD5sum: 08ceeb4d64ff949249fa1198de11cb6b
 Description: The ultimate tweak to monitor, save and tune your battery
 Icon: https://havoc.app/media/61fc6f3094bb9ecb0d320107
 Name: SmartBattery 2
 Author: EliasFeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/smartbattery2
 
-Package: xyz.dx.zebra
+Package: xyz.willy.zebra
 Version: 1.1.26
 Section: Packaging
 Maintainer: Zebra Team <teamqgetzbra.com>
 Depends: dpkg, uikittools, firmware (>= 9.0),
 Architecture: iphoneos-arm
-Filename: ./debs/xyz.dx.zebra_1.1.26_iphoneos-arm.deb
-Size: 8245792
-MD5sum: 394a9049f05610b5708a5d4e57e372ad
+Filename: ./debs/xyz.willy.zebra_1.1.26_iphoneos-arm.deb
+Size: 8244188 
+MD5sum: e858c52abd05e920b44ac3f25707a1c7
 Description: A Useful Package Manager
 Icon: https://th.bing.com/th/id/R.bae30efdcfa9fb9cec1703646c8f24a7?rik=imWzqrkL7%2bOxsA&pid=ImgRaw&r=0
 Name: Zebra
@@ -179,15 +183,15 @@ Name: SmarterLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://havoc.app/depiction/smarterlpm
 
-Package: com.dx.customplayer
+Package: com.icraze.customplayer
 Version: 1.1.2-1
 Section: Tweaks
 Maintainer: iCraze <icrazeios@protonmail.com>
 Depends: firmware (>= 12.2), org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dx.customplayer_1.1.2-1_iphoneos-arm.deb
-Size: 20328
-MD5sum: ce494c38d3b44b22eecdd0b7d4b1d893
+Filename: ./debs/com.icraze.customplayer_1.1.2-1.deb
+Size: 20176
+MD5sum: 35270822b21654a1af6f346e06472dc3
 Description: Customize Your Media Player!
 Icon: https://havoc.app/media/61f8ad5be40b9eda481119f8
 Name: CustomPlayer
