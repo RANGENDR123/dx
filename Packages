@@ -138,15 +138,15 @@ Author: SIleo Team <getsileoapp@gmail.com>
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: com.idevicelover.smartbattery2
-Version: 2.1
+Version: 2.2
 Section: Tweaks
 Maintainer: EliasSfeir <esfeir4@gmail.com>
 Depends: firmware (>= 12.0), mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
 Conflicts: com.idevicelover.smartbattery
 Architecture: iphoneos-arm
-Filename: ./debs/xyz.cypwn.smartbattery2_2.1k_iphoneos-arm.deb
-Size: 915150
-MD5sum: 08ceeb4d64ff949249fa1198de11cb6b
+Filename: ./debs/xyz.cypwn.smartbattery2_2.2k_iphoneos-arm.deb
+Size: 910848
+MD5sum: 1c79a61f5a10bd359cd3372bdbb03ad9
 Description: The ultimate tweak to monitor, save and tune your battery
 Icon: https://havoc.app/media/61fc6f3094bb9ecb0d320107
 Name: SmartBattery 2
