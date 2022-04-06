@@ -357,3 +357,31 @@ Description: Support library allowing tweaks to communicate with sandboxed proce
 Name: RocketBootstrap
 Author: Ryan Petrich <rpetrich@gmail.com>
 Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+
+Package: com.rpgfarm.a-font
+Version: 1.9.3
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpgfarm.a-font.deb
+Size: 520148
+MD5sum: 7bc06a7cc5f934f97aede3e020ddd2cb
+Description: Change your font!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.a-font-icon-afont.png.png
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-font
+
+Package: com.rpgfarm.a-shields
+Version: 1.6
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.rpgfarm.a-shields.deb
+Size: 52370 
+MD5sum: 8c6eb82002b03032654bb6ac2b753006
+Description: Protect your device
+Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.a-shields-icon-ashields.png.png
+Name: A-Shields
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-shields
