@@ -709,3 +709,48 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: SmartBattery
 Author: elias
 Depiction: https://repo.packix.com/package/com.idevicelover.smartbattery/
+
+Package: com.spark.libsparkcolourpicker
+Version: 1.0.2
+Section: System
+Maintainer: Spark <info@sparkdev.me>
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.2.deb
+Size: 69510
+MD5sum: 3cf4ef3a93ad7ac10ad883e92134d690
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.libsparkcolourpicker
+Name: libsparkcolourpicker
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.libsparkcolourpicker
+
+Package: net.limneos.libbulletin
+Version: 0.1-158
+Section: Development
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/libbulletin_0.1-158.deb
+Size: 34454 
+MD5sum: 035a147ca1dd3f521174a5dd7f99b7e3
+Description: Simple library that displays bulletins
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/net.limneos.libbulletin.png
+Name: libbulletin
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbulletinDp
+
+Package: com.opa334.ccsupport
+Version: 1.3.7
+Section: Tweaks
+Maintainer: opa334 <opa334@protonmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Architecture: iphoneos-arm
+Filename: ./debs/ccsupport_1.3.7.deb
+Size: 57348
+MD5sum: 593e9530de13a0e3037ce5db30779f76
+Description: Support tweak for CC modules!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.ccsupport.png
+Name: CCSupport
+Author: opa334 <opa334@protonmail.com>
+Depiction:https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
