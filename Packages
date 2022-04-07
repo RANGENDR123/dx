@@ -753,4 +753,21 @@ Description: Support tweak for CC modules!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.ccsupport.png
 Name: CCSupport
 Author: opa334 <opa334@protonmail.com>
-Depiction:https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+
+Package: com.spark.snowboard
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/1.4.20_Beta4.deb
+Size: 1591782 
+MD5sum: 1fb582d7e8e2f3093cc0e02b66bb7b07
+Description: Snowboard theming engine
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard
