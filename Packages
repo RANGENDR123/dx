@@ -861,3 +861,36 @@ Description: Swift runtime for iOS
 Name: libswift (stable)
 Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
 SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.swift.libswift
+
+Package: com.anemonetheming.anemone3
+Version: 3.0~beta24
+Section: Tweaks
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Depends: firmware (>=11.0), org.coolstar.libhooker, firmware (>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Architecture: iphoneos-arm
+Filename: ./debs/com.anemonetheming.anemone3_3.0_beta24_iphoneos-arm.deb
+Size: 806104
+MD5sum: 5a6ecb1246370c94092b276cb339d3d9
+Description: An awesome theme manager!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev/depictions/icons/anemone3.png
+Name: Anemone 3
+Author: AnemoneTeam <anemonetheming@gmail.com>
+SileoDepiction: https://repo.theodyssey.dev/depictions/json/anemone3.json
+
+Package: com.anemonetheming.anemone3-extsb
+Version: 3.0~beta14
+Section: Tweaks
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Depends: firmware (>=11.0), org.coolstar.libhooker, com.anemonetheming.anemone3 (>=3.0~beta16)
+Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
+Architecture: iphoneos-arm
+Filename: ./debs/com.anemonetheming.anemone3-extsb_3.0_beta14_iphoneos-arm.deb
+Size: 37064
+MD5sum: df19351f027b9b3cd4e768bbb8f7f043
+Description: An awesome theme manager!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev/depictions/icons/anemone3.png
+Name: Anemone 3
+Author: AnemoneTeam <anemonetheming@gmail.com>
+SileoDepiction: https://repo.theodyssey.dev/depictions/json/anemone3extsb.json
