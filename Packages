@@ -623,6 +623,7 @@ Package: wiki.qaq.chromatic
 Version: 2.1-REL-1647495588
 Section: Applications
 Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
 Architecture: iphoneos-arm
 Filename: ./debs/saily_2.1-REL-1647495588.deb
 Size: 3869806
