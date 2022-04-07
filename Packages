@@ -814,6 +814,20 @@ Size: 27910
 MD5sum: ed48a9058ec68aacaddaa55da04b3538
 Description: Enable 3D touch shortcuts on homescreen for older devices.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.dgh0st.force3dappshortcuts.png
-Name: force3dAppShortcuts
+Name: Force3dAppShortcuts
 Author: DGh0st
 Depiction: https://dgh0st.github.io/Files/?p=com.dgh0st.force3dappshortcuts
+
+Package: com.stevsarm.taffy
+Version: 1.0
+Section: Themes
+Maintainer: stevsarm <steve22sarmiento@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.stevsarm.taffy_1.0.deb
+Size: 22882766
+MD5sum: 9895fffd7bc89659c6c86dae443e2926
+Description: salmon sal the taffy pal
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/6212ee33cf5eac63315f9b92
+Name: Taffy
+Author: stevsarm <steve22sarmiento@gmail.com>
+Depiction: https://havoc.app/depiction/taffy
