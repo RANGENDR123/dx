@@ -648,15 +648,15 @@ Author: John Coates
 Depiction: http://v2.getdelta.co/depictions/Flex3beta.html
 
 Package: com.opa334.cranelite
-Version: 1.2.3
+Version: 1.2.4
 Section: Tweaks
 Maintainer: opa334 <opa334@protonmail.com>
-Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1)
 Conflicts: com.opa334.crane, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Architecture: iphoneos-arm
-Filename: ./debs/com.opa334.cranelite_1.2.3_iphoneos-arm.deb
-Size: 282252
-MD5sum: 70545cbd42a5b64e0e561d43613a0d08
+Filename: ./debs/com.opa334.cranelite_1.2.4_iphoneos-arm.deb
+Size: 292144
+MD5sum: 22bde4f95e6ce918a3e5c91c6297425b
 Description: Multiple containers for one application!
 Icon: https://havoc.app/media/61ffad2382c2e1d835f52444
 Name: Crane Lite
@@ -771,3 +771,49 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: SnowBoard
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+
+Package: com.xandesign.felicitypro
+Version: 4.0
+Section: Themes
+Maintainer: XerusDesign <xerusxan@gmail.com>
+Depends: com.spark.snowboard | com.anemonetheming.anemone3
+Replaces: com.twickd.xerusdesign.felicity-pro
+Architecture: iphoneos-arm
+Filename: ./debs/com.xandesign.felicitypro_4.0_iphoneos-arm.deb
+Size: 22810574
+MD5sum: 4a00a494e6f9d58faf611a41fdfa4b0e
+Description: Felicity, but Pro. 
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/felicity-pro/icon@3x.png
+Name: Felicity Pro
+Author: XerusDesign <xerusxan@gmail.com>
+Depiction: https://chariz.com/get/felicity-pro
+
+Package: com.ryannair05.peekable
+Version: 13.0.0
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/5e49636832ff8d001b49895b.deb
+Size: 34248
+MD5sum: 024b46f75cc9e546cce0926bebd1053b
+Description: 3D Touch on Non-3D-Touch Devices
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d868829c1fc16001af33b98/icon/download?size=medium&hash=5d868829c1fc16001af33b9d
+Name: Peekable
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://repo.packix.com/package/com.ryannair05.peekable/
+
+Package: com.dgh0st.force3dappshortcuts
+Version: 0.0.8
+Section: Tweaks
+Maintainer: DGh0st
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dgh0st.force3dappshortcuts_0.0.8_iphoneos-arm.deb
+Size: 27910
+MD5sum: ed48a9058ec68aacaddaa55da04b3538
+Description: Enable 3D touch shortcuts on homescreen for older devices.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.dgh0st.force3dappshortcuts.png
+Name: force3dAppShortcuts
+Author: DGh0st
+Depiction: https://dgh0st.github.io/Files/?p=com.dgh0st.force3dappshortcuts

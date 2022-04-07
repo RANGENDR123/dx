@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>13.0.0</version>
+		<change>iOS 13 Support for the SpringBoard, Fix peeking not working properly in some apps</change>
+	</changes>
+</changelog>
