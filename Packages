@@ -694,3 +694,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: Slices 3
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.slices3
+
+Package: com.idevicelover.smartbattery
+Version: 3.5
+Section: Tweaks
+Maintainer: elias 
+Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.idevicelover.smartbattery_3.5_iphoneos-arm.deb
+Size: 598444
+MD5sum: b9e10e2935f73f61b1744b2dff1433e8
+Description: The ultimate tweak to monitor and save your battery
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/download?size=medium&hash=5d81eb2712954e001a518c91
+Name: SmartBattery
+Author: elias
+Depiction: https://repo.packix.com/package/com.idevicelover.smartbattery/
