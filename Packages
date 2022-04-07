@@ -832,3 +832,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621
 Name: Taffy
 Author: stevsarm <steve22sarmiento@gmail.com>
 Depiction: https://havoc.app/depiction/taffy
+
+Package: me.nepeta.selector
+Version: 0.1.4
+Section: Tweaks
+Maintainer: Nepeta & BawAppie <pp121324@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.nepeta.selector.deb
+Size: 32100
+MD5sum: f78d2f4ed4f26bfe6bb89e4a702c1164
+Description: Select text to search or translate
+Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/me.nepeta.selector-icon-icon@2x.png.png
+Name: Selector
+Author: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Depiction: https://repo.co.kr/depictions/me.nepeta.selector
