@@ -845,5 +845,19 @@ MD5sum: f78d2f4ed4f26bfe6bb89e4a702c1164
 Description: Select text to search or translate
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/me.nepeta.selector-icon-icon@2x.png.png
 Name: Selector
-Author: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Author: Nepeta & BawAppie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/me.nepeta.selector
+
+Package: org.swift.libswift
+Version: 5.0-electra2
+Section: Development
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/org.swift.libswift_5.0-electra2_iphoneos-arm.deb
+Size: 23330860
+MD5sum: 41d4fb6b08e22467836a200d6bf8db9c
+Description: Swift runtime for iOS
+Name: libswift (stable)
+Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.swift.libswift
