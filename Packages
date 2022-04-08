@@ -924,3 +924,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: Gladient
 Author: Ghani Pradita
 Depiction: https://repo.packix.com/package/com.ghanipradita.gladient/
+
+Package: com.geosn0w.iSecureOS
+Version: 1.24
+Section: Utilities
+Maintainer: GeoSn0w (@FCE365)
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.geosn0w.iSecureOS.deb
+Size: 1578832
+MD5sum: 97adede4d0ad54d728e4ea050cbb7b79
+Description: A security application for Jailbroken iOS Devices, created by GeoSn0w (@FCE365).
+Icon: https://pbs.twimg.com/profile_banners/1373432189526900741/1630837950/600x200
+Name: iSecureOS
+Author: GeoSn0w (@FCE365)
+Depiction: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.html

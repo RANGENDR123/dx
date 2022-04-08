@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.24</version>
+		<change>Fixes a bug on Unc0ver where uicache fails.</change>
+	</changes>
+</changelog>
