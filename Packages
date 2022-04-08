@@ -909,3 +909,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: Vesta
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.vesta
+
+Package: com.ghanipradita.gladient
+Version: 1.3
+Section: Themes
+Maintainer: Ghani Pradita
+Depends: firmware (>= 10.0), com.anemonetheming.anemone | com.spark.snowboard | net.dodtweaks.ithemer
+Architecture: iphoneos-arm
+Filename: ./debs/com.ghanipradita.gladient_1.3_iphoneos-arm.deb
+Size: 29186470
+MD5sum: 4d43cc99baba8382e79b16ab2a3f487b
+Description: A theme with eye pleasing gradient colors
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d0198360dd69d0013bd6b02/icon/download?size=medium&hash=5d229f09f01adb0014b2915c
+Name: Gladient
+Author: Ghani Pradita
+Depiction: https://repo.packix.com/package/com.ghanipradita.gladient/
