@@ -894,3 +894,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev
 Name: Anemone 3 SpringBoard Extension Pack
 Author: AnemoneTeam <anemonetheming@gmail.com>
 SileoDepiction: https://repo.theodyssey.dev/depictions/json/anemone3extsb.json
+
+Package: com.spark.vesta
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/1.1.1.deb
+Size: 275122 
+MD5sum: 9a7e7f00edb23d141e699df90dd17067
+Description: App Drawer
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.vesta
+Name: Vesta
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.vesta
