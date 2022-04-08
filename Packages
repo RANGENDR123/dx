@@ -514,7 +514,7 @@ Package: com.foxfort.libfoxfortutils
 Version: 1.2.4
 Section: Development
 Maintainer: foxfortmobile <foxfortmobile@gmail.com>
-Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6
+Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
 Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils
 Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.libfoxfortutils_1.2.4_iphoneos-arm.deb
