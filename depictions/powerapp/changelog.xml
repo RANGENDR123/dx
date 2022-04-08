@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>6.0.1</version>
+		<change>Added latest devices to device list, Fixed Settings text being cut off on small screen devices, Fixed icon remaining on homescreen after uninstall, Moved to Chariz Repo</change>
+	</changes>
+</changelog>

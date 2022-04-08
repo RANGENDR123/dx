@@ -939,3 +939,19 @@ Icon: https://twitter.com/iSecureOS/photo
 Name: iSecureOS
 Author: GeoSn0w (@FCE365)
 Depiction: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.html
+
+Package: com.dave1482.powerapp
+Version: 6.0.1
+Section: Utilities
+Maintainer: dave1482 <dave1482@dave1482.com>
+Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils, bash
+Conflicts: com.dave1482.powerappbeta
+Architecture: iphoneos-arm
+Filename: ./debs/com.dave1482.powerapp_6.0.1_iphoneos-arm.deb
+Size: 333332
+MD5sum: a530dd5dafa66e8eaa19243601eb9919
+Description: Reboot, Shutdown, Respring, go into Safemode
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/powerapp/icon@3x.png
+Name: PowerApp 
+Author: dave1482 <dave1482@dave1482.com>
+Depiction: https://chariz.com/get/powerapp
