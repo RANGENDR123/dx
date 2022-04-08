@@ -1,6 +1,6 @@
 <package>
 	<id>com.anemonetheming.anemone3-extsb</id>
-	<name>Anemone 3 Springboard Extension Pack</name>
+	<name>Anemone 3 SpringBoard Extension Pack</name>
 	<version>3.0~beta14</version>
 	<compatibility>
 		<firmware>
@@ -12,8 +12,8 @@
 	</dependencies>
 	<shortDescription>An awesome theme manager!.</shortDescription>
 	<descriptionlist>
-		<description>Anemone 3 Springboard Extension Pack 3.0~beta14,   compatible to iOS 12.2 - iOS 14.3.</description>
-		<description>Anemone 3 Springboard Extension Pack For Jailbreak!.</description>
+		<description>Anemone 3 SpringBoard Extension Pack 3.0~beta14,   compatible to iOS 12.2 - iOS 14.3.</description>
+		<description>Anemone 3 SpringBoard Extension Pack For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
