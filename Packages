@@ -1014,3 +1014,18 @@ Icon: https://repo.packix.com/api/Packages/5afb8749c7abc024d2ea176e/icon/downloa
 Name: SmartLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://repo.packix.com/package/com.smokin1337.smartlpm/
+
+Package: com.anthopak.appaze2
+Version: 1.4.1
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.appaze2_1.4.1_iphoneos-arm.deb
+Size: 832808
+MD5sum: 489eab024540f0aedcfaa38a6afe8224
+Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/appaze2/icon@3x.png
+Name: Appaze 2
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://chariz.com/buy/appaze2
