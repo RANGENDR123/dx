@@ -999,3 +999,17 @@ Description: command-line tool for WiFi operation.
 Name: WifiUtil
 Author: qpiu <qpiu.qpiu@gmail.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifiutilDp
+
+Package: com.smokin1337.smartlpm
+Version: 1.3.0-1
+Section: Tweaks
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Depends: firmware (>= 9.3), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/5b134c475170530012be292a.deb
+Size: 145960
+MD5sum: fdfb47460a8146434c7b981844bbbc4c
+Description: A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging.
+Name: SmartLPM
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://repo.packix.com/package/com.smokin1337.smartlpm/
