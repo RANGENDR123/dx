@@ -1010,6 +1010,7 @@ Filename: ./debs/5b134c475170530012be292a.deb
 Size: 145960
 MD5sum: fdfb47460a8146434c7b981844bbbc4c
 Description: A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging.
+Icon: https://repo.packix.com/api/Packages/5afb8749c7abc024d2ea176e/icon/download?size=medium
 Name: SmartLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://repo.packix.com/package/com.smokin1337.smartlpm/
