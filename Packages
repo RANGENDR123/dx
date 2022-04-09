@@ -955,3 +955,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: PowerApp 
 Author: dave1482 <dave1482@dave1482.com>
 Depiction: https://chariz.com/get/powerapp
+
+Package: com.idevicelover.smartbundle2
+Version: 2.3
+Section: Tweaks
+Maintainer: EliasSfeir <esfeir4@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport, com.cokepokes.libnotifications, org.thebigboss.wifiutil, com.spark.libsparkapplist
+Conflicts: com.idevicelover.smartbundle
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.cypwn.smartbundle2_2.3k_iphoneos-arm.deb
+Size: 1328284
+MD5sum: 364cb0a8bba87b4119962f6479d0275c
+Description: The ultimate tweak combo to save and tune your battery and manage / customize WiFi and mobile data behavior
+Icon: https://havoc.app/media/6207e899a7026fa356186fcf
+Name: SmartBundle 2 
+Author: EliasSfeir <esfeir4@gmail.com>
+Depiction: https://havoc.app/depiction/smartbundle2
