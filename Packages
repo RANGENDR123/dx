@@ -971,3 +971,31 @@ Icon: https://havoc.app/media/6207e899a7026fa356186fcf
 Name: SmartBundle 2 
 Author: EliasSfeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/smartbundle2
+
+Package: com.cokepokes.libnotifications
+Version: 0.3-5
+Section: Development
+Maintainer: CokePokes <cokepokes@gmail.com>
+Depends: firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.cokepokes.libnotifications_0.3-5_iphoneos-arm.deb
+Size: 163032
+MD5sum: 8884275a75ffdd95fca6aa60d4e0ec7d
+Description: App notification library.
+Name: libnotifications
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libnotificationsDp
+
+Package: org.thebigboss.wifiutil
+Version: 0.0.1-98
+Section: Networking
+Maintainer: qpiu <qpiu.qpiu@gmail.com>
+Depends: firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: ./debs/wifiutil_0.0.1-98.deb
+Size: 21024
+MD5sum: f96c7528e2bdef8c0635d0b070aab1d3
+Description: command-line tool for WiFi operation.
+Name: WifiUtil
+Author: qpiu <qpiu.qpiu@gmail.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifiutilDp

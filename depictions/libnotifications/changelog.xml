@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>0.3-5</version>
+		<change>Removed dev certificate causing issues on Odyssey jailbreak</change>
+	</changes>
+</changelog>
