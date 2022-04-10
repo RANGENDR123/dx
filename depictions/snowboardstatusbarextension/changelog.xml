@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.0.12-Beta4</version>
+		<change>Disable shadow in app list view, Disable shadow on app library folders.</change>
+	</changes>
+</changelog>

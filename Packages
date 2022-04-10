@@ -1123,3 +1123,213 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://ceadd.ca/cydia/depi
 Name: BlockYouX
 Author: Ceadd
 Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.blockyoux
+
+Package: com.spark.snowboard.dock
+Version: 1.1.1~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.1.1_Beta4.deb
+Size: 57458
+MD5sum: 15ff8f968f9d0fd0b2f5887e2092b89a
+Description: Dock for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Dock Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.dock
+
+Package: com.spark.snowboard.effects
+Version: 1.1.2~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.1.2_Beta4.deb
+Size: 65688
+MD5sum: eacf278f9b3ca1df786864478dc7c9d2
+Description: Icon Effects for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Icon Effects Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
+
+Package: com.spark.snowboard.statusbar
+Version: 1.0.12-Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.12-Beta4.deb
+Size: 46030
+MD5sum: 785dc9dad2ed84d43c7d6f6c0e01698a
+Description: StatusBar for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard StatusBar Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.statusbar
+
+Package: com.spark.snowboard.ui
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.1.0_Beta4.deb
+Size: 70390
+MD5sum: 97b2cb1fbee8f6343b730b75c0df27df
+Description: UI Extension for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard UI Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.ui
+
+Package: com.spark.snowboard.respringextension
+Version: 1.0.7~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.7_Beta3.deb
+Size: 41728
+MD5sum: 6790e458b85966a05f3bf256da68d337
+Description: Respring icon Extension for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Respring Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.respringextension
+
+Package: com.spark.snowboard.fonts
+Version: 1.0.12~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.12_Beta4.deb
+Size: 21142
+MD5sum: a5941841ae97d4f2fe077a5710f78ca9
+Description: Fonts for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Fonts Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.fonts
+
+Package: com.spark.snowboard.presetextension
+Version: 1.0.21~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.21_Beta4.deb
+Size: 81452
+MD5sum: 2596209b1da8363566d0bf21af7c94c0
+Description: SnowBoard Presets Extension
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Preset Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.presetextension
+
+Package: com.spark.snowboard.sounds
+Version: 0.0.3~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/0.0.3_Beta4.deb
+Size: 23406
+MD5sum: da0eba8282b40271057f4d0f7265c9eb
+Description: Sounds for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Sounds Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.sounds
+
+Package: com.spark.snowboard.masks
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.1.0-Beta4.deb
+Size: 32626
+MD5sum: f1b8dd2c3649760a5fa47d161d7ad57b
+Description: Icon masks for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Icon Masks Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
+
+Package: com.spark.snowboard.pagedots
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.1.0--Beta4.deb
+Size: 36328
+MD5sum: b152c5d34f28448443dbb70ecc5dfe5b
+Description: Page Dots for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Page Dots Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.pagedots
+
+Package: com.spark.snowboard.labels
+Version: 1.1.0~Beta4
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.1.0__Beta4.deb
+Size: 22964
+MD5sum: ab4fc1ba517f4eceda2dc569d211b994
+Description: Labels for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Labels Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.labels
+
+Package: com.spark.snowboard.blur
+Version: 0.0.2~Beta1
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/0.0.2_Beta1.deb
+Size: 32680
+MD5sum: 57e3717fd4c6f66c1b038519dd172507
+Description: Icon blur for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Icon Blur Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.blur
+
+Package: com.spark.snowboard.settingsicons
+Version: 1.0.25~Beta3
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.25_Beta3.deb
+Size: 31196
+MD5sum: 5b125221a4eba4a2e549a4cd86e598ed
+Description: Settings Icons for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Settings Icons Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.settingsicons
+
+Package: com.spark.snowboard.proceduralwallpapers
+Version: 1.0.1~Beta1
+Section: SnowBoard Extensions
+Maintainer: Spark <info@sparkdev.me>
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Architecture: iphoneos-arm
+Filename: ./debs/1.0.1_Beta1.deb
+Size: 28616
+MD5sum: 2a8a0052644a004307de9966808d5469
+Description: Icon proceduralwallpapers for SnowBoard
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
+Name: SnowBoard Procedural Wallpapers Extension
+Author: Spark <info@sparkdev.me>
+Depiction: https://www.sparkdev.me/package/com.spark.snowboard.proceduralwallpapers
