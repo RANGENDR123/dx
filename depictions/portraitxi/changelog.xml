@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>4.1.0</version>
+		<change>Added a work around for A9 devices running ios 14.1+. Portraitxi will produce a flattened portrait image with blurred background on these devices. It is not a full portrait photo which means you cannot edit the portrait/depth effects or use it with Aperturize. Full Portraitxi can only work when apple fix the bug i reported in November 2020 which is in a public api (but pretty sure they have no plans on fixing it since it affects a very small number of users). Unless you plan to edit the taken portraitxi photos, it should not affect you and it will continue to work as the usual Portraitxi. This change is only applicable for A9 users on ios 14.1 and above. It wll not have any impact on other device models.</change>
+	</changes>
+</changelog>

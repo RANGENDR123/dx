@@ -1076,3 +1076,33 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: FacebookDarkMode
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/facebookdarkmod
+
+Package: com.foxfort.aperturize
+Version: 2.2.6
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.aperturize_2.2.6_iphoneos-arm.deb
+Size: 229862
+MD5sum: 3ce526ced0adcccb17a324baae836804
+Description: Adjustable bokeh for portrait mode
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d7d428560770cfb2192f
+Name: Aperturize
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/aperturize
+
+Package: com.foxfort.portraitxi
+Version: 4.1.0
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.portraitxi_4.1.0_iphoneos-arm.deb
+Size: 13225612
+MD5sum: ca26648483a711e5f44b114c3c12ed16
+Description: Single camera portrait mode
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d91128560770cfb2a4d3
+Name: PortraitXI
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/portraitxi
