@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>3.3</version>
+		<change>Fixed user requested issue. Merged private release chain to public repo again. Updated letmeblock (please add poomsmarts repo - https://poomsmart.github.io, yes I agree letmeblock should be on a default repo.. but its not, just add his repo so your not relying on me to offer the latest version.)</change>
+	</changes>
+</changelog>

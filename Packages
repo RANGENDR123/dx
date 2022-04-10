@@ -1106,3 +1106,20 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: PortraitXI
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/portraitxi
+
+Package: com.ceadd.blockyoux
+Version: 3.3
+Section: Ad-Blocker
+Maintainer: Ceadd
+Pre-Depends: dpkg
+Depends: firmware (>= 11.0), firmware (<<15.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock, com.git-anish.mdnsrestart
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ps.letmeblockb
+Architecture: iphoneos-arm
+Filename: ./debs/com.ceadd.blockyoux.deb
+Size: 118742
+MD5sum: 6121376ee67da1118b49a6c46079b554
+Description: The Privacy Ad Blocker.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://ceadd.ca/cydia/depictions/com.ceadd.blockyoux/icon.png
+Name: BlockYouX
+Author: Ceadd
+Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.blockyoux
