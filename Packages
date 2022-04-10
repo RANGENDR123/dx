@@ -387,14 +387,14 @@ Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-shields
 
 Package: com.opa334.choicy
-Version: 1.4.1
+Version: 1.4.1-1
 Section: Tweaks
 Maintainer: opa334 <opa334@protonmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/choicy_1.4.1.deb
-Size: 156462
-MD5sum: 201ae32a702c2dbf059cb770cc97351b
+Filename: ./debs/choicy_1.4.1-1.deb
+Size: 156330 
+MD5sum: 8189101ebbf31385120f6a602253c34a
 Description: Advanced Tweak Contiguration!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.choicy.png
 Name: Choicy

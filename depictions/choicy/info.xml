@@ -1,7 +1,7 @@
 <package>
 	<id>com.opa334.choicy</id>
 	<name>Choicy</name>
-	<version>1.4.1</version>
+	<version>1.4.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>Advanced Tweak Contiguration!.</shortDescription>
 	<descriptionlist>
-		<description>Choicy 1.4.1,   compatible to iOS 10.0 - later.</description>
+		<description>Choicy 1.4.1-1,   compatible to iOS 10.0 - later.</description>
 		<description>Choicy For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
