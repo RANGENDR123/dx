@@ -1046,3 +1046,33 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: Flipswitch
 Author: rpetrich <rpetrich+flipswitch@gmail.com>
 Depiction: https://rpetrich.com/cydia/flipswitch/
+
+Package: com.foxfort.libfoxfortsplash
+Version: 1.1.5
+Section: Development
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.foxfort.libfoxfortutils
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.libfoxfortsplash_1.1.5_iphoneos-arm.deb
+Size: 10610
+MD5sum: 6f7650ba39ca0e6add277608ff9c52c9
+Description: Splash screens library for Foxfort dark mode tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d8fa28560770cfb262d7
+Name: libfoxfortsplash
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/libfoxfortsplas
+
+Package: com.foxfort.facebookdarkmode
+Version: 3.1.2
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), org.thebigboss.libcolorpicker, preferenceloader, com.foxfort.foxforttools (>= 1.1.2), com.foxfort.libfoxfortsplash, com.foxfort.libfoxfortutils (>= 1.1.4)
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.facebookdarkmode_3.1.2.deb
+Size: 209568
+MD5sum: 0e7508012aaec120cf55dddd371a796e
+Description: Dark mode for Facebook
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d65228560770cfb1f49b
+Name: FacebookDarkMode
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/facebookdarkmod
