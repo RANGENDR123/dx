@@ -1333,3 +1333,33 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: SnowBoard Procedural Wallpapers Extension
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.proceduralwallpapers
+
+Package: dev.theos.orion12
+Version: 1.0.0
+Section: Development
+Maintainer: Theos Team <support@theos.dev>
+Depends: firmware (>= 12.2), firmware (<< 14.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/dev.theos.orion12_1.0.0_iphoneos-arm.deb
+Size: 454406
+MD5sum: faafcff2a1229a721fff850077d1d70e
+Description: Runtime for tweaks built using Orion and Swift
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/orion-runtime12/icon@3x.png
+Name: Orion (iOS 12-13)
+Author: Theos Team <support@theos.dev>
+Depiction: https://chariz.com/get/orion-runtime12
+
+Package: dev.theos.orion14
+Version: 1.0.0
+Section: Development
+Maintainer: Theos Team <support@theos.dev>
+Depends: firmware (>= 14.0), firmware (<< 16.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/dev.theos.orion14_1.0.0_iphoneos-arm.deb
+Size: 815260
+MD5sum: abf3d993b38c5dc1c0d9c4f97be4ce46
+Description: Runtime for tweaks built using Orion and Swift
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Name: Orion Runtime (iOS 14)
+Author: Theos Team <support@theos.dev>
+Depiction: https://chariz.com/get/orion-runtime14
