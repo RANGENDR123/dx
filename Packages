@@ -1363,3 +1363,17 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Orion Runtime (iOS 14)
 Author: Theos Team <support@theos.dev>
 Depiction: https://chariz.com/get/orion-runtime14
+
+Package: com.muirey03.libimagepicker
+Version: 1.0.4
+Section: Development
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4.deb
+Size: 16380
+MD5sum: 136e2e43754271d3b24ad0242042a419
+Description: A simple library for choosing images in preference bundles.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f9405c01a1cb7a5c41f5e5
+Name: libimagepicker
+Author: Muirey03 <tommy.muir@btinternet.com>
+Depiction: https://havoc.app/depiction/libimagepicker
