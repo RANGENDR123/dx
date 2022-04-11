@@ -1392,3 +1392,19 @@ Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.w
 Name: AppStore++
 Author: CokePokes <cokepokes@gmail.com>
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+
+Package: com.cameronkatri.quickactions
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Cameron Katri <me+quickactions@cameronkatri.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Filename: ./debs/com.cameronkatri.quickactions_1.0.0_iphoneos-arm.deb
+Size: 58850
+MD5sum: a3a32ff6cb757fe0af7cee4500a398c1
+Description: Quickly launch apps from the lockscreen.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/quickactions/icon@3x.png
+Name: QuickActions
+Author: Cameron Katri <me+quickactions@cameronkatri.com>
+Depiction: https://chariz.com/get/quickactions
