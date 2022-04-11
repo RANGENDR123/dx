@@ -1424,3 +1424,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: RealCC
 Author: Jake James <jakeashacks@gmail.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
+
+Package: prasa.plusfi
+Version: 2.44
+Section: Tweaks
+Maintainer: Prasa Dev 
+Depends: mobilesubstrate, com.muirey03.libmryipc
+Architecture: iphoneos-arm
+Filename: ./debs/prasa.plusfi_2.44_iphoneos-arm.deb
+Size: 1083402
+Installed-Size: 2876
+MD5sum: 450e11a6b66b8fbfc45469bddb41ad5b
+Description: All-in-one tweak for Instagram
+Icon: https://api.ios-repo-updates.com/image.php?url=https://i.postimg.cc/Gm02x07F/Logo.png
+Name: Plus for Instagram
+Author: Prasa Dev
+Depiction: https://prasa.dev/repo/depictions/web/?p=prasa.plusfi
