@@ -1377,3 +1377,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: libimagepicker
 Author: Muirey03 <tommy.muir@btinternet.com>
 Depiction: https://havoc.app/depiction/libimagepicker
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.18
+Section: Tweaks
+Maintainer: CokePokes <cokepokes@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.18_iphoneos-arm.deb
+Size: 3706724
+MD5sum: a842ea1120891c11710c6b22012d1e1e
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Name: AppStore++
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
