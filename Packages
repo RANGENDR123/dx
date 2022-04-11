@@ -1408,3 +1408,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: QuickActions
 Author: Cameron Katri <me+quickactions@cameronkatri.com>
 Depiction: https://chariz.com/get/quickactions
+
+Package: com.jakeashacks.realcc
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Jake James <jakeashacks@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/realcc_1.0.2.deb
+Size: 4186
+Installed-Size: 102
+MD5sum: 4cd08f43cce7af370fda8e60a86e3561
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.jakeashacks.realcc.png
+Name: RealCC
+Author: Jake James <jakeashacks@gmail.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=realccDp
