@@ -1485,6 +1485,7 @@ Size: 231702
 Installed-Size: 2112
 MD5sum: 0d00c26ef0bbf0d318436c4cd36608eb
 Description: iThemer is a simple, yet powerful theme engine that allows you to theme most of your device.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cef434d39ba05001b7785c8/icon/download?size=medium&hash=5e391ac5cf7110001ac6f6d3
 Name: iThemer
 Author: DODGraphics <dodgraphics.1010@gmail.com>
 Depiction: https://repo.packix.com/package/net.dodtweaks.ithemer/
