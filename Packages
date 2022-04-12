@@ -1440,3 +1440,34 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.postimg.cc/Gm02x0
 Name: Plus for Instagram
 Author: Prasa Dev
 Depiction: https://prasa.dev/repo/depictions/web/?p=prasa.plusfi
+
+Package: org.hahalosah.nofreeapplimit
+Version: 0.1
+Section: Tweaks
+Maintainer: HAHALOSAH
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/org.hahalosah.nofreeapplimit_0.1_iphoneos-arm.deb
+Size: 4724
+Installed-Size: 216
+MD5sum: e0acccfb07fa8b0acf3470c0dafd9a1f
+Description: Removes the 3 app limit for free developer accounts
+Name: NoFreeAppLimit
+Author: HAHALOSAH
+Depiction: https://havoc.app/depiction/nofreeapplimit
+
+Package: com.tigisoftware.filza
+Version: 3.9.0-2
+Section: Utilities
+Maintainer: TIGI Software
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm
+Filename: ./debs/com.tigisoftware.filza_3.9.0-2_iphoneos-arm.deb
+Size: 13114258
+Installed-Size: 32244
+MD5sum: a5ebbdc74129206764655f511f1b29d7
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Name: Filza File Manager
+Author: TIGI Software
+Depiction: https://rangendr123.github.io/dx/depictions/?p=com.tigisoftware.filza
