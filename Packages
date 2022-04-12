@@ -1471,3 +1471,20 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Name: Filza File Manager
 Author: TIGI Software
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.tigisoftware.filza
+
+Package: net.dodtweaks.ithemer
+Version: 2.0.0-3
+Section: Tweaks
+Maintainer: DODGraphics <dodgraphics.1010@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: ./debs/ithemer.deb
+Size: 231702
+Installed-Size: 2112
+MD5sum: 0d00c26ef0bbf0d318436c4cd36608eb
+Description: iThemer is a simple, yet powerful theme engine that allows you to theme most of your device.
+Name: iThemer
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Depiction: https://repo.packix.com/package/net.dodtweaks.ithemer/
