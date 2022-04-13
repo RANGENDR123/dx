@@ -1506,3 +1506,20 @@ Icon: https://havoc.app/media/61fc6f0394bb9ecb0d31f0f1
 Name: SmartNotifications 2
 Author: EliasFeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/sn2
+
+Package: com.mpg13.flashback
+Version: 4.1
+Section: Utilities
+Maintainer: MPG13 & 23 Aaron <support@23aaron.com>
+Depends: mobilesubstrate, firmware (>= 12.0) | com.chpwn.iconsupport, firmware (<< 12.0) | com.ichitaso.iconanus,ldid
+Conflicts: com.mpg13.FlashBackfree
+Architecture: iphoneos-arm
+Filename: ./debs/com.mpg13.flashback_4.1_iphoneos-arm.deb
+Size: 2068844
+Installed-Size: 4540
+MD5sum: b5352fd863aed815865a96bf1950e620
+Description: Backup your style in style.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/flashback/icon@3x.png
+Name: FlashBack
+Author: MPG13 & 23 Aaron <support@23aaron.com>
+Depiction: https://chariz.com/get/flashback
