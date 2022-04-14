@@ -1571,3 +1571,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: SignalReborn
 Author: Amy While <support@anamy.gay>
 Depiction: https://chariz.com/get/signal
+
+Package: com.alphastream.linearforjuice
+Version: 1.2
+Section: Themes
+Maintainer: Alpha_Stream 
+Depends: com.alphastream.linearforsb (>= 1.4.1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.alphastream.linearforjuice_1.2_iphoneos-arm.deb
+Size: 738
+Installed-Size: 0
+MD5sum: 8ade268168d8491cbe6688cfb93e7e70
+Description: Transitional package for Linear for Status Bar
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/linear-for-juice/icon@3x.png
+Name: Linear for Juice (obsolete package)
+Author: Alpha_Stream
+Depiction: https://chariz.com/get/linear-for-juice
