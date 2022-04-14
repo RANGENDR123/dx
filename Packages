@@ -1620,3 +1620,21 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Goji
 Author: gabehern <hello@gabehern.com>
 Depiction: https://chariz.com/get/goji
+
+Package: me.alfhaily.cercube
+Version: 5.3.9
+Section: Tweaks
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Filename: ./debs/me.alfhaily.cercube_5.3.9_iphoneos-arm.deb
+Size: 3682484
+Installed-Size: 14704
+MD5sum: f3b9e7a27f86cbb54d7067f2ea30fd9b
+Description: Download YouTube videos and more! 
+Icon: https://api.ios-repo-updates.com/image.php?url=https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Name: Cercube for YouTube
+Author: Majd Alfhaily 
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
