@@ -1540,7 +1540,7 @@ Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/get/libnet9
 
 Package: arpoison
-Version: 0.7-¿1
+Version: 0.7-1
 Section: System
 Maintainer: MidnightChips <midnightchips@gmail.com>
 Depends: firmware (>= 14.0)
@@ -1553,3 +1553,21 @@ Description: Generates user-defined ARP packets
 Name: arpoison
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/get/arpoison
+
+Package: com.amywhile.signalreborn
+Version: 2.2.1-2
+Section: Applications
+Maintainer: Amy While <support@anamy.gay>
+Depends: firmware (>= 12.2) | org.swift.libswift
+Conflicts: com.charliewhile.signalreborn
+Replaces: com.charliewhile.signalreborn
+Architecture: iphoneos-arm
+Filename: ./debs/com.amywhile.signalreborn_2.2.1-2_iphoneos-arm.deb
+Size: 614258
+Installed-Size: 1536
+MD5sum: b8c0bc42bc67ec6fcaff32e333928f3d
+Description: Visualise your nearby cell towers
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/signal/icon@3x.png
+Name: SignalReborn
+Author: Amy While <support@anamy.gay>
+Depiction: https://chariz.com/get/signal
