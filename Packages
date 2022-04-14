@@ -1587,3 +1587,35 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Linear for Juice (obsolete package)
 Author: Alpha_Stream
 Depiction: https://chariz.com/get/linear-for-juice
+
+Package: com.alphastream.linearforsb
+Version: 1.4.1
+Section: Themes
+Maintainer: Alpha_Stream 
+Depends: com.spark.snowboard, com.spark.snowboard.statusbar, firmware (>= 12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.alphastream.linearforjuice_1.2_iphoneos-arm.deb
+Size: 215032
+Installed-Size: 688
+MD5sum: 7cb83e1d10da57bc591dcee730c97c32
+Description: Status bar icons but in a form of lines.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/linear-for-juice/icon@3x.png
+Name: Linear for Status Bar
+Author: Alpha_Stream
+Depiction: https://chariz.com/get/linear
+
+Package: com.gabehern.goji
+Version: 2.1.2
+Section: Themes
+Maintainer: gabehern <hello@gabehern.com>
+Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.gabehern.goji_2.1.2_iphoneos-arm.deb
+Size: 2815022 
+Installed-Size: 4620
+MD5sum: 865acb51fe9ff64f5f85a7137fe7ad1b
+Description: The classic Goji experience. 
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/goji/icon@3x.png
+Name: Goji
+Author: gabehern <hello@gabehern.com>
+Depiction: https://chariz.com/get/goji
