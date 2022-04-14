@@ -1523,3 +1523,33 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: FlashBack
 Author: MPG13 & 23 Aaron <support@23aaron.com>
 Depiction: https://chariz.com/get/flashback
+
+Package: libnet9
+Version: 1.2-1
+Section: System
+Maintainer: MidnightChips <midnightchips@gmail.com>
+Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/libnet9_1.2-1_iphoneos-arm.deb
+Size: 30120
+Installed-Size: 140
+MD5sum: a76cb7694e8764334eb56049ff57086f
+Description: library for the construction and handling of network packets
+Name: libnet9
+Author: MidnightChips <midnightchips@gmail.com>
+Depiction: https://chariz.com/get/libnet9
+
+Package: arpoison
+Version: 0.7-¿1
+Section: System
+Maintainer: MidnightChips <midnightchips@gmail.com>
+Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/arpoison_0.7-1_iphoneos-arm.deb
+Size: 9576
+Installed-Size: 88
+MD5sum: ea293263dec317f93806aebb97e4233f
+Description: Generates user-defined ARP packets
+Name: arpoison
+Author: MidnightChips <midnightchips@gmail.com>
+Depiction: https://chariz.com/get/arpoison
