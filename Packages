@@ -1740,3 +1740,35 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: Ventana
 Author: coolstar
 Depiction: https://havoc.app/depiction/ventana
+
+Package: com.cheeco.emotive
+Version: 1.1.5
+Section: Themes
+Maintainer: Cheeco <mlxcheeco@gmail.com>
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: ./debs/com.cheeco.emotive_1.1.5_iphoneos-arm.deb
+Size: 4636748
+Installed-Size: 8400
+MD5sum: 77267772e2d42105bef8f231a9a2f23f
+Description: A Beautiful Vibrant Theme
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/emotive/icon@3x.png
+Name: Emotive
+Author: Cheeco <mlxcheeco@gmail.com>
+Depiction: https://chariz.com/get/emotive
+
+Package: com.ryannair05.cylinder 
+Version: 1.1
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ryannair05.cylinder_1.1_iphoneos-arm.deb
+Size: 226560
+Installed-Size: 1384
+MD5sum: f6cbb0926a91bc188937acd24e36bfde
+Description: Make your icons dance
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Name: Cylinder Reborn
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/cylinder-reborn
