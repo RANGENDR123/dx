@@ -1772,3 +1772,48 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Cylinder Reborn
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/get/cylinder-reborn
+
+Package: com.anthopak.powercuts
+Version: 1.0
+Section: System
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.powercuts.deb
+Size: 323410
+MD5sum: 1a9a835d8a4edadd584f5859652744a6
+Description: A library to supercharge Shortcuts!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
+Name: Powercuts
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercuts.php
+
+Package: com.anthopak.powercutsactionspack
+Version: 1.0
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.powercutsactionspack.deb
+Size: 73866
+MD5sum: 293e54ef87202de7b1af3216041a8c57
+Description: Pack of actions for Powercuts
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
+Name: Powercuts Actions Pack
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactionspack.php
+
+Package: com.anthopak.powercutsactivatoractions
+Version: 1.0
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts, libactivator
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.powercutsactivatoractions.deb
+Size: 12972
+MD5sum: 4eb617b3fb5852ebca22ab99ab132889
+Description: Activator actions for Powercuts
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercutsactivatoractions/icon.png
+Name: Powercuts Activator Actions
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactivatoractions.php
