@@ -1638,3 +1638,20 @@ Name: Cercube for YouTube
 Author: Majd Alfhaily 
 Depiction: https://apt.alfhaily.me/depiction/FDXO5R
 SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+
+Package: me.aspenuwu.zinnia
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Aspen <support@absolucy.moe>
+Depends: firmware (>= 14.0), preferenceloader
+Replaces: me.aspenuwu.zinnia.trial
+Architecture: iphoneos-arm
+Filename: ./debs/me.aspenuwu.zinnia_1.1.5_iphoneos-arm.deb
+Size: 237882
+Installed-Size: 1340
+MD5sum: 638ed32b5eebc6659eeea2acb9f7b88f
+Description: A wonderful neon overhaul for your lock screen!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/zinnia/icon@3x.png
+Name: Zinnia
+Author: Aspen <support@absolucy.moe>
+Depiction: https://chariz.com/get/zinnia
