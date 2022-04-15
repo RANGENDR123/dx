@@ -1723,3 +1723,20 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: WinterBoard
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: https://cydia.saurik.com/info/winterboard/
+
+Package: org.coolstar.ventana-modern
+Version: 1.7.0
+Section: Tweaks
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000) | org.coolstar.libhooker, preferenceloader (>= 2.2.2), org.coolstar.ldid, gzip
+Conflicts: org.coolstar.ventana
+Replaces: org.coolstar.ventana
+Architecture: iphoneos-arm
+Filename: ./debs/org.coolstar.ventana-modern_1.7.0_iphoneos-arm.deb
+Size: 275118
+MD5sum: cb5604e5352323a09da680105893155a
+Description: modern lock screen inspired by Windows 10
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f890a2304ffaa4a52e4e52
+Name: Ventana
+Author: coolstar
+Depiction: https://havoc.app/depiction/ventana
