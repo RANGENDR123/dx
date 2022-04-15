@@ -1817,3 +1817,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/a
 Name: Powercuts Activator Actions
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactivatoractions.php
+
+Package: com.fpt.photomanager12
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Frozen Penguin <penguins_can_fly@live.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.fpt.photomanager12_1.2.5_iphoneos-arm.deb
+Size: 265252
+Installed-Size: 1180
+MD5sum: 4eb9d92b28e035d228a0440c366cd28b
+Description: Add many features to the photos app.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/photomanager/icon@3x.png
+Name: PhotoManager (iOS 12 - 14)
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Depiction: https://chariz.com/get/photomanager
