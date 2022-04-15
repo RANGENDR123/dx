@@ -1655,3 +1655,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Zinnia
 Author: Aspen <support@absolucy.moe>
 Depiction: https://chariz.com/get/zinnia
+
+Package: com.jacobcxdev.libjcx
+Version: 1.1.1
+Section: System
+Maintainer: JacobCXDev <jacobcxdev@gmail.com>
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.jacobcxdev.libjcx_1.1.1_iphoneos-arm.deb
+Size: 34128
+Installed-Size: 292
+MD5sum: e0c003bb5354ebacd739ea2390389fe0
+Description: A library used by JacobCXDev.
+Name: libJCX
+Author: JacobCXDev <jacobcxdev@gmail.com>
+Depiction: https://chariz.com/get/libjcx
