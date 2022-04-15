@@ -670,7 +670,7 @@ Package: ws.hbang.alderis
 Version: 1.1.2
 Section: Development
 Maintainer: HASHBANG Productions <support@hbang.ws>
-Depends:  firmware (>= 12.0) | firmware (>= 12.2) | org.swift.libswift (>= 5.0), ukittools
+Depends: firmware (>= 12.0) | firmware (>= 12.2) | org.swift.libswift (>= 5.0), ukittools
 Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
 Architecture: iphoneos-arm
 Filename: ./debs/ws.hbang.alderis_1.1.2_iphoneos-arm.deb
@@ -1670,3 +1670,19 @@ Description: A library used by JacobCXDev.
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+
+Package: ws.hbang.stopcrashingpls
+Version: 1.0.2
+Section: Tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ws.hbang.stopcrashingpls_1.0.2_iphoneos-arm.deb
+Size: 4090
+Installed-Size: 184
+MD5sum: 01724c2cdc7afb6f3105ae2430e166df
+Description: Workaround for iOS 13 jetsam crash issu
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/stopcrashingpls/icon@3x.png
+Name: StopCrashingPls
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/stopcrashingpls
