@@ -1,0 +1,45 @@
+<package>
+	<id>com.qiop1379.swipeextenderx</id>
+	<name>SwipeExtenderX</name>
+	<version>1.5.3-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!.</shortDescription>
+	<descriptionlist>
+		<description>SwipeExtenderX 1.5.3-1,   compatible to iOS 12.0 - iOS 14.5</description>
+		<description>SwipeExtenderX For Jailbreak!.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

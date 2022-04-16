@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.5.3-1</version>
+		<change>SwipeExtenderX is now free!, Added new action: Show BigBangX (requires tweak), Fixed issue where copying nothing would clear the clipboard, Replaced archaic text view with modern one (fixes insert text bug for RTL languages)</change>
+	</changes>
+</changelog>

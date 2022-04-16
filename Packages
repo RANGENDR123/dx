@@ -1866,3 +1866,19 @@ Description: Centralized gestures, button and shortcut management for iOS
 Name: Activator
 Author: Ryan Petrich <rpetrich@gmail.com>
 Depiction: https://rpetrich.com/cydia/activator/
+
+Package: com.qiop1379.swipeextenderx
+Version: 1.5.3-1
+Section: Tweaks
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Depends: firmware (>= 12.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.qiop1379.swipeextenderx_1.5.3-1_iphoneos-arm.deb
+Size: 109442
+Installed-Size: 624
+MD5sum: b08d3d6acc5a475c3a5407a534da60ee
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Depiction: https://chariz.com/get/swipeextenderx
