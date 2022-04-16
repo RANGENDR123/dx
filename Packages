@@ -1833,3 +1833,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: PhotoManager (iOS 12 - 14)
 Author: Frozen Penguin <penguins_can_fly@live.com>
 Depiction: https://chariz.com/get/photomanager
+
+Package: com.anthopak.addtofolder
+Version: 1.3
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.addtofolder.deb
+Size: 139978
+MD5sum: 97d86cc00b4fefacfda97c56b44f08ee
+Description: Easily move apps to your folders
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
+Name: AddToFolder
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder.php
