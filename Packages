@@ -1848,3 +1848,21 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/a
 Name: AddToFolder
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder.php
+
+Package: libactivator
+Priority: optional
+Version: 1.9.13
+Section: System
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Architecture: iphoneos-arm
+Filename: ./debs/libactivator_1.9.13_iphoneos-arm.deb
+Size: 930776
+Installed-Size: 5060
+MD5sum: 3284dc032c096bc82c0fb4fa465a0386
+Description: Centralized gestures, button and shortcut management for iOS
+Name: Activator
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: https://rpetrich.com/cydia/activator/
