@@ -1915,3 +1915,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Divisé
 Author: Moski <matthewpierson01@gmail.com>
 Depiction: https://chariz.com/get/divise
+
+Package: me.midnightchips.snapback
+Version: 2.0.3
+Section: Utilities
+Maintainer: MidnightChips <midnightchips@gmail.com>
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Architecture: iphoneos-arm
+Filename: ./debs/me.midnightchips.snapback_2.0.3_iphoneos-arm.deb
+Size: 553190
+Installed-Size: 1260
+MD5sum: 53a82a508562f409366dd49f3279e6d2
+Description: iOS Time Machine
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/snapback/icon@3x.png
+Name: SnapBack
+Author: MidnightChips <midnightchips@gmail.com>
+Depiction: https://chariz.com/get/snapback
