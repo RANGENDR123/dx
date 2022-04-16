@@ -1780,8 +1780,8 @@ Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.powercuts.deb
-Size: 323410
-MD5sum: 1a9a835d8a4edadd584f5859652744a6
+Size: 323086
+MD5sum: 1b9e9a77aec626c8994e09a2ba29f52b
 Description: A library to supercharge Shortcuts!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
 Name: Powercuts
