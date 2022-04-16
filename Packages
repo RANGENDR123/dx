@@ -817,7 +817,7 @@ Size: 27910
 MD5sum: ed48a9058ec68aacaddaa55da04b3538
 Description: Enable 3D touch shortcuts on homescreen for older devices.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.dgh0st.force3dappshortcuts.png
-Name: Force3dAppShortcuts
+Name: Force3DAppShortcuts
 Author: DGh0st
 Depiction: https://dgh0st.github.io/Files/?p=com.dgh0st.force3dappshortcuts
 
@@ -1882,3 +1882,36 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: SwipeExtenderX
 Author: qwertyuiop1379 <support@qwertyuiop1379.com>
 Depiction: https://chariz.com/get/swipeextenderx
+
+Package: com.amywhile.aemulotrial
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), ws.hbang.alderis (>= 1.1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.amywhile.aemulotrial_1.1.2_iphoneos-arm.deb
+Size: 397752
+Installed-Size: 1684
+MD5sum: 6024f06d1e087835938bec613b3b5c4c
+Description: NFC Frickery
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
+Name: Aemulo (Trial)
+Author: Amy While <support@anamy.gay>
+Depiction: https://chariz.com/get/aemulo-trial
+
+Package: com.moski.divise
+Version: 1.2.1
+Section: Utilities
+Maintainer: Moski <matthewpierson01@gmail.com>
+Pre-Depends: bash
+Depends: firmware (>= 10.3.0), firmware-sbin, rsync, cy+cpu.arm64, img4tool | firmware (<= 12.0.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.moski.divise_1.2.1_iphoneos-arm.deb
+Size: 2567334
+Installed-Size: 4836
+MD5sum: ab912aafe7f395d8c2aafd2f8e115049
+Description: arm64 Dualboots/Tethered Downgrades on device!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/divise/icon@3x.png
+Name: Divisé
+Author: Moski <matthewpierson01@gmail.com>
+Depiction: https://chariz.com/get/divise
