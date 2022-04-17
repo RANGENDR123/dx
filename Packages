@@ -1992,3 +1992,20 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: Cr4shed
 Author: Muirey03 <tommy.muir@btinternet.com>
 Depiction: https://havoc.app/depiction/cr4shed
+
+Package: ca.kirara.voltage
+Version: 1.6.3
+Section: Tweaks
+Maintainer: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: ./debs/ca.kirara.voltage_1.6.3_iphoneos-arm.deb
+Size: 33750
+Installed-Size: 484
+MD5sum: fe07e7d56dd732c62bbb43be3a428c73
+Description: Suppress banners in apps
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/eyeplugs/icon@3x.png
+Name: Eyeplugs
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Depiction: https://chariz.com/get/eyeplugs
