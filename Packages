@@ -1931,3 +1931,33 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: SnapBack
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/get/snapback
+
+Package: com.kef.rofi
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Kef <theonlykef@gmail.com>
+Depends: mobilesubstrate, ws.hbang.alderis, ws.hbang.common (>= 1.11), applist, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.kef.rofi_1.2.2_iphoneos-arm.deb
+Size: 56132
+Installed-Size: 396
+MD5sum: ad820f0b1c32acf7b6e09e0cd36d11bc
+Description: An app launcher tweak.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/rofi/icon@3x.png
+Name: Rofi
+Author: Kef <theonlykef@gmail.com>
+Depiction: https://chariz.com/get/rofi
+
+Package: com.zachary7829.importcuts
+Version: 1.0
+Section: Tweaks
+Maintainer: zachary7829
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: firmware (>= 15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.zachary7829.importcuts_1.0_iphoneos-arm.deb
+Size: 7688
+MD5sum: 24cbf67f5704a17fe0b96e376ae11cfe
+Description: Import .shortcut files, even when unjailbroken
+Name: Importcuts
+Author: zachary7829
