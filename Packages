@@ -2011,3 +2011,20 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Eyeplugs
 Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
 Depiction: https://chariz.com/get/eyeplugs
+
+
+Package: com.muirey03.powermodule
+Version: 1.3.1
+Section: Tweaks
+Maintainer: Muirey03 <tommy.muir@btinternet.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.muirey03.powermodule_1.3.1.deb
+Size: 73568
+Installed-Size: 652
+MD5sum: 28b582531f2c4ddedcd3feba38d1453d
+Description: Group different utility actions into one control center module (iOS 11 only)
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f940c601a1cb7a5c422dd3
+Name: PowerModule
+Author: Muirey03 <tommy.muir@btinternet.com>
+Depiction: https://havoc.app/depiction/powermodule
