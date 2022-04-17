@@ -306,7 +306,7 @@ Author: Muirey03 <tommy.muir@btinternet.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libmryipcDp
 
 Package: applist
-Version: 1.2.16
+Version: 1.5.16
 Section: System
 Maintainer: Ryan Petrich <rpetrich@gmail.com>
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
@@ -314,6 +314,7 @@ Conflicts: com.a3tweaks.polus (<< 2.0.7)
 Architecture: iphoneos-arm
 Filename: ./debs/applist_1.5.16_iphoneos-arm.deb
 Size: 105098
+Installed-Size: 780
 MD5sum: af1bdc77dd1805c249d416fa96957841
 Description: Allow extensions to read the list of installed apps
 Name: AppList
