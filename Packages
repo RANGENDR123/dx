@@ -582,12 +582,14 @@ Version: 1.6.4
 Section: Tweaks
 Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Tag: compatible_min::ios11.0
 Architecture: iphoneos-arm
 Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.6.4_iphoneos-arm.deb
 Size: 15172
 MD5sum: a8e99db8707e79395ffcbb8510c99ce8
 Description: Bring Back Dislikes On YouTube
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpq
 Name: Return YouTube Dislike
 Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Depiction: https://chariz.com/get/return-youtube-dislike
