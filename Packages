@@ -589,7 +589,7 @@ Size: 15172
 MD5sum: a8e99db8707e79395ffcbb8510c99ce8
 Description: Bring Back Dislikes On YouTube
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
-Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpq
+Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
 Name: Return YouTube Dislike
 Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Depiction: https://chariz.com/get/return-youtube-dislike
@@ -2044,3 +2044,21 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: No2Theft4
 Author: EliasSfeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/no2theft4
+
+Package: com.fpt.pokecall
+Version: 1.4.13
+Tag: compatible_min::ios9.0
+Section: Tweaks
+Maintainer: Frozen Penguin <penguins_can_fly@live.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.fpt.pokecall_1.4.13_iphoneos-arm.deb
+Size: 18772162
+Installed-Size: 32124
+MD5sum: 389db181e3a6936ac82ea4988b91d8d1
+Description: Incoming caller wants to battle!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/pokecall/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/pokecall.jpg
+Name: PokeCall
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Depiction: https://chariz.com/get/pokecall
