@@ -2093,5 +2093,5 @@ Size: 1209474
 Installed-Size: 5660
 MD5sum: 75e20a6949080c6be10b8b8b91215103
 Description: optimize PNGs just like Apple does pincrush is an open, cross-platform alternative to Apple's proprietary PNG mangler, to optimize PNGs for display on iPhoneOS devices.
-Name: pincrush
+Name: dpkg
 Author: Dustin Howett <dustin@howett.net>
