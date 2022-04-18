@@ -2083,7 +2083,7 @@ Priority: required
 Version: 1.21.1
 Section: Packaging
 Homepage: http://wiki.debian.org/Teams/Dpkg
-Maintainer: Dustin Howett <dustin@howett.net>
+Maintainer: Cameron Katri <me@cameronkatri.com>
 Pre-Depends: tar (>= 1.23), libintl8 (>= 0.20)
 Depends: sh, coreutils, diffutils, tar, liblzma5 (>= 5.2.5), libintl8, libzstd1, libmd0, libiosexec1
 Architecture: iphoneos-arm
@@ -2092,6 +2092,5 @@ Filename: ./debs/dpkg_1.21.1_iphoneos-arm.deb
 Size: 1209474
 Installed-Size: 5660
 MD5sum: 75e20a6949080c6be10b8b8b91215103
-Description: optimize PNGs just like Apple does pincrush is an open, cross-platform alternative to Apple's proprietary PNG mangler, to optimize PNGs for display on iPhoneOS devices.
+Description: package maintainance tools from Debian
 Name: dpkg
-Author: Dustin Howett <dustin@howett.net>
