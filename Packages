@@ -2062,3 +2062,18 @@ Header: https://img.chariz.cloud/sileo-banner/pokecall.jpg
 Name: PokeCall
 Author: Frozen Penguin <penguins_can_fly@live.com>
 Depiction: https://chariz.com/get/pokecall
+
+Package: pincrush
+Version: 0.9.2-1
+Tag: purpose::console, role::hacker
+Section: Utilities
+Homepage: http://howett.net/pincrush
+Maintainer: Dustin Howett <dustin@howett.net>
+Architecture: iphoneos-arm
+Filename: ./debs/pincrush_0.9.2-1_iphoneos-arm.deb
+Size: 64440
+Installed-Size: 164
+MD5sum: 6a286af8d1529ab9767e0a478dfad523
+Description: optimize PNGs just like Apple does pincrush is an open, cross-platform alternative to Apple's proprietary PNG mangler, to optimize PNGs for display on iPhoneOS devices.
+Name: pincrush
+Author: Dustin Howett <dustin@howett.net>
