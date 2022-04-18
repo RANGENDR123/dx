@@ -2028,3 +2028,19 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: PowerModule
 Author: Muirey03 <tommy.muir@btinternet.com>
 Depiction: https://havoc.app/depiction/powermodule
+
+Package: com.elias.no2theft4
+Version: 2.0
+Section: Tweaks
+Maintainer: EliasSfeir <esfeir4@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.cypwn.no2theft4_2.0k_iphoneos-arm.deb
+Size: 1302358
+Installed-Size: 2592
+MD5sum: 8753076f292ebf80f2040ff4566d6c7e
+Description: The most complete tweak against pranksters, annoying nosy people and thieves.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61fc6f7894bb9ecb0d321bc0
+Name: No2Theft4
+Author: EliasSfeir <esfeir4@gmail.com>
+Depiction: https://havoc.app/depiction/no2theft4
