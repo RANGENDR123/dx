@@ -2171,3 +2171,18 @@ Installed-Size: 100
 MD5sum: 7638b2df47efec36545228b56cd7afee
 Description: shim for execve w/ shell script support
 Name: libiosexec1
+
+Package: com.ichitaso.otadisabler
+Version: 0.2
+Section: System
+Maintainer: ichitaso
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.ichitaso.otadisabler_0.2_iphoneos-arm.deb
+Size: 27958
+Installed-Size: 200
+MD5sum: 1b8d4a153aeacb9870c984ec71cb9a36
+Description: Delete and disable OTA badge
+Name: OTADisabler
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
