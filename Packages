@@ -2186,3 +2186,20 @@ Description: Delete and disable OTA badge
 Name: OTADisabler
 Author: ichitaso
 Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+
+Package: net.cadoth.otaenabler
+Version: 0.4.1
+Section: System
+Maintainer: nyuszika7h <nyuszika7h@gmail.com>
+Depends: awk | gawk, com.bingner.plutil, file-cmds
+Conflicts: com.apple.memecity, jp.akusio.kernbypass, jp.akusio.kernbypassbeta, jp.akusio.kernbypass-unofficial
+Architecture: iphoneos-arm
+Filename: ./debs/net.cadoth.otaenabler_0.4.1_iphoneos-arm.deb
+Size: 1854
+Installed-Size: 4
+MD5sum: a3c93fa5349c9d4d48cc9ec68733fec0
+Description: Re-enable OTA software updates blocked by various methods
+Name: OTAEnabler
+Author: nyuszika7h <nyuszika7h@gmail.com>
+Depiction: https://repo.cadoth.net/depictions/net.cadoth.otaenabler.html
+SileoDepiction: https://repo.cadoth.net/sileo-depictions/net.cadoth.otaenabler.json

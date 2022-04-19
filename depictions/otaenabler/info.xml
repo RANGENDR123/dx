@@ -1,7 +1,7 @@
 <package>
-	<id>com.ichitaso.otadisabler</id>
-	<name>OTADisabler</name>
-	<version>0.2</version>
+	<id>net.cadoth.otaenabler</id>
+	<name>OTAEnabler</name>
+	<version>0.4.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -12,8 +12,8 @@
 	</dependencies>
 	<shortDescription>Re-enable OTA software updates blocked by various methods.</shortDescription>
 	<descriptionlist>
-		<description>OTADisabler 0.2,   compatible to iOS 9.0 - later.</description>
-		<description>OTADisabler For Jailbreak!.</description>
+		<description>OTAEnabler 0.2,   compatible to iOS 9.0 - later.</description>
+		<description>OTAEnabler For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
