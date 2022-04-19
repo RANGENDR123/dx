@@ -105,7 +105,7 @@ Author: CarlozTech <tutorialeselmago@gmail.com>
 Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.guatemalaflag
 
 Package: cydia
-Prioeity: important
+Priority: important
 Tag: purpose::uikit, role::enduser
 Version: 1.1.36-2
 Section: Packaging
