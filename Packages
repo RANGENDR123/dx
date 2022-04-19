@@ -2206,7 +2206,7 @@ Author: nyuszika7h <nyuszika7h@gmail.com>
 Depiction: https://repo.cadoth.net/depictions/net.cadoth.otaenabler.html
 SileoDepiction: https://repo.cadoth.net/sileo-depictions/net.cadoth.otaenabler.json
 
-Package: net.cadoth.otaenabler
+Package: com.cannathea.afc2d-arm64
 Version: 0.4.1
 Tag;: purpose::daemon, role::enduser
 Section: System
