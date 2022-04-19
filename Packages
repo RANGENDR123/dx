@@ -2142,3 +2142,32 @@ Installed-Size: 1516
 MD5sum: f7e4513e79bba51aa49e943f820c6204
 Description: Debian package development tools This package provides the development tools (including dpkg-source) required to unpack, build and upload Debian source packages.
 Name: dpkg-dev
+
+Package: perl
+Priority: optional
+Version: 5.32.1
+Section: Scripting
+Homepage: http://dev.perl.org/perl5/
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: libiosexec1
+Architecture: iphoneos-arm
+Filename: ./debs/perl_5.32.1_iphoneos-arm.deb
+Size: 8749710
+Installed-Size: 52676
+MD5sum: 093e31789688030ee1be1ecff43e32bd
+Description: Larry Wall's Practical Extraction and Report Language Perl is a highly capable, feature-rich programming language with over 20 years of development. Perl 5 runs on over 100 platforms from portables to mainframes. Perl is suitable for both rapid prototyping and large scale development projects. . Perl 5 supports many programming styles, including procedural, functional, and object-oriented. In addition to this, it is supported by an ever-growing collection of reusable modules which accelerate development. Some of these modules include Web frameworks, database integration, networking protocols, and encryption. Perl provides interfaces to C and C++ for custom extension development.
+Name: perl
+
+Package: libiosexec1
+Priority: required
+Version: 1.0.18~1.2-alpha1
+Section: Libraries
+Homepage: http://github.com/ProcursusTeam/libiosexec
+Maintainer: Hayden Seay <me@diatr.us>
+Architecture: iphoneos-arm
+Filename: ./debs/libiosexec1_1.0.18_1.2-alpha1_iphoneos-arm.deb
+Size: 8868
+Installed-Size: 100
+MD5sum: 7638b2df47efec36545228b56cd7afee
+Description: shim for execve w/ shell script support
+Name: libiosexec1
