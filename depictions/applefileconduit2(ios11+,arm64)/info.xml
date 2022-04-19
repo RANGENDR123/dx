@@ -1,0 +1,45 @@
+<package>
+	<id>com.cannathea.afc2d-arm64</id>
+	<name>Apple File Conduit "2" (iOS 11+, arm64)</name>
+	<version>1.1.6-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.</shortDescription>
+	<descriptionlist>
+		<description>Apple File Conduit "2" (iOS 11+, arm64) 1.1.6-1,   compatible to iOS 13.0 - iOS 14.8</description>
+		<description>Apple File Conduit "2" (iOS 11+, arm64)  For Jailbreak!.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
