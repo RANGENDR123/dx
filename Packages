@@ -2281,3 +2281,34 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: Vaon
 Author: atar13 <atar13dev@gmail.com>
 Depiction: https://repo.packix.com/package/com.atar13.vaon/
+
+Package: com.boo.scribble
+Version: 2.1
+Section: Tweaks
+Maintainer: Boo <boo@boodev.me>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.2), com.boo.libscribble, com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Filename: ./debs/scribble.deb
+Size: 43498
+Installed-Size: 444
+MD5sum: f3e5c30751ffdb372d073a7d0eeb14bd
+Description: Unlock your device with a Scribble!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cc5f4121fd91c001c731a82/icon/download?size=medium&hash=5ccc7510945bff00112badc4
+Name: Scribble
+Author: Boo <boo@boodev.me>
+Depiction: https://repo.packix.com/package/com.boo.libscribble/
+
+Package: com.boo.libscribble
+Version: 1.0.0
+Section: Development
+Maintainer: Boo <boo@boodev.me>
+Architecture: iphoneos-arm
+Filename: ./debs/libscribble.deb
+Size: 10382
+Installed-Size: 168
+MD5sum: c3dda79824b428c5aebcb83263a84e02
+Description: Scribble Gesture Library
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/60579a803f4976001a39ae1b/icon/download?size=medium&hash=2
+Name: libScribble
+Author: Boo <boo@boodev.me>
+Depiction: https://repo.packix.com/package/com.boo.libscribble/
