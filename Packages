@@ -2312,3 +2312,17 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: libScribble
 Author: Boo <boo@boodev.me>
 Depiction: https://repo.packix.com/package/com.boo.libscribble/
+
+Package: com.julian.TheBlues
+Version: 2.5
+Section: Themes
+Maintainer: @a7lafe <derejulian@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/theblues.deb
+Size: 7455920
+MD5sum: d7c05b0ee56875f0ecd5a2af198fa7fe
+Description: black blue icons
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d23336e73f31e00141ab466/icon/download?size=medium&hash=5d23336e73f31e00141ab46b
+Name: TheBlues
+Author: @a7lafe <derejulian@gmail.com>
+Depiction: https://repo.packix.com/package/com.julian.TheBlues/
