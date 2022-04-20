@@ -2264,3 +2264,20 @@ Header: https://img.chariz.cloud/sileo-banner/legizmo-jupiter.jpg
 Name: Legizmo Jupiter
 Author: lunotech11 <support@legizmo.app>
 Depiction: https://chariz.com/buy/legizmo-jupiter
+
+
+Package: com.atar13.vaon
+Version: 1.0.9
+Section: Tweaks
+Maintainer: atar13 <atar13dev@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/vaon.deb
+Size: 70774
+Installed-Size: 572
+MD5sum: 5347a8f605bd3f25c33ddc151b4c9ddf
+Description: Bluetooth battery information of connected/disconnected devices in the app switcher.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/61d3f4503e2175001af94398/icon/download?size=medium&hash=61d3f4503e2175001af9439e
+Name: Vaon
+Author: atar13 <atar13dev@gmail.com>
+Depiction: https://repo.packix.com/package/com.atar13.vaon/
