@@ -2208,7 +2208,7 @@ SileoDepiction: https://repo.cadoth.net/sileo-depictions/net.cadoth.otaenabler.j
 
 Package: com.cannathea.afc2d-arm64
 Version: 0.4.1
-Tag;: purpose::daemon, role::enduser
+Tag: purpose::daemon, role::enduser
 Section: System
 Homepage: https://cannathea.com/
 Maintainer: Cannathea <csupport@cannathea.com>
@@ -2226,3 +2226,41 @@ Description: Allow full file-system access over USB for all arm64 devices, espec
 Name: Apple File Conduit "2" (iOS 11+, arm64)
 Author: saurik, Cannathea <csupport@cannathea>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+
+Package: lunotech11.legizmo.grace
+Version: 2.3.1-2
+Section: Tweaks
+Maintainer: lunotech11 <support@legizmo.app>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, gsc.telephony
+Conflicts: lunotech11.legizmo
+Replaces: lunotech11.legizmo
+Architecture: iphoneos-arm
+Filename: ./debs/apt.cydiakk.legizmo.grace_2.3.1-2_iphoneos-arm.deb
+Size: 336430
+Installed-Size: 2240
+MD5sum: 720968e8ac5a0e2e9048e85b9ba68c08
+Description: Enables pairing, connecting and updating to unsupported versions of watchOS
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/legizmo-grace/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/legizmo-grace.jpg
+Name: Legizmo Grace
+Author: lunotech11 <support@legizmo.app>
+Depiction: https://chariz.com/buy/legizmo-grace
+
+Package: lunotech11.legizmo.jupiter
+Version: 3.2
+Section: Tweaks
+Maintainer: lunotech11 <support@legizmo.app>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, gsc.telephony
+Conflicts: lunotech11.legizmo
+Replaces: lunotech11.legizmo
+Architecture: iphoneos-arm
+Filename: ./debs/apt.cydiakk.legizmo.jupiter_3.2_iphoneos-arm.deb
+Size: 410674
+Installed-Size: 3608
+MD5sum: f048cdddf9e5017e4ca51b5c08d17a76
+Description: Enables pairing, connecting and updating to unsupported versions of watchOS
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/legizmo-grace/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/legizmo-jupiter.jpg
+Name: Legizmo Jupiter
+Author: lunotech11 <support@legizmo.app>
+Depiction: https://chariz.com/buy/legizmo-jupiter

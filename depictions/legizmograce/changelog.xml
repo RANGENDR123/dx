@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>2.3.1-2</version>
+		<change>Fixes an issue where installing Legizmo Pairing Support would fail.</change>
+	</changes>
+</changelog>
