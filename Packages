@@ -2326,3 +2326,18 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: TheBlues
 Author: @a7lafe <derejulian@gmail.com>
 Depiction: https://repo.packix.com/package/com.julian.TheBlues/
+
+Package: com.darkt.bigsurbar
+Version: 2.0
+Section: Widgets
+Maintainer: DarkT <errorlocaa@gmail.com>
+Depends: firmware (>= 12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/bigsurbar.deb
+Size: 4008682
+MD5sum: 35b3b2266042687eb302260d00da43f1
+Description: MacOS Big Sur Statusbar
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/6052ad7d6e0f74001a2648ee/icon/download?size=medium&hash=6052b39a0eba20001abba0a9
+Name: BigSurBar
+Author: DarkT <errorlocaa@gmail.com>
+Depiction: https://repo.packix.com/package/com.darkt.bigsurbar/
