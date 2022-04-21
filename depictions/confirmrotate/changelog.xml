@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.2.6</version>
+		<change>Fixed "Show on LS/HS" setting for devices without Springboard rotation, Logic refinement</change>
+	</changes>
+</changelog>

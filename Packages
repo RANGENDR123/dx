@@ -2341,3 +2341,20 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: BigSurBar
 Author: DarkT <errorlocaa@gmail.com>
 Depiction: https://repo.packix.com/package/com.darkt.bigsurbar/
+
+Package: com.cardboardface.confirmrotate
+Version: 1.2.6
+Section: Tweaks
+Maintainer: CardboardFace <cardboardface83@gmail.com>
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.cardboardface.confirmrotate_1.2.6_iphoneos-arm.deb
+Size: 78520
+Installed-Size: 992
+MD5sum: 4813c51d04aa920c406f23698aaab03a
+Description: Ask before rotating!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620c67907669e842d27dad17
+Name: ConfirmRotate
+Author: CardboardFace <cardboardface83@gmail.com>
+Depiction: https://havoc.app/depiction/confirmrotate
