@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>5.1</version>
+		<change>Fixed a crash, Removed some useless code that I left in by mistake when debugging... :P</change>
+	</changes>
+</changelog>

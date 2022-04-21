@@ -2358,3 +2358,20 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620
 Name: ConfirmRotate
 Author: CardboardFace <cardboardface83@gmail.com>
 Depiction: https://havoc.app/depiction/confirmrotate
+
+Package: com.adamseiter.animationsbefastplus
+Version: 5.1
+Section: Tweaks
+Maintainer: eXqusic
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist, firmware (<= 14), com.rpetrich.rocketbootstrap
+Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Architecture: iphoneos-arm
+Filename: ./debs/com.adamseiter.animationsbefastplus_5.1_iphoneos-arm.deb
+Size: 71688
+Installed-Size: 600
+MD5sum: d90f164affc91d532d5f666fb9c274e7
+Description: Speed up animations
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620ca79bc80367a0d8c7535b
+Name: AnimationsBeFastPlus
+Author: eXqusic
+Depiction: https://havoc.app/depiction/essen}
