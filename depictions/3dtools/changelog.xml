@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.0.6</version>
+		<change>Added offload ap for iOS 13, Added show/hide edit homescreen, delete app and share app fo iOS 13</change>
+	</changes>
+</changelog>

@@ -2385,4 +2385,22 @@ Description: Speed up animations
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620ca79bc80367a0d8c7535b
 Name: AnimationsBeFastPlus
 Author: eXqusic
-Depiction: https://havoc.app/depiction/essen}
+Depiction: https://havoc.app/depiction/essen
+
+Package: com.smokin1337.3dtools
+Version: 1.0.6
+Tag: cydia::commercial
+Section: Tweaks
+Maintainer: smokin <smokin1337@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.smokin1337.3dtools_1.0.6_iphoneos-arm.deb
+Size: 1155252
+Installed-Size: 2068
+MD5sum: 3815f2a274f34047cac27aae1b511209
+Description: Add helpfl tools to your 3D touch menu !
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f88b51ca54d59904e3bcb5
+Name: 3DTools
+Author: smokin <smokin1337@gmail.com>
+Depiction: https://havoc.app/depiction/3dtools
+SileoDepiction: https://havoc.app/package/3dtools/depiction.json
