@@ -199,6 +199,7 @@ Icon: https://havoc.app/media/61f8ad5be40b9eda481119f8
 Name: CustomPlayer
 Author: iCraze <icrazeios@protonmail.com>
 Depiction: https://havoc.app/depiction/customplayer
+SileoDepiction: https://havpc.app/package/customplayer/depiction.json
 
 Package: com.opa334.altlist
 Version: 1.0.8
@@ -260,6 +261,7 @@ Icon: https://havoc.app/media/61ffad4e82c2e1d835f525ba
 Name: Crane
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://havoc.app/depiction/crane
+SileoDepiction: https://havoc.app/package/crane/depiction.json
 
 Package: com.rpgfarm.a-bypass
 Version: 1.5.4
@@ -497,6 +499,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621
 Name: Checkl0ck
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/checkl0ck
+SileoDepiction: https://havoc.app/package/checkl0ck/depiction.json
 
 Package: com.foxfort.foxforttools
 Version: 1.2.24
@@ -670,6 +673,7 @@ Icon: https://havoc.app/media/61ffad2382c2e1d835f52444
 Name: Crane Lite
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://havoc.app/depiction/cranelite
+SileoDepiction: https://havoc.app/package/cranelite/depiction.json
 
 Package: ws.hbang.alderis
 Version: 1.1.2
@@ -2364,6 +2368,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620
 Name: ConfirmRotate
 Author: CardboardFace <cardboardface83@gmail.com>
 Depiction: https://havoc.app/depiction/confirmrotate
+SileoDepiction: https://havoc.app/package/confirmrotate/depiction.json
 
 Package: com.adamseiter.animationsbefastplus
 Version: 5.1
