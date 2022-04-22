@@ -74,9 +74,12 @@ Icon: https://repo.lauren.sh/assets/me.lau.libhookersupport/icon.png
 Name: libhooker support
 Author: DX <cuentasdesechable1@gmail.com>
 Depiction: https:/repo.lauren.sh/depiction/web/me.lau.libhookersupport.html
+SileoDepiction: https://repo.lauren.sh/depiction/native/me.lau.libhookersupport.json
+ModernDepiction: https://repo.lauren.sh/depiction/native/me.lau.libhookersupport.json
 
 Package: com.rileytestut.altdaemon
 Version: 1.0.1
+Tag: compatible_min::ios12.2
 Section: System
 Maintainer: Riley Testut <support@altstore.io>
 Depends: firmware (>= 12.2)
@@ -86,9 +89,11 @@ Size: 597754
 MD5sum: 86b026f3f838e0ca193b086898e7152a
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Icon: https://img.chariz.cloud/icon/altdaemon/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/altdaemon.jpg
 Name: AltDaemon
 Author: Riley Testut <support@altstore.io>
 Depiction: https://chariz.com/get/altdaemon
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.rileytestut.altdaemon/depiction.json
 
 Package: com.carloztech.guatemalaflag
 Version: 1.0
@@ -154,6 +159,7 @@ Icon: https://havoc.app/media/61fc6f3094bb9ecb0d320107
 Name: SmartBattery 2
 Author: EliasFeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/smartbattery2
+SileoDepiction: https://havoc.app/package/smartbattery2/depiction.json
 
 Package: xyz.willy.zebra
 Version: 1.1.26
@@ -169,6 +175,7 @@ Icon: https://th.bing.com/th/id/R.bae30efdcfa9fb9cec1703646c8f24a7?rik=imWzqrkL7
 Name: Zebra
 Author: Zebra Team <team@getzbra.com>
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
 Package: com.smokin1337.smarterlpm
 Version: 1.0.9
@@ -184,6 +191,7 @@ Icon: https://havoc.app/media/61f88b68ca54d59904e3c82c
 Name: SmarterLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://havoc.app/depiction/smarterlpm
+SileoDepiction: https://havoc.app/package/smarterlpm/depiction.json
 
 Package: com.icraze.customplayer
 Version: 1.1.2-1
@@ -244,6 +252,7 @@ Icon: https://havoc.app/media/61f8ada5e40b9eda48112f38
 Name: Hestia
 Author: iCraze <icrazeios@protonmail.com>
 Depiction: https://havoc.app/depiction/hestia
+SileoDepiction: https://havoc.app/package/hestia/depiction.json
 
 Package: com.opa334.crane
 Version: 1.2.6
@@ -265,6 +274,7 @@ SileoDepiction: https://havoc.app/package/crane/depiction.json
 
 Package: com.rpgfarm.a-bypass
 Version: 1.5.4
+Tag: purpose::extension
 Section: Tweaks
 Maintainer: Baw Appie <pp121324@gmail.com>
 Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
@@ -277,6 +287,7 @@ Icon: https://i.repo.co.kr/images/com.rpgfarm.a-bypass-icon-abypass.png.png
 Name: A-Bypass
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/package/com.rpgfarm.a-bypass
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.a-bypass
 
 Package: me.apptapp.installer
 Version: 5.0.3-2
@@ -296,6 +307,7 @@ SileoDepiction: https://apptapp.me/repo/installer.json
 
 Package: com.muirey03.libmryipc
 Version: 2.0.1
+Tag: role::developer, purpose::library, cydia::obsolete
 Section: Development
 Maintainer: Muirey03 <tommy.muir@btinternet.com>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
@@ -327,6 +339,7 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
 
 Package: com.rpgfarm.libaptoast
 Version: 1.0
+Tag: purpose::extension
 Section: System
 Maintainer: Baw Appie <pp121324@gmail.com>
 Architecture: iphoneos-arm
@@ -337,6 +350,7 @@ Description: Baw Appie's Toast Library
 Name: libAPToast
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.libaptoast
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.libaptoast
 
 Package: preferenceloader
 Version: 2.2.6
@@ -366,6 +380,7 @@ Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 
 Package: com.rpgfarm.a-font
 Version: 1.9.3
+Tag: purpose::extension
 Section: Tweaks
 Maintainer: Baw Appie <pp121324@gmail.com>
 Architecture: iphoneos-arm
@@ -377,11 +392,14 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-font
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.a-font
 
 Package: com.rpgfarm.a-shields
 Version: 1.6
+Tag: purpose::extension
 Section: Tweaks
 Maintainer: Baw Appie <pp121324@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.6.7)
 Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.a-shields.deb
 Size: 52370 
@@ -391,6 +409,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: A-Shields
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-shields
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.a-shields
 
 Package: com.opa334.choicy
 Version: 1.4.1-1
@@ -409,10 +428,12 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
 
 Package: com.rpgfarm.notifica
 Version: 1.0.1
+Tag: purpose::extension
 Section: Tweaks
 Maintainer: Nepeta & BawAppie <pp121324@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.9), ws.hbang.common (>= 1.11)
 Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta
+Replaces: me.nepeta.notifica
 Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.notifica.deb
 Size: 508544 
@@ -422,9 +443,11 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: Notifica (BawAppie)
 Author: Nepeta & BawAppie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.notifica
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.notifica
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
+Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8.0, compatible::ios9.0, compatible::ios10, compatible::ios11, compatible::ios12; compatible::ios13, cydia::obsolete
 Section: Development
 Maintainer: PixelFire <opa334@protonmail>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
@@ -454,9 +477,11 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/ic
 Name: Cephei Tweak Support
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/cephei
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.common/depiction.json
 
 Package: com.spark.libsparkapplist
 Version: 1.0.10
+Tag: purpose::extension
 Section: System
 Maintainer: Spark <info@sparkdev.me>
 Depends:  firmware (>= 7.0), firmware (<< 14.3)
@@ -469,6 +494,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: libSparkAppList
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.libsparkapplist
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.libsparkapplist
 
 Package: sed
 Version: 4.8-2
@@ -482,7 +508,6 @@ MD5sum: 337de52caf551f810c4d1467652bee6e
 Description: edits streams of text using patterns
 Name: sed
 Author: Procursus Team <support@procurs.us>
-Depiction:  https://rangendr123.github.io/dx/depictions/?p=sed
 
 Package: com.foxfort.checkl0ck
 Version: 1.0.0
@@ -503,6 +528,7 @@ SileoDepiction: https://havoc.app/package/checkl0ck/depiction.json
 
 Package: com.foxfort.foxforttools
 Version: 1.2.24
+Tag: role::developer
 Section: Development
 Maintainer: foxfortmobile <foxfortmobile@gmail.com>
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.2.4), com.rpetrich.rocketbootstrap (>> 1.0.6)
@@ -516,9 +542,11 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: FoxFort Tools
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/foxforttools
+SileoDepiction: https://havoc.app/package/foxforttools/depiction.json
 
 Package: com.foxfort.libfoxfortutils
 Version: 1.2.4
+Tag: role::developer
 Section: Development
 Maintainer: foxfortmobile <foxfortmobile@gmail.com>
 Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
@@ -532,8 +560,10 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: libfoxfortutils
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/libfoxfortutils
+SileoDepiction: https://havoc.app/package/libfoxfortutils/depiction.json
 
 Package: com.matchstic.reprovision
+Priority: optional
 Version: 0.5.2~EOL
 Section: System
 Maintainer: Matt Clarke <matt@incendo.ws>
@@ -550,6 +580,7 @@ Author: Matt Clarke <matt@incendo.ws>
 Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
 
 Package: jp.soh.reprovision
+Priority: optional
 Version: 0.8.4~release
 Section: Applications
 Maintainer: soh_satoh <tweaks@satoh.dev>
@@ -564,6 +595,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621
 Name: ReProvision Reborn
 Author: soh_satoh <tweaks@satoh.dev>
 Depiction: https://havoc.app/depiction/rpr
+SileoDepiction https://havoc.app/package/rpr/depiction.json
 
 Package: net.angelxwind.appsyncunified
 Version: 104.0
@@ -584,6 +616,7 @@ Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
 
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.6.4
+Tag: compatible_min::ios11.0
 Section: Tweaks
 Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
@@ -598,9 +631,11 @@ Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
 Name: Return YouTube Dislike
 Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Depiction: https://chariz.com/get/return-youtube-dislike
+SileoDepiction: https://chariz.com/api/sileo/package/weeb.lillie.youtubedislikesreturn/depiction.json
 
 Package: com.rpgfarm.confirmpasteboard
 Version: 1.0
+Tag: purpose::extension
 Section: Tweaks
 Maintainer: Baw Appie <pp121324@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), applist
@@ -613,6 +648,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: ConfirmPasteboard
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.confirmpasteboard
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.confirmpasteboard
 
 Package: com.opa334.libundirect
 Version: 1.1.3
@@ -1028,7 +1064,7 @@ Depiction: https://repo.packix.com/package/com.smokin1337.smartlpm/
 
 Package: com.anthopak.appaze2
 Version: 1.4.1
-Tag: cydia::commercial, compatible_min::ios11.0
+Tag: compatible_min::ios11.0
 Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
@@ -2389,7 +2425,6 @@ Depiction: https://havoc.app/depiction/essen
 
 Package: com.smokin1337.3dtools
 Version: 1.0.6
-Tag: cydia::commercial
 Section: Tweaks
 Maintainer: smokin <smokin1337@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
