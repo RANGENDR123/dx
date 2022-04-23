@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
@@ -21,6 +23,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
@@ -37,6 +41,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.ichitaso.altstore_1.4.9_iphoneos-arm.deb
 Size: 5165138
 MD5sum: 11a8df9c2a767334201d4dd8a3544463
+SHA1: d92fb8177ac7dc11b490c8fda91ca9c8dc25c0f8
+SHA256: 9d1a618b370795917469036183254845961a7bf0e8a9781c41ec9662b8e34c81
 Description: Jailbroken version of AltStore with on device signing feauture.
 Icon: https://img.chariz.cloud/icon/altdaemon/icon@3x.png
 Name: AltStore
@@ -52,6 +58,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.netfence_1.2.10_iphoneos-arm.deb
 Size: 4486594
 MD5sum: 17fa003a986b439fd06629e275d99b0f
+SHA1: 4e406c61dd369c9ad78dc808708c4fa3a517165c
+SHA256: 449d0e08dac0ebcca5847b895a8c6f49af417f42d7fce1eada4b0637ee131bb3
 Description: Monitor your network traffic
 Icon: https://havoc.app/media/61f8d9fc28560770cfb2d631
 Name: NetFence
@@ -69,6 +77,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/me.lau.libhookersupport_1.0.0_iphoneos-arm.deb
 Size: 13970
 MD5sum: 45ff62e43be9c2fcf7992022ddd18596
+SHA1: 4c4a8cf8aa91002cee1edafff12ff70e8cfebdbb
+SHA256: caa2c764dbf07a01ac27d6e74c51368bba5f7b2621170bc79dc555609bb18352
 Description: Compatibility layer to use coolstar tweaks on substrate/substitute based bootstraps
 Icon: https://repo.lauren.sh/assets/me.lau.libhookersupport/icon.png
 Name: libhooker support
@@ -87,6 +97,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rileytestut.altdaemon_1.0.1_iphoneos-arm.deb
 Size: 597754
 MD5sum: 86b026f3f838e0ca193b086898e7152a
+SHA1: ec653b6067c8dd8daa2d1fad29ebcbb0c054bbbd
+SHA256: e30852d1e922dbf83222dd1a35d726491f19ff0f25a4415846638a4f99eac695
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Icon: https://img.chariz.cloud/icon/altdaemon/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/altdaemon.jpg
@@ -104,6 +116,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.carloztech.guatemalaflag_1.0_iphoneos-arm.deb
 Size: 10732
 MD5sum: 2c5a3d3bbb671d06dd1afbc5b1d5c96c
+SHA1: 7d06445062f4352a7164751abd14fc034f53a55c
+SHA256: dfbfa8d81018f897dd87f5ebb3bad352d5ebee6a73be9b31003952f1998e9dad
 Description: This is a beautiful Guatemala flag icon Pack for Zeppelin
 Name: Guatemalaflag for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail.com>
@@ -123,6 +137,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/cydia_1.1.36-2_iphoneos-arm.deb
 Size: 1240728 
 MD5sum: a5d19b0410bd817c62328d0189ad15c8
+SHA1: 9cdd17c8f6c96901908cdf75bd445e8797ee5fab
+SHA256: 6fd60fb927dd1b9eda231fc41a63708b1f6a8118a33e8de0233e90e9b56155ab
 Description: graphical iPhone front-end for APT
 Icon: https://cydia.saurik.com/icon@2x/cydia7.png
 Name: Cydia Installer
@@ -138,6 +154,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/org.coolstar.sileo_2.3_iphoneos-arm.deb
 Size: 1997556
 MD5sum: 8ec089704f0bd944d914ff044fef91a4
+SHA1: c3fc6093b43b37d41fd95bcfc7cb7852fc544870
+SHA256: d7cec451c30724bf92aec88ff217aa83a310ee87eab3fca438fce688a6d179ee
 Description: a modern APT package manager frontend
 Icon: https://getsileo.app/img/icon.png
 Name: Sileo
@@ -154,6 +172,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/xyz.cypwn.smartbattery2_2.2k_iphoneos-arm.deb
 Size: 910848
 MD5sum: 1c79a61f5a10bd359cd3372bdbb03ad9
+SHA1: 61def96ffad60ce98ab89c955ccf10c59e7461a2
+SHA256: 43763dfd2da58b6d9f01550457094cf9c36e33f809a0f5b9a40f684050653348
 Description: The ultimate tweak to monitor, save and tune your battery
 Icon: https://havoc.app/media/61fc6f3094bb9ecb0d320107
 Name: SmartBattery 2
@@ -170,6 +190,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/xyz.willy.zebra_1.1.26_iphoneos-arm.deb
 Size: 8244188 
 MD5sum: e858c52abd05e920b44ac3f25707a1c7
+SHA1: 80aa8c98ac5db433a58eff3efbfb82244c04eb20
+SHA256: 74ad6bc872dad98b768b2c927fba2cacf848135db414fbe5fd50c131f27b15e4
 Description: A Useful Package Manager
 Icon: https://th.bing.com/th/id/R.bae30efdcfa9fb9cec1703646c8f24a7?rik=imWzqrkL7%2bOxsA&pid=ImgRaw&r=0
 Name: Zebra
@@ -186,6 +208,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.smokin1337.smarterlpm_1.0.9_iphoneos-arm.deb
 Size: 55654
 MD5sum: afcc1b5eb1b485c24674b104692f5f17
+SHA1: d5c0918c63c4dd38120e766ca91c50811bda5e3f
+SHA256: 812d03cd36ff5b64a843e9a0f250ddad41125f71f7a95a57f42f0ceee847e508
 Description: A smarter low power mode !!
 Icon: https://havoc.app/media/61f88b68ca54d59904e3c82c
 Name: SmarterLPM
@@ -202,6 +226,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.icraze.customplayer_1.1.2-1.deb
 Size: 20176
 MD5sum: 35270822b21654a1af6f346e06472dc3
+SHA1: b4762b20a68e14e1ddf22824a0831abf3bffb5d6
+SHA256: feb67735b3113566c5d241f4f2485ab77ea69ba0ddb95c00e0e477b0186c2164
 Description: Customize Your Media Player!
 Icon: https://havoc.app/media/61f8ad5be40b9eda481119f8
 Name: CustomPlayer
@@ -218,6 +244,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/altlist_1.0.8.deb
 Size: 46412
 MD5sum: a09c874d849e30e7e2551e7a958b44cc
+SHA1:a9db03b1441bbca0eb68a975d316cb8fa4a352e1
+SHA256: 1e49232ed221001b716e0c612cfbc82038d0a85a5180314202f8169c9157c493
 Description: A modern AppList alternative
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.altlist.png
 Name: AltList
@@ -233,6 +261,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/bzip2_1.0.6-1_iphoneos-arm.deb
 Size: 53070
 MD5sum: fb8ad9bad8b3bd8c1f3c1fad3cd50901
+SHA1: af8b99bde02484cc33b54770ba570dc03533d094
+SHA256: fced8ef4f004deccb7724c5ddb2703604aa09f39c6f7bf707270c3dcef13e78a
 Description: compression that's slightly better than gzip
 Name: bzip2
 Author: Procursus Team <support@procurs.us>
@@ -247,6 +277,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.icraze.hestia_1.6.2_iphoneos-arm.deb
 Size: 314344
 MD5sum: 21ddc7ad1a1ee50a7642fd6e5741a8a1
+SHA1: 67f2dc638e7b98c18674c7d0a89a48a7c7085f8d
+SHA256: 6289ccd14bac5e72988d3b59897cde7a12a20da13f555ae9d61bd5870ec964f0
 Description: Global Jailbreak Detection Bypass
 Icon: https://havoc.app/media/61f8ada5e40b9eda48112f38
 Name: Hestia
@@ -265,6 +297,8 @@ Filename: ./debs/xyz.cypwn.crane_1.2.6_iphoneos-arm.deb
 Size: 989952
 Installed-Size: 3716
 MD5sum: 599e84ba56cecb95c63bc762541413fd
+SHA1: 9e7194d3a816615186e0a5c6fc92f0ee40bea078
+SHA256: cf62ee884c0887eaf69a6b46b5facfd6765f661026223dd6403abbedf5f4cb55
 Description: Multiple containers for your applications!
 Icon: https://havoc.app/media/61ffad4e82c2e1d835f525ba
 Name: Crane
@@ -282,6 +316,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.a-bypass.deb
 Size: 100688
 MD5sum: e1eb6c4db0a9d111fd280896ef3a41f8
+SHA1: bad5157c3c6237fd7b9f48c53d56f021c2c78440
+SHA256: 3dcadcdebe4193115ab79ff00048df753893703e7a90b22a3b7e49246c103236
 Description: Super Jailbreak detecion bypass!
 Icon: https://i.repo.co.kr/images/com.rpgfarm.a-bypass-icon-abypass.png.png
 Name: A-Bypass
@@ -298,6 +334,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/Installer_503.deb
 Size: 24127482
 MD5sum: bd30e3633b97aedeea67f46a07ce403a
+SHA1: d6b28c5ecb85adf9d9f7000455374f9d2acf3ce0
+SHA256: bd6e08bed23bc9b7fdc3974e1b38a294da363104a66acc9faa0a5f516c61d6e8
 Description: The fastest package manager built specifically for iOS!
 Icon: https://synnygr.dev/AppTapp/installer_icon.png
 Name: Installer
@@ -316,6 +354,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/libmryipc_2.0.1.deb
 Size: 28236
 MD5sum: 5be4446b36ceeb8f300cefbc10dbcded
+SHA1: 0d910e67abf04135102e296519ad8f44f0f41113
+SHA256: 206b196b2acae7a0ebe7a82d3197e0f1fd358a1f77138d5e0ca130d67f2cd55e
 Description: Easy-to-use, RocketBootstrap-less iOS IPC
 Name: libMRYIPC
 Author: Muirey03 <tommy.muir@btinternet.com>
@@ -332,6 +372,8 @@ Filename: ./debs/applist_1.5.16_iphoneos-arm.deb
 Size: 105098
 Installed-Size: 780
 MD5sum: af1bdc77dd1805c249d416fa96957841
+SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
+SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
 Description: Allow extensions to read the list of installed apps
 Name: AppList
 Author: Ryan Petrich <rpetrich@gmail.com>
@@ -346,6 +388,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.libaptoast.deb
 Size: 7066
 MD5sum: b6885d2503f2f35cb17eb13ca7aa6bbb
+SHA1: 5ef89490600eeec65c8a5f03b22861c524c40d7b
+SHA256: 9a8973fe080b4b7fcef034e32b34ba60ebd29c51fc71792f1e3ffe52f5ca3391
 Description: Baw Appie's Toast Library
 Name: libAPToast
 Author: Baw Appie <pp121324@gmail.com>
@@ -360,6 +404,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/preferenceloader_2.2.6.deb
 Size: 36414
 MD5sum: 551c39b9d6d58be5ad82e81a59a1715f
+SHA1: c1d547036234756c5e75a633393d4ffa791b1126
+SHA256: 335fff25ff13021889ba856ce84fbc23ba25569f1c6cc65a3e113b433b1ed60f
 Description: load preferences in style
 Name: PreferenceLoader
 Author: Ryan Petrich <rpetrich@gmail.com>
@@ -373,6 +419,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.10_beta1.deb
 Size: 38344 
 MD5sum: b52417e29631c59cdb267379e71e2a69
+SHA1: 5839fce38b27e624ab5629d50fd543f30b473615
+SHA256: d06e18eefbfcb40f3e3b215bfbccaf34091fb30b2ccb1e4f6c519aa91d2b7248
 Description: Support library allowing tweaks to communicate with sandboxed processes
 Name: RocketBootstrap
 Author: Ryan Petrich <rpetrich@gmail.com>
@@ -387,6 +435,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.a-font.deb
 Size: 520148
 MD5sum: 7bc06a7cc5f934f97aede3e020ddd2cb
+SHA1: f02852d3afad4fa4cf0b98b01a79e1828c02bc61
+SHA256: 32be71fa13c6188b0314d491a03b4ccc521fea90e890457c94e982e5cbd0d023
 Description: Change your font!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.a-font-icon-afont.png.png
 Name: A-Font
@@ -404,6 +454,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.a-shields.deb
 Size: 52370 
 MD5sum: 8c6eb82002b03032654bb6ac2b753006
+SHA1: 35c267ea1fa5dc7190074cc24c38c97fc8148d63
+SHA256: c996d5c515bd7ceb1d2d1d040f19c8a709c43f38e988c12c500f9ff735128482
 Description: Protect your device
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.a-shields-icon-ashields.png.png
 Name: A-Shields
@@ -420,6 +472,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/choicy_1.4.1-1.deb
 Size: 156330 
 MD5sum: 8189101ebbf31385120f6a602253c34a
+SHA1: a57371d4cb9cf128ccece9bcfc326844c051d04c
+SHA256: 95813a506ebd2fc06109209763dd1a8c63d5cee96eb249b4a9068b01c2b68f70
 Description: Advanced Tweak Contiguration!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.choicy.png
 Name: Choicy
@@ -438,6 +492,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.notifica.deb
 Size: 508544 
 MD5sum: 3665bce7b851346a6b0e09bcb646c3e1
+SHA1: ee9fd16401889da08f63aee74056be18e2c9b380
+SHA256: 1282abd347bc81b4b91a71125b82793beeb69e02e6d02c7321fc582daa7e9ad1
 Description: Notification customizer
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.notifica-icon-bigIcon.png.png
 Name: Notifica (BawAppie)
@@ -446,6 +502,7 @@ Depiction: https://repo.co.kr/depictions/com.rpgfarm.notifica
 SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.notifica
 
 Package: org.thebigboss.libcolorpicker
+Priority: optional
 Version: 1.6.9
 Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8.0, compatible::ios9.0, compatible::ios10, compatible::ios11, compatible::ios12; compatible::ios13, cydia::obsolete
 Section: Development
@@ -454,9 +511,12 @@ Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Architecture: iphoneos-arm
-Filename: ./debs/com.rpgfarm.notifica.deb
-Size: 508544 
-MD5sum: 3665bce7b851346a6b0e09bcb646c3e1
+Filename: ./debs/libcolorpicker_1.6.9.deb
+Size: 110620
+Installed-Size: 629
+MD5sum: 76ac3303a769a551ba58a83855da19f5
+SHA1: c3aa95d2302ae22fac6344d131c58d6beecbe9b7
+SHA256: 5f3a37fd6b6e65da32fc8bcfedb74f13ba7ac5876b20968f04ea66fd68d12e6b
 Description: color picker library for developers
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/org.thebigboss.libcolorpicker.png
 Name: libcolorpicker
@@ -472,6 +532,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
 Size: 207662
 MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
+SHA1: db31f872dab06eaeb0bc732ede9af5d2e94b52c5
+SHA256: 3eaea1713f40ef02606bfa67f44f62529ea8b923c0aefb39fc68e230c40a0f6d
 Description: Support library for tweaks
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/cephei/icon@3x.png
 Name: Cephei Tweak Support
@@ -489,6 +551,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.10.deb
 Size: 27440
 MD5sum: 7ea393c06401822def242bc36e4b93b3
+SHA1: 1fe0728cfabddba85543fe2d4a2390f18ccedc6b
+SHA256: 4f804a14a026ff8e64c19653ea605c637dc857c996d297c982e5b2f4a68a609b
 Description: AppList alternative
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.libsparkapplist
 Name: libSparkAppList
@@ -505,6 +569,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/sed_4.8-2_iphoneos-arm.deb
 Size: 88968
 MD5sum: 337de52caf551f810c4d1467652bee6e
+SHA1: 468e1c622792e7d93872627dafc61a1cd3161a70
+SHA256: 5c37227d8340fc8bf34715f3425a0daefd102b884fa00545ab78e2d609865c79
 Description: edits streams of text using patterns
 Name: sed
 Author: Procursus Team <support@procurs.us>
@@ -519,6 +585,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.checkl0ck_1.0.0_iphoneos-arm.deb
 Size: 1223672
 MD5sum: 1d09d318434fd269cc362e3ac3cba8d3
+SHA1: 2f9c80c3adbfeccebf1fb9f2687fec8156c46a43
+SHA256: be478ebd3bf7d23a685d6ec4c887d3f933e5cf691255768a8c3e405682eb13df
 Description: FaceID/TouchID for Checkra1n A11 devices
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/62172d2585978d56d69fe476
 Name: Checkl0ck
@@ -537,6 +605,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.foxforttools_1.2.24_iphoneos-arm.deb
 Size: 581636
 MD5sum: 23da8fc6e4cd61209f0a8dac88aa5c70
+SHA1: 0f0c8e362b8507cb801c2f4ec6814fa768e57eb4
+SHA256: f08a939c98e2165d3db6e6fb91251afd2c1f6bda90cdc6f5b30a87d9feaf9c91
 Description: Helper tools for Foxfort tweaks
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d83428560770cfb25ee1
 Name: FoxFort Tools
@@ -555,6 +625,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.libfoxfortutils_1.2.4_iphoneos-arm.deb
 Size: 204450
 MD5sum: 005416dcd6bc45198236a2abbbd1e42d
+SHA1: 9a07422a23fc9804cbc5a646aec6d8458e890d8a
+SHA256: b555fc2e2d1d2efb19f2aae9efd8b4f3535f4881e56a0bea7858a1ab8a06ca4f
 Description: library for Foxfort tweaks
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d80a28560770cfb25dfe
 Name: libfoxfortutils
@@ -573,6 +645,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.matchstic.reprovision_0.5.2_EOL_iphoneos-arm.deb
 Size: 14406348
 MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
 Description: Re-sign applications on your device
 Icon: https://2.bp.blogspot.com/-XiSYinut2ZI/XKnOAID34WI/AAAAAAAAT5s/qGou12CZdtI6ui3d73oMj09hWhzNN-BPgCPcBGAYYCw/s200/unnamed.png
 Name: ReProvision
@@ -590,6 +664,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/jp.soh.reprovision_0.8.4_release_iphoneos-arm.deb
 Size: 16816862
 MD5sum: 226e27fc058aa29af55ecccd267e9382
+SHA1: d14a5acbdeca38cda60a787e023c598d5a1fc10c
+SHA256: 84b3d28914e078176578f184ec29d10c7dfc0a1fa8e794934749ddcbab47586b
 Description: Re-sign applications on your device
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/62108e544bc779297260bd62
 Name: ReProvision Reborn
@@ -608,6 +684,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
 Size: 59144
 MD5sum: 4d4f867de80c03237897a0396d1bd90b
+SHA1: ec75e0cf681f50c11ced972d9990912f6d57af99
+SHA256: 720ab7caf651b5922c41ce2960d0a94a6e5c9c3be3c76676c33524a5d5eab0d3
 Description: Enables the ability to install unsigned/fakesigned iOS applications
 Icon: https://api.ios-repo-updates.com/images/repositories/karen-s-repo.png
 Name: AppSync Unifed
@@ -625,6 +703,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.6.4_iphoneos-arm.deb
 Size: 15172
 MD5sum: a8e99db8707e79395ffcbb8510c99ce8
+SHA1: df6994295e30090ca3b937e73a20924bb3a36d6d
+SHA256: cc277f82e6d536ddd9d6c9966a566514405414536af23f54c9a5882a9740e5c4
 Description: Bring Back Dislikes On YouTube
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
@@ -643,6 +723,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.confirmpasteboard.deb
 Size: 22766
 MD5sum: 803e6f26f333d2aa0d1b1d31aeaa9491
+SHA1: 966578a895ad084bf95f766723e67b28adbe9fbb
+SHA256: a057e32506f168805c7c4d34262ca3a732bfdfdebda317fd70c1a24de5bd9499
 Description: Confirm before accessing the clipboard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.confirmpasteboard-icon-ConfirmPasteboard.png.png
 Name: ConfirmPasteboard
@@ -658,6 +740,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/libundirect_1.1.3.deb
 Size: 8904
 MD5sum: d763727107ed1a2825dc1b2b3fe651f5
+SHA1: da7fa57f22ca2f0a830af540ff1947f28805800e
+SHA256: 5b0d91d02663e96ae3d45c88c71ec3a6be0ffaef31fef8557ae4c49937b1b353
 Description: Patchfinder and rebinder for objc_direct methods
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.libundirect.png
 Name: libundirect
@@ -673,6 +757,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/saily_2.1-REL-1647495588.deb
 Size: 3869806
 MD5sum: 4eb38b6afe2d656101e04828209b90eb
+SHA1: e15fb3dc2423b3ea5bd1f08ed5dd6ce50d4edfdd
+SHA256: fc9814cd16da5f177510cf4d220d44aef6a45f668cfdf79b7f17a5f7dd28da29
 Description: Modern. Fast. Beautiful.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/wiki.qaq.chromatic.png
 Name: Saily
@@ -685,8 +771,10 @@ Section: Tweaks
 Maintainer: John Coates
 Architecture: iphoneos-arm
 Filename: ./debs/Flex3_3_Beta98.deb
-Size: 14346,600
+Size: 14346600
 MD5sum: 693c569e78f37e6d0e9c2e63287bc97e
+SHA1: c6b44a4c7ef73f7b68240775ee58f7591c14d2e4
+SHA256: 2b71e64db3e4b352ef73d54e76e0808bb122c614d97160bf5338b903d2d8f6a4
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Icon: https://api.ios-repo-updates.com/images/repositories/delta.png
 Name: Flex 3 Beta
@@ -704,6 +792,8 @@ Filename: ./debs/com.opa334.cranelite_1.2.6_iphoneos-arm.deb
 Size: 297060
 Installed-Size: 1964
 MD5sum: 1bb5a00575ff9fbc36a29456d74225bd
+SHA1: ac11c208d534e713336d1150b98e2c08988e8ef1
+SHA256: d26f32cced39420e6326576b3feaa9be50f340099c36da13515456b06015619f
 Description: Multiple containers for one application!
 Icon: https://havoc.app/media/61ffad2382c2e1d835f52444
 Name: Crane Lite
@@ -721,6 +811,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/ws.hbang.alderis_1.1.2_iphoneos-arm.deb
 Size: 1847474
 MD5sum: a2fb626baa41e71d3092c010b76c9c08
+SHA1: 7824c40921ed21b1a3607bdc3e2dbd74cfda0554
+SHA256: f3726f2d079a7b88fa931eb833c1327c702d707402e672de7bce16ba603d0d9c
 Description: Color picker support library for tweaks
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/alderis/icon@3x.png
 Name: Alderis Color Picker
@@ -737,6 +829,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.slices3.deb
 Size: 131040
 MD5sum: 6d7bb393f464296f124ed04f8c922d2d
+SHA1: e22675cc81c30d375eb3a55956a6550d0fe26c1c
+SHA256: c6c5feee95e13431f829bca56c9664ba32783337297887ae16f754200191bcb1
 Description: Allows you to have multiple setting and data bundles for a single application
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/com.rpgfarm.slices3-icon-SlicesPreferences@2x.png.png
 Name: Slices 3
@@ -752,6 +846,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.idevicelover.smartbattery_3.5_iphoneos-arm.deb
 Size: 598444
 MD5sum: b9e10e2935f73f61b1744b2dff1433e8
+SHA1: e4be6598c785a5f9718325beef1a5436ae8003cb
+SHA256: ccf5777bb9cf890f7d6eba444e549250124cdcb7c173d4c4bf5cafaff297f582
 Description: The ultimate tweak to monitor and save your battery
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/download?size=medium&hash=5d81eb2712954e001a518c91
 Name: SmartBattery
@@ -766,6 +862,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.2.deb
 Size: 69510
 MD5sum: 3cf4ef3a93ad7ac10ad883e92134d690
+SHA1: 6870141444312965e65e73e451a65faa4efc895c
+SHA256: 693b47e2be249edd776d6efdbce56ff38067ce97b0d0402ef3d88b27cf2656fd
 Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.libsparkcolourpicker
 Name: libsparkcolourpicker
@@ -780,6 +878,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/libbulletin_0.1-158.deb
 Size: 34454 
 MD5sum: 035a147ca1dd3f521174a5dd7f99b7e3
+SHA1: d034075d16c7f596138a1f90a6ba80f7b895da83
+SHA256: 4b161acc1951e171a3e801cc22c6b0ab4e7b0f51c82e83918a48358670f99884
 Description: Simple library that displays bulletins
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/net.limneos.libbulletin.png
 Name: libbulletin
@@ -797,6 +897,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/ccsupport_1.3.7.deb
 Size: 57348
 MD5sum: 593e9530de13a0e3037ce5db30779f76
+SHA1: d23fcd2809fabf2c153f55289e9c58fb7e8939be
+SHA256: 5850fcdd6f76591ffd816ac68258468eee37c1cadddcac7689f132bdb7a2f5c9
 Description: Support tweak for CC modules!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.ccsupport.png
 Name: CCSupport
@@ -814,6 +916,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.4.20_Beta4.deb
 Size: 1591782 
 MD5sum: 1fb582d7e8e2f3093cc0e02b66bb7b07
+SHA1: 65053af13e2cea17ac8342eeb36b47d9faecc2fc
+SHA256: a98bde4179af69362b3d969941c010a26ca05548d0b89e73e7e852a2875b64f1
 Description: Snowboard theming engine
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard
@@ -830,6 +934,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.xandesign.felicitypro_4.0_iphoneos-arm.deb
 Size: 22810574
 MD5sum: 4a00a494e6f9d58faf611a41fdfa4b0e
+SHA1: 0810cf63bfef52aac3f61108a04684c0b9962fbe
+SHA256: 81afcbe84f1dfa78274f81dfbc82f2381d4821f53465cfb5e76eef15df52ded2
 Description: Felicity, but Pro. 
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/felicity-pro/icon@3x.png
 Name: Felicity Pro
@@ -845,6 +951,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/5e49636832ff8d001b49895b.deb
 Size: 34248
 MD5sum: 024b46f75cc9e546cce0926bebd1053b
+SHA1: e4574b1b221f5286bbfdbb096f7dc4fd8ff7fb8b
+SHA256: 0adcd41c207938d19ffed27bec088981a019ebd4c96e00476ab56c83af9e96d5
 Description: 3D Touch on Non-3D-Touch Devices
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d868829c1fc16001af33b98/icon/download?size=medium&hash=5d868829c1fc16001af33b9d
 Name: Peekable
@@ -860,6 +968,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dgh0st.force3dappshortcuts_0.0.8_iphoneos-arm.deb
 Size: 27910
 MD5sum: ed48a9058ec68aacaddaa55da04b3538
+SHA1: f6d63d5a9f343516ed2ccdf7946d5f38840b0652
+SHA256: 823aeec4d7290f81116636d892d2a608862ff4a9c2c12352aa739a0f293e5062
 Description: Enable 3D touch shortcuts on homescreen for older devices.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.dgh0st.force3dappshortcuts.png
 Name: Force3DAppShortcuts
@@ -874,6 +984,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.stevsarm.taffy_1.0.deb
 Size: 22882766
 MD5sum: 9895fffd7bc89659c6c86dae443e2926
+SHA1: 82b121663510c7c20e87d17da8f7015b25474bfc
+SHA256: 00afee3a72f1edb793b687221ec6e108b71c8fda4fb00e86c93ed18ad7603198
 Description: salmon sal the taffy pal
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/6212ee33cf5eac63315f9b92
 Name: Taffy
@@ -889,6 +1001,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.selector.deb
 Size: 32100
 MD5sum: f78d2f4ed4f26bfe6bb89e4a702c1164
+SHA1: d74d2748cfe466edb023aa105e594b492dd1772d
+SHA256: 59a98ea79f58d9b5eeb05032eb3ccf9402d474553d3d6b6268e4b081f9137f01
 Description: Select text to search or translate
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images/me.nepeta.selector-icon-icon@2x.png.png
 Name: Selector
@@ -904,6 +1018,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/org.swift.libswift_5.0-electra2_iphoneos-arm.deb
 Size: 23330860
 MD5sum: 41d4fb6b08e22467836a200d6bf8db9c
+SHA1: 020e2926035d63cdb59e62b8d6a63cee88f0a14f
+SHA256: 07adbccbde8682adb44e8dcf0bdd6bef5c909d879ca654e6533f8a52f1884ced
 Description: Swift runtime for iOS
 Name: libswift (stable)
 Author: Kabir Oberai <oberai.kabir+libswift@gmail.com>
@@ -920,6 +1036,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.anemonetheming.anemone3_3.0_beta24_iphoneos-arm.deb
 Size: 806104
 MD5sum: 5a6ecb1246370c94092b276cb339d3d9
+SHA1: 353d12caa80b45c83520fcb0bd36929f8d7a9812
+SHA256: 84eeb6de088df255ced205abb5b0fa500bc81a5bd27ba3cb954e4f7256c2e7f7
 Description: An awesome theme manager!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev/depictions/icons/anemone3.png
 Name: Anemone 3
@@ -936,6 +1054,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.anemonetheming.anemone3-extsb_3.0_beta14_iphoneos-arm.deb
 Size: 37064
 MD5sum: df19351f027b9b3cd4e768bbb8f7f043
+SHA1: 719a99d6a004e31201dba6694851382ae9c51a73
+SHA256: b4876b9b280ff37a594738877241729c73ec3417a68afc061de45837d2b3d04f
 Description: An awesome theme manager!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.theodyssey.dev/depictions/icons/anemone3.png
 Name: Anemone 3 SpringBoard Extension Pack
@@ -951,6 +1071,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.1.1.deb
 Size: 275122 
 MD5sum: 9a7e7f00edb23d141e699df90dd17067
+SHA1:a9f0ed6583c7f8c52fdba9c5bbb5738ecc5ea568
+SHA256: 0e5d7c949eb661b57269062baa73cb710405244246fe54b2be0e34eb39446aac
 Description: App Drawer
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.vesta
 Name: Vesta
@@ -966,6 +1088,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.ghanipradita.gladient_1.3_iphoneos-arm.deb
 Size: 29186470
 MD5sum: 4d43cc99baba8382e79b16ab2a3f487b
+SHA1: 587ee552ce4227380fc2637778c583888243bd43
+SHA256: f18cdd47fb4def419c05e9f3939daf7e32c94ea3bb558cb0b9c00184b420c783
 Description: A theme with eye pleasing gradient colors
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d0198360dd69d0013bd6b02/icon/download?size=medium&hash=5d229f09f01adb0014b2915c
 Name: Gladient
@@ -981,6 +1105,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.geosn0w.iSecureOS.deb
 Size: 1578832
 MD5sum: 97adede4d0ad54d728e4ea050cbb7b79
+SHA1: fb8db4fa5eb5d6b648a88e86a200ee12f0717c62
+SHA256: f8ce4cd9773fefaccb02765ad918f4f2f2274370b69e44656102cea96a9cd29e
 Description: A security application for Jailbroken iOS Devices, created by GeoSn0w (@FCE365).
 Icon: https://twitter.com/iSecureOS/photo
 Name: iSecureOS
@@ -997,6 +1123,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dave1482.powerapp_6.0.1_iphoneos-arm.deb
 Size: 333332
 MD5sum: a530dd5dafa66e8eaa19243601eb9919
+SHA1: dbea77220e063a87aa7d55e53784833389663591
+SHA256: 93888110a0ff4404bfd34c9550c05776283f6d95c013be8c334ec6bb5f6c8f8d
 Description: Reboot, Shutdown, Respring, go into Safemode
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/powerapp/icon@3x.png
 Name: PowerApp 
@@ -1013,6 +1141,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/xyz.cypwn.smartbundle2_2.3k_iphoneos-arm.deb
 Size: 1328284
 MD5sum: 364cb0a8bba87b4119962f6479d0275c
+SHA1: ff30cc2cd569748b87001769c39ab86392d28206
+SHA256: a061a5843f7d5b7428119cf91c8aafac625aa4b3fef0feb97aafed629ddf1d15
 Description: The ultimate tweak combo to save and tune your battery and manage / customize WiFi and mobile data behavior
 Icon: https://havoc.app/media/6207e899a7026fa356186fcf
 Name: SmartBundle 2 
@@ -1028,6 +1158,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.cokepokes.libnotifications_0.3-5_iphoneos-arm.deb
 Size: 163032
 MD5sum: 8884275a75ffdd95fca6aa60d4e0ec7d
+SHA1: 8b9e677748cdef53d8c4c975ab5c4eac591385b9
+SHA256: 922de051826c91762b43d87e829d5d76394d41ed507ce7edb074066b78e4e10a
 Description: App notification library.
 Name: libnotifications
 Author: CokePokes <cokepokes@gmail.com>
@@ -1042,6 +1174,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/wifiutil_0.0.1-98.deb
 Size: 21024
 MD5sum: f96c7528e2bdef8c0635d0b070aab1d3
+SHA1: bfee270473540b043359aa03175ca91c5487a547
+SHA256: ed97695df9bd3e4adbddc32883a9f49002a89d9c0f0e7e10412283430cf7adf4
 Description: command-line tool for WiFi operation.
 Name: WifiUtil
 Author: qpiu <qpiu.qpiu@gmail.com>
@@ -1056,6 +1190,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/5b134c475170530012be292a.deb
 Size: 145960
 MD5sum: fdfb47460a8146434c7b981844bbbc4c
+SHA1: d3d6bd0dbdba00feaf9c93de8d02c62f4b2e9090
+SHA256: 1fb632ea84ef3a86d425feaf3a9ae358e02ffc03e191b90b8a6a67b876135053
 Description: A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging.
 Icon: https://repo.packix.com/api/Packages/5afb8749c7abc024d2ea176e/icon/download?size=medium
 Name: SmartLPM
@@ -1072,6 +1208,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.appaze2_1.4.1_iphoneos-arm.deb
 Size: 832808
 MD5sum: 489eab024540f0aedcfaa38a6afe8224
+SHA1: 1ac6d5c502a53626d39b45cd46aeeb2f0fa0f014
+SHA256: f0116c4b3ce7bd498c5bd1f6dd537d4a9c178aeb2594379afcbb68e9053b286e
 Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/appaze2/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/appaze2.jpg
@@ -1090,6 +1228,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.a3tweaks.flipswitch_1.0.16_iphoneos-arm.deb
 Size: 300972
 MD5sum: 516996c64c4bc054b5b4a67fcfba5a9c
+SHA1: d17d8a66c9d05739dbedc7255530462bdbc4863f
+SHA256: 2dab7e1ee02a638d49342b956b554c24fb4191168e43c91f57b3394926566ed6
 Description: Centralized toggle system for iOS
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.a3tweaks.flipswitch.png
 Name: Flipswitch
@@ -1105,6 +1245,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.libfoxfortsplash_1.1.5_iphoneos-arm.deb
 Size: 10610
 MD5sum: 6f7650ba39ca0e6add277608ff9c52c9
+SHA1: 9d5092618181e7513c4366cb70302cd63d10d20c
+SHA256: fbe56a43c6c7154516dda0cc3bfa07ad2f59ee1eb13a8432f243430e78278ef4
 Description: Splash screens library for Foxfort dark mode tweaks
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d8fa28560770cfb262d7
 Name: libfoxfortsplash
@@ -1120,6 +1262,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.facebookdarkmode_3.1.2.deb
 Size: 209568
 MD5sum: 0e7508012aaec120cf55dddd371a796e
+SHA1: 6c647755cae1969b5f0ab5e11e74c2130d6406ed
+SHA256: 825d11c4ef4aab564a8f7536d69d3124f4a9aa7c1f574d1736658c08167e84ca
 Description: Dark mode for Facebook
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d65228560770cfb1f49b
 Name: FacebookDarkMode
@@ -1135,6 +1279,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.aperturize_2.2.6_iphoneos-arm.deb
 Size: 229862
 MD5sum: 3ce526ced0adcccb17a324baae836804
+SHA1: e5b87b4e237c48addf21dccf819db4c08d72bc96
+SHA256: 633b580b40045ac9d7e51019dcc4ebe825ae336f60d6f1ec3ff121b3057d1301
 Description: Adjustable bokeh for portrait mode
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d7d428560770cfb2192f
 Name: Aperturize
@@ -1150,6 +1296,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.portraitxi_4.1.0_iphoneos-arm.deb
 Size: 13225612
 MD5sum: ca26648483a711e5f44b114c3c12ed16
+SHA1: 4767d250241f96be33ee027a460247894a88889f
+SHA256: 6fd72dd9595e7492773da6c65b109f37c3dd56c7271fa54bcdf2f3b2130b4401
 Description: Single camera portrait mode
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d91128560770cfb2a4d3
 Name: PortraitXI
@@ -1167,6 +1315,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.ceadd.blockyoux.deb
 Size: 118742
 MD5sum: 6121376ee67da1118b49a6c46079b554
+SHA1: 0d86715a08bb0032fe4776cf7c0e4dbaea000869
+SHA256: 160e4848c6a9a47072815c09fa90fb2a60f918155a71eadc26bf03bee9e0e991
 Description: The Privacy Ad Blocker.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://ceadd.ca/cydia/depictions/com.ceadd.blockyoux/icon.png
 Name: BlockYouX
@@ -1182,6 +1332,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.1.1_Beta4.deb
 Size: 57458
 MD5sum: 15ff8f968f9d0fd0b2f5887e2092b89a
+SHA1: 517ea608b827d54f74cb7b913f754e5688799d56
+SHA256: 2109b11def9ac0846c3c1530d57328ffe7432538b85d0c298e4971a0b609e14d
 Description: Dock for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Dock Extension
@@ -1197,6 +1349,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.1.2_Beta4.deb
 Size: 65688
 MD5sum: eacf278f9b3ca1df786864478dc7c9d2
+SHA1: 8c7c18d59ff288caeebd97417dd63c48e06178fd
+SHA256: 70da3251650a22853c58862261c41e037d9e41ea751127d5cd59e3b42f544305
 Description: Icon Effects for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Icon Effects Extension
@@ -1212,6 +1366,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.12-Beta4.deb
 Size: 46030
 MD5sum: 785dc9dad2ed84d43c7d6f6c0e01698a
+SHA1: d4a846f4792bcd2387abfbb663d83f4a569f319d
+SHA256: b7a210b6b52fa3e050a9f7898b0290ebf8cb1895833b239684d038153aa4b079
 Description: StatusBar for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard StatusBar Extension
@@ -1227,6 +1383,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.1.0_Beta4.deb
 Size: 70390
 MD5sum: 97b2cb1fbee8f6343b730b75c0df27df
+SHA1: 50e5d683680e3aa8bfa4f62973238f2868d85bd1
+SHA256: 9f41e0bb249f6054d5c0c69842ebe77c7534fb0b143ca2cd3112741fdba05e34
 Description: UI Extension for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard UI Extension
@@ -1242,6 +1400,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.7_Beta3.deb
 Size: 41728
 MD5sum: 6790e458b85966a05f3bf256da68d337
+SHA1: 41581ba711604986c19ee94adaf27c0a6db31a8b
+SHA256: 8c90bd7190561b7a5cd89caee3f74286d47e23c5af362466935e626f9410b971
 Description: Respring icon Extension for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Respring Extension
@@ -1257,6 +1417,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.12_Beta4.deb
 Size: 21142
 MD5sum: a5941841ae97d4f2fe077a5710f78ca9
+SHA1: cf2d13905f298cea83bfcf03ed52c32c3ec6e012
+SHA256: 35cbe630608a1869b9698c9fa2899b2319b5a9d171b888e2bb878e2d3bf99182
 Description: Fonts for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Fonts Extension
@@ -1272,6 +1434,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.21_Beta4.deb
 Size: 81452
 MD5sum: 2596209b1da8363566d0bf21af7c94c0
+SHA1: ee06682558fd5b59144494c4f6a9984bfcaf3591
+SHA256: fafee7c141c72b9e90543063aae8b4a15a41e23c81368a858de44ae3ba45a19a
 Description: SnowBoard Presets Extension
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Preset Extension
@@ -1287,6 +1451,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/0.0.3_Beta4.deb
 Size: 23406
 MD5sum: da0eba8282b40271057f4d0f7265c9eb
+SHA1: 7942952f3095222fc64ff12bb6b2b598249662c1
+SHA256: 38b84362e6cdfcf33e050c32c8369183bce64c93839dcc24970fc1fe7569c808
 Description: Sounds for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Sounds Extension
@@ -1302,6 +1468,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.1.0-Beta4.deb
 Size: 32626
 MD5sum: f1b8dd2c3649760a5fa47d161d7ad57b
+SHA1: 4dfbfb5c58fdb15841c7f96caa7ce6d323a0a0a2
+SHA256: e12c97f0d572617ad96dd7d7ac80a917556e8e8550132bfa6ec87a259b75c194
 Description: Icon masks for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Icon Masks Extension
@@ -1317,6 +1485,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.1.0--Beta4.deb
 Size: 36328
 MD5sum: b152c5d34f28448443dbb70ecc5dfe5b
+SHA1: 759d17b154c092791bbb3a4110e8ac69770ba18c
+SHA256: 94e0099ba3c1a829754c3b7ab7f84d15fb44eaa2e221808d0160960670a9c60b
 Description: Page Dots for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Page Dots Extension
@@ -1332,6 +1502,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.1.0__Beta4.deb
 Size: 22964
 MD5sum: ab4fc1ba517f4eceda2dc569d211b994
+SHA1: 0b42da15396a917395a93104de0f7c1084216389
+SHA256: 4ef24f2c79d4c2b07d0364dc4e081a5d3c20ff4f0fccc82aacee00b0ab3e7c67
 Description: Labels for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Labels Extension
@@ -1347,6 +1519,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/0.0.2_Beta1.deb
 Size: 32680
 MD5sum: 57e3717fd4c6f66c1b038519dd172507
+SHA1: 3ee2450b5dcd938e0e081c9bfdda608aae528be5
+SHA256: e9e56a04f12e49894ce360bf1b521d7218b58cd523e136e1a68e262417102685
 Description: Icon blur for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Icon Blur Extension
@@ -1362,6 +1536,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.25_Beta3.deb
 Size: 31196
 MD5sum: 5b125221a4eba4a2e549a4cd86e598ed
+SHA1: def29547909c5b2e3d20ab28c4d1ee529276161b
+SHA256: 6a9c7c6de70a442fe95ed03d7979e59b89b7038ead977e9f5d5b0c855a6197ac
 Description: Settings Icons for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Settings Icons Extension
@@ -1377,6 +1553,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/1.0.1_Beta1.deb
 Size: 28616
 MD5sum: 2a8a0052644a004307de9966808d5469
+SHA1: 49d39d39b366cc32f4e034c6ccecddf93579fa19
+SHA256: 803e98a693306ccf86432ea673ed59a5e91f974d9e5aaa754700d3dc0fad34e8
 Description: Icon proceduralwallpapers for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Procedural Wallpapers Extension
@@ -1392,6 +1570,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/dev.theos.orion12_1.0.0_iphoneos-arm.deb
 Size: 454406
 MD5sum: faafcff2a1229a721fff850077d1d70e
+SHA1: 992cfd79edb4b0f47773a7f023cfd2c2bd773291
+SHA256: f21ecebaa5b84c7387f9bc7e187e6c63bdd82b907103e9266f1d2affb47f371a
 Description: Runtime for tweaks built using Orion and Swift
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/orion-runtime12/icon@3x.png
 Name: Orion (iOS 12-13)
@@ -1407,6 +1587,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/dev.theos.orion14_1.0.0_iphoneos-arm.deb
 Size: 815260
 MD5sum: abf3d993b38c5dc1c0d9c4f97be4ce46
+SHA1: 37310e0daeb117cb5f21f81521e2295c499dc8e6
+SHA256: 0820bd5fed1f3b7c46a270dfc0adf8e73894289b77585fd5812ccb7ebbf8cf05
 Description: Runtime for tweaks built using Orion and Swift
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
 Name: Orion Runtime (iOS 14)
@@ -1421,6 +1603,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.muirey03.libimagepicker_1.0.4.deb
 Size: 16380
 MD5sum: 136e2e43754271d3b24ad0242042a419
+SHA1: 8f6e66d1f84cd14ea80417709cc208fa7efcf5bc
+SHA256: 25ffdd311385aa8252ba22e602d44f3221685707728142dea587dccb952c253f
 Description: A simple library for choosing images in preference bundles.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f9405c01a1cb7a5c41f5e5
 Name: libimagepicker
@@ -1437,6 +1621,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.18_iphoneos-arm.deb
 Size: 3706724
 MD5sum: a842ea1120891c11710c6b22012d1e1e
+SHA1: 36fc296d0d732fcd9e6704e9dd3ed67f9ff4a474
+SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
 Name: AppStore++
 Author: CokePokes <cokepokes@gmail.com>
@@ -1452,6 +1638,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.cameronkatri.quickactions_1.0.0_iphoneos-arm.deb
 Size: 58850
 MD5sum: a3a32ff6cb757fe0af7cee4500a398c1
+SHA1: 018d8866db4e1e8c839ecd704b558eb00a74cb41
+SHA256: 4d5feab38603e354c85cf0b0959a18df53590f7ad63bda1d97c6a55be87ddd86
 Description: Quickly launch apps from the lockscreen.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/quickactions/icon@3x.png
 Name: QuickActions
@@ -1468,6 +1656,8 @@ Filename: ./debs/realcc_1.0.2.deb
 Size: 4186
 Installed-Size: 102
 MD5sum: 4cd08f43cce7af370fda8e60a86e3561
+SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
+SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
 Description: Actually disable Wi-Fi from the iOS 11 CC
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.jakeashacks.realcc.png
 Name: RealCC
@@ -1484,6 +1674,8 @@ Filename: ./debs/prasa.plusfi_2.44_iphoneos-arm.deb
 Size: 1083402
 Installed-Size: 2876
 MD5sum: 450e11a6b66b8fbfc45469bddb41ad5b
+SHA1: cd9dfc6c2200fc9f433c5362fd2835eb8ef1dd39
+SHA256: dfe019a2c5374d5b33ab846093cb1b192a6876224c3025efb0e15c37d68470d3
 Description: All-in-one tweak for Instagram
 Icon: https://api.ios-repo-updates.com/image.php?url=https://i.postimg.cc/Gm02x07F/Logo.png
 Name: Plus for Instagram
@@ -1500,6 +1692,8 @@ Filename: ./debs/org.hahalosah.nofreeapplimit_0.1_iphoneos-arm.deb
 Size: 4724
 Installed-Size: 216
 MD5sum: e0acccfb07fa8b0acf3470c0dafd9a1f
+SHA1: ee060e96041cc951abc2e98d21589317f2930981
+SHA256: 8ebb9c967f879489d575ae3fd23190229b27f75ea336ef48916c4f62fe16635e
 Description: Removes the 3 app limit for free developer accounts
 Name: NoFreeAppLimit
 Author: HAHALOSAH
@@ -1516,6 +1710,8 @@ Filename: ./debs/com.tigisoftware.filza_3.9.0-2_iphoneos-arm.deb
 Size: 13114258
 Installed-Size: 32244
 MD5sum: a5ebbdc74129206764655f511f1b29d7
+SHA1: e53adb6b48bb94db87257b32a911d6ba1aecec5f
+SHA256: 7e6446d0ba8c0c9c4214fca8df7a8f235ac9c64196f46ac4bdaf3fd6c85c75cc
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Name: Filza File Manager
 Author: TIGI Software
@@ -1533,6 +1729,8 @@ Filename: ./debs/ithemer.deb
 Size: 231702
 Installed-Size: 2112
 MD5sum: 0d00c26ef0bbf0d318436c4cd36608eb
+SHA1: 5f9c3ab9155c443e7feedee8dcbbdeaa14b45389
+SHA256: c33a2ae5ba6c744a269eb76b3bd509f18f5c4acdbc5776d69de2f4effcaa9167
 Description: iThemer is a simple, yet powerful theme engine that allows you to theme most of your device.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cef434d39ba05001b7785c8/icon/download?size=medium&hash=5e391ac5cf7110001ac6f6d3
 Name: iThemer
@@ -1549,6 +1747,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.eliassfeir.smartnotifications2_1.5_iphoneos-arm.deb
 Size: 2513490
 MD5sum: 7752adc6d7ec9f98a7f7c3fee6881e49
+SHA1: efdd33fcf945eb315e8295ffdd80680f95aebef9
+SHA256: 4ace11bc75c821ef34b88fcd347a62c35f30ba20dfdfa18bf4b0b9a72009e069
 Description: SmartNotifications
 Icon: https://havoc.app/media/61fc6f0394bb9ecb0d31f0f1
 Name: SmartNotifications 2
@@ -1566,6 +1766,8 @@ Filename: ./debs/com.mpg13.flashback_4.1_iphoneos-arm.deb
 Size: 2068844
 Installed-Size: 4540
 MD5sum: b5352fd863aed815865a96bf1950e620
+SHA1: 0b2d3811ddb3523fb67da75543a4200894cb3c14
+SHA256: d8688fa46b2e9c0ac2fa45d7fbdc30c8967de76448d57ca3857e06de9f989ca7
 Description: Backup your style in style.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/flashback/icon@3x.png
 Name: FlashBack
@@ -1582,6 +1784,8 @@ Filename: ./debs/libnet9_1.2-1_iphoneos-arm.deb
 Size: 30120
 Installed-Size: 140
 MD5sum: a76cb7694e8764334eb56049ff57086f
+SHA1: 61983c3050fe4d23257970170ad13ad16b6b38c6
+SHA256: 6effe60d1a679dc7a91362c023b75330c4097e5f4a6dbb6608a73fe51b260289
 Description: library for the construction and handling of network packets
 Name: libnet9
 Author: MidnightChips <midnightchips@gmail.com>
@@ -1597,6 +1801,8 @@ Filename: ./debs/arpoison_0.7-1_iphoneos-arm.deb
 Size: 9576
 Installed-Size: 88
 MD5sum: ea293263dec317f93806aebb97e4233f
+SHA1: 419fe15ad42a9eb1b5a492f1feabdceb7b1a4715
+SHA256: ad2521bea69929c7c2162536a013c4db766250ca3a9bd554a4284ba29944907c
 Description: Generates user-defined ARP packets
 Name: arpoison
 Author: MidnightChips <midnightchips@gmail.com>
@@ -1614,6 +1820,8 @@ Filename: ./debs/com.amywhile.signalreborn_2.2.1-2_iphoneos-arm.deb
 Size: 614258
 Installed-Size: 1536
 MD5sum: b8c0bc42bc67ec6fcaff32e333928f3d
+SHA1: df06dd75a4b3c21ce11537942da6aae3e1b04372
+SHA256: c67db0ed4235bdcb5dcba4f46e11d68483d00ac118cccefb61f98d94e07efb36
 Description: Visualise your nearby cell towers
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/signal/icon@3x.png
 Name: SignalReborn
@@ -1631,6 +1839,8 @@ Filename: ./debs/com.alphastream.linearforjuice_1.2_iphoneos-arm.deb
 Size: 738
 Installed-Size: 0
 MD5sum: 8ade268168d8491cbe6688cfb93e7e70
+SHA1: 854f8e9f23c6781d26a1e330852f33ff0ea09a1d
+SHA256: 694b9d15b482fce313fcefc50af2f4960d0dfe948687f70a467cba3c7cf7b055
 Description: Transitional package for Linear for Status Bar
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/linear-for-juice/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/linear-for-juice.jpg
@@ -1645,10 +1855,12 @@ Section: Themes
 Maintainer: Alpha_Stream 
 Depends: com.spark.snowboard, com.spark.snowboard.statusbar, firmware (>= 12.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.alphastream.linearforjuice_1.2_iphoneos-arm.deb
+Filename: ./debs/com.alphastream.linearforsb_1.4.1_iphoneos-arm.deb
 Size: 215032
 Installed-Size: 688
 MD5sum: 7cb83e1d10da57bc591dcee730c97c32
+SHA1: d17f65b8aff1e2e0eda0b7d400fcd85553680e8d
+SHA256: 013e7595a4a6ec362487fa3b6bce65f180498df1f7f3c960a859efa34824ff89
 Description: Status bar icons but in a form of lines.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/linear-for-juice/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/linear.jpg
@@ -1666,6 +1878,8 @@ Filename: ./debs/com.gabehern.goji_2.1.2_iphoneos-arm.deb
 Size: 2815022 
 Installed-Size: 4620
 MD5sum: 865acb51fe9ff64f5f85a7137fe7ad1b
+SHA1: a120a5a73eaee1003d581f6094077e782a97c127
+SHA256: f2ed7ffe96264112ba8d92ebb9198267083ac0db96c388da1e7851fce1321c8a
 Description: The classic Goji experience. 
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/goji/icon@3x.png
 Name: Goji
@@ -1683,6 +1897,8 @@ Filename: ./debs/me.alfhaily.cercube_5.3.9_iphoneos-arm.deb
 Size: 3682484
 Installed-Size: 14704
 MD5sum: f3b9e7a27f86cbb54d7067f2ea30fd9b
+SHA1: f71664afea3776f7ba5e0dec60ce017379eb8bd2
+SHA256: d3640eda17f09b99903d3ac72c311af959b3a82039e0c692c1e46954a3dff088
 Description: Download YouTube videos and more! 
 Icon: https://api.ios-repo-updates.com/image.php?url=https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Name: Cercube for YouTube
@@ -1701,6 +1917,8 @@ Filename: ./debs/me.aspenuwu.zinnia_1.1.5_iphoneos-arm.deb
 Size: 237882
 Installed-Size: 1340
 MD5sum: 638ed32b5eebc6659eeea2acb9f7b88f
+SHA1: 3d7964570a9e05a04e47d9457c42531e76684467
+SHA256: 0cee888b0107744e8590ff28ec41e04def806c66a678fc17121e6efc27723d68
 Description: A wonderful neon overhaul for your lock screen!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/zinnia/icon@3x.png
 Name: Zinnia
@@ -1717,6 +1935,8 @@ Filename: ./debs/com.jacobcxdev.libjcx_1.1.1_iphoneos-arm.deb
 Size: 34128
 Installed-Size: 292
 MD5sum: e0c003bb5354ebacd739ea2390389fe0
+SHA1: d637d4e4ea31c00eaf9cbba095a5bf77c87b8415
+SHA256: dc8f35c425ec9eefd37af327408311f13aebad7515a7ccccd0d549b47debf742
 Description: A library used by JacobCXDev.
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
@@ -1732,6 +1952,8 @@ Filename: ./debs/ws.hbang.stopcrashingpls_1.0.2_iphoneos-arm.deb
 Size: 4090
 Installed-Size: 184
 MD5sum: 01724c2cdc7afb6f3105ae2430e166df
+SHA1: 6def23abcfed01e6090afbaf84cb5f67b5d17f8a
+SHA256: 9a1bfc22b9f0e6c790323f8e8243389b5c3b1af6d5d6e3156087d39647efac47
 Description: Workaround for iOS 13 jetsam crash issu
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/stopcrashingpls/icon@3x.png
 Name: StopCrashingPls
@@ -1748,6 +1970,8 @@ Filename: ./debs/safariplus_1.7.20.deb
 Size: 1193328
 Installed-Size: 5421
 MD5sum: 7ca23b8097adede170cb09a20f3ea363
+SHA1: b9b4acdaff5e0818def40b32cab432be3ceced7f
+SHA256: 7a2257ff2da011a01465ddb57fb45d5de9b8687124953cf6623eb2e94e24de5b
 Description: Various enhancements to Safari!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.opa334.safariplus.png
 Name: Safari Plus
@@ -1769,6 +1993,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/winterboard_0.9.3919_iphoneos-arm.deb
 Size: 111104 
 MD5sum: 903869bcc23c88eeb71615e833e626af
+SHA1: 569cc3f77a3ca6cd2046a84bc5c3a68fbb2f00ea
+SHA256: 8cd0ad873eacf4c209e4e89e2e1e0ab0ea963f49cd652ef814ed97d2fb157991
 Description: theme manager, used by most themes
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/winterboard.png
 Name: WinterBoard
@@ -1786,6 +2012,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/org.coolstar.ventana-modern_1.7.0_iphoneos-arm.deb
 Size: 275118
 MD5sum: cb5604e5352323a09da680105893155a
+SHA1: c26b2ffc82c3d168bdc6620b1c801f76f9944a14
+SHA256: a90c2e3791e73743ad92dbf8007edf8f0e5eddacff871db529f8beb61c320e07
 Description: modern lock screen inspired by Windows 10
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f890a2304ffaa4a52e4e52
 Name: Ventana
@@ -1802,6 +2030,8 @@ Filename: ./debs/com.cheeco.emotive_1.1.5_iphoneos-arm.deb
 Size: 4636748
 Installed-Size: 8400
 MD5sum: 77267772e2d42105bef8f231a9a2f23f
+SHA1: f7ff3908b75edf68d2d44afb4895a95e5bf9ff9a
+SHA256: 41103a172443aae594a2d16da19c9970645b35382f38697374bd0026949ae8bd
 Description: A Beautiful Vibrant Theme
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/emotive/icon@3x.png
 Name: Emotive
@@ -1818,6 +2048,8 @@ Filename: ./debs/com.ryannair05.cylinder_1.1_iphoneos-arm.deb
 Size: 226560
 Installed-Size: 1384
 MD5sum: f6cbb0926a91bc188937acd24e36bfde
+SHA1: 41bcf8273d719f8800a7bd1d5e381c2857684883
+SHA256: e28a9fef390be18c3032d1819d06cc8c2ae6a8b4b03d95fdf4f4200df733dfc9
 Description: Make your icons dance
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
@@ -1833,6 +2065,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.powercuts.deb
 Size: 323086
 MD5sum: 1b9e9a77aec626c8994e09a2ba29f52b
+SHA1: c623263322a93154ab4f33969bf1912117df93a5
+SHA256: 66a3e5a132bdb72956a57c188d7de79ea6670c1d0cae026f0a72f52ec4db4f22
 Description: A library to supercharge Shortcuts!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
 Name: Powercuts
@@ -1848,6 +2082,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.powercutsactionspack.deb
 Size: 73866
 MD5sum: 293e54ef87202de7b1af3216041a8c57
+SHA1: 481f8de89e5b39bbf32c78e4a035cf85a48e3f82
+SHA256: 28989d631e078f28ec75d01820b9786b7c2b17d1d9bdeaf900a6e521e5f32499
 Description: Pack of actions for Powercuts
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
 Name: Powercuts Actions Pack
@@ -1863,6 +2099,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.powercutsactivatoractions.deb
 Size: 12972
 MD5sum: 4eb617b3fb5852ebca22ab99ab132889
+SHA1: 217d22b65a936de2d7edc7acfd8ec14ca98e187a
+SHA256: 76083e17e31e9b898ba35f296ac137088d08a8d3b16df70a32ab60bf5a19305b
 Description: Activator actions for Powercuts
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercutsactivatoractions/icon.png
 Name: Powercuts Activator Actions
@@ -1879,6 +2117,8 @@ Filename: ./debs/com.fpt.photomanager12_1.2.5_iphoneos-arm.deb
 Size: 265252
 Installed-Size: 1180
 MD5sum: 4eb9d92b28e035d228a0440c366cd28b
+SHA1: 693dcb1234d941460a8a8f51680be33fab82dd19
+SHA256: 038b9da0ec4fba371f4a6c45de1b1e1b79a1798562894331eaccc69753c670a5
 Description: Add many features to the photos app.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/photomanager/icon@3x.png
 Name: PhotoManager (iOS 12 - 14)
@@ -1894,6 +2134,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.addtofolder.deb
 Size: 139978
 MD5sum: 97d86cc00b4fefacfda97c56b44f08ee
+SHA1: 4c666e461f913e394fb0fd2c57384bda22527fa4
+SHA256: 76467367591dd2a109efc2b0f06a2a8d8be2da4cd3e64610c8cb71a5ddb2bc43
 Description: Easily move apps to your folders
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
 Name: AddToFolder
@@ -1913,6 +2155,8 @@ Filename: ./debs/libactivator_1.9.13_iphoneos-arm.deb
 Size: 930776
 Installed-Size: 5060
 MD5sum: 3284dc032c096bc82c0fb4fa465a0386
+SHA1: a366dce78423356fb52b23e49447fd44d25d62ee
+SHA256: 35bde71d2a2d2ef02b7096e513f693744eb27445b8b2a610ce151f783407e8ad
 Description: Centralized gestures, button and shortcut management for iOS
 Name: Activator
 Author: Ryan Petrich <rpetrich@gmail.com>
@@ -1928,6 +2172,8 @@ Filename: ./debs/com.qiop1379.swipeextenderx_1.5.3-1_iphoneos-arm.deb
 Size: 109442
 Installed-Size: 624
 MD5sum: b08d3d6acc5a475c3a5407a534da60ee
+SHA1: 34f8354e168dd5943ceea251595257ae4cd1abb4
+SHA256: d538a3676d3a25fe6495f67cce80bb7c2853e495ba33fbc87b86f7dfadd6ae68
 Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
@@ -1944,6 +2190,8 @@ Filename: ./debs/com.amywhile.aemulotrial_1.1.2_iphoneos-arm.deb
 Size: 397752
 Installed-Size: 1684
 MD5sum: 6024f06d1e087835938bec613b3b5c4c
+SHA1: 676d8bbe654ef1a6c7c9f66ca3af6f9487c676c9
+SHA256: ed0c98d7fe3a222672a2833e347010a4867ddb8d1570555821450fca70319f4b
 Description: NFC Frickery
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
 Name: Aemulo (Trial)
@@ -1961,6 +2209,8 @@ Filename: ./debs/com.moski.divise_1.2.1_iphoneos-arm.deb
 Size: 2567334
 Installed-Size: 4836
 MD5sum: ab912aafe7f395d8c2aafd2f8e115049
+SHA1: 78159437df86708f9acd4fbc8384c1f00f93ff42
+SHA256: f97228878aca41f5154e0f9485d0f62d188a3f75d11badcc44899061a95b1c64
 Description: arm64 Dualboots/Tethered Downgrades on device!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/divise/icon@3x.png
 Name: Divisé
@@ -1977,6 +2227,8 @@ Filename: ./debs/me.midnightchips.snapback_2.0.3_iphoneos-arm.deb
 Size: 553190
 Installed-Size: 1260
 MD5sum: 53a82a508562f409366dd49f3279e6d2
+SHA1: 4e6d8cb5453a0fff685eec2f4c183551ddf22417
+SHA256: 9aca8d90b1cb3ff2a985c2f716167b764ebe11217fa08ddceb027decf0ef5910
 Description: iOS Time Machine
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/snapback/icon@3x.png
 Name: SnapBack
@@ -1993,6 +2245,8 @@ Filename: ./debs/com.kef.rofi_1.2.2_iphoneos-arm.deb
 Size: 56132
 Installed-Size: 396
 MD5sum: ad820f0b1c32acf7b6e09e0cd36d11bc
+SHA1: 98bfc9636f20fc3c8d4162832e5500c9a1e76d2c
+SHA256: 14a2555526791ecdd5f9acf196ae44371cbc330de699b44a60071a0a1b2d1a39
 Description: An app launcher tweak.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/rofi/icon@3x.png
 Name: Rofi
@@ -2009,6 +2263,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.zachary7829.importcuts_1.0_iphoneos-arm.deb
 Size: 7688
 MD5sum: 24cbf67f5704a17fe0b96e376ae11cfe
+SHA1: 862a5040690283f9caa135d1d55e91806ff775dd
+SHA256: 9ae5c898c45034086bcec0baffe0b11467a98b6ce7ecaaa29e45521cf57bf087
 Description: Import .shortcut files, even when unjailbroken
 Name: Importcuts
 Author: zachary7829
@@ -2023,6 +2279,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.cokepokes.libcr4shsend_0.1-1_iphoneos-arm.deb
 Size: 213,636
 MD5sum: 2a485a22c41eef4a632dbf95f32d7b86
+SHA1: 2bbb081c325b534ed2db6b732d969c3b34c2084f
+SHA256: ab44be04909e4cae3089114466d3d4ae06baf935cfd003415549a8419d2e34f9
 Description: Library for developers to request permission to automatically send crash reports from Cr4shed
 Name: libcr4shsend
 Author: CokePokes <cokepokes@gmail.com>
@@ -2037,6 +2295,8 @@ Filename: ./debs/com.muirey03.cr4shed_4.2.2.deb
 Size: 218172
 Installed-Size: 1856
 MD5sum: 8d5afba51918b43787d308604a1b95bf
+SHA1: 8c2aa588cbdfb2bc15cf8a6614bc1af9b3f9a6b1
+SHA256: cc189e77794f66930ff4171fbd35ab38956669353d1d925a8f8b8aecd844accf
 Description: A modern crash reporter for iOS
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f940a401a1cb7a5c422cc5
 Name: Cr4shed
@@ -2054,6 +2314,8 @@ Filename: ./debs/ca.kirara.voltage_1.6.3_iphoneos-arm.deb
 Size: 33750
 Installed-Size: 484
 MD5sum: fe07e7d56dd732c62bbb43be3a428c73
+SHA1: cc3cd8e2b5b28911fe010163851c2f2eaf63be19
+SHA256: 04fb2cf4b456ec22a78e39ab76aaccd2c00189b2ae1d16d39b8fd15343684581
 Description: Suppress banners in apps
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/eyeplugs/icon@3x.png
 Name: Eyeplugs
@@ -2071,6 +2333,8 @@ Filename: ./debs/com.muirey03.powermodule_1.3.1.deb
 Size: 73568
 Installed-Size: 652
 MD5sum: 28b582531f2c4ddedcd3feba38d1453d
+SHA1: a93a98f03c325b212f536bb9325155a434b15a9d
+SHA256: 0b7ba150db26222103dc839dffaa9bfccfb2b8e500c9fd1f6ca380b3c8f3f539
 Description: Group different utility actions into one control center module (iOS 11 only)
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f940c601a1cb7a5c422dd3
 Name: PowerModule
@@ -2087,6 +2351,8 @@ Filename: ./debs/xyz.cypwn.no2theft4_2.0k_iphoneos-arm.deb
 Size: 1302358
 Installed-Size: 2592
 MD5sum: 8753076f292ebf80f2040ff4566d6c7e
+SHA1: 47f73dca0e246b560d82267d2d355b87f5efb119
+SHA256: 1fa93327779292feb58ea269d2270e82897a6fa8dbfd37909b86fefdea8789d3
 Description: The most complete tweak against pranksters, annoying nosy people and thieves.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61fc6f7894bb9ecb0d321bc0
 Name: No2Theft4
@@ -2104,6 +2370,8 @@ Filename: ./debs/com.fpt.pokecall_1.4.13_iphoneos-arm.deb
 Size: 18772162
 Installed-Size: 32124
 MD5sum: 389db181e3a6936ac82ea4988b91d8d1
+SHA1: 2e70abe5f55c29c209e0af819be28169f4f8c4c2
+SHA256: ffa70a8a82f0c065ec3c9bbb3440b15e84dfcae8e79258594a13a6006eeeb2cf
 Description: Incoming caller wants to battle!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/pokecall/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/pokecall.jpg
@@ -2122,6 +2390,8 @@ Filename: ./debs/pincrush_0.9.2-1_iphoneos-arm.deb
 Size: 64440
 Installed-Size: 164
 MD5sum: 6a286af8d1529ab9767e0a478dfad523
+SHA1: fa59bca702cfc288f7f8c065e69ec78202fe0cff
+SHA256: 7aac84d759fcaa01ee6be06694df5524969e9c8acce3877f40c5e652b1c8e021
 Description: optimize PNGs just like Apple does pincrush is an open, cross-platform alternative to Apple's proprietary PNG mangler, to optimize PNGs for display on iPhoneOS devices.
 Name: pincrush
 Author: Dustin Howett <dustin@howett.net>
@@ -2140,6 +2410,8 @@ Filename: ./debs/dpkg_1.21.1_iphoneos-arm.deb
 Size: 1209474
 Installed-Size: 5660
 MD5sum: 75e20a6949080c6be10b8b8b91215103
+SHA1: 710adc950c50bdff1f093a94f6a789ac348b555b
+SHA256: 39641d056d364ecab5937aa41a449cdac10f149d6a77c9d9c2f85ae37dfaa93e
 Description: package maintainance tools from Debian
 Name: dpkg
 
@@ -2155,6 +2427,8 @@ Filename: ./debs/libdpkg-dev_1.21.1_iphoneos-arm.deb
 Size: 285076
 Installed-Size: 1072
 MD5sum: 80c1e87df47ceacdda8e8c46e87f6a64
+SHA1: fd0cd9c2508832615f5a8387a9198b546f23a904
+SHA256: e39a3b2bf2e1d2f0adc5e722cb2cb2a96e3b84757192d48cc1c8cd215f773ea1
 Description: Debian package management static library This package provides the header files and static library necessary to develop software using libdpkg, the same library used internally by dpkg. . Note though, that the API is to be considered volatile, and might change at any time, use at your own risk.
 Name: libdpkg-dev
 
@@ -2172,7 +2446,9 @@ Architecture: iphoneos-arm
 Filename: ./debs/libdpkg-perl_1.21.1_iphoneos-arm.deb
 Size: 346734
 Installed-Size: 1512
-MD5sum: f2ab2cc019cae07d99b38b03fe39edea 
+MD5sum: f2ab2cc019cae07d99b38b03fe39edea
+SHA1: c0bc03afe742ac505298c7c1d3c01a7620d1e074
+SHA256: e90ca5d433126c1bbb030aa1210a826ba7ceba454fc4236a21c14c2805ff9df8
 Description: Dpkg perl modules This package provides the perl modules used by the scripts in dpkg-dev. They cover a wide range of functionality. Among them there are the following public modules: . - Dpkg: core variables - Dpkg::Arch: architecture handling functions - Dpkg::Build::Info: build information functions - Dpkg::BuildFlags: set, modify and query compilation build flags - Dpkg::BuildOptions: parse and manipulate DEB_BUILD_OPTIONS - Dpkg::BuildProfiles: parse and manipulate build profiles - Dpkg::Changelog: parse changelogs - Dpkg::Changelog::Entry: represents a changelog entry - Dpkg::Changelog::Parse: generic changelog parser for dpkg-parsechangelog - Dpkg::Checksums: generate and parse checksums - Dpkg::Compression: simple database of available compression methods - Dpkg::Compression::FileHandle: transparently (de)compress files - Dpkg::Compression::Process: wrapper around compression tools - Dpkg::Conf: parse dpkg configuration files - Dpkg::Control: parse and manipulate Debian control information (.dsc, .changes, Packages/Sources entries, etc.) - Dpkg::Control::Changelog: represent fields output by dpkg-parsechangelog - Dpkg::Control::Fields: manage (list of known) control fields - Dpkg::Control::Hash: parse and manipulate a block of RFC822-like fields - Dpkg::Control::Info: parse files like debian/control - Dpkg::Control::Tests: parse files like debian/tests/control - Dpkg::Control::Tests::Entry: represents a debian/tests/control stanza - Dpkg::Deps: parse and manipulate dependencies - Dpkg::Deps::Simple: represents a single dependency statement - Dpkg::Deps::Multiple: base module to represent multiple dependencies - Dpkg::Deps::Union: list of unrelated dependencies - Dpkg::Deps::AND: list of AND dependencies - Dpkg::Deps::OR: list of OR dependencies - Dpkg::Deps::KnownFacts: list of installed and virtual packages - Dpkg::Exit: push, pop and run exit handlers - Dpkg::Gettext: wrapper around Locale::gettext - Dpkg::IPC: spawn sub-processes and feed/retrieve data - Dpkg::Index: collections of Dpkg::Control (Packages/Sources files for example) - Dpkg::Interface::Storable: base object serializer - Dpkg::Path: common path handling functions - Dpkg::Source::Format: manipulate debian/source/format files - Dpkg::Source::Package: extract Debian source packages - Dpkg::Substvars: substitute variables in strings - Dpkg::Vendor: identify current distribution vendor - Dpkg::Version: parse and manipulate Debian package versions . All the packages listed in Suggests or Recommends are used by some of the modules.
 Name: libdpkg-perl
 
@@ -2188,6 +2464,8 @@ Filename: ./debs/dpkg-dev_1.21.1_iphoneos-arm.deb
 Size: 875420
 Installed-Size: 1516
 MD5sum: f7e4513e79bba51aa49e943f820c6204
+SHA1: c25c1146ee0aedc344b45d5e679d61c390113b09
+SHA256: dc24799f0312799e097cdec1f8264ccf742d76b00c88a0ee2a54492dacb1f195
 Description: Debian package development tools This package provides the development tools (including dpkg-source) required to unpack, build and upload Debian source packages.
 Name: dpkg-dev
 
@@ -2203,6 +2481,8 @@ Filename: ./debs/perl_5.32.1_iphoneos-arm.deb
 Size: 8749710
 Installed-Size: 52676
 MD5sum: 093e31789688030ee1be1ecff43e32bd
+SHA1: e09cdf605da9d259bf6557a9f49917d28f2e5936
+SHA256: b0fe9530437cf2fdee66707df74549d319ebee9ee3d951e7e705c08a3f5c3f79
 Description: Larry Wall's Practical Extraction and Report Language Perl is a highly capable, feature-rich programming language with over 20 years of development. Perl 5 runs on over 100 platforms from portables to mainframes. Perl is suitable for both rapid prototyping and large scale development projects. . Perl 5 supports many programming styles, including procedural, functional, and object-oriented. In addition to this, it is supported by an ever-growing collection of reusable modules which accelerate development. Some of these modules include Web frameworks, database integration, networking protocols, and encryption. Perl provides interfaces to C and C++ for custom extension development.
 Name: perl
 
@@ -2217,6 +2497,8 @@ Filename: ./debs/libiosexec1_1.0.18_1.2-alpha1_iphoneos-arm.deb
 Size: 8868
 Installed-Size: 100
 MD5sum: 7638b2df47efec36545228b56cd7afee
+SHA1: 629b309b661d366ee2ecd0f10af8f5d1365c4490
+SHA256: 19a802b9f3902bbec8ecefb9b9b797ffa9752736dd1aeb2d58f287179e9d4fd9
 Description: shim for execve w/ shell script support
 Name: libiosexec1
 
@@ -2230,6 +2512,8 @@ Filename: ./debs/com.ichitaso.otadisabler_0.2_iphoneos-arm.deb
 Size: 27958
 Installed-Size: 200
 MD5sum: 1b8d4a153aeacb9870c984ec71cb9a36
+SHA1: cc15e4c45e394c77fe0b6f282b1a377357e3f68e
+SHA256: c3f83ba72e1d00b565c29dd4a7c195d26006c1cd774184ee85bab8836c516356
 Description: Delete and disable OTA badge
 Name: OTADisabler
 Author: ichitaso
@@ -2246,6 +2530,8 @@ Filename: ./debs/net.cadoth.otaenabler_0.4.1_iphoneos-arm.deb
 Size: 1854
 Installed-Size: 4
 MD5sum: a3c93fa5349c9d4d48cc9ec68733fec0
+SHA1: 030c96bff43ea322020027dc82e8cf546a360709
+SHA256: dfc1f716b23f894cb6e59b9e631f5bb5c3c0d7ce611ad38dc2d7c3fb5d63247b
 Description: Re-enable OTA software updates blocked by various methods
 Name: OTAEnabler
 Author: nyuszika7h <nyuszika7h@gmail.com>
@@ -2268,6 +2554,8 @@ Filename: ./debs/afc2kppless_1.1.6-1.deb
 Size: 12788
 Installed-Size: 539
 MD5sum: 5c2ee661c5f7e356ce518dc902ef1fb5
+SHA1: c8c574c1581d61675c05c7cc7c6c427231b3eaef
+SHA256: c0871d4c9c35190c83b4c73fa236668662f5d996eed1cb981395483c0cf2467a
 Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
 Name: Apple File Conduit "2" (iOS 11+, arm64)
 Author: saurik, Cannathea <csupport@cannathea>
@@ -2285,6 +2573,8 @@ Filename: ./debs/apt.cydiakk.legizmo.grace_2.3.1-2_iphoneos-arm.deb
 Size: 336430
 Installed-Size: 2240
 MD5sum: 720968e8ac5a0e2e9048e85b9ba68c08
+SHA1: 866888d5d2859685cda619b569fdd2865488ec4b
+SHA256: b866864ee9ee5a8335ecb59c290eff709ab5fae8d5b415e856e1a925da54ea7a
 Description: Enables pairing, connecting and updating to unsupported versions of watchOS
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/legizmo-grace/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/legizmo-grace.jpg
@@ -2304,6 +2594,8 @@ Filename: ./debs/apt.cydiakk.legizmo.jupiter_3.2_iphoneos-arm.deb
 Size: 410674
 Installed-Size: 3608
 MD5sum: f048cdddf9e5017e4ca51b5c08d17a76
+SHA1: c46838626cd0513d04d84c51169890d000e8032a
+SHA256: 1534f4c7a16002c2acfaa93039e078fafa71f35bfb1e2f0ca8912c027dfc958b
 Description: Enables pairing, connecting and updating to unsupported versions of watchOS
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/legizmo-grace/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/legizmo-jupiter.jpg
@@ -2322,6 +2614,8 @@ Filename: ./debs/vaon.deb
 Size: 70774
 Installed-Size: 572
 MD5sum: 5347a8f605bd3f25c33ddc151b4c9ddf
+SHA1: 60b9bc1972ab4de9cc40daaa647d8321fcb295b5
+SHA256: dfa1c89e9f1e8cdc6eb1feceeb988fa28234357ad64b001e0d531deb5811ef5b
 Description: Bluetooth battery information of connected/disconnected devices in the app switcher.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/61d3f4503e2175001af94398/icon/download?size=medium&hash=61d3f4503e2175001af9439e
 Name: Vaon
@@ -2338,6 +2632,8 @@ Filename: ./debs/scribble.deb
 Size: 43498
 Installed-Size: 444
 MD5sum: f3e5c30751ffdb372d073a7d0eeb14bd
+SHA1: 15dcb8b738e891a74505051e2b50d4905b9ffad3
+SHA256: b311a4a5d284057bfefed5d493c2092cd3e1a8cda1eb50676fb902efca540c2c
 Description: Unlock your device with a Scribble!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cc5f4121fd91c001c731a82/icon/download?size=medium&hash=5ccc7510945bff00112badc4
 Name: Scribble
@@ -2353,6 +2649,8 @@ Filename: ./debs/libscribble.deb
 Size: 10382
 Installed-Size: 168
 MD5sum: c3dda79824b428c5aebcb83263a84e02
+SHA1: 31cecec847fbd823d6392ab00d2a5099e6ef975f
+SHA256: 90e740fcbce7021c321c785c66b16275a1126f96e2d52eba6d6d0be6246bdd06
 Description: Scribble Gesture Library
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/60579a803f4976001a39ae1b/icon/download?size=medium&hash=2
 Name: libScribble
@@ -2367,6 +2665,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/theblues.deb
 Size: 7455920
 MD5sum: d7c05b0ee56875f0ecd5a2af198fa7fe
+SHA1: cf64cb19ec6d580526b8de6dda47bb4b9d713c0d
+SHA256: 5137948e3e0b16d125f66e5625bec00bce3f86a5fa77236550513486b6db4afc
 Description: black blue icons
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d23336e73f31e00141ab466/icon/download?size=medium&hash=5d23336e73f31e00141ab46b
 Name: TheBlues
@@ -2382,6 +2682,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/bigsurbar.deb
 Size: 4008682
 MD5sum: 35b3b2266042687eb302260d00da43f1
+SHA1: 70de9164dbc2cfece38c0553ca1f4ba92d915344
+SHA256: e81681d343112162eb9b623ae0ad1ec774c4f58e31758add63b70c2ece22173a
 Description: MacOS Big Sur Statusbar
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/6052ad7d6e0f74001a2648ee/icon/download?size=medium&hash=6052b39a0eba20001abba0a9
 Name: BigSurBar
@@ -2399,6 +2701,8 @@ Filename: ./debs/com.cardboardface.confirmrotate_1.2.6_iphoneos-arm.deb
 Size: 78520
 Installed-Size: 992
 MD5sum: 4813c51d04aa920c406f23698aaab03a
+SHA1: 1c170fba3acafd9733989c875d23a7b3a488f248
+SHA256: 4b7c7f22332ace261464cadfbc862a08c9f7d4dec341a66183b7f24d0506bdb1
 Description: Ask before rotating!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620c67907669e842d27dad17
 Name: ConfirmRotate
@@ -2417,6 +2721,8 @@ Filename: ./debs/com.adamseiter.animationsbefastplus_5.1_iphoneos-arm.deb
 Size: 71688
 Installed-Size: 600
 MD5sum: d90f164affc91d532d5f666fb9c274e7
+SHA1: 8b87af82ed4386fe993f5363b5fea605bc5c05ab
+SHA256: fdd8494c1284903b95754e31f6555a6413fffd94d061f2f2ab09b79b9ffd1c33
 Description: Speed up animations
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620ca79bc80367a0d8c7535b
 Name: AnimationsBeFastPlus
@@ -2433,6 +2739,8 @@ Filename: ./debs/com.smokin1337.3dtools_1.0.6_iphoneos-arm.deb
 Size: 1155252
 Installed-Size: 2068
 MD5sum: 3815f2a274f34047cac27aae1b511209
+SHA1: d4dceeb7276a269acd2b2989cdc8bcbfa15fdeed
+SHA256: 0f53f8a98eb79c488f4f30bedec4a5634e2c213c9b3b62f60ef81d346cd4ed30
 Description: Add helpfl tools to your 3D touch menu !
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f88b51ca54d59904e3bcb5
 Name: 3DTools
