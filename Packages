@@ -2747,3 +2747,23 @@ Name: 3DTools
 Author: smokin <smokin1337@gmail.com>
 Depiction: https://havoc.app/depiction/3dtools
 SileoDepiction: https://havoc.app/package/3dtools/depiction.json
+
+Package: com.adamseiter.animplus
+Version: 2.5
+Section: Tweaks
+Maintainer: eXqusic 
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, applist, firmware (<= 15)
+Conflicts: com.mostafa89.fastup, ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Architecture: iphoneos-arm
+Filename: ./debs/com.adamseiter.animplus_2.5_iphoneos-arm.deb
+Size: 78508
+Installed-Size: 648
+MD5sum: 314ad970efb02e60a945fd2c72fbe080
+SHA1: 2ff1655905d2a5e87ab2ac6340fcc96d11668a70
+SHA256: 425e5b38badaed576ed474ce42774c1a7ee6c70dfb9e3ed7c2607a45529b07f2
+Description: Speed up those animations
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620ca7b6c80367a0d8c75d09
+Name: AnimPlus
+Author: eXqusic
+Depiction: https://havoc.app/depiction/animplus
+SileoDepiction: https://havoc.app/package/animplus/depiction.json
