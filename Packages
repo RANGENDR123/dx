@@ -2767,3 +2767,21 @@ Name: AnimPlus
 Author: eXqusic
 Depiction: https://havoc.app/depiction/animplus
 SileoDepiction: https://havoc.app/package/animplus/depiction.json
+
+Package: com.xandesign.Felicity
+Version: 5.3.1
+Section: Themes
+Maintainer: XerusDesign <xerusxan@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.xandesign.felicity_5.3.1_iphoneos-arm.deb
+Size: 10306176
+MD5sum: b95a4f6d9382e541b734fe933bf5a45d
+SHA1: 018de859185f1a23b58713ed9904fbe7aa136d52
+SHA256: c5337872d84eaf01ecc1a1f2cffefa2d26c94ccd5ce1a6a94d4971234802bb89
+Description: An intense and happy theme. — This package is old and outdated. Upgrade to Felicity Pro (https://repo.dynastic.co/package/felicitypro (https://repo.dynastic.co/package/felicitypro)) for free!
+Homepage: https://twitter.com/xerusdesign
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.dynastic.co/data/static/version/429810693605163008/429810693735186432?size=180
+Name: Felicity Pro
+Author: XerusDesign <xerusxan@gmail.com>
+Depiction: https://repo.dynastic.co/package/com.xandesign.Felicity
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/272854888990375936/
