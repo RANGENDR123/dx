@@ -2781,7 +2781,27 @@ SHA256: c5337872d84eaf01ecc1a1f2cffefa2d26c94ccd5ce1a6a94d4971234802bb89
 Description: An intense and happy theme. — This package is old and outdated. Upgrade to Felicity Pro (https://repo.dynastic.co/package/felicitypro (https://repo.dynastic.co/package/felicitypro)) for free!
 Homepage: https://twitter.com/xerusdesign
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.dynastic.co/data/static/version/429810693605163008/429810693735186432?size=180
-Name: Felicity Pro
+Name: Felicity
 Author: XerusDesign <xerusxan@gmail.com>
 Depiction: https://repo.dynastic.co/package/com.xandesign.Felicity
 SileoDepiction: https://repo.dynastic.co/sileo-depiction/272854888990375936/
+
+Package: me.alfhaily.rocket
+Priority: optional
+Version: 3.7.41
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/me.alfhaily.rocket_3.7.41_iphoneos-arm.deb
+Size: 2354188
+Installed-Size: 8732
+MD5sum: eda78ba8cc1c50c59ab3edac77fa91a4
+SHA1: 049145ac8376e115c1566ba7ec053372cc824b5b
+SHA256: c5f9da0a133ee127999acc08ae5c7c506297486beb36140fe8ef6a8c5284c996
+Description: Save posts and view stories anonymously and do much more
+Icon: https://api.ios-repo-updates.com/image.php?url=https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
