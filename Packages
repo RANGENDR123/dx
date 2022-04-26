@@ -2071,7 +2071,8 @@ Description: A library to supercharge Shortcuts!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
 Name: Powercuts
 Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercuts.php
+Depiction: https://chariz.com/get/powercuts
+SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.powercuts/depiction.json
 
 Package: com.anthopak.powercutsactionspack
 Version: 1.0
