@@ -2822,3 +2822,37 @@ Name: Alive
 Author: @jesus_punk08 <jesus.punk08@gmail.com>
 Depiction: https://repo.packix.com/package/com.jesuspunk.Alive/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.jesuspunk.Alive/depiction
+
+Package: com.axel4.aurora
+Version: 0.8
+Section: Themes
+Maintainer: AX3L_4 <axel4punk@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/aurora.deb
+Size: 19785092
+MD5sum: 511a122132e93019323c18e30cf5a557
+SHA1: faa61fabeaf2cefdfda0becd7cbc8ac9498f56f9
+SHA256: 28ac04c6be7d7e47f030726fcd78ba9f94a7e91c243cb8decdbf057fc570ad28
+Description: The most underrated theme right now
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e08e076388013001adaf763/icon/download?size=medium&hash=5e08e076388013001adaf768
+Name: Aurora
+Author: AX3L_4 <axel4punk@gmail.com>
+Depiction: https://repo.packix.com/package/com.axel4.aurora/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.axel4.aurora/depiction
+
+Package: com.blazitrill.aurai
+Version: 1.4.1
+Section: Themes
+Maintainer: blazitrill <blazitrill@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/aurai.deb
+Size: 8975540
+MD5sum: 1e252afd97ceaaa988d6f232a447c85f
+SHA1: 4945a9dd92aa992b414b41c6278c11e17d94714f
+SHA256: b9595940dbbb0ca95a7ce141cf8276c792b6796e05f6f032f80f472d28471d14
+Description: Colorful icons for your iOS device
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d0195099bd93600144d9dad/icon/download?size=medium&hash=5d229e7af01adb0014b28f76
+Name: Aurai
+Author: blazitrill <blazitrill@gmail.com>
+Depiction: https://repo.packix.com/package/com.blazitrill.aurai/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.blazitrill.aurai/depiction
