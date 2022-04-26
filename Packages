@@ -233,7 +233,7 @@ Icon: https://havoc.app/media/61f8ad5be40b9eda481119f8
 Name: CustomPlayer
 Author: iCraze <icrazeios@protonmail.com>
 Depiction: https://havoc.app/depiction/customplayer
-SileoDepiction: https://havpc.app/package/customplayer/depiction.json
+SileoDepiction: https://havoc.app/package/customplayer/depiction.json
 
 Package: com.opa334.altlist
 Version: 1.0.8
@@ -2860,3 +2860,58 @@ Name: Aurai
 Author: blazitrill <blazitrill@gmail.com>
 Depiction: https://repo.packix.com/package/com.blazitrill.aurai/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.blazitrill.aurai/depiction
+
+Package: com.alimaulana.searchbarx
+Version: 1.5
+Section: Widgets
+Maintainer: alimaulana <dev.alimaulana@gmail.com>
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Filename: ./debs/searchbarx.deb
+Size: 514522
+MD5sum: 79cad5794e10f8a5d72e14205b351f44
+SHA1: ef885e52bc5a56454665058559ffaac2de143e12
+SHA256: 8b8dd72882df6bf99912b718e69fcc3e45741c6cb228f6480f9e7d90a899aa2a
+Description: Awesome Google Search Bar widget for your Device
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e7a01fc126502003da37298/icon/download?size=medium&hash=5e7a07e3cfc8a6003d939cde
+Name: Search BarX
+Author: alimaulana <dev.alimaulana@gmail.com>
+Depiction: https://repo.packix.com/package/com.alimaulana.searchbarx/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.alimaulana.searchbarx/depiction
+
+Package: com.matchstic.xenhtml
+Priority: optional
+Version: 2.0.2~release
+Section: Tweaks
+Maintainer: akamatchstic <matt@incendo.ws>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.matchstic.xenhtml_2.0.2_release_iphoneos-arm.deb
+Size: 4426416
+MD5sum: 78e5c3b58e153f908664486e3883dd7d
+SHA1: 72df6da1e69ec49a62e4a502d0b5319fb9c4ae2d
+SHA256: 7536e6678be0eff88ec12de6855e55ed511672ba0f88f2ec563f0fa1bea8ffbd
+Description: Run HTML widgets on the Lockscreen and Homescreen
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620f9c8bb7f4f71f10d7bfd9
+Name: Xen HTML
+Author: akamatchstic <matt@incendo.ws>
+Depiction: https://havoc.app/depiction/xenhtml
+SileoDepiction: https://havoc.app/package/xenhtml/depiction.json
+
+Package: com.unlimapps.uaunbox
+Version: 0.0.2-1
+Section: Development
+Maintainer: UnlimApps Inc. 
+Depends: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/uaunbox_0.0.2-1.deb
+Size: 11892
+Installed-Size: 284
+MD5sum: ab041a8f42b41860203ca9c6a217d745
+SHA1: 1d608115599e9dae2dbe7c2abd188c1c0c383985
+SHA256: 22c9e7c5fdda7837cfc2f422234ffa22c8fc81dd9988243844af47a43bd50e4c
+Description: filesystem operations as if user root
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.unlimapps.uaunbox.png
+Name: UAUnbox
+Author: UnlimApps Inc.
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uaunboxDp
