@@ -2915,3 +2915,21 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: UAUnbox
 Author: UnlimApps Inc.
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uaunboxDp
+
+Package: com.walkerbagley.caged
+Version: 1.1
+Section: Widgets
+Maintainer: Walker Bagley <walkerabagley@gmail.com>
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Filename: ./debs/caged.deb
+Size: 1882
+MD5sum: 8f00b21559a8bc7854500fa8e8a774f7
+SHA1: 1339e8ffda26b4aadaf6c5b4b7007fe2ffce3f84
+SHA256: c664166892d488240ccbb64ec56d497c4749708b2cf6e2986373d650bd310245
+Description: An awesome widget for your home screen creating a background for your apps.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5ea9a6db106541001cdc3a32/icon/download?size=medium&hash=5ea9bb3869dc9a001a55f249
+Name: Caged
+Author: Walker Bagley <walkerabagley@gmail.com>
+Depiction: https://repo.packix.com/package/com.walkerbagley.caged/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.walkerbagley.caged/depiction
