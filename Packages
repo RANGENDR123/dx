@@ -2933,3 +2933,21 @@ Name: Caged
 Author: Walker Bagley <walkerabagley@gmail.com>
 Depiction: https://repo.packix.com/package/com.walkerbagley.caged/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.walkerbagley.caged/depiction
+
+Package: com.alimaulana.cue
+Version: 1.1
+Section: Widgets
+Maintainer: alimaulana <dev.alimaulana@gmail.com>
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Filename: ./debs/cue.deb
+Size: 554864
+MD5sum: 67e48e339daea75f0c2714af9606ddd6
+SHA1: fb67c1c3db5847c223adabb5c296b258e40c9abf
+SHA256: 146fa2073f583a5a6987e3bd717f1a96767095899e5b41f2b8b1127f444b4828
+Description: Awesome universal widget for your device
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f2ec4163f7703001a061962/icon/download?size=medium&hash=5f2f85253f7703001a0620e0
+Name: Cue
+Author: alimaulana <dev.alimaulana@gmail.com>
+Depiction: https://repo.packix.com/package/com.alimaulana.cue/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.alimaulana.cue/depiction
