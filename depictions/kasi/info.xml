@@ -1,10 +1,10 @@
 <package>
-	<id>com.alimaulana.cue</id>
-	<name>Cue</name>
-	<version>1.1</version>
+	<id>com.alimaulana.kasi</id>
+	<name>Kasi</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -12,8 +12,8 @@
 	</dependencies>
 	<shortDescription>Cue widget.</shortDescription>
 	<descriptionlist>
-		<description>Cue 1.1,   compatible to iOS 10.0 - iOS 14.4</description>
-		<description>Cue For Jailbreak!.</description>
+		<description>Kasi 1.0,   compatible to iOS 9.0 - iOS 14.4</description>
+		<description>Kasi For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.

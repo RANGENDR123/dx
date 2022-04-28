@@ -2945,9 +2945,27 @@ Size: 554864
 MD5sum: 67e48e339daea75f0c2714af9606ddd6
 SHA1: fb67c1c3db5847c223adabb5c296b258e40c9abf
 SHA256: 146fa2073f583a5a6987e3bd717f1a96767095899e5b41f2b8b1127f444b4828
-Description: Awesome universal widget for your device
+Description: Cue widget
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f2ec4163f7703001a061962/icon/download?size=medium&hash=5f2f85253f7703001a0620e0
 Name: Cue
 Author: alimaulana <dev.alimaulana@gmail.com>
 Depiction: https://repo.packix.com/package/com.alimaulana.cue/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.alimaulana.cue/depiction
+
+Package: com.alimaulana.kasi
+Version: 1.0
+Section: Widgets
+Maintainer: alimaulana <dev.alimaulana@gmail.com>
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Filename: ./debs/kasi.deb
+Size: 957262
+MD5sum: e12afed2d109e7bbee65b0b667b01eee
+SHA1: df9db4daa8c8ce72e63461650c7d9891debece22
+SHA256: c772ccd513a4f8f7e3ea1792eeb9408699b0d0261d49f9c2eb9088b1f13a4c76
+Description: Kasi widget
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f0ff0fa79d251001a5e9e84/icon/download?size=medium&hash=5f0ff33a83b80b001a95e254
+Name: Kasi
+Author: alimaulana <dev.alimaulana@gmail.com>
+Depiction: https://repo.packix.com/package/com.alimaulana.kasi/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.alimaulana.kasi/depiction
