@@ -2969,3 +2969,21 @@ Name: Kasi
 Author: alimaulana <dev.alimaulana@gmail.com>
 Depiction: https://repo.packix.com/package/com.alimaulana.kasi/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.alimaulana.kasi/depiction
+
+Package: com.imo7and.shade
+Version: 1.0
+Section: Widgets
+Maintainer: imo7and <imo7andsupp@gmail.com>
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Filename: ./debs/shade(widget).deb
+Size: 583004
+MD5sum: b12d857a0f2f2c774b5634ec2c44ff75
+SHA1: f27a3ed6d8da291b3d9b817f5ceebc000a8ce3d0
+SHA256: df791d80d5568d307705caf1a4105a7fc42682a98402b2fbbacd7c6f497b4257
+Description: Shade (Widget) For XenHtml
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5ecfb1fdaca18d001b30c6b8/icon/download?size=medium&hash=5ed41bc5eb1aee001a063585
+Name: Shade (Widget)
+Author: imo7and <imo7andsupp@gmail.com>
+Depiction: https://repo.packix.com/package/com.imo7and.shade/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.imo7and.shade/depiction

@@ -1,19 +1,19 @@
 <package>
-	<id>com.amywhile.aemulotrial</id>
-	<name>Aemulo (Trial)</name>
-	<version>1.1.2</version>
+	<id>com.imo7and.shade</id>
+	<name>Shade (Widget)</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>NFC Frickery.</shortDescription>
+	<shortDescription>Widget for XenHtml.</shortDescription>
 	<descriptionlist>
-		<description>Aemulo (Trial) 1.1.2,   compatible to iOS 13.0 - iOS 14.8</description>
-		<description>Aemulo (Trial) For Jailbreak!.</description>
+		<description>Shade (Widget) 1.0,   compatible to iOS 10.0 - iOS 14.x</description>
+		<description>Shade (Widget) For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
