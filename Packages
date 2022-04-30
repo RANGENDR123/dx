@@ -2987,3 +2987,21 @@ Name: Shade (Widget)
 Author: imo7and <imo7andsupp@gmail.com>
 Depiction: https://repo.packix.com/package/com.imo7and.shade/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.imo7and.shade/depiction
+
+Package: com.angus.kokyu
+Version: 1
+Section: Widgets
+Maintainer: Angus Arndt
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Filename: ./debs/kokyū.deb
+Size: 587544
+MD5sum: 28c972d6b3ad8f181297dd3bd3b940dd
+SHA1: 5993be3cc67ac1c500e784810ab201e8fb166559
+SHA256: d7dd96f847b4d6e8f00e71b2eef524f686ac13129758fb1229368008c03c19f9
+Description: A futuristic, neumorphic music widget.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e998a1e3d1e7b001a1ce3e4/icon/download?size=medium&hash=5e998cf23d1e7b001a1ce40d
+Name: Kokyū
+Author: Angus Arndt
+Depiction: https://repo.packix.com/package/com.angus.kokyu/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.angus.kokyu/depiction
