@@ -3005,3 +3005,21 @@ Name: Kokyū
 Author: Angus Arndt
 Depiction: https://repo.packix.com/package/com.angus.kokyu/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.angus.kokyu/depiction
+
+Package: com.yourepo.alimaulana.amber
+Version: 1.1
+Section: Widgets
+Maintainer: Ali Maulana <dev.alimaulana@gmail.com>
+Depends: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Filename: ./debs/amber.deb
+Size: 792042
+MD5sum: 0983c3dd988110e0c1038d74082fc98f
+SHA1: 9e832df0a5ec46dd1e5dc0fca77ea06f111d8305
+SHA256: 25715608ba11eaebbea55548baec20d9bc16d467d90f1c57f62a84e6d623a377
+Description: AmberWeather on iOS for HS & LS
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d53799ea3b3c0001a515216/icon/download?size=medium&hash=2
+Name: Amber
+Author: Ali Maulana <dev.alimaulana@gmail.com>
+Depiction: https://repo.packix.com/package/com.yourepo.alimaulana.amber/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.yourepo.alimaulana.amber/depiction
