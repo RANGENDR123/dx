@@ -3023,3 +3023,23 @@ Name: Amber
 Author: Ali Maulana <dev.alimaulana@gmail.com>
 Depiction: https://repo.packix.com/package/com.yourepo.alimaulana.amber/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.yourepo.alimaulana.amber/depiction
+
+Package: com.ryant453.groups
+Version: 1.4.1
+Section: Tweaks
+Maintainer: RyanTrent <rtrent.dev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1.2), firmware (>= 12), firmware (<< 15)
+Conflicts: com.creaturecoding.covertck, com.jacobcxdev.idunnou, com.jacobcxdev.iris
+Architecture: iphoneos-arm
+Filename: ./debs/com.ryant453.groups_1.4.1_iphoneos-arm.deb
+Size: 289054
+Installed-Size: 1308
+MD5sum: 350ef361ca24c677899cc42584caff9e
+SHA1: f4dd6fe8a3be425491addff2befafc391e610c15
+SHA256: 458bd9bd05fc655c5d64db698efd9ff57b849cb32dd8d42841e3ed587f3c45b5
+Description: A new way to experience Messages.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620d8487e1a9e320d589b40f
+Name: Groups
+Author: RyanTrent <rtrent.dev@gmail.com>
+Depiction: https://havoc.app/depiction/groups
+SileoDepiction: https://havoc.app/package/groups/depiction.json
