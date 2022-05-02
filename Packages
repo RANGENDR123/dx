@@ -3043,3 +3043,21 @@ Name: Groups
 Author: RyanTrent <rtrent.dev@gmail.com>
 Depiction: https://havoc.app/depiction/groups
 SileoDepiction: https://havoc.app/package/groups/depiction.json
+
+Package: com.synnyg.backupaz4
+Version: 2.0
+Section: Applications
+Maintainer: synnygdevjb <synnyg.devjb@gmail.com>
+Depends: firmware (>= 12.0), coreutils-bin, dpkg, shell-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/com.synnyg.backupaz4_2.0.deb
+Size: 8609152
+MD5sum: 971dadbb26073f97a02de6aed2d63668
+SHA1: 926624c47692a63caac6f82331241fe3a41b2058
+SHA256: a331ea1152b144c3d217ed20e5f7e2a1ad12925088589fd34a3ffaf93d24bed4
+Description: A complete and modern backup tool
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620cad8c375e9966444696eb
+Name: BackupAZ 4 (iOS 12 - 14)
+Author: synnygdevjb <synnyg.devjb@gmail.com>
+Depiction: https://havoc.app/depiction/backupaz4
+SileoDepiction: https://havoc.app/package/backupaz4/depiction.json
