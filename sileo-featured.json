@@ -11,7 +11,12 @@
         {
             "title": "Amber",
             "package": "com.ps.amber",
-            "url": "https://poomsmart.github.io/repo/features/amber.png"
+            "url": "https://poomsmart.github.io/repo/features/amber.png"	
+		},
+        {
+            "title": "PokeCall",
+            "package": "com.fpt.pokecall",
+            "url": "https://cdn.chariz.cloud/asset/pokecall/TJQxN-a_Zup7UMhy0CzmN5fkhhiygGLf/assets/M5x3IDLJ3FtUYCY5BgGtXSpBGwdEV8FdgT-4-RC_kPa9nLqWy5-2RPNrNCJ0Ffk3z9DXhObaXnIerOpmXoVzRA.jpg"
         },
         {
             "title": "EmojiPort",
@@ -21,17 +26,38 @@
         {
             "title": "HighGraphics",
             "package": "com.ps.highgraphics",
-            "url": "https://poomsmart.github.io/repo/features/highgraphics.png"
+            "url": "https://poomsmart.github.io/repo/features/highgraphics.png"	
+		},
+        {
+            "title": "Zinnia",
+            "package": "me.aspenuwu.zinnia",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/zinnia.jpg"
         },
         {
             "title": "Anywhere Widgets for iPad",
             "package": "com.ps.anywherewidgetsforipad",
             "url": "https://poomsmart.github.io/repo/features/anywherewidgetsforipad.png"
+			
+			},
+        {
+            "title": "Legizmo Jupiter",
+            "package": "lunotech11.legizmo.jupiter",
+            "url": "https://cdn.chariz.cloud/asset/legizmo-jupiter/bCsAaM3AMksj_8kc9FzYGuOiS7miKAiR/assets/bnRYEdDrwgk58jLhRKGhgNX_MVtcT_2n_07hE0NsneUhWOu1p_LkBCdWMK549a1jrIJL9aGmKGA3r6Jarz41bQ.jpg"
+		},
+        {
+            "title": "Linear for Status Bar",
+            "package": "com.alphastream.linearforsb",
+            "url": "https://cdn.chariz.cloud/asset/linear/1c2EiQl8kVLV3veDJStF1cmsPYqq01g3/assets/unFLo1QzD1aCj1SocFaX2ckZ1WPmmaoDcS8-pMNI7CIgA4btryNxPiJg8XwkQ8-_gvdyhtq_Uoir9lfraKVsbQ.jpg"
         },
         {
             "title": "NotTodayHomeScreenSideBar",
             "package": "com.ps.nottodayhomescreensidebar",
             "url": "https://poomsmart.github.io/repo/features/nottodayhomescreensidebar.png"
+		},
+        {
+            "title": "Goji",
+            "package": "com.gabehern.goji",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/goji.jpg"
         },
         {
             "title": "Battery Health Enabler",
