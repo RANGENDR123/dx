@@ -3061,3 +3061,43 @@ Name: BackupAZ 4 (iOS 12 - 14)
 Author: synnygdevjb <synnyg.devjb@gmail.com>
 Depiction: https://havoc.app/depiction/backupaz4
 SileoDepiction: https://havoc.app/package/backupaz4/depiction.json
+
+Package: com.leftyfl1p.carbridge13
+Version: 2.0.9
+Section: Tweaks
+Maintainer: leftyfl1p
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Architecture: iphoneos-arm
+Filename: ./debs/com.leftyfl1p.carbridge13_2.0.9_iphoneos-arm.deb
+Size: 294522
+Installed-Size: 1572
+MD5sum: a23a6e40e67049f77f82b3fa8623448c
+SHA1: 482ee66b83b0aea24651c5138807673a9fef7312
+SHA256: 778b4ec3b2821bf4f9e9f86ac49162d33e11dbad350c1ce076abf3746fc6d1c4
+Description: Open any app in CarPlay!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f861f6c0225d9ff7d09c89
+Name: CarBridge
+Author: leftyfl1p
+Depiction: https://havoc.app/depiction/carbridge
+SileoDepiction: https://havoc.app/package/carbridge/depiction.json
+
+Package: com.leftyfl1p.carplay
+Version: 1.0.9.5
+Section: Tweaks
+Maintainer: leftyfl1p
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.leftyfl1p.carbridge13
+Architecture: iphoneos-arm
+Filename: ./debs/com.leftyfl1p.carplay_1.0.9.5_iphoneos-arm.deb
+Size: 3216182
+Installed-Size: 5252
+MD5sum: 2416da204304ba56533f9b37fdce473c
+SHA1: 3c69746bacda9d8efe1ee7b9ecd01b0ace504ca4
+SHA256: a9721169538372c2db959db8ac576686ba92f2c6c6d6029d45818a8eaa3fc238
+Description: Open any app in CarPlay!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f861eec0225d9ff7d09c52
+Name: CarBridge Legacy (old)
+Author: leftyfl1p
+Depiction: https://havoc.app/depiction/carbridgelegacy
+SileoDepiction: https://havoc.app/package/carbridgelegacy/depiction.json
