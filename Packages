@@ -3141,3 +3141,23 @@ Name: Aemulo
 Author: Amy While <support@anamy.gay>
 Depiction: https://chariz.com/buy/aemulo
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.amywhile.aemulo/depiction.json
+
+Package: com.tr1fecta.akara
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Tr1Fecta & Kennyroo <piz444@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.tr1fecta.akara_1.1.0_iphoneos-arm.deb
+Size: 1033414
+Installed-Size: 3288
+MD5sum: 5d2a6229d5205975707ead84129cac20
+SHA1: 53fec2d2da1d8dce45eb9e74b57e2c8fa02d1e1b
+SHA256: 41f39a5c76b5a887bdaafe2744e16b71fabd318fb25a1b3a7bdb864b0331727c
+Description: Minimal design without compromise
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/akara/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/akara.jpg
+Name: Akara
+Author: Tr1Fecta & Kennyroo <piz444@gmail.com>
+Depiction: https://chariz.com/buy/akara
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tr1fecta.akara/depiction.json
