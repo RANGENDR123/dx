@@ -2198,9 +2198,11 @@ SHA1: 676d8bbe654ef1a6c7c9f66ca3af6f9487c676c9
 SHA256: ed0c98d7fe3a222672a2833e347010a4867ddb8d1570555821450fca70319f4b
 Description: NFC Frickery
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/aemulo.jpg
 Name: Aemulo (Trial)
 Author: Amy While <support@anamy.gay>
 Depiction: https://chariz.com/get/aemulo-trial
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.amywhile.aemulotrial/depiction.json
 
 Package: com.moski.divise
 Version: 1.2.1
@@ -3119,3 +3121,23 @@ Name: LetMeBlock
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+
+Package: com.amywhile.aemulo
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Amy While <support@anamy.gay>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), ws.hbang.alderis (>= 1.1)
+Architecture: iphoneos-arm
+Filename: ./debs/com.amywhile.aemulo_1.1.2_iphoneos-arm.deb
+Size: 415974
+Installed-Size: 1876
+MD5sum: 3fed788661189f1dbb54c2e3f9fa5f8c
+SHA1: 8acc8c7a2f8704000b9d3f418d2411460b771dc9
+SHA256: daabb9351f94fad35c33f3bffecdb9494984b4826bebf0be1d857b50d749dc85
+Description: NFC Frickery
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/aemulo.jpg
+Name: Aemulo (Trial)
+Author: Amy While <support@anamy.gay>
+Depiction: https://chariz.com/get/aemulo-trial+}
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.amywhile.aemulo/depiction.json
