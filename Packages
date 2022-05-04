@@ -3137,7 +3137,7 @@ SHA256: daabb9351f94fad35c33f3bffecdb9494984b4826bebf0be1d857b50d749dc85
 Description: NFC Frickery
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/aemulo.jpg
-Name: Aemulo (Trial)
+Name: Aemulo
 Author: Amy While <support@anamy.gay>
 Depiction: https://chariz.com/get/aemulo-trial+}
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.amywhile.aemulo/depiction.json
