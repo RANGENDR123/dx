@@ -2644,7 +2644,8 @@ Description: Unlock your device with a Scribble!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cc5f4121fd91c001c731a82/icon/download?size=medium&hash=5ccc7510945bff00112badc4
 Name: Scribble
 Author: Boo <boo@boodev.me>
-Depiction: https://repo.packix.com/package/com.boo.libscribble/
+Depiction: https://repo.packix.com/package/com.boo.scribble/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.boo.scribble/depiction
 
 Package: com.boo.libscribble
 Version: 1.0.0
@@ -2662,6 +2663,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: libScribble
 Author: Boo <boo@boodev.me>
 Depiction: https://repo.packix.com/package/com.boo.libscribble/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.boo.libscribble/depiction
 
 Package: com.julian.TheBlues
 Version: 2.5
