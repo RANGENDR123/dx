@@ -3161,3 +3161,21 @@ Name: Akara
 Author: Tr1Fecta & Kennyroo <piz444@gmail.com>
 Depiction: https://chariz.com/buy/akara
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tr1fecta.akara/depiction.json
+
+Package: com.walkerbagley.buble
+Version: 1.3
+Section: Themes
+Maintainer: wbagley <walkerabagley@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.walkerbagley.buble_1.3_iphoneos-arm.deb
+Size: 6080046
+MD5sum: b129d484d5ae5025eb5329ebc74f1696
+SHA1: 27d35b1fe74eac52bb9fb7d2da08043e0872bab5
+SHA256: 031171d549f02335f62036e0e5f94e210067827167da084c154f0590cbaa9485
+Description: A modern gradient theme with beautiful glassy icons and colorful backgrounds!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/6213daf76ff94409418e4a28
+Name: Bublé
+Author: wbagley <walkerabagley@gmail.com>
+Depiction: https://havoc.app/depiction/buble
+SileoDepiction: https://havoc.app/package/buble/depiction.json
