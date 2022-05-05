@@ -3181,3 +3181,20 @@ Name: Bublé
 Author: wbagley <walkerabagley@gmail.com>
 Depiction: https://havoc.app/depiction/buble
 SileoDepiction: https://havoc.app/package/buble/depiction.json
+
+Package: com.bousrih.viola
+Version: 1.9.7
+Section: Themes
+Maintainer: bossgfx <bousrih20@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.bousrih.viola_1.9.7_iphoneos-arm.deb
+Size: 68628052
+MD5sum: f5ff98bfa44f634c2e08ceb762a68079
+SHA1: 998832afcb502df3682b47274ad4f63962a144ae
+SHA256: 7777518ecf63ddebb89e0c900898e6cbb71db1c8b02962655a4f7ef3ca0254b1
+Description: A modern gradient theme with beautiful glassy icons and colorful backgrounds!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61fc704d57c005d8f998d4eb
+Name: Viola
+Author: bossgfx <bousrih20@gmail.com>
+Depiction: https://havoc.app/depiction/viola
+SileoDepiction: https://havoc.app/package/viola/depiction.json
