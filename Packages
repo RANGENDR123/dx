@@ -3192,9 +3192,26 @@ Size: 68628052
 MD5sum: f5ff98bfa44f634c2e08ceb762a68079
 SHA1: 998832afcb502df3682b47274ad4f63962a144ae
 SHA256: 7777518ecf63ddebb89e0c900898e6cbb71db1c8b02962655a4f7ef3ca0254b1
-Description: A modern gradient theme with beautiful glassy icons and colorful backgrounds!
+Description: Viola is a beautiful, simple & modern theme for iOS!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61fc704d57c005d8f998d4eb
 Name: Viola
 Author: bossgfx <bousrih20@gmail.com>
 Depiction: https://havoc.app/depiction/viola
 SileoDepiction: https://havoc.app/package/viola/depiction.json
+
+Package: com.bousrih.Blackviola
+Version: 1.3
+Section: Themes
+Maintainer: bossgfx <bousrih20@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.bousrih.blackviola_1.3_iphoneos-arm.deb
+Size: 18852010
+MD5sum: 17fad221e71814819e92798c39fe93b6
+SHA1: e31ce32c543d105eb4ef6b5a573f2216264552bf
+SHA256: e113322f1f49c62bc932f5b205e82ea700157c7e4804c420199e1a2ee7dbe538
+Description: A completely pure black version of Viola!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61fc71be57c005d8f99968a9
+Name: Viola Black
+Author: bossgfx <bousrih20@gmail.com>
+Depiction: https://havoc.app/depiction/violablack
+SileoDepiction: https://havoc.app/package/violablack/depiction.json
