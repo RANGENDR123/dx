@@ -3215,3 +3215,20 @@ Name: Viola Black
 Author: bossgfx <bousrih20@gmail.com>
 Depiction: https://havoc.app/depiction/violablack
 SileoDepiction: https://havoc.app/package/violablack/depiction.json
+
+Package: com.bousrih.Darkviola
+Version: 1.9.4
+Section: Themes
+Maintainer: bossgfx <bousrih20@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.bousrih.darkviola_1.9.4_iphoneos-arm.deb
+Size: 33978844
+MD5sum: a99e8668e4754147cdc8dd8f694b5eb0
+SHA1: b1a97bad390afba57db55b085e847f3a40f8843b
+SHA256: a09bbc0baf98afd636db46687bf0c2f605033adb24e7b92775c7d4dc97a36583
+Description: The dark side of Viola!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61fc70ed57c005d8f998d5b3
+Name: Viola Dark
+Author: bossgfx <bousrih20@gmail.com>
+Depiction: https://havoc.app/depiction/violadark
+SileoDepiction: https://havoc.app/package/violadark/depiction.json
