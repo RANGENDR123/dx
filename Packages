@@ -2124,7 +2124,7 @@ MD5sum: 4eb9d92b28e035d228a0440c366cd28b
 SHA1: 693dcb1234d941460a8a8f51680be33fab82dd19
 SHA256: 038b9da0ec4fba371f4a6c45de1b1e1b79a1798562894331eaccc69753c670a5
 Description: Add many features to the photos app.
-Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/photomanager/icon@3x.png
+Icon: https://img.chariz.cloud/icon/photomanager/icon@3x.png
 Name: PhotoManager (iOS 12 - 14)
 Author: Frozen Penguin <penguins_can_fly@live.com>
 Depiction: https://chariz.com/get/photomanager
