@@ -3232,3 +3232,20 @@ Name: Viola Dark
 Author: bossgfx <bousrih20@gmail.com>
 Depiction: https://havoc.app/depiction/violadark
 SileoDepiction: https://havoc.app/package/violadark/depiction.json
+
+Package: com.bousrih.violaglyphs
+Version: 1.4
+Section: Themes
+Maintainer: bossgfx <bousrih20@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.bousrih.violaglyphs_1.4_iphoneos-arm.deb
+Size: 24486820
+MD5sum: d0320d163a9897e4c4b8ca51989b1ab9
+SHA1: 8332bd076c16c5b68e88cabadd16e88e1687ae48
+SHA256: 9e945c6f998b4d82aec1f24cdaf0928312dae8a89ef93c1f869a78d16e2176bf
+Description: The glyph version of Viola! (3 modes including settings)
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61fc719557c005d8f9996841
+Name: Viola Glyphs
+Author: bossgfx <bousrih20@gmail.com>
+Depiction: https://havoc.app/depiction/violaglyphs
+SileoDepiction: https://havoc.app/package/violaglyphs/depiction.json
