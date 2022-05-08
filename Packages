@@ -3270,3 +3270,43 @@ Name: Sydney
 Author: Bank5ia <designbank5ia@gmail.com>
 Depiction: https://chariz.com/buy/sydney
 SileoDepiction: https://chariz.com/api/sileo/package/com.bank5ia.sydney/depiction.json
+
+Package: com.irepo.boxy3
+Version: 3.6.2
+Section: Tweaks
+Maintainer: wvabrinskas <wvabrinskas@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders
+Architecture: iphoneos-arm
+Filename: ./debs/com.irepo.boxy3_3.6.2_iphoneos-arm.deb
+Size: 2606496
+Installed-Size: 3528
+MD5sum: 3d9affe32f864000a064cb719cad3b9f
+SHA1: f26f2efed28afd14dacf9b5517e051d7f49cf87d
+SHA256: 71d9d7dc4831f50a318d9eedca9fc27ba4643b8805eebf15bfdebed973ae579f
+Description: Fully customize your icon layout! Have you ever run into an issue with space in your SpringBoard or are you just bored with the default layout of icons? Well, Boxy can fix both of those issues. Your icon layout is fully customizable with the variety of options configurable in the settings pane. You can adjust how far each icon is from each edge of the screen and how far each icon is from one another. These combinations can provide some pretty cool layouts. If you aren't the creative type or don't want to be bothered with testing each setting, there are presets available for you to choose from. You can align you icons in the the top half of the screen or the bottom half or even the top corners of the screen. Anything is really possible.Boxy also allows for more space for Dashboard X widgets. You no longer have to compromise with which apps you want on the home page of your SpringBoard, you can now have all of them on the screen plus your favorite widgets! Use it however you like, if you find a use for it that I didn't mention please don't hesitate to contact me and let me know, I love hearing feedback about my tweaks. Boxy is fully compatible with all current devices!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620ebd20859b1a1929e92169
+Name: Boxy 3 (iOS 11 - 12)
+Author: wvabrinskas <wvabrinskas@gmail.com>
+Depiction: https://havoc.app/depiction/boxy3
+SileoDepiction: https://havoc.app/package/boxy3/depiction.json
+
+Package: com.irepo.boxy4
+Version: 4.4.2
+Section: Tweaks
+Maintainer: wvabrinskas <wvabrinskas@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Architecture: iphoneos-arm
+Filename: ./debs/com.irepo.boxy4_4.4.2_iphoneos-arm.deb
+Size: 2768294
+Installed-Size: 3636
+MD5sum: 8813d6160bb4c3c284767343cdf49767
+SHA1: 7534c9b5152c87cfc53be7e225a49e1a93b89f82
+SHA256: ff0e2dc7be117f6a9ccd51cf4bd532ebf25b03b67431c29a5efd2fdc7055b220
+Description: Fully customize your icon layout! Have you ever run into an issue with space in your SpringBoard or are you just bored with the default layout of icons? Well, Boxy can fix both of those issues. Your icon layout is fully customizable with the variety of options configurable in the settings pane. You can adjust how far each icon is from each edge of the screen and how far each icon is from one another. These combinations can provide some pretty cool layouts. If you aren't the creative type or don't want to be bothered with testing each setting, there are presets available for you to choose from. You can align you icons in the the top half of the screen or the bottom half or even the top corners of the screen. Anything is really possible.Boxy also allows for more space for Dashboard X widgets. You no longer have to compromise with which apps you want on the home page of your SpringBoard, you can now have all of them on the screen plus your favorite widgets! Use it however you like, if you find a use for it that I didn't mention please don't hesitate to contact me and let me know, I love hearing feedback about my tweaks. Boxy is fully compatible with all current devices!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620ebd74859b1a1929e9c443
+Name: Boxy 4 (iOS 13 - 14)
+Author: wvabrinskas <wvabrinskas@gmail.com>
+Depiction: https://havoc.app/depiction/boxy4
+SileoDepiction: https://havoc.app/package/boxy4/depiction.json

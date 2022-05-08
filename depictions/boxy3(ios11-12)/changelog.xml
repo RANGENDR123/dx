@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>3.6.2</version>
+		<change>Fixed a bug that stopped Force touch and two finger touch from presenting the quick settings, Fixed a bug where hitting the reset icon scale button didn't update the quick settings UI</change>
+	</changes>
+</changelog>
