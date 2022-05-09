@@ -2888,7 +2888,7 @@ Package: com.matchstic.xenhtml
 Priority: optional
 Version: 2.0.2~release
 Section: Tweaks
-Maintainer: akamatchstic <matt@incendo.ws>
+Maintainer: akamatchstic
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Filename: ./debs/com.matchstic.xenhtml_2.0.2_release_iphoneos-arm.deb
@@ -2899,7 +2899,8 @@ SHA256: 7536e6678be0eff88ec12de6855e55ed511672ba0f88f2ec563f0fa1bea8ffbd
 Description: Run HTML widgets on the Lockscreen and Homescreen
 Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620f9c8bb7f4f71f10d7bfd9
 Name: Xen HTML
-Author: akamatchstic <matt@incendo.ws>
+Author: akamatchstic
+dev: Matt Clarke <matt@incendo.ws>
 Depiction: https://havoc.app/depiction/xenhtml
 SileoDepiction: https://havoc.app/package/xenhtml/depiction.json
 
@@ -3311,3 +3312,23 @@ Name: Boxy 4 (iOS 13 - 14)
 Author: wvabrinskas <wvabrinskas@gmail.com>
 Depiction: https://havoc.app/depiction/boxy4
 SileoDepiction: https://havoc.app/package/boxy4/depiction.json
+
+Package: jp.soh.ct
+Version: 2.0
+Section: Tweaks
+Maintainer: soh_satoh <tweaks@satoh.dev>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/jp.soh.ct_2.0_iphoneos-arm.deb
+Size: 526440
+Installed-Size: 2484
+MD5sum: a9ec65e402c7b8543b397ee676b393d3
+SHA1: 0fe926ee48b83d9d6a5aaad4fe2b926231d342cf
+SHA256: d4fa67379dce62d5a209a59cc0f1b9a271f62948951f1bc03aebf95b88c7db40
+Description: CPUTool, ultra battery saving tweak, is the first CPU/GPU underclocking tweak for iOS!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/62108e334bc7792972608e7c
+Name: CPUTool
+Author: soh_satoh <tweaks@satoh.dev>
+Depiction: https://havoc.app/depiction/cputool
+SileoDepiction: https://havoc.app/package/cputool/depiction.json
