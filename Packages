@@ -805,11 +805,12 @@ Package: ws.hbang.alderis
 Version: 1.1.2
 Section: Development
 Maintainer: HASHBANG Productions <support@hbang.ws>
-Depends: firmware (>= 12.0) | firmware (>= 12.2) | org.swift.libswift (>= 5.0), ukittools
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
 Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
 Architecture: iphoneos-arm
 Filename: ./debs/ws.hbang.alderis_1.1.2_iphoneos-arm.deb
 Size: 1847474
+Installed-Size: 6468
 MD5sum: a2fb626baa41e71d3092c010b76c9c08
 SHA1: 7824c40921ed21b1a3607bdc3e2dbd74cfda0554
 SHA256: f3726f2d079a7b88fa931eb833c1327c702d707402e672de7bce16ba603d0d9c
