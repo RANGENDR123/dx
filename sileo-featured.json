@@ -12,6 +12,18 @@
             "title": "Amber",
             "package": "com.ps.amber",
             "url": "https://poomsmart.github.io/repo/features/amber.png"	
+			
+		},
+        {
+            "title": "Cercube",
+            "package": "me.alfhaily.cercube",
+            "url": "https://apt.alfhaily.me/cdn/assets/cercube-header.jpg"
+			
+		},
+        {
+            "title": "Rocket",
+            "package": "me.alfhaily.rocket",
+            "url": "https://apt.alfhaily.me/cdn/assets/rocket-header.jpg"
 		},
         {
             "title": "PokeCall",
@@ -27,6 +39,12 @@
             "title": "HighGraphics",
             "package": "com.ps.highgraphics",
             "url": "https://poomsmart.github.io/repo/features/highgraphics.png"	
+			
+		},
+        {
+            "title": "Sydney",
+            "package": "com.bank5ia.sydney",
+            "url": "https://cdn.chariz.cloud/asset/sydney/Fm_AttHk9Z0v4URWDMUw6-qqWjuObwfO/assets/fQLwlHlq9E0yRmgTdtbVns2Ji1cht-b-ecDISjz_FJiGHmklKzfhG_k8pWoD4JoI7zzkjQJPACzSbfZ37qJCeg.jpg"
 		},
         {
             "title": "Zinnia",
@@ -53,6 +71,12 @@
             "title": "NotTodayHomeScreenSideBar",
             "package": "com.ps.nottodayhomescreensidebar",
             "url": "https://poomsmart.github.io/repo/features/nottodayhomescreensidebar.png"
+			
+		},
+        {
+            "title": "Appaze 2",
+            "package": "com.anthopak.appaze2",
+            "url": "https://cdn.chariz.cloud/asset/appaze2/5Q3A7M4s9uPsMHRO3ScMj-DIl_jPntSu/assets/OeMrjNQPG1EDY_jWP_4js8D21SAhDOsTtASrAiJG9nlBbYmpFdv_0ST-TG6JPJodsBzVEviOYgHl5AboBMP2sg.jpg"
 		},
         {
             "title": "Goji",
