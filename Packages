@@ -3332,3 +3332,23 @@ Name: CPUTool
 Author: soh_satoh <tweaks@satoh.dev>
 Depiction: https://havoc.app/depiction/cputool
 SileoDepiction: https://havoc.app/package/cputool/depiction.json
+
+Package: me.midnightchips.harpy-reloaded
+Version: 1.0.1
+Section: Utilities
+Maintainer: MidnightChips <midnightchips@gmail.com>
+Depends: firmware (>= 14.0.0), cy+cpu.arm64, arpoison, network-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/me.midnightchips.harpy-reloaded_1.0.1_iphoneos-arm.deb
+Size: 5351480
+Installed-Size: 11656
+MD5sum: 2d55971272838e32e801e872b0e3a1d0
+SHA1: 8054959e03476beed051caf6e20f9db3a5f30234
+SHA256: cdb2b4afe51c620b874cb73fb49ac9e9cfffad5f31ab021129062f37b892a567
+Description: An application to manage your local network
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/harpy-reloaded/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/harpy-reloaded.jpg
+Name: Harpy Reloaded
+Author: MidnightChips <midnightchips@gmail.com>
+Depiction: https://chariz.com/buy/harpy-reloaded
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.midnightchips.harpy-reloaded/depiction.json

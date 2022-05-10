@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.0.1</version>
+		<change>Add support for iPad, Fix iPad having small modals when clicking cells, Attempting to fix some devices auto closing cells on open</change>
+	</changes>
+</changelog>
