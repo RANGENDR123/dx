@@ -769,6 +769,10 @@ Package: flex3beta
 Version: 3~Beta98
 Section: Tweaks
 Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Recommended: com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Architecture: iphoneos-arm
 Filename: ./debs/Flex3_3_Beta98.deb
 Size: 14346600
@@ -815,10 +819,13 @@ MD5sum: a2fb626baa41e71d3092c010b76c9c08
 SHA1: 7824c40921ed21b1a3607bdc3e2dbd74cfda0554
 SHA256: f3726f2d079a7b88fa931eb833c1327c702d707402e672de7bce16ba603d0d9c
 Description: Color picker support library for tweaks
+Support: https://hashbang.productions/support/
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/alderis/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/alderis.jpg
 Name: Alderis Color Picker
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/alderis
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.alderis/depiction.json
 
 Package: com.rpgfarm.slices3
 Version: 3.1.3
@@ -829,6 +836,7 @@ Conflicts: com.opa334.crane, com.opa334.cranelite, com.expetelek.slices, com.sub
 Architecture: iphoneos-arm
 Filename: ./debs/com.rpgfarm.slices3.deb
 Size: 131040
+Installed-Size: 960
 MD5sum: 6d7bb393f464296f124ed04f8c922d2d
 SHA1: e22675cc81c30d375eb3a55956a6550d0fe26c1c
 SHA256: c6c5feee95e13431f829bca56c9664ba32783337297887ae16f754200191bcb1
@@ -837,6 +845,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: Slices 3
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/com.rpgfarm.slices3
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.slices3
 
 Package: com.idevicelover.smartbattery
 Version: 3.5
@@ -846,6 +855,7 @@ Depends: firmware (>= 11.0), mobilesubstrate, ws.hbang.common, net.limneos.libbu
 Architecture: iphoneos-arm
 Filename: ./debs/com.idevicelover.smartbattery_3.5_iphoneos-arm.deb
 Size: 598444
+Installed-Size: 1976
 MD5sum: b9e10e2935f73f61b1744b2dff1433e8
 SHA1: e4be6598c785a5f9718325beef1a5436ae8003cb
 SHA256: ccf5777bb9cf890f7d6eba444e549250124cdcb7c173d4c4bf5cafaff297f582
@@ -854,6 +864,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: SmartBattery
 Author: elias
 Depiction: https://repo.packix.com/package/com.idevicelover.smartbattery/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.idevicelover.smartbattery/depiction
 
 Package: com.spark.libsparkcolourpicker
 Version: 1.0.2
@@ -862,6 +873,7 @@ Maintainer: Spark <info@sparkdev.me>
 Architecture: iphoneos-arm
 Filename: ./debs/1.0.2.deb
 Size: 69510
+Installed-Size: 424
 MD5sum: 3cf4ef3a93ad7ac10ad883e92134d690
 SHA1: 6870141444312965e65e73e451a65faa4efc895c
 SHA256: 693b47e2be249edd776d6efdbce56ff38067ce97b0d0402ef3d88b27cf2656fd
@@ -870,6 +882,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: libsparkcolourpicker
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.libsparkcolourpicker
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.libsparkcolourpicker
 
 Package: net.limneos.libbulletin
 Version: 0.1-158
@@ -916,6 +929,7 @@ Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Architecture: iphoneos-arm
 Filename: ./debs/1.4.20_Beta4.deb
 Size: 1591782 
+Installed-Size: 5008
 MD5sum: 1fb582d7e8e2f3093cc0e02b66bb7b07
 SHA1: 65053af13e2cea17ac8342eeb36b47d9faecc2fc
 SHA256: a98bde4179af69362b3d969941c010a26ca05548d0b89e73e7e852a2875b64f1
@@ -924,6 +938,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: SnowBoard
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard
 
 Package: com.xandesign.felicitypro
 Version: 4.0
@@ -939,9 +954,11 @@ SHA1: 0810cf63bfef52aac3f61108a04684c0b9962fbe
 SHA256: 81afcbe84f1dfa78274f81dfbc82f2381d4821f53465cfb5e76eef15df52ded2
 Description: Felicity, but Pro. 
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/felicity-pro/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/felicity-pro.jpg
 Name: Felicity Pro
 Author: XerusDesign <xerusxan@gmail.com>
 Depiction: https://chariz.com/get/felicity-pro
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.xandesign.felicitypro/depiction.json
 
 Package: com.ryannair05.peekable
 Version: 13.0.0
@@ -951,6 +968,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/5e49636832ff8d001b49895b.deb
 Size: 34248
+Installed-Size: 308
 MD5sum: 024b46f75cc9e546cce0926bebd1053b
 SHA1: e4574b1b221f5286bbfdbb096f7dc4fd8ff7fb8b
 SHA256: 0adcd41c207938d19ffed27bec088981a019ebd4c96e00476ab56c83af9e96d5
@@ -959,22 +977,24 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: Peekable
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://repo.packix.com/package/com.ryannair05.peekable/
+SileoDepiction: https://repo.packix.com/api/sileo/packages/com.ryannair05.peekable/depiction
 
 Package: com.dgh0st.force3dappshortcuts
 Version: 0.0.8
 Section: Tweaks
-Maintainer: DGh0st
+Maintainer: DGh0st <deeppwnage@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dgh0st.force3dappshortcuts_0.0.8_iphoneos-arm.deb
 Size: 27910
+Installed-Size: 428
 MD5sum: ed48a9058ec68aacaddaa55da04b3538
 SHA1: f6d63d5a9f343516ed2ccdf7946d5f38840b0652
 SHA256: 823aeec4d7290f81116636d892d2a608862ff4a9c2c12352aa739a0f293e5062
 Description: Enable 3D touch shortcuts on homescreen for older devices.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.dgh0st.force3dappshortcuts.png
 Name: Force3DAppShortcuts
-Author: DGh0st
+Author: DGh0st <deeppwnage@yahoo.com>
 Depiction: https://dgh0st.github.io/Files/?p=com.dgh0st.force3dappshortcuts
 
 Package: com.stevsarm.taffy
@@ -992,6 +1012,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621
 Name: Taffy
 Author: stevsarm <steve22sarmiento@gmail.com>
 Depiction: https://havoc.app/depiction/taffy
+SileoDepiction: https://havoc.app/package/taffy/depiction.json
 
 Package: me.nepeta.selector
 Version: 0.1.4
@@ -1001,6 +1022,7 @@ Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/me.nepeta.selector.deb
 Size: 32100
+Installed-Size: 368
 MD5sum: f78d2f4ed4f26bfe6bb89e4a702c1164
 SHA1: d74d2748cfe466edb023aa105e594b492dd1772d
 SHA256: 59a98ea79f58d9b5eeb05032eb3ccf9402d474553d3d6b6268e4b081f9137f01
@@ -1009,6 +1031,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://i.repo.co.kr/images
 Name: Selector
 Author: Nepeta & BawAppie <pp121324@gmail.com>
 Depiction: https://repo.co.kr/depictions/me.nepeta.selector
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/me.nepeta.selector/
 
 Package: org.swift.libswift
 Version: 5.0-electra2
@@ -1071,6 +1094,7 @@ Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Architecture: iphoneos-arm
 Filename: ./debs/1.1.1.deb
 Size: 275122 
+Installed-Size: 976
 MD5sum: 9a7e7f00edb23d141e699df90dd17067
 SHA1:a9f0ed6583c7f8c52fdba9c5bbb5738ecc5ea568
 SHA256: 0e5d7c949eb661b57269062baa73cb710405244246fe54b2be0e34eb39446aac
@@ -1079,6 +1103,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: Vesta
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.vesta
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.vesta
 
 Package: com.ghanipradita.gladient
 Version: 1.3
@@ -1096,12 +1121,14 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: Gladient
 Author: Ghani Pradita
 Depiction: https://repo.packix.com/package/com.ghanipradita.gladient/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ghanipradita.gladient/depiction
 
 Package: com.geosn0w.iSecureOS
 Version: 1.24
 Section: Utilities
 Maintainer: GeoSn0w (@FCE365)
 Depends: firmware (>= 11.0)
+Provides: com.geosn0w.iSecureOS
 Architecture: iphoneos-arm
 Filename: ./debs/com.geosn0w.iSecureOS.deb
 Size: 1578832
@@ -1113,6 +1140,7 @@ Icon: https://twitter.com/iSecureOS/photo
 Name: iSecureOS
 Author: GeoSn0w (@FCE365)
 Depiction: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.html
+SileoDepiction: https://isecureos.idevicecentral.com/repo/sileo/isecureos.json
 
 Package: com.dave1482.powerapp
 Version: 6.1
@@ -1133,7 +1161,7 @@ Header: https://img.chariz.cloud/sileo-banner/powerapp.jpg
 Name: PowerApp 
 Author: dave1482 <dave1482@dave1482.com>
 Depiction: https://chariz.com/get/powerapp
-SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.powercuts/depiction.json
+SileoDepiction: https://chariz.com/api/sileo/package/com.dave1482.powerapp/depiction.json
 
 Package: com.idevicelover.smartbundle2
 Version: 2.3
@@ -1144,6 +1172,7 @@ Conflicts: com.idevicelover.smartbundle
 Architecture: iphoneos-arm
 Filename: ./debs/xyz.cypwn.smartbundle2_2.3k_iphoneos-arm.deb
 Size: 1328284
+Installed-Size: 3696
 MD5sum: 364cb0a8bba87b4119962f6479d0275c
 SHA1: ff30cc2cd569748b87001769c39ab86392d28206
 SHA256: a061a5843f7d5b7428119cf91c8aafac625aa4b3fef0feb97aafed629ddf1d15
@@ -1152,6 +1181,7 @@ Icon: https://havoc.app/media/6207e899a7026fa356186fcf
 Name: SmartBundle 2 
 Author: EliasSfeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/smartbundle2
+SileoDepiction: https://havoc.app/package/smartbundle2/depiction.json
 
 Package: com.cokepokes.libnotifications
 Version: 0.3-5
@@ -1201,6 +1231,7 @@ Icon: https://repo.packix.com/api/Packages/5afb8749c7abc024d2ea176e/icon/downloa
 Name: SmartLPM
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://repo.packix.com/package/com.smokin1337.smartlpm/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.smokin1337.smartlpm/depiction
 
 Package: com.anthopak.appaze2
 Version: 1.4.1
@@ -1211,6 +1242,7 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.appaze2_1.4.1_iphoneos-arm.deb
 Size: 832808
+Installed-Size: 1908
 MD5sum: 489eab024540f0aedcfaa38a6afe8224
 SHA1: 1ac6d5c502a53626d39b45cd46aeeb2f0fa0f014
 SHA256: f0116c4b3ce7bd498c5bd1f6dd537d4a9c178aeb2594379afcbb68e9053b286e
@@ -1220,6 +1252,7 @@ Header: https://img.chariz.cloud/sileo-banner/appaze2.jpg
 Name: Appaze 2
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://chariz.com/buy/appaze2
+SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.appaze2/depiction.json
 
 Package: com.a3tweaks.flipswitch
 Version: 1.0.16
@@ -1248,6 +1281,7 @@ Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.foxfort.libfoxfortu
 Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.libfoxfortsplash_1.1.5_iphoneos-arm.deb
 Size: 10610
+Installed-Size: 144
 MD5sum: 6f7650ba39ca0e6add277608ff9c52c9
 SHA1: 9d5092618181e7513c4366cb70302cd63d10d20c
 SHA256: fbe56a43c6c7154516dda0cc3bfa07ad2f59ee1eb13a8432f243430e78278ef4
@@ -1256,6 +1290,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: libfoxfortsplash
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/libfoxfortsplas
+SileoDepiction: https://havoc.app/package/libfoxfortsplas/depiction.json
 
 Package: com.foxfort.facebookdarkmode
 Version: 3.1.2
@@ -1265,6 +1300,7 @@ Depends: mobilesubstrate, firmware (>= 13.0), org.thebigboss.libcolorpicker, pre
 Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.facebookdarkmode_3.1.2.deb
 Size: 209568
+Installed-Size: 896
 MD5sum: 0e7508012aaec120cf55dddd371a796e
 SHA1: 6c647755cae1969b5f0ab5e11e74c2130d6406ed
 SHA256: 825d11c4ef4aab564a8f7536d69d3124f4a9aa7c1f574d1736658c08167e84ca
@@ -1273,6 +1309,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: FacebookDarkMode
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/facebookdarkmod
+https://havoc.app/package/facebookdarkmod/depiction.json
 
 Package: com.foxfort.aperturize
 Version: 2.2.6
@@ -1282,6 +1319,7 @@ Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
 Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.aperturize_2.2.6_iphoneos-arm.deb
 Size: 229862
+Installed-Size: 896
 MD5sum: 3ce526ced0adcccb17a324baae836804
 SHA1: e5b87b4e237c48addf21dccf819db4c08d72bc96
 SHA256: 633b580b40045ac9d7e51019dcc4ebe825ae336f60d6f1ec3ff121b3057d1301
@@ -1290,6 +1328,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: Aperturize
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/aperturize
+SileoDepiction: https://havoc.app/package/aperturize/depiction.json
 
 Package: com.foxfort.portraitxi
 Version: 4.1.0
@@ -1299,6 +1338,7 @@ Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
 Architecture: iphoneos-arm
 Filename: ./debs/com.foxfort.portraitxi_4.1.0_iphoneos-arm.deb
 Size: 13225612
+Installed-Size: 15204
 MD5sum: ca26648483a711e5f44b114c3c12ed16
 SHA1: 4767d250241f96be33ee027a460247894a88889f
 SHA256: 6fd72dd9595e7492773da6c65b109f37c3dd56c7271fa54bcdf2f3b2130b4401
@@ -1307,11 +1347,12 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: PortraitXI
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/portraitxi
+SileoDepiction: https://havoc.app/package/portraitxi/depiction.json
 
 Package: com.ceadd.blockyoux
 Version: 3.3
 Section: Ad-Blocker
-Maintainer: Ceadd
+Maintainer: Ceadd <ceadd@ceadd.ca>
 Pre-Depends: dpkg
 Depends: firmware (>= 11.0), firmware (<<15.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock, com.git-anish.mdnsrestart
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ps.letmeblockb
@@ -1324,136 +1365,154 @@ SHA256: 160e4848c6a9a47072815c09fa90fb2a60f918155a71eadc26bf03bee9e0e991
 Description: The Privacy Ad Blocker.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://ceadd.ca/cydia/depictions/com.ceadd.blockyoux/icon.png
 Name: BlockYouX
-Author: Ceadd
+Author: Ceadd <ceadd@ceadd.ca>
 Depiction: https://ceadd.ca/cydia/depictions/?p=com.ceadd.blockyoux
+SileoDepiction: https://ceadd.ca/cydia/depictions/com.ceadd.blockyoux/SileoDepiction.json
 
 Package: com.spark.snowboard.dock
 Version: 1.1.1~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.1.1_Beta4.deb
 Size: 57458
+Installed-Size: 520
 MD5sum: 15ff8f968f9d0fd0b2f5887e2092b89a
 SHA1: 517ea608b827d54f74cb7b913f754e5688799d56
 SHA256: 2109b11def9ac0846c3c1530d57328ffe7432538b85d0c298e4971a0b609e14d
 Description: Dock for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Dock Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.dock
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.dock
 
 Package: com.spark.snowboard.effects
 Version: 1.1.2~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.1.2_Beta4.deb
 Size: 65688
+Installed-Size: 508
 MD5sum: eacf278f9b3ca1df786864478dc7c9d2
 SHA1: 8c7c18d59ff288caeebd97417dd63c48e06178fd
 SHA256: 70da3251650a22853c58862261c41e037d9e41ea751127d5cd59e3b42f544305
 Description: Icon Effects for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Icon Effects Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.effects
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.effects
 
 Package: com.spark.snowboard.statusbar
 Version: 1.0.12-Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.0.12-Beta4.deb
 Size: 46030
+Installed-Size: 460
 MD5sum: 785dc9dad2ed84d43c7d6f6c0e01698a
 SHA1: d4a846f4792bcd2387abfbb663d83f4a569f319d
 SHA256: b7a210b6b52fa3e050a9f7898b0290ebf8cb1895833b239684d038153aa4b079
 Description: StatusBar for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard StatusBar Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.statusbar
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.statusbar
 
 Package: com.spark.snowboard.ui
 Version: 1.1.0~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.1.0_Beta4.deb
 Size: 70390
+Installed-Size: 476
 MD5sum: 97b2cb1fbee8f6343b730b75c0df27df
 SHA1: 50e5d683680e3aa8bfa4f62973238f2868d85bd1
 SHA256: 9f41e0bb249f6054d5c0c69842ebe77c7534fb0b143ca2cd3112741fdba05e34
 Description: UI Extension for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard UI Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.ui
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.ui
 
 Package: com.spark.snowboard.respringextension
 Version: 1.0.7~Beta3
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.0.7_Beta3.deb
 Size: 41728
+Installed-Size: 596
 MD5sum: 6790e458b85966a05f3bf256da68d337
 SHA1: 41581ba711604986c19ee94adaf27c0a6db31a8b
 SHA256: 8c90bd7190561b7a5cd89caee3f74286d47e23c5af362466935e626f9410b971
 Description: Respring icon Extension for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Respring Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.respringextension
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.respringextension
 
 Package: com.spark.snowboard.fonts
 Version: 1.0.12~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
 Architecture: iphoneos-arm
 Filename: ./debs/1.0.12_Beta4.deb
 Size: 21142
+Installed-Size: 400
 MD5sum: a5941841ae97d4f2fe077a5710f78ca9
 SHA1: cf2d13905f298cea83bfcf03ed52c32c3ec6e012
 SHA256: 35cbe630608a1869b9698c9fa2899b2319b5a9d171b888e2bb878e2d3bf99182
 Description: Fonts for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Fonts Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.fonts
 
 Package: com.spark.snowboard.presetextension
 Version: 1.0.21~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.0.21_Beta4.deb
 Size: 81452
+Installed-Size: 792
 MD5sum: 2596209b1da8363566d0bf21af7c94c0
 SHA1: ee06682558fd5b59144494c4f6a9984bfcaf3591
 SHA256: fafee7c141c72b9e90543063aae8b4a15a41e23c81368a858de44ae3ba45a19a
 Description: SnowBoard Presets Extension
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Preset Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.presetextension
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.presetextension
 
 Package: com.spark.snowboard.sounds
 Version: 0.0.3~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/0.0.3_Beta4.deb
 Size: 23406
+Installed-Size: 400
 MD5sum: da0eba8282b40271057f4d0f7265c9eb
 SHA1: 7942952f3095222fc64ff12bb6b2b598249662c1
 SHA256: 38b84362e6cdfcf33e050c32c8369183bce64c93839dcc24970fc1fe7569c808
@@ -1462,32 +1521,36 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: SnowBoard Sounds Extension
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.sounds
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.sounds
 
 Package: com.spark.snowboard.masks
 Version: 1.1.0~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.1.0-Beta4.deb
 Size: 32626
+Installed-Size: 356
 MD5sum: f1b8dd2c3649760a5fa47d161d7ad57b
 SHA1: 4dfbfb5c58fdb15841c7f96caa7ce6d323a0a0a2
 SHA256: e12c97f0d572617ad96dd7d7ac80a917556e8e8550132bfa6ec87a259b75c194
 Description: Icon masks for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Icon Masks Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.masks
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.masks
 
 Package: com.spark.snowboard.pagedots
 Version: 1.1.0~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.1.0--Beta4.deb
 Size: 36328
+Installed-Size: 452
 MD5sum: b152c5d34f28448443dbb70ecc5dfe5b
 SHA1: 759d17b154c092791bbb3a4110e8ac69770ba18c
 SHA256: 94e0099ba3c1a829754c3b7ab7f84d15fb44eaa2e221808d0160960670a9c60b
@@ -1496,74 +1559,83 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package
 Name: SnowBoard Page Dots Extension
 Author: Spark <info@sparkdev.me>
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.pagedots
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.pagedots
 
 Package: com.spark.snowboard.labels
 Version: 1.1.0~Beta4
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.1.0__Beta4.deb
 Size: 22964
+Installed-Size: 400
 MD5sum: ab4fc1ba517f4eceda2dc569d211b994
 SHA1: 0b42da15396a917395a93104de0f7c1084216389
 SHA256: 4ef24f2c79d4c2b07d0364dc4e081a5d3c20ff4f0fccc82aacee00b0ab3e7c67
 Description: Labels for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Labels Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.labels
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.labels
 
 Package: com.spark.snowboard.blur
 Version: 0.0.2~Beta1
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/0.0.2_Beta1.deb
 Size: 32680
+Installed-Size: 468
 MD5sum: 57e3717fd4c6f66c1b038519dd172507
 SHA1: 3ee2450b5dcd938e0e081c9bfdda608aae528be5
 SHA256: e9e56a04f12e49894ce360bf1b521d7218b58cd523e136e1a68e262417102685
 Description: Icon blur for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Icon Blur Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.blur
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.blur
 
 Package: com.spark.snowboard.settingsicons
 Version: 1.0.25~Beta3
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.0.25_Beta3.deb
 Size: 31196
+Installed-Size: 452
 MD5sum: 5b125221a4eba4a2e549a4cd86e598ed
 SHA1: def29547909c5b2e3d20ab28c4d1ee529276161b
 SHA256: 6a9c7c6de70a442fe95ed03d7979e59b89b7038ead977e9f5d5b0c855a6197ac
 Description: Settings Icons for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Settings Icons Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.settingsicons
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.settingsicons
 
 Package: com.spark.snowboard.proceduralwallpapers
 Version: 1.0.1~Beta1
 Section: SnowBoard Extensions
-Maintainer: Spark <info@sparkdev.me>
+Maintainer: Spark 
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Architecture: iphoneos-arm
 Filename: ./debs/1.0.1_Beta1.deb
 Size: 28616
+Installed-Size: 404
 MD5sum: 2a8a0052644a004307de9966808d5469
 SHA1: 49d39d39b366cc32f4e034c6ccecddf93579fa19
 SHA256: 803e98a693306ccf86432ea673ed59a5e91f974d9e5aaa754700d3dc0fad34e8
 Description: Icon proceduralwallpapers for SnowBoard
 Icon: https://api.ios-repo-updates.com/image.php?url=https://sparkdev.me/package-logo/com.spark.snowboard
 Name: SnowBoard Procedural Wallpapers Extension
-Author: Spark <info@sparkdev.me>
+Author: Spark 
 Depiction: https://www.sparkdev.me/package/com.spark.snowboard.proceduralwallpapers
+SileoDepiction: https://www.sparkdev.me/sileo/com.spark.snowboard.proceduralwallpapers
 
 Package: dev.theos.orion12
 Version: 1.0.0
@@ -1573,14 +1645,17 @@ Depends: firmware (>= 12.2), firmware (<< 14.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: ./debs/dev.theos.orion12_1.0.0_iphoneos-arm.deb
 Size: 454406
+Installed-Size: 1412
 MD5sum: faafcff2a1229a721fff850077d1d70e
 SHA1: 992cfd79edb4b0f47773a7f023cfd2c2bd773291
 SHA256: f21ecebaa5b84c7387f9bc7e187e6c63bdd82b907103e9266f1d2affb47f371a
 Description: Runtime for tweaks built using Orion and Swift
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/orion-runtime12/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/orion-runtime12.jpg
 Name: Orion (iOS 12-13)
 Author: Theos Team <support@theos.dev>
 Depiction: https://chariz.com/get/orion-runtime12
+SileoDepiction: https://repo.chariz.com/api/sileo/package/dev.theos.orion12/depiction.json
 
 Package: dev.theos.orion14
 Version: 1.0.0
@@ -1590,14 +1665,17 @@ Depends: firmware (>= 14.0), firmware (<< 16.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Filename: ./debs/dev.theos.orion14_1.0.0_iphoneos-arm.deb
 Size: 815260
+Installed-Size: 2560
 MD5sum: abf3d993b38c5dc1c0d9c4f97be4ce46
 SHA1: 37310e0daeb117cb5f21f81521e2295c499dc8e6
 SHA256: 0820bd5fed1f3b7c46a270dfc0adf8e73894289b77585fd5812ccb7ebbf8cf05
 Description: Runtime for tweaks built using Orion and Swift
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/orion-runtime14.jpg
 Name: Orion Runtime (iOS 14)
 Author: Theos Team <support@theos.dev>
 Depiction: https://chariz.com/get/orion-runtime14
+SileoDepiction: https://repo.chariz.com/api/sileo/package/dev.theos.orion14/depiction.json
 
 Package: com.muirey03.libimagepicker
 Version: 1.0.4
@@ -1614,8 +1692,10 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: libimagepicker
 Author: Muirey03 <tommy.muir@btinternet.com>
 Depiction: https://havoc.app/depiction/libimagepicker
+SileoDepiction: https://havoc.app/package/libimagepicker/depiction.json
 
 Package: com.cokepokes.appstoreplusplus
+Priority: optional
 Version: 0.9.18
 Section: Tweaks
 Maintainer: CokePokes <cokepokes@gmail.com>
@@ -1646,9 +1726,11 @@ SHA1: 018d8866db4e1e8c839ecd704b558eb00a74cb41
 SHA256: 4d5feab38603e354c85cf0b0959a18df53590f7ad63bda1d97c6a55be87ddd86
 Description: Quickly launch apps from the lockscreen.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/quickactions/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/quickactions.jpg
 Name: QuickActions
 Author: Cameron Katri <me+quickactions@cameronkatri.com>
 Depiction: https://chariz.com/get/quickactions
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.cameronkatri.quickactions/depiction.json
 
 Package: com.jakeashacks.realcc
 Version: 1.0.2
@@ -1702,6 +1784,7 @@ Description: Removes the 3 app limit for free developer accounts
 Name: NoFreeAppLimit
 Author: HAHALOSAH
 Depiction: https://havoc.app/depiction/nofreeapplimit
+SileoDepiction: https://havoc.app/package/nofreeapplimit/depiction.json
 
 Package: com.tigisoftware.filza
 Version: 3.9.0-2
@@ -1719,7 +1802,6 @@ SHA256: 7e6446d0ba8c0c9c4214fca8df7a8f235ac9c64196f46ac4bdaf3fd6c85c75cc
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Name: Filza File Manager
 Author: TIGI Software
-Depiction: https://rangendr123.github.io/dx/depictions/?p=com.tigisoftware.filza
 
 Package: net.dodtweaks.ithemer
 Version: 2.0.0-3
@@ -1740,6 +1822,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: iThemer
 Author: DODGraphics <dodgraphics.1010@gmail.com>
 Depiction: https://repo.packix.com/package/net.dodtweaks.ithemer/
+SileoDepiction: https://repo.packix.com/api/sileo/package/net.dodtweaks.ithemer/depiction
 
 Package: com.eliassfeir.SmartNotifications2
 Version: 1.5
@@ -1758,6 +1841,7 @@ Icon: https://havoc.app/media/61fc6f0394bb9ecb0d31f0f1
 Name: SmartNotifications 2
 Author: EliasFeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/sn2
+SileoDepiction: https://havoc.app/package/sn2/depiction.json
 
 Package: com.mpg13.flashback
 Version: 4.1
@@ -1774,9 +1858,11 @@ SHA1: 0b2d3811ddb3523fb67da75543a4200894cb3c14
 SHA256: d8688fa46b2e9c0ac2fa45d7fbdc30c8967de76448d57ca3857e06de9f989ca7
 Description: Backup your style in style.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/flashback/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/flashback.jpg
 Name: FlashBack
 Author: MPG13 & 23 Aaron <support@23aaron.com>
 Depiction: https://chariz.com/get/flashback
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.mpg13.flashback/depiction.json
 
 Package: libnet9
 Version: 1.2-1
@@ -1794,6 +1880,7 @@ Description: library for the construction and handling of network packets
 Name: libnet9
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/get/libnet9
+SileoDepiction: https://repo.chariz.com/api/sileo/package/libnet9/depiction.json
 
 Package: arpoison
 Version: 0.7-1
@@ -1811,6 +1898,7 @@ Description: Generates user-defined ARP packets
 Name: arpoison
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/get/arpoison
+SileoDepiction: https://repo.chariz.com/api/sileo/package/arpoison/depiction.json
 
 Package: com.amywhile.signalreborn
 Version: 2.2.1-2
@@ -1819,6 +1907,7 @@ Maintainer: Amy While <support@anamy.gay>
 Depends: firmware (>= 12.2) | org.swift.libswift
 Conflicts: com.charliewhile.signalreborn
 Replaces: com.charliewhile.signalreborn
+Breaks: com.charliewhile.signalreborn
 Architecture: iphoneos-arm
 Filename: ./debs/com.amywhile.signalreborn_2.2.1-2_iphoneos-arm.deb
 Size: 614258
@@ -1828,9 +1917,11 @@ SHA1: df06dd75a4b3c21ce11537942da6aae3e1b04372
 SHA256: c67db0ed4235bdcb5dcba4f46e11d68483d00ac118cccefb61f98d94e07efb36
 Description: Visualise your nearby cell towers
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/signal/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/signal.jpg
 Name: SignalReborn
 Author: Amy While <support@anamy.gay>
 Depiction: https://chariz.com/get/signal
+SileoDepiction: https://chariz.com/api/sileo/package/com.amywhile.signalreborn/depiction.json
 
 Package: com.alphastream.linearforjuice
 Version: 1.2
@@ -1851,6 +1942,7 @@ Header: https://img.chariz.cloud/sileo-banner/linear-for-juice.jpg
 Name: Linear for Juice (obsolete package)
 Author: Alpha_Stream <alphastream113@gmail.com>
 Depiction: https://chariz.com/get/linear-for-juice
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.alphastream.linearforjuice/depiction.json
 
 Package: com.alphastream.linearforsb
 Version: 1.4.1
@@ -1871,6 +1963,7 @@ Header: https://img.chariz.cloud/sileo-banner/linear.jpg
 Name: Linear for Status Bar
 Author: Alpha_Stream
 Depiction: https://chariz.com/get/linear
+SileoDepiction: https://chariz.com/api/sileo/package/com.alphastream.linearforsb/depiction.json
 
 Package: com.gabehern.goji
 Version: 2.1.2
@@ -1886,9 +1979,11 @@ SHA1: a120a5a73eaee1003d581f6094077e782a97c127
 SHA256: f2ed7ffe96264112ba8d92ebb9198267083ac0db96c388da1e7851fce1321c8a
 Description: The classic Goji experience. 
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/goji/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/goji.jpg
 Name: Goji
 Author: gabehern <hello@gabehern.com>
 Depiction: https://chariz.com/get/goji
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.gabehern.goji/depiction.json
 
 Package: me.alfhaily.cercube
 Version: 5.3.9
@@ -1925,9 +2020,11 @@ SHA1: 3d7964570a9e05a04e47d9457c42531e76684467
 SHA256: 0cee888b0107744e8590ff28ec41e04def806c66a678fc17121e6efc27723d68
 Description: A wonderful neon overhaul for your lock screen!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/zinnia/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/zinnia.jpg
 Name: Zinnia
 Author: Aspen <support@absolucy.moe>
 Depiction: https://chariz.com/get/zinnia
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.aspenuwu.zinnia/depiction.json
 
 Package: com.jacobcxdev.libjcx
 Version: 1.1.1
@@ -1945,6 +2042,7 @@ Description: A library used by JacobCXDev.
 Name: libJCX
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://chariz.com/get/libjcx
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.jacobcxdev.libjcx/depiction.json
 
 Package: ws.hbang.stopcrashingpls
 Version: 1.0.2
@@ -1958,11 +2056,13 @@ Installed-Size: 184
 MD5sum: 01724c2cdc7afb6f3105ae2430e166df
 SHA1: 6def23abcfed01e6090afbaf84cb5f67b5d17f8a
 SHA256: 9a1bfc22b9f0e6c790323f8e8243389b5c3b1af6d5d6e3156087d39647efac47
-Description: Workaround for iOS 13 jetsam crash issu
+Description: Workaround for iOS 13 jetsam crash issue
+Support: https://hashbang.productions/support/
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/stopcrashingpls/icon@3x.png
 Name: StopCrashingPls
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/stopcrashingpls
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.stopcrashingpls/depiction.json
 
 Package: com.opa334.safariplus
 Version: 1.7.20
@@ -2008,7 +2108,7 @@ Depiction: https://cydia.saurik.com/info/winterboard/
 Package: org.coolstar.ventana-modern
 Version: 1.7.0
 Section: Tweaks
-Maintainer: CoolStar <coolstarorganization@gmail.com>
+Maintainer: coolstar
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000) | org.coolstar.libhooker, preferenceloader (>= 2.2.2), org.coolstar.ldid, gzip
 Conflicts: org.coolstar.ventana
 Replaces: org.coolstar.ventana
@@ -2023,6 +2123,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: Ventana
 Author: coolstar
 Depiction: https://havoc.app/depiction/ventana
+SileoDepiction: https://havoc.app/package/ventana/depiction.json
 
 Package: com.cheeco.emotive
 Version: 1.1.5
@@ -2038,9 +2139,11 @@ SHA1: f7ff3908b75edf68d2d44afb4895a95e5bf9ff9a
 SHA256: 41103a172443aae594a2d16da19c9970645b35382f38697374bd0026949ae8bd
 Description: A Beautiful Vibrant Theme
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/emotive/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/emotive.jpg
 Name: Emotive
 Author: Cheeco <mlxcheeco@gmail.com>
 Depiction: https://chariz.com/get/emotive
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.cheeco.emotive/depiction.json
 
 Package: com.ryannair05.cylinder 
 Version: 1.1
@@ -2056,9 +2159,11 @@ SHA1: 41bcf8273d719f8800a7bd1d5e381c2857684883
 SHA256: e28a9fef390be18c3032d1819d06cc8c2ae6a8b4b03d95fdf4f4200df733dfc9
 Description: Make your icons dance
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/cylinder-reborn.jpg
 Name: Cylinder Reborn
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/get/cylinder-reborn
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.cylinder/depiction.json
 
 Package: com.anthopak.powercuts
 Version: 1.0
@@ -2081,6 +2186,7 @@ SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.powercuts/depi
 Package: com.anthopak.powercutsactionspack
 Version: 1.0
 Section: Tweaks
+Homepage: https://repo.anthopak.dev
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts
 Architecture: iphoneos-arm
@@ -2094,10 +2200,13 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/a
 Name: Powercuts Actions Pack
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactionspack.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack.json
 
 Package: com.anthopak.powercutsactivatoractions
 Version: 1.0
 Section: Tweaks
+Homepage: https://repo.anthopak.dev
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts, libactivator
 Architecture: iphoneos-arm
@@ -2111,6 +2220,8 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/a
 Name: Powercuts Activator Actions
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactivatoractions.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactivatoractions.json 
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactivatoractions.json 
 
 Package: com.fpt.photomanager12
 Version: 1.2.5
@@ -2126,13 +2237,16 @@ SHA1: 693dcb1234d941460a8a8f51680be33fab82dd19
 SHA256: 038b9da0ec4fba371f4a6c45de1b1e1b79a1798562894331eaccc69753c670a5
 Description: Add many features to the photos app.
 Icon: https://img.chariz.cloud/icon/photomanager/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/photomanager.jpg
 Name: PhotoManager (iOS 12 - 14)
 Author: Frozen Penguin <penguins_can_fly@live.com>
 Depiction: https://chariz.com/get/photomanager
+SileoDepiction: https://chariz.com/api/sileo/package/com.fpt.photomanager12/depiction.json
 
 Package: com.anthopak.addtofolder
 Version: 1.3
 Section: Tweaks
+Homepage: https://repo.anthopak.dev
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Architecture: iphoneos-arm
@@ -2146,6 +2260,8 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/a
 Name: AddToFolder
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.addtofolder.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.addtofolder.json
 
 Package: libactivator
 Priority: optional
@@ -2181,9 +2297,11 @@ SHA1: 34f8354e168dd5943ceea251595257ae4cd1abb4
 SHA256: d538a3676d3a25fe6495f67cce80bb7c2853e495ba33fbc87b86f7dfadd6ae68
 Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/swipeextenderx.jpg
 Name: SwipeExtenderX
 Author: qwertyuiop1379 <support@qwertyuiop1379.com>
 Depiction: https://chariz.com/get/swipeextenderx
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.qiop1379.swipeextenderx/depiction.json
 
 Package: com.amywhile.aemulotrial
 Version: 1.1.2
@@ -2220,9 +2338,11 @@ SHA1: 78159437df86708f9acd4fbc8384c1f00f93ff42
 SHA256: f97228878aca41f5154e0f9485d0f62d188a3f75d11badcc44899061a95b1c64
 Description: arm64 Dualboots/Tethered Downgrades on device!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/divise/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/divise.jpg
 Name: Divisé
 Author: Moski <matthewpierson01@gmail.com>
 Depiction: https://chariz.com/get/divise
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.moski.divise/depiction.json
 
 Package: me.midnightchips.snapback
 Version: 2.0.3
@@ -2238,9 +2358,11 @@ SHA1: 4e6d8cb5453a0fff685eec2f4c183551ddf22417
 SHA256: 9aca8d90b1cb3ff2a985c2f716167b764ebe11217fa08ddceb027decf0ef5910
 Description: iOS Time Machine
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/snapback/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/snapback.jpg
 Name: SnapBack
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/get/snapback
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.midnightchips.snapback/depiction.json
 
 Package: com.kef.rofi
 Version: 1.2.2
@@ -2256,9 +2378,11 @@ SHA1: 98bfc9636f20fc3c8d4162832e5500c9a1e76d2c
 SHA256: 14a2555526791ecdd5f9acf196ae44371cbc330de699b44a60071a0a1b2d1a39
 Description: An app launcher tweak.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/rofi/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/rofi.jpg
 Name: Rofi
 Author: Kef <theonlykef@gmail.com>
 Depiction: https://chariz.com/get/rofi
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.kef.rofi/depiction.json
 
 Package: com.zachary7829.importcuts
 Version: 1.0
@@ -2309,6 +2433,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: Cr4shed
 Author: Muirey03 <tommy.muir@btinternet.com>
 Depiction: https://havoc.app/depiction/cr4shed
+SileoDepiction: https://havoc.app/package/cr4shed/depiction.json
 
 Package: ca.kirara.voltage
 Version: 1.6.3
@@ -2325,9 +2450,11 @@ SHA1: cc3cd8e2b5b28911fe010163851c2f2eaf63be19
 SHA256: 04fb2cf4b456ec22a78e39ab76aaccd2c00189b2ae1d16d39b8fd15343684581
 Description: Suppress banners in apps
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/eyeplugs/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/eyeplugs.jpg
 Name: Eyeplugs
 Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
 Depiction: https://chariz.com/get/eyeplugs
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ca.kirara.voltage/depiction.json
 
 
 Package: com.muirey03.powermodule
@@ -2347,6 +2474,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: PowerModule
 Author: Muirey03 <tommy.muir@btinternet.com>
 Depiction: https://havoc.app/depiction/powermodule
+SileoDepiction: https://havoc.app/package/powermodule/depiction.json
 
 Package: com.elias.no2theft4
 Version: 2.0
@@ -2365,6 +2493,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f
 Name: No2Theft4
 Author: EliasSfeir <esfeir4@gmail.com>
 Depiction: https://havoc.app/depiction/no2theft4
+SileoDepiction: https://havoc.app/package/no2theft4/depiction.json
 
 Package: com.fpt.pokecall
 Version: 1.4.13
@@ -2385,6 +2514,7 @@ Header: https://img.chariz.cloud/sileo-banner/pokecall.jpg
 Name: PokeCall
 Author: Frozen Penguin <penguins_can_fly@live.com>
 Depiction: https://chariz.com/get/pokecall
+SileoDepiction: https://chariz.com/api/sileo/package/com.fpt.pokecall/depiction.json
 
 Package: pincrush
 Version: 0.9.2-1
@@ -2512,6 +2642,7 @@ Name: libiosexec1
 Package: com.ichitaso.otadisabler
 Version: 0.2
 Section: System
+Homepage: https://altstore.io/
 Maintainer: ichitaso
 Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
 Architecture: iphoneos-arm
@@ -2524,6 +2655,7 @@ SHA256: c3f83ba72e1d00b565c29dd4a7c195d26006c1cd774184ee85bab8836c516356
 Description: Delete and disable OTA badge
 Name: OTADisabler
 Author: ichitaso
+dev: Riley Testut
 Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
 
 Package: net.cadoth.otaenabler
@@ -2588,6 +2720,7 @@ Header: https://img.chariz.cloud/sileo-banner/legizmo-grace.jpg
 Name: Legizmo Grace
 Author: lunotech11 <support@legizmo.app>
 Depiction: https://chariz.com/buy/legizmo-grace
+SileoDepiction: https://chariz.com/api/sileo/package/lunotech11.legizmo.grace/depiction.json
 
 Package: lunotech11.legizmo.jupiter
 Version: 3.2
@@ -2609,6 +2742,7 @@ Header: https://img.chariz.cloud/sileo-banner/legizmo-jupiter.jpg
 Name: Legizmo Jupiter
 Author: lunotech11 <support@legizmo.app>
 Depiction: https://chariz.com/buy/legizmo-jupiter
+SileoDepiction: https://chariz.com/api/sileo/package/lunotech11.legizmo.jupiter/depiction.json
 
 
 Package: com.atar13.vaon
@@ -2628,6 +2762,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: Vaon
 Author: atar13 <atar13dev@gmail.com>
 Depiction: https://repo.packix.com/package/com.atar13.vaon/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.atar13.vaon/depiction
 
 Package: com.boo.scribble
 Version: 2.1
@@ -2681,6 +2816,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: TheBlues
 Author: @a7lafe <derejulian@gmail.com>
 Depiction: https://repo.packix.com/package/com.julian.TheBlues/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.julian.TheBlues/depiction
 
 Package: com.darkt.bigsurbar
 Version: 2.0
@@ -2698,6 +2834,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api
 Name: BigSurBar
 Author: DarkT <errorlocaa@gmail.com>
 Depiction: https://repo.packix.com/package/com.darkt.bigsurbar/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.darkt.bigsurbar/depiction
 
 Package: com.cardboardface.confirmrotate
 Version: 1.2.6
@@ -2737,6 +2874,7 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620
 Name: AnimationsBeFastPlus
 Author: eXqusic
 Depiction: https://havoc.app/depiction/essen
+SileoDepiction: https://havoc.app/package/essen/depiction.json
 
 Package: com.smokin1337.3dtools
 Version: 1.0.6
