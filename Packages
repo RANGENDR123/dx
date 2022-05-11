@@ -3352,3 +3352,21 @@ Name: Harpy Reloaded
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/buy/harpy-reloaded
 SileoDepiction: https://repo.chariz.com/api/sileo/package/me.midnightchips.harpy-reloaded/depiction.json
+
+Package: com.smokin1337.powerreach
+Version: 1.0.0
+Section: Tweaks
+Maintainer: smokin <smokin1337@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.smokin1337.powerreach_1.0.0_iphoneos-arm-1.deb
+Size: 337704
+Installed-Size: 1176
+MD5sum: 9926dd9bb811d9404b511abcf363f423
+SHA1: 710b5e59aa09030c204818724eaf47351878618a
+SHA256: 76483e51b7ce422f77b29b61d20e15c4a0b28170d2b4c3b8d6370e6a38664507
+Description: Power menu in reachability!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f88b8eca54d59904e3c981
+Name: PowerReach
+Author: smokin <smokin1337@gmail.com>
+Depiction: https://havoc.app/depiction/powerreach
+SileoDepiction: https://havoc.app/package/powerreach/depiction.json
