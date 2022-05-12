@@ -3542,3 +3542,22 @@ Name: Raspberry
 Author: theprestigext <superveloce2@gmail.com>
 Depiction: https://havoc.app/depiction/raspberry
 SileoDepiction: https://havoc.app/package/raspberry/depiction.json
+
+Package: com.nahtedetihw.n95
+Version: 3.8
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.cypwn.n95_3.8_iphoneos-arm.deb
+Size: 4626766
+Installed-Size: 8660
+MD5sum: 1fb27c85febb27b4afdbfcc28b4ec11c
+SHA1: 3f8e34251dda9c00ed136089c73f99ef6ab7686a
+SHA256: be82332f909ae32baae17d75b060de8e1ae277a99a329381ff957caa451aeca0
+Description: Mask album artwork images in Apple Music!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620db7ee4411253bc909585b
+Name: N95
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://havoc.app/depiction/n95
+SileoDepiction: https://havoc.app/package/n95/depiction.json
