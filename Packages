@@ -3561,3 +3561,23 @@ Name: N95
 Author: ETHN <ethanwhited2208@gmail.com>
 Depiction: https://havoc.app/depiction/n95
 SileoDepiction: https://havoc.app/package/n95/depiction.json
+
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.5.0
+Section: Development
+Maintainer: MrGcGamer
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.mrgcgamer.libgcuniversal_1.5.0_iphoneos-arm.deb
+Size: 55446
+Installed-Size: 328
+MD5sum: ad0cb30cec8e95e1e16445a8cef70a42
+SHA1: 63ac91b4a9c14a059e84eab7c3a5111cf9736271
+SHA256: d4cf75097b296a4c2ff25a514e7bdf2368a524e4f42d55e4c61f81f90960222f
+Description: An awesome library of some sort!!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620d7fcc2420463e15a5398e
+Name: LibGcUniversal
+Author: MrGcGamer
+Depiction: https://havoc.app/depiction/libgcuniversal
+SileoDepiction: https://havoc.app/package/libgcuniversal/depiction.json

@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.5.0</version>
+		<change>Added 'isLightColor', Added 'isDarkColor', Added 'logToFile', Added functions for imageController debugging, Added stock style for colorPicker</change>
+	</changes>
+</changelog>
