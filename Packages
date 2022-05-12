@@ -3525,3 +3525,20 @@ Name: Parousia
 Author: flower <flower@boba.best>
 Depiction: https://havoc.app/depiction/parousia
 SileoDepiction: https://havoc.app/package/parousia/depiction.json
+
+Package: com.theprestigext.raspberry
+Version: 2.2
+Section: Themes
+Maintainer: theprestigext <superveloce2@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.theprestigext.raspberry_2.2_iphoneos-arm.deb
+Size: 49647394
+MD5sum: 8cc81e2d2482437a9160922c8c52c226
+SHA1: 0de6b56662eb19da40a93bf1f5e5077e280e6577
+SHA256: 3971cb61aa3a498648f122132e32ca5a308820ad2c5e781d0c601ad395725d95
+Description: Vibrant Gradients for iOS
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/6215211bd1e3809b3d0c1882
+Name: Raspberry
+Author: theprestigext <superveloce2@gmail.com>
+Depiction: https://havoc.app/depiction/raspberry
+SileoDepiction: https://havoc.app/package/raspberry/depiction.json
