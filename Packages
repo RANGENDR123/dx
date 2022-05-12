@@ -3508,3 +3508,20 @@ Name: PowerReach
 Author: smokin <smokin1337@gmail.com>
 Depiction: https://havoc.app/depiction/powerreach
 SileoDepiction: https://havoc.app/package/powerreach/depiction.json
+
+Package: com.furawa.parousia
+Version: 1.4
+Section: Themes
+Maintainer: flower <flower@boba.best>
+Architecture: iphoneos-arm
+Filename: ./debs/com.furawa.parousia_1.4.deb
+Size: 8095628
+MD5sum: 7a85dfc54cd52ee6c671b40ea30ec5eb
+SHA1: 3b8c7da93d23f9704d9690d504e63395e994cfab
+SHA256: 617cf1c04a53170eea2abb5e58afd5ec1187049fa51611d65d0ae6944070d3bb0
+Description: Colorful theme for everyone!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620d7c11e1a9e320d5899ec0
+Name: Parousia
+Author: flower <flower@boba.best>
+Depiction: https://havoc.app/depiction/parousia
+SileoDepiction: https://havoc.app/package/parousia/depiction.json
