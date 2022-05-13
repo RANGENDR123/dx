@@ -7,6 +7,12 @@
             "title": "YouPiP",
             "package": "com.ps.youpip",
             "url": "https://poomsmart.github.io/repo/features/youpip.png"
+			
+		},
+        {
+            "title": "Akara",
+            "package": "com.tr1fecta.akara",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/akara.jpg"
         },
         {
             "title": "Amber",
@@ -50,6 +56,12 @@
             "title": "Zinnia",
             "package": "me.aspenuwu.zinnia",
             "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/zinnia.jpg"
+			
+		},
+        {
+            "title": "Divisé",
+            "package": "com.moski.divise",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/divise.jpg"
         },
         {
             "title": "Anywhere Widgets for iPad",
@@ -87,6 +99,12 @@
             "title": "Battery Health Enabler",
             "package": "com.ps.batteryhealthenabler",
             "url": "https://poomsmart.github.io/repo/features/batteryhealthenabler.png"
+			
+		},
+        {
+            "title": "PowerApp",
+            "package": "com.dave1482.powerapp",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/powerapp.jpg"
         }
     ]
 }
