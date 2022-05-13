@@ -3616,3 +3616,20 @@ Name: Fladient
 Author: alpha <alphastream113@gmail.com>
 Depiction: https://havoc.app/depiction/fladient
 SileoDepiction: https://havoc.app/package/fladient/depiction.json
+
+Package: com.stevsarm.gateau
+Version: 1.60
+Section: Themes
+Maintainer: stevsarm <steve22sarmiento@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.stevsarm.gateau_1.60_iphoneos-arm.deb
+Size: 30780110
+MD5sum: 8cdcf0f8b25ffa39c9c077def82c6161
+SHA1: 18d0b9aa5a1dc32dbc5d1677b2f7b5ac3babb47b
+SHA256: 2c8355b56728b171c040450a734404569c4458d8c78466df53a54006b98b2b21
+Description: Subtly Glowing Glyphs
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621528d7055220148695d639
+Name: Gateau
+Author: stevsarm <steve22sarmiento@gmail.com>
+Depiction: https://havoc.app/depiction/gateau
+SileoDepiction: https://havoc.app/package/gateau/depiction.json
