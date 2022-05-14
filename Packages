@@ -3633,3 +3633,22 @@ Name: Gateau
 Author: stevsarm <steve22sarmiento@gmail.com>
 Depiction: https://havoc.app/depiction/gateau
 SileoDepiction: https://havoc.app/package/gateau/depiction.json
+
+Package: com.midnightchips.harpy
+Version: 2.0.1
+Section: Development
+Maintainer: midnightchips <midnightchips@gmail.com>
+Depends: network-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/com.midnightchips.harpy_2.0.1_iphoneos-arm.deb
+Size: 4854026
+Installed-Size: 12848
+MD5sum: 3559fecce45700cd3fc6504c5f088fc4
+SHA1: 5c0fd5947b139f6eebb42d66a8d73a34ad0b6d7c
+SHA256: 9ecdae8ff5db817d8b9c66cff196c594011132b356b4f0dd2a41606e0ea64924
+Description: Control your network with ease
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5d5deb04a3e0e1001bcf4910/icon/download?size=medium&hash=5d5deb04a3e0e1001bcf4915
+Name: Harpy
+Author: midnightchips <midnightchips@gmail.com>
+Depiction: https://repo.packix.com/package/com.midnightchips.harpy/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.midnightchips.harpy/depiction
