@@ -3652,3 +3652,21 @@ Name: Harpy
 Author: midnightchips <midnightchips@gmail.com>
 Depiction: https://repo.packix.com/package/com.midnightchips.harpy/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.midnightchips.harpy/depiction
+
+Package: com.synnyg.backupaz3
+Version: 1.9
+Section: Applications
+Maintainer: synnygdevjb <synnyg.devjb@gmail.com>
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, shell-cmds, unzip
+Architecture: iphoneos-arm
+Filename: ./debs/com.synnyg.backupaz3_1.9_iphoneos-arm.deb
+Size: 4086988
+MD5sum: 4505b4eae6efa9d69f3d71ac23f1f7aa
+SHA1: e93426b78a2b0321424727eaf0a073d36906d776
+SHA256: c8f00e5b0334084110ccd846a15323a9ae5f1aedc8338bb1507137913247706b
+Description: A complete backup tool
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620cacf7375e996644461d40
+Name: BackupAZ 3 (iOS 10 - 13)
+Author: synnygdevjb <synnyg.devjb@gmail.com>
+Depiction: https://havoc.app/depiction/backupaz3
+SileoDepiction: https://havoc.app/package/backupaz3/depiction.json
