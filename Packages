@@ -3670,3 +3670,20 @@ Name: BackupAZ 3 (iOS 10 - 13)
 Author: synnygdevjb <synnyg.devjb@gmail.com>
 Depiction: https://havoc.app/depiction/backupaz3
 SileoDepiction: https://havoc.app/package/backupaz3/depiction.json
+
+Package: com.maxpatchs.moxy
+Version: 2.2
+Section: Themes
+Maintainer: maxpatchs <adfly.250@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.maxpatchs.moxy_2.2_iphoneos-arm.deb
+Size: 22381708
+MD5sum: 864b1202cdee08c8ed8330b254c0c1e3
+SHA1: a422e3729173df56dfa27152bbbd677356b90ccc
+SHA256: 5fed6f0b0be902d39af5317a1050400baf448def06251cbabce58080695073c8
+Description: Moxy is a unique, shapeless theme for iOS!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/6218d028ea1365a8bc7f2110
+Name: Moxy Theme
+Author: maxpatchs <adfly.250@gmail.com>
+Depiction: https://havoc.app/depiction/moxytheme
+SileoDepiction: https://havoc.app/package/moxytheme/depiction.json
