@@ -3687,3 +3687,22 @@ Name: Moxy Theme
 Author: maxpatchs <adfly.250@gmail.com>
 Depiction: https://havoc.app/depiction/moxytheme
 SileoDepiction: https://havoc.app/package/moxytheme/depiction.json
+
+Package: com.gilshahar7.batterynotch
+Version: 1.7
+Section: Tweaks
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.gilshahar7.batterynotch_1.7_iphoneos-arm.deb
+Size: 101594
+Installed-Size: 2420
+MD5sum: aa24fe2d4d3e53ca25132491503f0472
+SHA1: 9cddf4bdd88de1c8d77123825a04be61bf7d52be
+SHA256: e05e8d577150ae4bfd1bcc8704132a40aa3c70aa066e12984744649eff637f33
+Description: Represent battery around the notch
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620c66367669e842d27d36a3
+Name: BatteryNotch
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Depiction: https://havoc.app/depiction/batterynotch
+SileoDepiction: https://havoc.app/package/batterynotch/depiction.json
