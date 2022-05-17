@@ -3706,3 +3706,23 @@ Name: BatteryNotch
 Author: gilshahar7 <gilshahardex99@gmail.com>
 Depiction: https://havoc.app/depiction/batterynotch
 SileoDepiction: https://havoc.app/package/batterynotch/depiction.json
+
+Package: jp.soh.aod
+Version: 6.4
+Section: Tweaks
+Maintainer: soh_satoh <tweaks@satoh.dev>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), com.creaturesurvive.libcscolorpicker, preferenceloader, com.spark.libsparkapplist
+Conflicts: org.cydia.kiimo.cracktool4, com.julioverne.cracktool4
+Recommends: com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/jp.soh.aod_6.4_iphoneos-arm.deb
+Size: 631032
+MD5sum: 7581bbdf4edd0fc66daba43a96a79129
+SHA1: df8281a22c8c30858941db86d8adffe471bba2bf
+SHA256: e5da84d701f46cf9099e44d8784285615b0253f8628ea540ca3ed63ad78825d8
+Description: Cool Always-On Display Tweak
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/62108db34bc7792972603c2f
+Name: AOD (iOS12-13)
+Author: soh_satoh <tweaks@satoh.dev>
+Depiction: https://havoc.app/depiction/aod
+SileoDepiction: https://havoc.app/package/aod/depiction.json
