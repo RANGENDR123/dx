@@ -3726,3 +3726,23 @@ Name: AOD (iOS12-13)
 Author: soh_satoh <tweaks@satoh.dev>
 Depiction: https://havoc.app/depiction/aod
 SileoDepiction: https://havoc.app/package/aod/depiction.json
+
+Package: com.noisyflake.betteralarm
+Version: 1.3
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.noisyflake.betteralarm_1.3_iphoneos-arm.deb
+Size: 299436
+Installed-Size: 740
+MD5sum: c95f86975d03e4cdb29da71bd202a247
+SHA1: 75704f3706b754efd286d92cfbd91c4304744f23
+SHA256: 8329dc244e01a1efe3cc8cbb08e1070632f302ca120b0d9aa3c3489a26a761c6
+Description: A beautiful timer and alarm screen
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/betteralarm/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/betteralarm.jpg
+Name: BetterAlarm
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/buy/betteralarm
+SileoDepiction: https://chariz.com/api/sileo/package/com.noisyflake.betteralarm/depiction.json

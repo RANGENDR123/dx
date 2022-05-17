@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.3</version>
+		<change>New feature: require a QR code scan to turn off the alarm, New feature: modify or disable/skip the next alarm from the status bar, Ability to use a gradient for the button colors, Fix stop confirmation being skippable with hardware buttons, Completely rewritten status bar feature, so that it no longer should affect other items</change>
+	</changes>
+</changelog>
