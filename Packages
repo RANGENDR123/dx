@@ -3766,3 +3766,24 @@ Name: RelocateMe
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/buy/relocate-me
 SileoDepiction: https://repo.chariz.com/api/sileo/package/me.midnightchips.relocateme/depiction.json
+
+Package: xyz.royalapps.prokeys
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Justin Proulx <justinproulxapps@outlook.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Conflicts: xyz.royalapps.realkeys
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.royalapps.prokeys_1.1.2_iphoneos-arm.deb
+Size: 95474
+Installed-Size: 528
+MD5sum: ab852491532e3ffcfd3e44d8dfc964d1
+SHA1: 228cd7d5316b121eff6a18ba9fe3c8172c38df36
+SHA256: 60110d3360a332e69fcbf81f011772c9139adbf72ffac7454b4f1c387e9adf5b
+Description: A Tactile RGB Keyboard for your iPhone
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/prokeys/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/prokeys.jpg
+Name: ProKeys
+Author: Justin Proulx <justinproulxapps@outlook.com>
+Depiction: https://chariz.com/buy/prokeys
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.royalapps.prokeys/depiction.json
