@@ -3787,3 +3787,23 @@ Name: ProKeys
 Author: Justin Proulx <justinproulxapps@outlook.com>
 Depiction: https://chariz.com/buy/prokeys
 SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.royalapps.prokeys/depiction.json
+
+Package: com.bengiannis.manta
+Version: 1.0.3
+Section: Tweaks
+Maintainer: benjamingiannis
+Depends: mobilesubstrate
+Conflicts: com.ioscreatix.twig, com.hackyouriphone.twig, com.bengiannis.twig2, xyz.royalapps.jellyfish, com.hackyouriphone.jellyfish, com.hackyouriphone.jellyfishcrack
+Architecture: iphoneos-arm
+Filename: ./debs/com.bengiannis.manta_1.0.3_iphoneos-arm.deb
+Size: 167668
+Installed-Size: 688
+MD5sum: 708e113e50b150b996daaa4069a68e76
+SHA1: e76c580d0796ae4490ae62187a1654d015358ea6
+SHA256: 3e732db02b1f2828b7917ae849610781963f77451734371cee668234c3fb4ec2
+Description: Redesign your lock screen! Up Next calendar and weather info at a glance.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/621007b73258486a32d64974
+Name: Manta
+Author: benjamingiannis
+Depiction: https://havoc.app/depiction/manta
+SileoDepiction: https://havoc.app/package/manta/depiction.json
