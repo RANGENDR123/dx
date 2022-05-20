@@ -3826,3 +3826,23 @@ Name: PrefixUI
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://chariz.com/get/prefixui
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.prefixui/depiction.json
+
+Package: me.midnightchips.asteroid14
+Version: 1.0.1
+Section: Tweaks
+Maintainer: MidnightChips <midnightchips@gmail.com>
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0.0), ws.hbang.common (>= 1.17), com.opa334.altlist
+Architecture: iphoneos-arm
+Filename: ./debs/me.midnightchips.asteroid14_1.0.1_iphoneos-arm.deb
+Size: 339406
+Installed-Size: 1840
+MD5sum: ff7627c2c6b4de0336fbfe3cb1372d13
+SHA1: a3a4f7890d70a7ddc4398d2e5670fc6857bffda8
+SHA256: 194077a010ce49701023059fb6499201d00735a9378c74d8d37bcdffdf8dfa71  
+Description: System-wide weather
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/asteroid/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/asteroid.jpg
+Name: Asteroid
+Author: MidnightChips <midnightchips@gmail.com>
+Depiction: https://chariz.com/buy/asteroid
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.midnightchips.asteroid14/depiction.json
