@@ -3807,3 +3807,22 @@ Name: Manta
 Author: benjamingiannis
 Depiction: https://havoc.app/depiction/manta
 SileoDepiction: https://havoc.app/package/manta/depiction.json
+
+Package: com.laughingquoll.prefixui
+Version: 1.3.1
+Section: System
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (<< 12.0) | ws.hbang.alderis (>= 1.1), firmware (>= 12.0) | org.thebigboss.libcolorpicker, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.prefixui_1.3.1_iphoneos-arm.deb
+Size: 24614
+Installed-Size: 204
+MD5sum: 313509cc4c154ac88b0062ab8c253ece
+SHA1: 81537f75c9093116485e2fe4c96dcfa07e9f7691
+SHA256: 9b6ac9c35ad04966dea30a024912ae903871817cdcaf72646870db640ba4c263      
+Description: Support package for LaughingQuoll tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/prefixui/icon@3x.png
+Name: PrefixUI
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: https://chariz.com/get/prefixui
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.prefixui/depiction.json
