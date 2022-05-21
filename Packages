@@ -3838,7 +3838,7 @@ Size: 339406
 Installed-Size: 1840
 MD5sum: ff7627c2c6b4de0336fbfe3cb1372d13
 SHA1: a3a4f7890d70a7ddc4398d2e5670fc6857bffda8
-SHA256: 194077a010ce49701023059fb6499201d00735a9378c74d8d37bcdffdf8dfa71  
+SHA256: 194077a010ce49701023059fb6499201d00735a9378c74d8d37bcdffdf8dfa71
 Description: System-wide weather
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/asteroid/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/asteroid.jpg
@@ -3846,3 +3846,22 @@ Name: Asteroid
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://chariz.com/buy/asteroid
 SileoDepiction: https://repo.chariz.com/api/sileo/package/me.midnightchips.asteroid14/depiction.json
+
+Package: com.ginsu.dodo
+Version: 2.4.1
+Section: Tweaks
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.peterdev.libpddokdo
+Architecture: iphoneos-arm
+Filename: ./debs/com.ginsu.dodo_2.4.1_iphoneos-arm.deb
+Size: 303536
+Installed-Size: 1236
+MD5sum: 44e69e637d99e697d32f74e6b8c40c52
+SHA1: 6c2c63983142e56e195070260e69c2d77706e64c
+SHA256: ff5edb2c1bba73afa64fa50cbd2a783d4db7c1a385cef503f67fc7e31e4f46b0
+Description: The perfect Lock Screen tweak.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620c80371af6a544121a34af
+Name: Dodo
+Author: Ginsu <njl02@outlook.com>
+Depiction: https://havoc.app/depiction/52005
+SileoDepiction: https://havoc.app/package/52005/depiction.json
