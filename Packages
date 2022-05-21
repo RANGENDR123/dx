@@ -3045,7 +3045,7 @@ SileoDepiction: https://havoc.app/package/xenhtml/depiction.json
 Package: com.unlimapps.uaunbox
 Version: 0.0.2-1
 Section: Development
-Maintainer: UnlimApps Inc. 
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Filename: ./debs/uaunbox_0.0.2-1.deb
@@ -3057,7 +3057,7 @@ SHA256: 22c9e7c5fdda7837cfc2f422234ffa22c8fc81dd9988243844af47a43bd50e4c
 Description: filesystem operations as if user root
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.unlimapps.uaunbox.png
 Name: UAUnbox
-Author: UnlimApps Inc.
+Author: UnlimApps Inc. <support@unlimapps.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uaunboxDp
 
 Package: com.walkerbagley.caged
