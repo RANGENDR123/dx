@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>3.0.3</version>
+		<change>Fixed an issue where Kalm would be hidden/in the wrong position</change>
+	</changes>
+</changelog>

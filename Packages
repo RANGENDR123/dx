@@ -3865,3 +3865,24 @@ Name: Dodo
 Author: Ginsu <njl02@outlook.com>
 Depiction: https://havoc.app/depiction/52005
 SileoDepiction: https://havoc.app/package/52005/depiction.json
+
+Package: hi.my.name.is.ubik.kalm
+Version: 3.0.3
+Section: Tweaks
+Maintainer: ubik <cydia@ubikstyl.es>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Architecture: iphoneos-arm
+Filename: ./debs/hi.my.name.is.ubik.kalm_3.0.3_iphoneos-arm.deb
+Size: 266202
+Installed-Size: 1228
+MD5sum: 12f3a0d3a9bad7831d2494d369b22a26
+SHA1: 5a566b935c0990b31bf394b1697bb53a334748bf
+SHA256: acaf784c86b24174de42a15dde4eb90d1e5a13db17430314ab057d816fb314ca
+Description: A beautiful first sight.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/kalm/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/kalm.jpg
+Name: Kalm
+Author: ubik <cydia@ubikstyl.es>
+Depiction: https://chariz.com/buy/kalm
+SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
