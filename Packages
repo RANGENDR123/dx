@@ -3887,3 +3887,22 @@ Name: Kalm
 Author: ubik <cydia@ubikstyl.es>
 Depiction: https://chariz.com/buy/kalm
 SileoDepiction: https://repo.chariz.com/api/sileo/package/hi.my.name.is.ubik.kalm/depiction.json
+
+Package: com.elias.no2theft3
+Version: 1.6-1
+Section: Tweaks
+Maintainer: elias
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.elias.no2theft3_1.6-1_iphoneos-arm.deb
+Size: 1097426
+Installed-Size: 2592
+MD5sum: 93283aedce03cfe73b646b84c891ba9d
+SHA1: b5066c38b5a4dee8a837a49ca59ed3647ed07a7b
+SHA256: 26a45a0e4434dc369b1765a2160d0c554eea24721f19e5b120e8f848cffda3ba
+Description: the most complete tweak against pranksters, annoying nosy people and thieves.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5ea3d7c105cd8d001a9dac41/icon/download?size=medium&hash=5ea3d7c205cd8d001a9dac47
+Name: No2Theft3
+Author: elias
+Depiction: https://repo.packix.com/package/com.elias.no2theft3/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.elias.no2theft3/depiction
