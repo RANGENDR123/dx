@@ -1,7 +1,7 @@
 <package>
 	<id>ws.hbang.alderis</id>
 	<name>Alderis Color Picker</name>
-	<version>1.1.2</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -10,9 +10,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Jailbroken version of AltStore with on device signing feauture.</shortDescription>
+	<shortDescription>Color picker support library for tweaks.</shortDescription>
 	<descriptionlist>
-		<description>Alderis Color Picker 1.1.2,   compatible to iOS 12.0 - iOS 14.8</description>
+		<description>Alderis Color Picker 1.2,   compatible to iOS 12.0 - iOS 14.8</description>
 		<description>Alderis Color Picker For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 

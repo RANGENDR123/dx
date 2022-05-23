@@ -807,18 +807,18 @@ Depiction: https://havoc.app/depiction/cranelite
 SileoDepiction: https://havoc.app/package/cranelite/depiction.json
 
 Package: ws.hbang.alderis
-Version: 1.1.2
+Version: 1.2
 Section: Development
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools
 Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
 Architecture: iphoneos-arm
-Filename: ./debs/ws.hbang.alderis_1.1.2_iphoneos-arm.deb
-Size: 1847474
-Installed-Size: 6468
-MD5sum: a2fb626baa41e71d3092c010b76c9c08
-SHA1: 7824c40921ed21b1a3607bdc3e2dbd74cfda0554
-SHA256: f3726f2d079a7b88fa931eb833c1327c702d707402e672de7bce16ba603d0d9c
+Filename: ./debs/ws.hbang.alderis_1.2_iphoneos-arm.deb
+Size: 372224
+Installed-Size: 2420
+MD5sum: 91472d7f2db67f56d8890f50c67cd58a
+SHA1: 030a16bf224a725045e29bb5ee0531f5b4390266
+SHA256: 29537e3452c51c5d802cf8616ea78ca46077f1f150792564196c1a9ec88a30cf
 Description: Color picker support library for tweaks
 Support: https://hashbang.productions/support/
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/alderis/icon@3x.png
