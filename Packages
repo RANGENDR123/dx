@@ -182,16 +182,17 @@ Depiction: https://havoc.app/depiction/smartbattery2
 SileoDepiction: https://havoc.app/package/smartbattery2/depiction.json
 
 Package: xyz.willy.zebra
-Version: 1.1.26
+Version: 1.1.28
 Section: Packaging
 Maintainer: Zebra Team <teamqgetzbra.com>
 Depends: dpkg, uikittools, firmware (>= 9.0),
 Architecture: iphoneos-arm
-Filename: ./debs/xyz.willy.zebra_1.1.26_iphoneos-arm.deb
-Size: 8244188 
-MD5sum: e858c52abd05e920b44ac3f25707a1c7
-SHA1: 80aa8c98ac5db433a58eff3efbfb82244c04eb20
-SHA256: 74ad6bc872dad98b768b2c927fba2cacf848135db414fbe5fd50c131f27b15e4
+Filename: ./debs/xyz.willy.zebra_1.1.28_iphoneos-arm.deb
+Size: 8229374
+Installed-Size: 14484
+MD5sum: bd84c2b5d14690f71e11018933e240c9
+SHA1: f8afa3305457f9f3408bec8ae33ada959a7248ce
+SHA256: 9778218e84fc63661ac0640da6bddbb96ab529906c6b38bb604ec28a375e3307
 Description: A Useful Package Manager
 Icon: https://th.bing.com/th/id/R.bae30efdcfa9fb9cec1703646c8f24a7?rik=imWzqrkL7%2bOxsA&pid=ImgRaw&r=0
 Name: Zebra

@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.1.26</version>
-		<change>Adds a handy feature to copy device info by tapping the device info text at the bottom of the home page, Fixes a crash on iOS 9 - 13 when tapping the Add Source button (Contributed by @opa334 - thanks!), fixes the sorting of the package list export feature to be alphabetical. </change>
+		<version>1.1.28</version>
+		<change>Fixes Zebra crashing on launch on iOS 12 and earlier</change>
 	</changes>
 </changelog>
