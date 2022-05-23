@@ -1144,18 +1144,18 @@ Depiction: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.h
 SileoDepiction: https://isecureos.idevicecentral.com/repo/sileo/isecureos.json
 
 Package: com.dave1482.powerapp
-Version: 6.1
+Version: 6.1.1
 Section: Utilities
 Maintainer: dave1482 <dave1482@dave1482.com>
 Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils, bash
 Conflicts: com.dave1482.powerappbeta
 Architecture: iphoneos-arm
-Filename: ./debs/com.dave1482.powerapp_6.1_iphoneos-arm.deb
-Size: 562678
-Installed-Size: 1480
-MD5sum: daf190162214b90c42ecc1452c9536cb
-SHA1: 9316a05640ecc634d22ad506c6a1f13346fcbb18
-SHA256: eb8f86f2b1de4d9a3a5327f5f4f05cd3b727a94f6c9f0b38e1616f89de8020fe
+Filename: ./debs/com.dave1482.powerapp_6.1.1_iphoneos-arm.deb
+Size: 562100
+Installed-Size: 1488
+MD5sum: 77a6208b6a901494c2573436de44db91
+SHA1: 7f21ba94ee71f2e16b2023dba3360c86ff458743
+SHA256: e5753f3f6e09d80f3c5a3b2e81f5bb82fbbd372cb35a88e01e6cb73beb97a090
 Description: Reboot, Shutdown, Respring, go into Safemode
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/powerapp/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/powerapp.jpg

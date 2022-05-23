@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>6.1</version>
+		<version>6.1.1</version>
 		<change>Added latest devices to device list, Added 2 new alternative icons, Enabled userspace reboots on certain jailbreaks where it was disabled, Fixed missing Safe Mode Quick Action icon</change>
 	</changes>
 </changelog>
