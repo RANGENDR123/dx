@@ -3906,3 +3906,22 @@ Name: No2Theft3
 Author: elias
 Depiction: https://repo.packix.com/package/com.elias.no2theft3/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.elias.no2theft3/depiction
+
+Package: com.idevicelover.smartbundle
+Version: 2.2
+Section: Tweaks
+Maintainer: elias
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkcolourpicker, ws.hbang.common, com.spark.libsparkapplist, org.thebigboss.wifiutil, libactivator
+Architecture: iphoneos-arm
+Filename: ./debs/com.idevicelover.smartbundle_2.2_iphoneos-arm.deb
+Size: 851756
+Installed-Size: 3156
+MD5sum: 3e96db3e28fa9606a335c0f99df987bd
+SHA1: 80d951a13b6266d2899c19e0c815ec6facc54cbe
+SHA256: df662d407f1090c2fa0c9c673983e597ad4e0c3f73783aa42781dd6c994f657c
+Description: Two of the smartest tweaks in one cheaper package! SmartBattery and SmartNetwork!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e45acdec2244c002eed8684/icon/download?size=medium&hash=5e45acdec2244c002eed8689
+Name: SmartBundle
+Author: elias
+Depiction: https://repo.packix.com/package/com.idevicelover.smartbundle/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.idevicelover.smartbundle/depiction
