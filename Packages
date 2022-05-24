@@ -3925,3 +3925,24 @@ Name: SmartBundle
 Author: elias
 Depiction: https://repo.packix.com/package/com.idevicelover.smartbundle/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.idevicelover.smartbundle/depiction
+
+Package: com.golddavid.colorbadges-new
+Version: 1.5.0
+Section: Tweaks
+Maintainer: David Goldman <help@golddavid.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorbadges
+Replaces: org.thebigboss.colorbadges
+Architecture: iphoneos-arm
+Filename: ./debs/com.golddavid.colorbadges-new_1.5.0_iphoneos-arm.deb
+Size: 59594
+Installed-Size: 560
+MD5sum: 935415997e5780b7bd38feb06b722d23
+SHA1: 5134ac807e6968b3be1ebe853be146c930ef39ab
+SHA256: d658a49acf9556e610a12115067c1c38e26d1bdf053df70d6f2d81069f4e0fa6
+Description: Colorize your badges
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5c78b74a8eff600010384c4e/icon/download?size=medium&hash=5ccc6bfc945bff00112b9a85
+Name: ColorBadges (Packix)
+Author: David Goldman <help@golddavid.com>
+Depiction: https://repo.packix.com/package/com.golddavid.colorbadges-new/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.golddavid.colorbadges-new/depiction
