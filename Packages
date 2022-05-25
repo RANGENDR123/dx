@@ -2253,10 +2253,10 @@ Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.addtofolder.deb
-Size: 139978
-MD5sum: 97d86cc00b4fefacfda97c56b44f08ee
-SHA1: 4c666e461f913e394fb0fd2c57384bda22527fa4
-SHA256: 76467367591dd2a109efc2b0f06a2a8d8be2da4cd3e64610c8cb71a5ddb2bc43
+Size: 139976
+MD5sum: 41ff8e061f2606e7f18c7e2dd4aaec7c
+SHA1: 523225564019b20357b7635046a37e7cc08debf2
+SHA256: 9269053347129b5e77dacc6e3e22d48459eaa15c77f598a39ce0dc16a8ef9b2a
 Description: Easily move apps to your folders
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.addtofolder/icon.png
 Name: AddToFolder
