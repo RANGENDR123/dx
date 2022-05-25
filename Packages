@@ -2213,9 +2213,9 @@ Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.po
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.powercutsactivatoractions.deb
 Size: 12972
-MD5sum: 4eb617b3fb5852ebca22ab99ab132889
-SHA1: 217d22b65a936de2d7edc7acfd8ec14ca98e187a
-SHA256: 76083e17e31e9b898ba35f296ac137088d08a8d3b16df70a32ab60bf5a19305b
+MD5sum: cd074dd5e7a4635b574495171938738c
+SHA1: 8e82c5c912f9cf4e3c9405931d2c23fa8753a596
+SHA256: 0f78f1f782fd3076e1fc69aa25283f10fd86fe19bdb7ff15f67f2c13b4eabfc2
 Description: Activator actions for Powercuts
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercutsactivatoractions/icon.png
 Name: Powercuts Activator Actions
