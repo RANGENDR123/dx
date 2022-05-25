@@ -3947,3 +3947,49 @@ Name: ColorBadges (Packix)
 Author: David Goldman <help@golddavid.com>
 Depiction: https://repo.packix.com/package/com.golddavid.colorbadges-new/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.golddavid.colorbadges-new/depiction
+
+Package: com.ouraigua.xcode.audicy
+Version: 2.0.4
+Section: Utilities
+Homepage: https://ouraigua.com/apps/audicy/index.php
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+Pre-Depends: firmware (>= 12.2)
+Depends: com.ouraigua.jodebox (>= 4.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.jodownloader, com.ouraigua.audicy, com.ouraigua.xcode.old.audicy
+Architecture: iphoneos-arm
+Sponsor: ouraigua.com <https://ouraigua.com>
+Filename: ./debs/com.ouraigua.xcode.audicy_2.0.4_iphoneos-arm.deb
+Size: 48190948
+Installed-Size: 60732
+MD5sum: c324f481ed7f38864b5d19e90a3ae8f9
+SHA1: 0fd3cf56a57045f1f3fb83ed2726c2b4ddff3f55
+SHA256: bd6d7f2a3dbe16a8d234f5da6b577f10a3cd65c12f7c56a780e2746c9337e2a4
+Description: Import audio/video to Music app, Videos app, Ringtones, Podcasts, Camera Roll...
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e8259a8c7bd97001a2645eb/icon/download?size=medium&hash=5e8259a9c7bd97001a2645f1
+Name: Audicy
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Depiction: https://repo.packix.com/package/com.ouraigua.xcode.audicy/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.xcode.audicy/depiction
+
+Package: com.ouraigua.xcode.old.audicy
+Version: 2.0.4
+Section: Utilities
+Homepage: https://ouraigua.com/apps/audicy/index.php
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+Pre-Depends: firmware (>= 10.0), firmware (<< 12.2)
+Depends: com.ouraigua.old.jodebox (>= 4.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.jodownloader, com.ouraigua.audicy, com.ouraigua.xcode.audicy
+Architecture: iphoneos-arm
+Sponsor: ouraigua.com <https://ouraigua.com>
+Filename: ./debs/com.ouraigua.xcode.old.audicy_2.0.4_iphoneos-arm.deb
+Size: 48943888
+Installed-Size: 62348
+MD5sum: 5764b4c9e8fbaac1cd0014eb495e0af4
+SHA1: c7f6add2b20d98ccaca8213e40a799adda483bee
+SHA256: fb8fbb3fa908c0457a06b10914168afbf7ba3a0daacd39d9c45057c5be234a36
+Description: Import audio/video to Music app, Videos app, Ringtones, Podcasts, Camera Roll...
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e826e4a126502003da41afc/icon/download?size=medium&hash=5e826e4a126502003da41b02
+Name: Audicy iOS 10.0 to 12.1.4
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Depiction: https://repo.packix.com/package/com.ouraigua.xcode.old.audicy/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.xcode.old.audicy/depiction
