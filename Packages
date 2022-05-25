@@ -2185,17 +2185,17 @@ Depiction: https://chariz.com/get/powercuts
 SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.powercuts/depiction.json
 
 Package: com.anthopak.powercutsactionspack
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Homepage: https://repo.anthopak.dev
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.powercutsactionspack.deb
-Size: 73866
-MD5sum: 293e54ef87202de7b1af3216041a8c57
-SHA1: 481f8de89e5b39bbf32c78e4a035cf85a48e3f82
-SHA256: 28989d631e078f28ec75d01820b9786b7c2b17d1d9bdeaf900a6e521e5f32499
+Size: 90076
+MD5sum: 57eaca772befa2320937b9320c62b81a
+SHA1: 3bb89da2048bd24467376a2531930a96bfd45809
+SHA256: edbf10a3f97136a18e5fb0338858f7401304cad6fc9421d468e5cd0b67a5c119
 Description: Pack of actions for Powercuts
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
 Name: Powercuts Actions Pack
