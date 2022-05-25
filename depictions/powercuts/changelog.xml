@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.1</version>
-		<change>Initial release on Chariz, Fix issue with postinst/postrm</change>
+		<version>1.1</version>
+		<change>Library: Add support for "embedded" parameters in the action name (for a cleaner look), Library: Add support for conditional parameters, which only show on some conditions (for an even cleaner look)</change>
 	</changes>
 </changelog>

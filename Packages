@@ -2167,22 +2167,23 @@ Depiction: https://chariz.com/get/cylinder-reborn
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.cylinder/depiction.json
 
 Package: com.anthopak.powercuts
-Version: 1.0
+Version: 1.1
 Section: System
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.powercuts.deb
-Size: 323086
-MD5sum: 1b9e9a77aec626c8994e09a2ba29f52b
-SHA1: c623263322a93154ab4f33969bf1912117df93a5
-SHA256: 66a3e5a132bdb72956a57c188d7de79ea6670c1d0cae026f0a72f52ec4db4f22
+Size: 327222
+MD5sum: d2463c414ab1109bfdd03a4c9e4884e9
+SHA1: bbfb79f481caf61703aee070555822eaa157827a
+SHA256: 99eb41770138845a0bfc3d66aa9cb4bf8d6397fea8826c9c28c6167f14288758
 Description: A library to supercharge Shortcuts!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
 Name: Powercuts
 Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://chariz.com/get/powercuts
-SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.powercuts/depiction.json
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercuts.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercuts.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercuts.json
 
 Package: com.anthopak.powercutsactionspack
 Version: 1.1
