@@ -3993,3 +3993,51 @@ Name: Audicy iOS 10.0 to 12.1.4
 Author: Jalal Ouraigua <ouraigua@icloud.com>
 Depiction: https://repo.packix.com/package/com.ouraigua.xcode.old.audicy/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.xcode.old.audicy/depiction
+
+Package: com.ouraigua.jodebox
+Version: 4.0.7
+Section: Development
+Homepage: https://ouraigua.com/apps/jodebox/index.php
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+dev: ouraigua
+Pre-Depends: firmware (>= 12.2)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.old.jodebox
+Architecture: iphoneos-arm
+Sponsor: ouraigua.com <https://ouraigua.com>
+Filename: ./debs/jodebox.deb
+Size: 360844
+Installed-Size: 1176
+MD5sum: 1eaadf3da143a1bcbf45965e19b166c1
+SHA1: a4cc70375618b1a6fd8a8471681341e0fd9f8ea9
+SHA256: 705679a9416a19f1eaddd722f62e177eefa6e557fdddaf9a05309a9c946945a2
+Description: iOS file system access from sandboxed applications.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e419f6cfbdee3002a58505c/icon/download?size=medium&hash=5e534be761cfc2001a3e5a54
+Name: JODebox
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Depiction: https://repo.packix.com/package/com.ouraigua.jodebox/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.jodebox/depiction
+
+Package: com.ouraigua.old.jodebox
+Version: 4.0.6
+Section: Development
+Homepage: https://ouraigua.com/apps/jodebox/index.php
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+dev: ouraigua
+Pre-Depends: firmware (>= 10.0), firmware (<< 12.2)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.jodebox
+Architecture: iphoneos-arm
+Sponsor: ouraigua.com <https://ouraigua.com>
+Filename: ./debs/jodeboxios10.0to12.1.4.deb
+Size: 563,528
+Installed-Size: 2260
+MD5sum: e1729200f6217d72e5eace4cd94c430e
+SHA1: 190c50fa7319ff0e7b04f1fdb3d1763ab06879ea
+SHA256: 6fcff4dfd8721bff73f7ddf5d4b018bd998f7a4bc16f91eb6b1e2d840b4b5d61
+Description: iOS file system access from sandboxed applications.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e80d237f72671003d5eb518/icon/download?size=medium&hash=5e80d464f72671003d5eb542
+Name: JODebox iOS 10.0 to 12.1.4
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Depiction: https://repo.packix.com/package/com.ouraigua.old.jodebox/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.old.jodebox/depiction
