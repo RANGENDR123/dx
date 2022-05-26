@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>5.0.6</version>
+		<change>Fixed issue where SD+ stopped working for A12, A13 running firmware below iOS 14</change>
+	</changes>
+</changelog>

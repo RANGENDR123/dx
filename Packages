@@ -4041,3 +4041,51 @@ Name: JODebox iOS 10.0 to 12.1.4
 Author: Jalal Ouraigua <ouraigua@icloud.com>
 Depiction: https://repo.packix.com/package/com.ouraigua.old.jodebox/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.old.jodebox/depiction
+
+Package: com.ouraigua.safaridownloader
+Version: 5.0.6
+Section: Tweaks
+Homepage: https://repo.packix.com/package/com.ouraigua.safaridownloader/
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+Pre-Depends: firmware (>= 12.2)
+Depends: mobilesubstrate, com.ouraigua.jodebox (>= 4.0.7)
+Conflicts: net.howett.safaridownloader, com.opa334.safariplus
+Replaces: com.ouraigua.safaridownloaderplus
+Architecture: iphoneos-arm
+Sponsor: ouraigua.com <https://ouraigua.com>
+Filename: ./debs/com.ouraigua.safaridownloader_5.0.6_iphoneos-arm.deb
+Size: 15083586
+Installed-Size: 19436
+MD5sum: 9c572a2a1e8abc8fd1c00dc6259a2743
+SHA1: 79d4daccb0a167e514e978efa644be109061b8fd
+SHA256: 3051fba97b8ecab766bdca5b6f8ef9b2c96c41880b6a01bf30b6ccbf23f4c376
+Description: Safari Download Manager for iOS.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f45795924952f0013d25682/icon/download?size=medium&hash=5f457e99c68a4c00132ced96
+Name: Safari Downloader+
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Depiction: https://repo.packix.com/package/com.ouraigua.safaridownloader/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.safaridownloader/depiction
+
+Package: com.ouraigua.old.safaridownloader
+Version: 5.0.3
+Section: Tweaks
+Homepage: https://repo.packix.com/package/com.ouraigua.safaridownloader/
+Maintainer: Jalal Ouraigua <ouraigua@icloud.com>
+Pre-Depends: firmware (>= 10.0), firmware (<< 12.2)
+Depends: mobilesubstrate, com.ouraigua.old.jodebox (>= 4.0.6)
+Conflicts: net.howett.safaridownloader
+Replaces: com.ouraigua.safaridownloaderplus, com.ouraigua.safaridownloader
+Architecture: iphoneos-arm
+Sponsor: ouraigua.com <https://ouraigua.com>
+Filename: ./debs/com.ouraigua.old.safaridownloader_5.0.3_iphoneos-arm.deb
+Size: 14449716
+Installed-Size: 21456
+MD5sum: 4c348bc61e19d53ee5f82ebc94ebb1a0
+SHA1: 92d6eeea6ecef8e577a929e0cb8e4498746ed0a7
+SHA256: 0472884a0af219a7003030f491003de961a00ec099437d7f41453d40c2dfd08f
+Description: Safari Download Manager for iOS.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f54398c56cead001b84d7dc/icon/download?size=medium&hash=5f543b7056cead001b84d7f7
+Name: Safari Downloader+ iOS 10.0 to 12.1.4
+Author: Jalal Ouraigua <ouraigua@icloud.com>
+Depiction: https://repo.packix.com/package/com.ouraigua.old.safaridownloader/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.old.safaridownloader/depiction
