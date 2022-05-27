@@ -4089,3 +4089,23 @@ Name: Safari Downloader+ iOS 10.0 to 12.1.4
 Author: Jalal Ouraigua <ouraigua@icloud.com>
 Depiction: https://repo.packix.com/package/com.ouraigua.old.safaridownloader/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.ouraigua.old.safaridownloader/depiction
+
+Package: com.Acid.jeffmoon
+Version: 1.3.0
+Section: Themes (Icons)
+Maintainer: JeffMoon <jj10san@hotmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard | Ithemer
+Conflicts: cydia.kiiimo.org.cydown, com.julioverne.cydown, com.yourepo.mohadu31.cydown, ru.rejail.cydown, org.mr.cydown, org.mr, org.appleyardim.cydown, vn.gsm.cydown, com.arab-cydia.cydown, com.yourepo.abo1bs.cydownx, co.xrepo.appletweakjailbreak.cydown, com.trappledestek.cydown, com.arab-cydia.t3cydown, com.cydia.love.cydownn, com.cydiaapp.julioverne.cydown, com.captinc.batchomatic, com.arab-cydia.cybackup10, com.arab-cydia.cybackground, cydia.kiiimo.org.cybackup10, net.if0x.cybackup10, org.cydia.kiiimo.cybackup10
+Architecture: iphoneos-arm
+Filename: ./debs/com.acid.jeffmoon_1.3.0_iphoneos-arm.deb
+Size: 9509894
+MD5sum: 0490c827766ea55302713c162850793e
+SHA1: e94f8b41343c41533f500c0ee558157b527ca18c
+SHA256: 907e4467aacc18f22020a15f6f854d2af601699ad3d785deafc3d109426b52dd
+Description: "THE BEST THEME"
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/60b2eaa85f1cc4001b95053c/icon/download?size=medium&hash=60b4f1ef65e621001afc5358
+Header: https://repo.packix.com/api/Packages/60b2eaa85f1cc4001b95053c/banner/download?size=large&hash=60b59592aa5eea001a19bb17
+Name: Acid
+Author: JeffMoon <jj10san@hotmail.com>
+Depiction: https://repo.packix.com/package/com.Acid.jeffmoon/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.Acid.jeffmoon/depiction
