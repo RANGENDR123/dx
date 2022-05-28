@@ -4109,3 +4109,21 @@ Name: Acid
 Author: JeffMoon <jj10san@hotmail.com>
 Depiction: https://repo.packix.com/package/com.Acid.jeffmoon/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.Acid.jeffmoon/depiction
+
+Package: com.iAnas.AceLegacy
+Version: 1.0
+Section: Themes (Icons)
+Maintainer: iAnas
+Architecture: iphoneos-arm
+Filename: ./debs/com.ianas.acelegacy_1.0_iphoneos-arm.deb
+Size: 1286778
+MD5sum: 1b927554707d4f66037c750f85aabf72
+SHA1: dae869fa5ce4c5b6dc30d4de8bc5130409a0cc5a
+SHA256: 2279d7f469abcc3b55f137e3ed4c2b96bc16278906e586865f0039312bd9447c
+Description: iOS classic redesigned
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e524b36d788dc001bbc9c13/icon/download?size=medium&hash=5e524b36d788dc001bbc9c18
+Website: https://twitter.com/theianas
+Name: Ace Legacy
+Author: iAnas
+Depiction: https://repo.packix.com/package/com.iAnas.AceLegacy/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.AceLegacy/depiction
