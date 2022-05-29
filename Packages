@@ -4127,3 +4127,21 @@ Name: Ace Legacy
 Author: iAnas
 Depiction: https://repo.packix.com/package/com.iAnas.AceLegacy/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.AceLegacy/depiction
+
+Package: com.pollapo.pollapisettingsiconspack
+Version: 1.0.0
+Section: Themes (Icons)
+Maintainer: POLLAPO <pollapodev@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.pollapo.pollapisettingsiconspack_1.0.0_iphoneos-arm.deb
+Size: 212956
+MD5sum: e3a6e38fc1f38d509531c137a8435137
+SHA1: c49cdc8639a8a7b77d296138cb190981d6948877
+SHA256: f0b409da7ab0144d024f6e18bfad94c57581da2dd607b99a069bbfef174f0569
+Description: Settings Icons Pack(Snowboard/iThemer)
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5dbaac751ebeb200298a466e/icon/download?size=medium&hash=2
+Website: https://rrnmrnm.github.io
+Name: [POLLAPO] Settings Icons Pack
+Author: POLLAPO <pollapodev@gmail.com>
+Depiction: https://repo.packix.com/package/com.pollapo.pollapisettingsiconspack/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.pollapo.pollapisettingsiconspack/depiction
