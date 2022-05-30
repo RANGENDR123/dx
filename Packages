@@ -4145,3 +4145,22 @@ Name: [POLLAPO] Settings Icons Pack
 Author: POLLAPO <pollapodev@gmail.com>
 Depiction: https://repo.packix.com/package/com.pollapo.pollapisettingsiconspack/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.pollapo.pollapisettingsiconspack/depiction
+
+Package: com.restiveconch.actionbar
+Version: 1.3.7
+Section: Tweaks
+Maintainer: RestiveConch <restiveconch@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.restiveconch.actionbar_1.3.7_iphoneos-arm.deb
+Size: 46876
+Installed-Size: 416
+MD5sum: 9f71ecfead0e6d7cb62078fb27f02f4f
+SHA1: d45990a79ae5c9b26be989a1faf4527e4d4dcd73
+SHA256: c961b27670c1b3d20da0d5c4ebe630f269dced2c798aae8a35a0b5fa4a61c7e6
+Description: Undo, redo, select all, copy, cut and paste actions on keyboard.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5ca625d83fd750001a20878b/icon/download?size=medium&hash=5ccc716b945bff00112ba5cb
+Name: ActionBar
+Author: RestiveConch <restiveconch@gmail.com>
+Depiction: https://repo.packix.com/package/com.restiveconch.actionbar/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.restiveconch.actionbar/depiction
