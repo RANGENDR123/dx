@@ -4164,3 +4164,22 @@ Name: ActionBar
 Author: RestiveConch <restiveconch@gmail.com>
 Depiction: https://repo.packix.com/package/com.restiveconch.actionbar/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.restiveconch.actionbar/depiction
+
+Package: libssl0.9.8
+Priority: standard
+Version: 0.9.8zh-1
+Section: Security
+Tag: purpose::library, role::developer
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: openssl (<<1.0)
+Architecture: iphoneos-arm
+Filename: ./debs/libssl0.9.8_0.9.8zh-1_iphoneos-arm.deb
+Size: 718064
+Installed-Size: 9624
+MD5sum: 5dab8b6631f3ab54b32692e2fed198ce
+SHA1: 18a19c2a4c6e1a383f67c820e24041b2a7383949
+SHA256: 12f091b3ad4766651294cc71bed078a47bfccb382b765ff3372e2fe196d67163
+Description: OpenSSL Libraries for version 1.0
+Name: OpenSSL 0.9.8 Libraries
+Depiction: https://apt.bingner.com/info/libssl0.9.8/
