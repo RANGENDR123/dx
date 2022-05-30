@@ -4222,3 +4222,22 @@ SHA256: 054a005b0ba4a9a3f265a5f705c84123ccdbc79714c92b0601c70e716dc95718
 Description: OpenSSL Libraries for version 1.0 (development)
 Name: OpenSSL 1.0 Libraries
 Depiction: https://apt.bingner.com/info/libssl-dev/
+
+Package: libssl1.1.1
+Priority: standard
+Version: 1.1.1n-1
+Section: Security
+Tag: purpose::library, role::developer
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ca-certificates
+Architecture: iphoneos-arm
+Filename: ./debs/libssl1.1.1_1.1.1n-1_iphoneos-arm.deb
+Size: 1741376
+Installed-Size: 16848
+MD5sum: ae5a8f3949e98c7ac541ca6db455e50f
+SHA1: 8cc6171dfdc24ec475c4f2909963e7e943f483ae
+SHA256: 228c43df4ddb58345b814a942b6590c17f986e6290cb3bebdd6eea77c45152ec
+Description: OpenSSL Libraries for version 1.1.1
+Name: OpenSSL 1.1.1 Libraries
+Depiction: https://apt.bingner.com/info/libssl1.1.1/
