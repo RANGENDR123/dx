@@ -4241,3 +4241,24 @@ SHA256: 228c43df4ddb58345b814a942b6590c17f986e6290cb3bebdd6eea77c45152ec
 Description: OpenSSL Libraries for version 1.1.1
 Name: OpenSSL 1.1.1 Libraries
 Depiction: https://apt.bingner.com/info/libssl1.1.1/
+
+Package: ca-certificates
+Priority: optional
+Version: 0.0.2
+Section: Utilities
+Tag: purpose::console, role::hacker
+Maintainer: Sam Bingner
+Depends: firmware (>= 2.0)
+Conflicts: org.thebigboss.cacerts, openssl (<< 1.0.2r)
+Replaces: org.thebigboss.cacerts
+Provides: org.thebigboss.cacerts
+Multi-Arch: foreign
+Architecture: all
+Filename: ./debs/ca-certificates_0.0.2_all.deb
+Size: 125710
+MD5sum: c9e280b321aba40459c988eac9625957
+SHA1: 878696ce1037a53c58d3d75dfcf39507a942f18c
+SHA256: 29d3d0d5b09686f117a0402796f3f99224e30168e44178a49a78f504f3c84ba2
+Description: CA certs for curl, wget, git.
+Name: CA Certs
+Depiction: https://apt.bingner.com/info/ca-certificates/

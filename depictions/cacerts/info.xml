@@ -1,0 +1,45 @@
+<package>
+	<id>ca-certificates</id>
+	<name>CA Certs</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>2.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>CA certs for curl, wget, git.</shortDescription>
+	<descriptionlist>
+		<description>CA Certs 0.0.2,  compatible to iOS 2.0 - iOS 14.8.1</description>
+		<description>CA Certs For Jailbreak!.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
