@@ -4281,3 +4281,22 @@ Name: mDNSrestart
 Author: Anish S <anish@hey.com>
 Depiction: https://repo.packix.com/package/com.git-anish.mDNSrestart/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.git-anish.mDNSrestart/depiction
+
+Package: com.eliassfeir.SmartNotifications
+Priority: optional
+Version: 1.7-1
+Section: Tweaks
+Maintainer: Elias Sfeir
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.eliassfeir.smartnotifications_1.7-1_iphoneos-arm.deb
+Size: 2457164
+MD5sum: c50bf235d7fff4d73447a36d245bc85f
+SHA1: 495c6f836d0de5eea84b955d78fd0c78acbe430c
+SHA256: a5bdf850551bd5bea12f40da5e56254151c99ce4b723bd4359ce44b883dc6e14
+Description: SmartNotifications! Customize your notifications such as adding custom ringtones for each app, DND mode and much more
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f539e9ecaaee9001aecb4c2/icon/download?size=medium&hash=5f539e9ecaaee9001aecb4c8
+Name: SmartNotifications
+Author: Elias Sfeir
+Depiction: https://repo.packix.com/package/com.eliassfeir.SmartNotifications/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.eliassfeir.SmartNotifications/depiction
