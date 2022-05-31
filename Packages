@@ -1360,6 +1360,7 @@ Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblo
 Architecture: iphoneos-arm
 Filename: ./debs/com.ceadd.blockyoux.deb
 Size: 118742
+Installed-Size: 397kb
 MD5sum: 6121376ee67da1118b49a6c46079b554
 SHA1: 0d86715a08bb0032fe4776cf7c0e4dbaea000869
 SHA256: 160e4848c6a9a47072815c09fa90fb2a60f918155a71eadc26bf03bee9e0e991
@@ -4262,3 +4263,21 @@ SHA256: 29d3d0d5b09686f117a0402796f3f99224e30168e44178a49a78f504f3c84ba2
 Description: CA certs for curl, wget, git.
 Name: CA Certs
 Depiction: https://apt.bingner.com/info/ca-certificates/
+
+Package: com.git-anish.mDNSrestart
+Version: 1.4
+Section: Development
+Maintainer: Anish S <anish@hey.com>
+Pre-Depends: dpkg (>= 1.15), com.ps.letmeblock
+Architecture: iphoneos-arm
+Filename: ./debs/mdnsrestart.deb
+Size: 1468
+MD5sum: c5c706e8ec41e127c1d1cc398af467ff
+SHA1: 468c30753367b180b235f478fb9160c606f17ea1
+SHA256: 99e32fe144ffe064bd30addbb4d290a7b8dae51645ae52e054c8deabef7f225c
+Description: mDNSrestart relaunches mDNS related services on boot
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f6bcb380dddf7001a45bebf/icon/download?size=medium&hash=2
+Name: mDNSrestart
+Author: Anish S <anish@hey.com>
+Depiction: https://repo.packix.com/package/com.git-anish.mDNSrestart/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.git-anish.mDNSrestart/depiction
