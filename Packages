@@ -4300,3 +4300,20 @@ Name: SmartNotifications
 Author: Elias Sfeir
 Depiction: https://repo.packix.com/package/com.eliassfeir.SmartNotifications/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.eliassfeir.SmartNotifications/depiction
+
+Package: com.ahmedmakls.11red
+Version: 1.3
+Section: Themes (Icons)
+Maintainer: ahmedmakls <makhl.2266@yahoo.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.ahmedmakls.11red_1.3_iphoneos-arm.
+Size: 6247710
+MD5sum: 61be58c13d00f84384c8c75884b60be9
+SHA1: 660c5b15d5f3701357e3c9b94aa69ff83d885bb5
+SHA256: bf7f47282c6567e608ec3edba032efd85aa912e57b4e21344cb550065beb1d1f
+Description: Red theme with super beauty
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5ed679f9ac8e87001a23b1eb/icon/download?size=medium&hash=5ed679faac8e87001a23b1f1
+Name: 11Red
+Author: ahmedmakls <makhl.2266@yahoo.com>
+Depiction: https://repo.packix.com/package/com.ahmedmakls.11red/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ahmedmakls.11red/depiction
