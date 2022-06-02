@@ -3586,6 +3586,24 @@ Depiction: https://havoc.app/depiction/libgcuniversal
 SileoDepiction: https://havoc.app/package/libgcuniversal/depiction.json
 
 Package: com.peterdev.libpddokdo
+Version: 1.3.4
+Section: Development
+Maintainer: s8ngyu <support@soongyu.me>
+Architecture: iphoneos-arm
+Filename: ./debs/com.peterdev.libpddokdo_1.3.4_iphoneos-arm.deb
+Size: 8342
+Installed-Size: 216
+MD5sum: da9e15fb14a41ca9d702141caa6a2d82
+SHA1: 26452a90cdb0cd67e0e36f2440d7b021a7284684
+SHA256: 4f080809b9e3d0790cf635cfc172a78321fbc1c5383200c655018c3df976c202
+Description: An awesome library to get current weather which provides by iOS Weater.app easily.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620cb8a4375e996644479222
+Name: libPDDokdo
+Author: s8ngyu <support@soongyu.me>
+Depiction: https://havoc.app/depiction/libpddokdo
+SileoDepiction: https://havoc.app/package/libpddokdo/depiction.json
+
+Package: com.peterdev.libpddokdo
 Version: 1.3.2
 Section: Development
 Maintainer: s8ngyu <support@soongyu.me>
