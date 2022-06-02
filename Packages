@@ -750,6 +750,24 @@ Author: opa334 <opa334@protonmail.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libundirectDp
 
 Package: wiki.qaq.chromatic
+Version: 2.1-REL-1654050540
+Section: Applications
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Architecture: iphoneos-arm
+Filename: ./debs/saily_2.1-REL-1654050540.deb
+Size: 3504814
+Installed-Size: 14114
+MD5sum: 44d217c34dae3d6d07c2634d4c94ea49
+SHA1: b705ebec4a03124679ff8309971cd28f2c4f790e
+SHA256: 0aa9a975a911fb6565aaf19404c82dd98c3eae2c5f31f25acb9b9d8955c24722
+Description: Modern. Fast. Beautiful.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/wiki.qaq.chromatic.png
+Name: Saily
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sailyDp
+
+Package: wiki.qaq.chromatic
 Version: 2.1-REL-1647495588
 Section: Applications
 Maintainer: Saily Team <support.0xa1@qaq.wiki>

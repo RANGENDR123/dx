@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>2.1-REL-1647495588</version>
-		<change>Generic Update</change>
+		<version>2.1-REL-1654050540</version>
+		<change>Attempt to fix crashes by CoreImage and Share Sheet., iOS 15 SDK updates</change>
 	</changes>
 </changelog>
