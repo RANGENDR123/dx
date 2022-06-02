@@ -4362,7 +4362,7 @@ Version: 1.3
 Section: Themes (Icons)
 Maintainer: ahmedmakls <makhl.2266@yahoo.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.ahmedmakls.11red_1.3_iphoneos-arm.
+Filename: ./debs/com.ahmedmakls.11red_1.3_iphoneos-arm.deb
 Size: 6247710
 MD5sum: 61be58c13d00f84384c8c75884b60be9
 SHA1: 660c5b15d5f3701357e3c9b94aa69ff83d885bb5
@@ -4373,3 +4373,21 @@ Name: 11Red
 Author: ahmedmakls <makhl.2266@yahoo.com>
 Depiction: https://repo.packix.com/package/com.ahmedmakls.11red/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.ahmedmakls.11red/depiction
+
+Package: jp.r-plus.libcanopenurl
+Version: 1.1.1
+Section: Development
+Maintainer: r_plus
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/libcanopenurl_1.1.1.deb
+Size: 15268
+Installed-Size: 260
+MD5sum: 696be17349e483ff99c14a4c9e79dd2f
+SHA1: a8a54250695f85cf24368f2f21437a26edabb424
+SHA256: b3d199f80f8fc48f7f21cb817892c988f23a02070827197cdbac4c90c79d2069
+Description: patch iOS 9 canOpenURL:restriction.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/jp.r-plus.libcanopenurl.png
+Name: libCanOpenURL
+Author: r_plus
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcanopenurlDp
