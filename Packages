@@ -2956,6 +2956,26 @@ SileoDepiction: https://repo.dynastic.co/sileo-depiction/272854888990375936/
 
 Package: me.alfhaily.rocket
 Priority: optional
+Version: 3.7.44
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Architecture: iphoneos-arm
+Filename: ./debs/me.alfhaily.rocket_3.7.44_iphoneos-arm.deb
+Size: 2394528
+Installed-Size: 8860
+MD5sum: 4cc932f289736094d7ef99a21148151d
+SHA1: bc0a3e772f11cd7ebf65a62e7b7e2b6010ed7ebc
+SHA256: 2a7474c512bf20cfca08169cc87001e0926fdfc3f30850895fd7f90e92e49b0e
+Description: Save posts and view stories anonymously and do much more
+Icon: https://api.ios-repo-updates.com/image.php?url=https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+
+Package: me.alfhaily.rocket
+Priority: optional
 Version: 3.7.43
 Section: Tweaks
 Maintainer: Rocket App <support@getrocketapp.io>
