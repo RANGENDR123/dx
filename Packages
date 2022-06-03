@@ -4411,3 +4411,21 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: libCanOpenURL
 Author: r_plus
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcanopenurlDp
+
+Package: com.iarrays.libiarrays
+Version: 1.0.14
+Section: Development
+Maintainer: IArrays
+Depends: firmware(>= 7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/libiarrays_1.0.14.deb
+Size: 147634
+Installed-Size: 719
+MD5sum: 0f77a370b2799f2b3acbfb2944bb842a
+SHA1: bc70736f89c185be6059186f5c8904ade5a5c403
+SHA256: 11426e09e0a01833ca305815e3563c636494eae446e095f7c0424ab0fc26b575
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.iarrays.libiarrays.png
+Name: libiarrays
+Author: IArrays
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libarraysDp
