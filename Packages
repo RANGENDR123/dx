@@ -4449,3 +4449,21 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: libiarrays
 Author: IArrays
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libarraysDp
+
+Package: com.iAnas.AceCata
+Version: 1.2
+Section: Themes (Icons)
+Maintainer: iAnas
+Architecture: iphoneos-arm
+Filename: ./debs/com.ianas.acecata_1.2_iphoneos-arm.deb
+Size: 12007594
+MD5sum: 9ba1d2aacd8080f4bc8d8aaa295d65cf
+SHA1: 3d858cb3e19c3ffb0ef347943a3216ef37d5f0c1
+SHA256: 7ddc2dbc94e9b66a0101c8461077e853c069a66d45a72bb82531ec4be01a7871
+Description: Ace Catalina theme for iOS
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5e4d688c469141002e8adce1/icon/download?size=medium&hash=5e4d688c469141002e8adce7
+Website: https://twitter.com/theianas
+Name: Ace Catalina
+Author: iAnas
+Depiction: https://repo.packix.com/package/com.iAnas.AceCata/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.AceCata/depiction
