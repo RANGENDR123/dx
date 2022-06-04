@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.2.6</version>
-		<change>Fix an edge case where the badge value of the default container could be set to the wrong value when respringing, Update vietnamese localization</change>
+		<version>1.2.7</version>
+		<change>Fix a crash that could happen in some cases when tapping a notification that's coming from a non active container</change>
 	</changes>
 </changelog>
