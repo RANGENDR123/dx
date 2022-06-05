@@ -1,10 +1,10 @@
 <package>
 	<id>com.opa334.crane</id>
 	<name>Crane</name>
-	<version>1.2.6</version>
+	<version>1.2.7</version>
 	<compatibility>
 		<firmware>
-			<miniOS>12.2</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>Multiple containers for you applications!.</shortDescription>
 	<descriptionlist>
-		<description>Crane 1.2.6,   compatible to iOS 11.0 - iOS 14.8.1.</description>
+		<description>Crane 1.2.7,   compatible to iOS 11.0 - iOS 14.8.1</description>
 		<description>Crane For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
