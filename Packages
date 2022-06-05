@@ -4487,3 +4487,21 @@ Name: Ace Catalina
 Author: iAnas
 Depiction: https://repo.packix.com/package/com.iAnas.AceCata/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.AceCata/depiction
+
+Package: com.iAnas.AceBigSur
+Version: 1.0
+Section: Themes (Icons)
+Maintainer: iAnas
+Architecture: iphoneos-arm
+Filename: ./debs/com.ianas.acebigsur_1.0_iphoneos-arm.deb
+Size: 12906058
+MD5sum: 995d76b687a85bb79a1c48738fc5afde
+SHA1: 572d4552119b3f82d45433b580e21e17a91bf1db
+SHA256: b1d9770b23ef80f2f337fa703ef0e757ca3fc53cbb993e69862779f73d4ba627
+Description: Classical macOS icons for iPhone
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/604dfd1b327964001acda4ec/icon/download?size=medium&hash=604e07c811bcee001a6d01a1
+Website: https://twitter.com/theianas
+Name: Ace Big Sur
+Author: iAnas
+Depiction: https://repo.packix.com/package/com.iAnas.AceBigSur/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.AceBigSur/depiction
