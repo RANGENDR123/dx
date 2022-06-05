@@ -4544,3 +4544,22 @@ Name: Cardculator
 Author: sourcelocation <anisovich.matthew@gmail.com>
 Depiction: https://havoc.app/depiction/cardculator
 SileoDepiction: https://havoc.app/package/cardculator/depiction.json
+
+Package: com.nahtedetihw.pencilbanner
+Version: 1.2
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.nahtedetihw.pencilbanner_v1.2_iphoneos-arm.deb
+Size: 303764
+Installed-Size: 1088
+MD5sum: 5cf1e839cfa9d14978e9468d8912991e
+SHA1: ca548e2bf2edd39300b93cdce3842310e137ae0c
+SHA256: f547bf118705c77cb5e9dc7eb2aa44764c0aef0b96fa338b9790aef7fd569b95
+Description: Apple Pencil banners!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8a6e8d0b5eda65d1bab23
+Name: PencilBanner
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://havoc.app/depiction/pencilbanner
+SileoDepiction: https://havoc.app/package/pencilbanner/depiction.json
