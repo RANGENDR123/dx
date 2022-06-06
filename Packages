@@ -4582,3 +4582,20 @@ Name: PencilBanner
 Author: ETHN <ethanwhited2208@gmail.com>
 Depiction: https://havoc.app/depiction/pencilbanner
 SileoDepiction: https://havoc.app/package/pencilbanner/depiction.json
+
+Package: com.iAnas.acemojave
+Version: 1.1
+Section: Themes (Icons)
+Maintainer: iAnas
+Architecture: iphoneos-arm
+Filename: ./debs/com.ianas.acemojave_1.1_iphoneos-arm.deb
+Size: 10588354
+MD5sum: 397ff89dd75d68de3ac013ec20ad2eee
+SHA1: ce2b4d822f3f7541779384997cf4d33948f4a4e3
+SHA256: efdb44bacc285b5343f4ddc328840a691ae18cc123b40f6e7c294931e78f0cfd
+Description: Ace Mojave theme for iOS devices
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cd72d3b866187001a0b9b2f/icon/download?size=medium&hash=5d22a1a5f01adb0014b29784
+Name: Ace Mojave
+Author: iAnas
+Depiction: https://repo.packix.com/package/com.iAnas.acemojave/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.acemojave/depiction
