@@ -4639,3 +4639,20 @@ Name: Emerald
 Author: timeloop <timeloopvisuals@gmail.com>
 Depiction: https://havoc.app/depiction/emerald
 SileoDepiction: https://havoc.app/package/emerald/depiction.json
+
+Package: lol.itsnebula.modernos
+Version: 1.1
+Section: Themes
+Maintainer: nebula <me@itsnebula.net>
+Architecture: iphoneos-arm
+Filename: ./debs/lol.itsnebula.modernos_1.1.deb
+Size: 2474806
+MD5sum: 423ab1b43100b3c43e3d897405eab8e1
+SHA1: 7234d85717d6494316b144a760051f83f7602b0e
+SHA256: c569e9678ef5bf0d4fe508729f7a9bfe33211b328de0a693dcb73b865fa7bd93
+Description: Colorful, happy, modern.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620bf40b37dac70285c835cc
+Name: modernOS
+Author: nebula <me@itsnebula.net>
+Depiction: https://havoc.app/depiction/modern
+SileoDepiction: https://havoc.app/package/modern/depiction.json
