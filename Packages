@@ -3645,6 +3645,25 @@ Depiction: https://havoc.app/depiction/raspberry
 SileoDepiction: https://havoc.app/package/raspberry/depiction.json
 
 Package: com.nahtedetihw.n95
+Version: 3.9
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/com.nahtedetihw.n95_3.9_iphoneos-arm.deb
+Size: 4624444
+Installed-Size: 8644
+MD5sum: e61700fa598715c9e857383165cb9aac
+SHA1: f89de585699cd4b4b34e99483961658fde1c4159
+SHA256: 88fbc14e9ad5ef61115a9958bbcbe970f23780b52e53a0c004a0d04877d9569c
+Description: Mask album artwork images in Apple Music!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620db7ee4411253bc909585b
+Name: N95
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://havoc.app/depiction/n95
+SileoDepiction: https://havoc.app/package/n95/depiction.json
+
+Package: com.nahtedetihw.n95
 Version: 3.8
 Section: Tweaks
 Maintainer: ETHN <ethanwhited2208@gmail.com>

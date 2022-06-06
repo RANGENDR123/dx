@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>3.8</version>
-		<change>Fix crash in Spotify</change>
+		<version>3.9</version>
+		<change>Fix for Spotify, prevents crashes</change>
 	</changes>
 </changelog>
