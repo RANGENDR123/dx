@@ -4656,3 +4656,22 @@ Name: modernOS
 Author: nebula <me@itsnebula.net>
 Depiction: https://havoc.app/depiction/modern
 SileoDepiction: https://havoc.app/package/modern/depiction.json
+
+Package: me.ahmedbafkir.dleasy
+Version: 2.14.4
+Section: Tweaks
+Maintainer: AhmedBafkir <DLEasy@outlook.sa>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/me.ahmedbafkir.dleasy_2.14.4_iphoneos-arm-3.deb
+Size: 3003244
+Installed-Size: 3540
+MD5sum: bf4c702329bd5e6faf4ddb2f5439c623
+SHA1: 595ec171a587bb8eaa062945917a5069f02fa2c9
+SHA256: 794b9fd94e7af16c8308d03262853f91f9aca5b3ffc5ddc78081c82387299278
+Description: Download/Share images & videos from social apps easily!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/62040a16cc1cde4bfe9aba43
+Name: DLEasy
+Author: AhmedBafkir <DLEasy@outlook.sa>
+Depiction: https://havoc.app/depiction/dleasy
+SileoDepiction: https://havoc.app/package/dleasy/depiction.json
