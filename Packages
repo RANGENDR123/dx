@@ -4607,14 +4607,35 @@ Maintainer: ren7995 <lau7995ren@gmail.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
 Architecture: iphoneos-arm
-Filename: ./debs/com.ianas.acemojave_1.1_iphoneos-arm.deb
-Size: 10588354
-MD5sum: 397ff89dd75d68de3ac013ec20ad2eee
-SHA1: ce2b4d822f3f7541779384997cf4d33948f4a4e3
-SHA256: efdb44bacc285b5343f4ddc328840a691ae18cc123b40f6e7c294931e78f0cfd
-Description: Ace Mojave theme for iOS devices
-Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cd72d3b866187001a0b9b2f/icon/download?size=medium&hash=5d22a1a5f01adb0014b29784
-Name: Ace Mojave
+Filename: ./debs/me.lau.atria_1.3.1_iphoneos-arm.deb
+Size: 149772
+Installed-Size: 784
+MD5sum: 660bf6d820be00ce179bed945c8a0639
+SHA1: e38d392b63d6cccc0cabd41e3b03ebff218ea74f
+SHA256: debf913db395e096c8f6356553b471638330ec98c2053158a71c1b95da96f0e8
+Description: A proper homescreen layout editor for iOS 13 and 14
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/atria/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/atria.jpg
+Name: Atria
 Author: ren7995 <lau7995ren@gmail.com>
-Depiction: https://repo.packix.com/package/com.iAnas.acemojave/
-SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.acemojave/depiction
+Depiction: https://chariz.com/get/atria
+SileoDepiction: https://chariz.com/api/sileo/package/me.lau.atria/depiction.json
+
+Package: com.laughingquoll.emerald
+Version: 1.0.7
+Section: Tweaks
+Maintainer: timeloop <timeloopvisuals@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.emerald_1.0.7.deb
+Size: 178626
+Installed-Size: 2644
+MD5sum: eb52761408a35d117e7fe042d5be9798
+SHA1: 7c54d0c828bd8d25c3120b8ed3a3713b464e6340
+SHA256: c40cc7c831c8cb69845c07262eeeeb2cb8544477c6d7deedefec2cf3724e91cf
+Description: Status Bar Pills and Platters
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620c653de96ba40e8240c654
+Name: Emerald
+Author: timeloop <timeloopvisuals@gmail.com>
+Depiction: https://havoc.app/depiction/emerald
+SileoDepiction: https://havoc.app/package/emerald/depiction.json
