@@ -4698,3 +4698,21 @@ Name: DLEasy
 Author: AhmedBafkir <DLEasy@outlook.sa>
 Depiction: https://havoc.app/depiction/dleasy
 SileoDepiction: https://havoc.app/package/dleasy/depiction.json
+
+Package: com.shadows.batman
+Version: 2.0
+Section: Themes (UI)
+Maintainer: Shadows <spiderman_sozo@outlook.com>
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.shadows.batman_2.0_iphoneos-arm.deb
+Size: 131776
+MD5sum: 1e7e649631da11eaaf8b373d863f4fc6
+SHA1: 0e79bab0dc0d453b8bee385a6bc401a8bfd5c675
+SHA256: 73cc1c272558f0e27be2272a6ab867456d8c6008c1b1b38e854db987b64afd03
+Description: Batman Battery Theme
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cacfeed38bc92001cb66051/icon/download?size=medium&hash=2
+Name: Batman Battery
+Author: Shadows <spiderman_sozo@outlook.com>
+Depiction: https://repo.packix.com/package/com.shadows.batman/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.shadows.batman/depiction
