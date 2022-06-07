@@ -4716,3 +4716,22 @@ Name: Batman Battery
 Author: Shadows <spiderman_sozo@outlook.com>
 Depiction: https://repo.packix.com/package/com.shadows.batman/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.shadows.batman/depiction
+
+Package: com.jaxroth.supporttheunsupportedrevived
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mysteryjackson
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.jaxroth.supporttheunsupportedrevived_1.0.0.deb
+Size: 4274
+Installed-Size: 136
+MD5sum: 3006706e847caf0d845addef0b77de1c
+SHA1: 9c3688d142be2bc0c67315d627c8064812b9cddb
+SHA256: d649582f20502c933db12e9ba12b732161aa58b20b1433c707c1934035111b4c
+Description: Allows iPhones to use “unsupported” charging accessories
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620c0c7c24c5820cc9bc0776
+Name: SupportTheUnsupported Revived
+Author: mysteryjackson
+Depiction: https://havoc.app/depiction/ununsupported
+SileoDepiction: https://havoc.app/package/ununsupported/depiction.json
