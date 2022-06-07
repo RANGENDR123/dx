@@ -1,7 +1,7 @@
 <package>
 	<id>weeb.lillie.youtubedislikesreturn</id>
 	<name>Return YouTube Dislike</name>
-	<version>1.6.4</version>
+	<version>1.6.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>Bring Back Dislikes On YouTube.</shortDescription>
 	<descriptionlist>
-		<description>Return YouTube Dislike 5.0.3-2,   compatible to iOS 11.0 - iOS 14.8.</description>
+		<description>Return YouTube Dislike 1.6.5,   compatible to iOS 11.0 - iOS 14.8</description>
 		<description>Return YouTube Dislike For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 

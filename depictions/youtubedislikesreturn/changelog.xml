@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.6.4</version>
-		<change>Avoided app crashing in some rare scenarios</change>
+		<version>1.6.5</version>
+		<change>On app startup, the tweak will ask (once) if you want your likes/dislikes data to be submitted to returnyoutubedislikeapi.com</change>
 	</changes>
 </changelog>

@@ -714,6 +714,28 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
 
 Package: weeb.lillie.youtubedislikesreturn
+Version: 1.6.5
+Tag: compatible_min::ios11.0
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Tag: compatible_min::ios11.0
+Architecture: iphoneos-arm
+Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.6.5_iphoneos-arm.deb
+Size: 15527
+Installed-Size: 116
+MD5sum: bf20cf9ae3da9d07a29e8903239d722f
+SHA1: a37dce35b7137a30125f68ea0c7091a5109dad29
+SHA256: 12dacc0bdc55b259a31eb2a7e5cce4d0b6467fdc51ea96b99e5a868db7525215
+Description: Bring Back Dislikes On YouTube
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/return-youtube-dislike.jpg
+Name: Return YouTube Dislike
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Depiction: https://chariz.com/get/return-youtube-dislike
+SileoDepiction: https://chariz.com/api/sileo/package/weeb.lillie.youtubedislikesreturn/depiction.json
+
+Package: weeb.lillie.youtubedislikesreturn
 Version: 1.6.4
 Tag: compatible_min::ios11.0
 Section: Tweaks
@@ -723,6 +745,7 @@ Tag: compatible_min::ios11.0
 Architecture: iphoneos-arm
 Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.6.4_iphoneos-arm.deb
 Size: 15172
+Installed-Size: 116
 MD5sum: a8e99db8707e79395ffcbb8510c99ce8
 SHA1: df6994295e30090ca3b937e73a20924bb3a36d6d
 SHA256: cc277f82e6d536ddd9d6c9966a566514405414536af23f54c9a5882a9740e5c4
