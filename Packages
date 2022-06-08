@@ -4735,3 +4735,20 @@ Name: SupportTheUnsupported Revived
 Author: mysteryjackson
 Depiction: https://havoc.app/depiction/ununsupported
 SileoDepiction: https://havoc.app/package/ununsupported/depiction.json
+
+Package: com.shadows.zerk
+Version: 3.2
+Section: Themes (UI)
+Maintainer: Shadows <superman_sozo@yahoo.com.mx>
+Architecture: iphoneos-arm
+Filename: ./debs/com.shadows.zerk_3.2_iphoneos-arm.deb
+Size: 14901334
+MD5sum: c1f493ae72f4886df60b434c62fafc64
+SHA1: 11bcaf9ef36e2a1bcdfaa79cf396d3660a92ff13
+SHA256: 372181033f24e9abf1e14ced6dfa3106e987b09ec3b9cbaa2bfd3c290a37fec0
+Description: Zerk is a beautiful theme that will give a new interface to your device...
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cee72ec39ba05001b7774d4/icon/download?size=medium&hash=5d4d796bac71d6001a9c96e0
+Name: Zerk
+Author: Shadows <superman_sozo@yahoo.com.mx>
+Depiction: https://repo.packix.com/package/com.shadows.zerk/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.shadows.zerk/depiction
