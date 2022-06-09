@@ -4831,3 +4831,23 @@ Name: Emotive Dark
 Author: Cheeco <mlxcheeco@gmail.com>
 Depiction: https://chariz.com/buy/emotive-dark
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.cheeco.emotivedark/depiction.json
+
+Package: com.gabehern.gojipro
+Version: 1.0.2-1
+Section: Themes
+Maintainer: gabehern <hello@gabehern.com>
+Depends: com.spark.snowboard | com.anemonetheming.anemone3
+Architecture: iphoneos-arm
+Filename: ./debs/com.gabehern.gojipro_1.0.2-1_iphoneos-arm.deb
+Size: 29683002
+Installed-Size: 35352
+MD5sum: 9e2e2de586565fa9adef3c4493d53c42
+SHA1: d6464877b51f5b7b0e9d1dd2fed75d82f0b6e4d3
+SHA256: b735dd20ba59372908d0ffb5876ec468cf1eb1210d82a8bd2bc3209fe80c041a
+Description: The ultimate Goji experience.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/gojipro/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/gojipro.jpg
+Name: Goji Pro
+Author: gabehern <hello@gabehern.com>
+Depiction: https://chariz.com/buy/gojipro
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.gabehern.gojipro/depiction.json
