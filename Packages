@@ -4618,6 +4618,7 @@ SHA1: ce2b4d822f3f7541779384997cf4d33948f4a4e3
 SHA256: efdb44bacc285b5343f4ddc328840a691ae18cc123b40f6e7c294931e78f0cfd
 Description: Ace Mojave theme for iOS devices
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5cd72d3b866187001a0b9b2f/icon/download?size=medium&hash=5d22a1a5f01adb0014b29784
+Website: https://twitter.com/theianas
 Name: Ace Mojave
 Author: iAnas
 Depiction: https://repo.packix.com/package/com.iAnas.acemojave/
@@ -4792,3 +4793,21 @@ Name: SwitchShades
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://chariz.com/buy/switchshades
 SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.switchshades/depiction.json
+
+Package: com.iAnas.acehsxi
+Version: 5.1
+Section: Themes (Icons)
+Maintainer: iAnas
+Architecture: iphoneos-arm
+Filename: ./debs/com.ianas.acehsxi_5.1_iphoneos-arm.deb
+Size: 10589428
+MD5sum: 3c3daf51e1c09de5c4c8e6d8b24a3869
+SHA1: 998a7e2664f77c921b1537c615101842991f90f2
+SHA256: ec0fe12eb958113bf65bbfdb23756689c780ff53ff22ee76ebd46d36fb7cc859
+Description: High Seirra theme for iOS 11.3.1
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5b4a5cb8a5eb250010bc6ad8/icon/download?size=medium&hash=5ccc617f945bff00112b6b7f
+Website: https://twitter.com/theianas
+Name: Ace High Seirra XI
+Author: iAnas
+Depiction: https://repo.packix.com/package/com.iAnas.acehsxi/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.acehsxi/depiction
