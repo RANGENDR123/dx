@@ -4811,3 +4811,23 @@ Name: Ace High Seirra XI
 Author: iAnas
 Depiction: https://repo.packix.com/package/com.iAnas.acehsxi/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.acehsxi/depiction
+
+Package: com.cheeco.emotivedark
+Version: 1.0.2
+Section: Themes
+Maintainer: Cheeco <mlxcheeco@gmail.com>
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Filename: ./debs/com.cheeco.emotivedark_1.0.2_iphoneos-arm.deb
+Size: 3140432
+Installed-Size: 4804
+MD5sum: 19bd9fa18dc634d4334de4498c2b6133
+SHA1: 52653acbb0d5371d160d3c22b80b26573d432d40
+SHA256: 5fda3eff53203edd554f0995e68651d3e2a0dc35d1ac738822b74a857d01fafe
+Description: A dark theme elegantly designed for all phones
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/emotive-dark/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/emotive-dark.jpg
+Name: Emotive Dark
+Author: Cheeco <mlxcheeco@gmail.com>
+Depiction: https://chariz.com/buy/emotive-dark
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.cheeco.emotivedark/depiction.json
