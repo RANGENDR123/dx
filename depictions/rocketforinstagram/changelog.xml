@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>3.7.44</version>
-		<change>Fixed stories not showing in grid feed., Fixed persistent HUD when saving media</change>
+		<version>3.7.45</version>
+		<change>Fixed friendship status showing even when disabled</change>
 	</changes>
 </changelog>
