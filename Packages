@@ -2268,6 +2268,26 @@ SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercut
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercuts.json
 
 Package: com.anthopak.powercutsactionspack
+Version: 1.2
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.powercutsactionspack1.2.deb
+Size: 95252
+MD5sum: f33dd881a053d0a97fdfd7786c9fffb2
+SHA1: 48aef2fe5a58cf83ca124d41eb363aca1fe6194b
+SHA256: 9cd6f0e6c880939a709f8adc16d7e75efa05a41ab543693877bdbde2560619fe
+Description: Pack of actions for Powercuts
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.anthopak.dev/assets/com.anthopak.powercuts/icon.png
+Name: Powercuts Actions Pack
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactionspack.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack.json
+
+Package: com.anthopak.powercutsactionspack
 Version: 1.1
 Section: Tweaks
 Homepage: https://repo.anthopak.dev

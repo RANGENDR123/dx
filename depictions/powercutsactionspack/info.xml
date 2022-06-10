@@ -1,7 +1,7 @@
 <package>
 	<id>com.anthopak.powercutsactionspack</id>
 	<name>Powercuts Actions Pack</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>Pack of actions for Powercuts.</shortDescription>
 	<descriptionlist>
-		<description>Powercuts Actions Pack 1.1,   compatible to iOS 14.0 - iOS 14.8</description>
+		<description>Powercuts Actions Pack 1.2,   compatible to iOS 14.0 - iOS 14.8</description>
 		<description>Powercuts Actions Pack For Jailbreak!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
