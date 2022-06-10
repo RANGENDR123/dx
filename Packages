@@ -3561,12 +3561,12 @@ Maintainer: Bank5ia <designbank5ia@gmail.com>
 Pre-Depends: bash
 Depends: mobilesubstrate, ws.hbang.alderis (>= 1.1), firmware (>= 13), preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/xyz.cypwn.sydney_1.0.2_iphoneos-arm.deb
-Size: 8375638
+Filename: ./debs/com.bank5ia.sydney_1.0.2_iphoneos-arm.deb
+Size: 8376146
 Installed-Size: 9852
-MD5sum: 2b8fb2c946a0a351e22a12737c06feb0
-SHA1: 2ee6330381990d3727c46b7dc633fbfbb9ae3e2c
-SHA256: b4b22a9e81901c83426563e86037530eed3dc517911dafa2d8fa7266996b6aec
+MD5sum: 294564c66b255a2f64b53384ec0870b6
+SHA1: 48755aef2d881e6120c000537bf566dd89605a41
+SHA256: f1582bd9fa85a570e40b486f81c4b3592937127cd0f53c3ca8e3849d947e80eb
 Description: Customise your Apple Pay cards!
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/sydney/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/sydney.jpg
