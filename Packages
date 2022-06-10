@@ -4871,3 +4871,22 @@ Name: Goji Pro
 Author: gabehern <hello@gabehern.com>
 Depiction: https://chariz.com/buy/gojipro
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.gabehern.gojipro/depiction.json
+
+Package: com.eliassfeir.QuickConnect
+Priority: optional
+Version: 1.2-1
+Section: Tweaks
+Maintainer: Elias Sfeir
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.eliassfeir.quickconnect_1.2-1_iphoneos-arm.deb
+Size: 258446
+MD5sum: c1bf210e317ff5eaaca092d03291db12
+SHA1: f081ad078222994f3ca91729f63d6edceed92297
+SHA256: 17d1aa8e1f7b933e19f656a9b5d72a94d00cbeb53ec08a6364e036431784ae3e
+Description: QuickConnect, the only way to pin your favorite contacts systemwide, Today.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5f1b10b079d251001a5f330c/icon/download?size=medium&hash=5f1b10b079d251001a5f3312
+Name: QuickConnect
+Author: Elias Sfeir
+Depiction: https://repo.packix.com/package/com.eliassfeir.QuickConnect/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.eliassfeir.QuickConnect/depiction
