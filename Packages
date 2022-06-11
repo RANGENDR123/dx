@@ -4910,3 +4910,22 @@ Name: QuickConnect
 Author: Elias Sfeir
 Depiction: https://repo.packix.com/package/com.eliassfeir.QuickConnect/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.eliassfeir.QuickConnect/depiction
+
+Package: com.muirey03.iconsupportfix
+Version: 1.0.0
+Section: Development
+Maintainer: Muirey03 <tcmuir03@gmail.com>
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.muirey03.iconsupportfix_1.0.0.deb
+Size: 3528
+Installed-Size: 152
+MD5sum: 314c389bfc322d158b243a8bce3ff740
+SHA1: cb0d58af3e6a673b4d6e80dcb9227eb96669950b
+SHA256: 66adc2787af9a8815381d4ff45b3406f90aff2573b60f6973bba89ef69a4196e
+Description: A quick patch for IconSupport on iOS 13
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f9411f01a1cb7a5c4253ad
+Name: IconSupportFix
+Author: Muirey03 <tcmuir03@gmail.com>
+Depiction: https://havoc.app/depiction/iconsupportfix
+SileoDepiction: https://havoc.app/package/iconsupportfix/depiction.json
