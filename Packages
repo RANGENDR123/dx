@@ -4946,3 +4946,21 @@ Name: ldid (CoolStar Standalone Fork)
 Author: coolstar
 Depiction: https://havoc.app/depiction/ldidstar
 SileoDepiction: https://havoc.app/package/ldidstar/depiction.json
+
+Package: com.ianas.acevivid
+Version: 1.0
+Section: Themes (Icons)
+Maintainer: iAnas
+Architecture: iphoneos-arm
+Filename: ./debs/com.ianas.acevivid_1.0_iphoneos-arm.deb
+Size: 6012756
+MD5sum: 6c28f0c5fe7765e156cf25dca9edc676
+SHA1: e2374d9599f5072b1217839d35b0aae8c0c42738
+SHA256: c3041af7c33495830d4472b164d9a80ad06c295ba8db9ae570183798859e5cd1
+Description: Color your iPhone
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/606cb19b4a529c001a64ff05/icon/download?size=medium&hash=606cb19b4a529c001a64ff0b
+Website: https://twitter.com/theianas
+Name: Ace Vivid
+Author: iAnas
+Depiction: https://repo.packix.com/package/com.ianas.acevivid/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ianas.acevivid/depiction
