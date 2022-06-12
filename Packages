@@ -4929,3 +4929,20 @@ Name: IconSupportFix
 Author: Muirey03 <tcmuir03@gmail.com>
 Depiction: https://havoc.app/depiction/iconsupportfix
 SileoDepiction: https://havoc.app/package/iconsupportfix/depiction.json
+
+Package: org.coolstar.ldid
+Version: 2.1.2
+Section: Development
+Maintainer: coolstar
+Architecture: iphoneos-arm
+Filename: ./debs/org.coolstar.ldid_2.1.2.deb
+Size: 667632
+MD5sum: 2aab10d41a8ccdc623a30bf7775f2707
+SHA1: 58c9f2c80892173211cc16a2e7dcb373a1cc7d00
+SHA256: 14de258e801733674d22632d982a48443a2124148382cda281119f2097889c42
+Description: fork of ldid for CoolStar's tweaks (deployed to device because AGPL requires it)
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f890b3304ffaa4a52e4eb0
+Name: ldid (CoolStar Standalone Fork)
+Author: coolstar
+Depiction: https://havoc.app/depiction/ldidstar
+SileoDepiction: https://havoc.app/package/ldidstar/depiction.json
