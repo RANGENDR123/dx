@@ -4985,3 +4985,23 @@ Name: YouPiP
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
+
+Package: com.foxfort.backtrix
+Version: 1.1.4
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, applist, com.foxfort.foxforttools (>= 1.2.23)
+Conflicts: com.hk.backtrix.cn
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.backtrix_1.1.4.deb
+Size: 1754290
+Installed-Size: 3140
+MD5sum: 69e9d3eefca06ca132996f6b7eb9907b
+SHA1: 0236e0bea6f0e1f08a8db6eae154c4e9c6197443
+SHA256: d020ae16e768d87239a799e34d12c2ab788c14d1a448e49b84b72bcf2bb47cc1
+Description: Back tap for quick actions
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/61f8d9f228560770cfb2cdc2
+Name: Backtrix
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/backtrix
+SileoDepiction: https://havoc.app/package/backtrix/depiction.json
