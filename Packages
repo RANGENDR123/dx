@@ -5005,3 +5005,22 @@ Name: Backtrix
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/backtrix
 SileoDepiction: https://havoc.app/package/backtrix/depiction.json
+
+Package: com.foxfort.amazonite
+Version: 2.0.2
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.1.4), com.foxfort.libfoxfortsplash
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.amazonite_2.0.2.deb
+Size: 214080
+Installed-Size: 864
+MD5sum: 255e19bbf44126139c0358c512bca8db
+SHA1: 685e92d9a21b7c359fdea95beae2b2eae9af056d
+SHA256: b53e5a2f03adef6cc9ec0c7e4b1d4a97d1d411272c0ac2c6397b89ee989027d3
+Description: Night mode for Amazon
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61f8d6cf28560770cfb1f75d
+Name: AmazoNite
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/amazonite
+SileoDepiction: https://havoc.app/package/amazonite/depiction.json
