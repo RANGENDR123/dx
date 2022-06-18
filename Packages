@@ -4589,6 +4589,26 @@ Depiction: https://repo.packix.com/package/com.iAnas.AceBigSur/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.iAnas.AceBigSur/depiction
 
 Package: com.anthopak.lastlook
+Version: 3.4.1
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.lastlook_v3.4.1_iphoneos-arm.deb
+Size: 281128
+Installed-Size: 1436
+MD5sum: 5e8cb8a178a5e3d4928ea472ce09fbc2
+SHA1: 9a83194760b032e04d7078d051d65ee04177c4a0
+SHA256: 7fdca4a0e875dbb542cd37ac7f99dda31c50a87cb782787b74452941ca94b887
+Description: An AOD tweak that feels stock, with endless possibilities!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/lastlook/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/lastlook.jpg
+Name: LastLook
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://chariz.com/buy/lastlook
+SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.lastlook/depiction.json
+
+Package: com.anthopak.lastlook
 Version: 3.4
 Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
@@ -4596,7 +4616,7 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Architecture: iphoneos-arm
 Filename: ./debs/com.anthopak.lastlook_v3.4_iphoneos-arm.deb
 Size: 286526
-Installed-Size: 1436
+Installed-Size: 1484
 MD5sum: f0b9a65e36cdf68eb824697d98a63130
 SHA1: a72313f50bb34ecde4e5a6a93e6e3304d300e899
 SHA256: 0400d00a5300bcb1cbec91eeb80620663f698c782e970ec6a4afc7364db79dc9

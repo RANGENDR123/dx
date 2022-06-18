@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>3.4</version>
-		<change>Add actions to control LastLook settings using the Shortcuts app (you need to install Powercuts separately if you want to use them). By using this you can for example use Siri to change settings, Automations to have different LastLook settings depending on phone conditions (battery, time of the day…), …, Fix battery indicator sometimes stopping updating because of other tweaks (causing wrong %), Add Powercuts to “My Other Tweaks” section, Fix Tako tweak showing as installed in settings even when it’s not</change>
+		<version>3.4.1</version>
+		<change>Fix arm64e slice for iOS 13 devices</change>
 	</changes>
 </changelog>
