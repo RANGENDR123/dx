@@ -5087,3 +5087,24 @@ SHA256: 5e89a61fc6cb427cff1d34e5ce2edfbb129ab086dcc5471b2ddf7c329dceaaac
 Description: flexible multi-protocol file transfers
 Name: cURL
 Depiction: https://apt.bingner.com/info/curl/
+
+Package: me.lightmann.iamlazy
+Version: 2.0.0
+Section: Utilities
+Maintainer: Lightmann <lightmanns11@gmail.com>
+Depends: apt, shell-cmds, uikittools, firmware (>= 13.0)
+Replaces: me.lightmann.iamspeed
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.iamlazy_2.0.0_iphoneos-arm.deb
+Size: 111760
+Installed-Size: 635
+MD5sum: 0196bb82fbb482207cd9db549bca0e4c
+SHA1: 240268a0ce7adcc98c1ae5b4c8d978e77e8f1ebd
+SHA256: a888e9c1cdfb9d7f71e6c649d416cbe819986e795d4cc063609fb924eb3ed28c
+Description: Easily backup and restore your tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/iamlazy/icon@3x.png
+Header: https://cdn.chariz.cloud/sileo-banner/iamlazy.jpg
+Name: IAmLazy
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://chariz.com/get/iamlazy
+SileoDepiction: https://chariz.com/api/sileo/package/me.lightmann.iamlazy/depiction.json
