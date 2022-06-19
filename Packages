@@ -719,7 +719,6 @@ Tag: compatible_min::ios11.0
 Section: Tweaks
 Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Tag: compatible_min::ios11.0
 Architecture: iphoneos-arm
 Filename: ./debs/weeb.lillie.youtubedislikesreturn_1.6.5_iphoneos-arm.deb
 Size: 15527
@@ -5044,3 +5043,27 @@ Name: AmazoNite
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/amazonite
 SileoDepiction: https://havoc.app/package/amazonite/depiction.json
+
+Package: com.ginsu.libgscommon
+Version: 1.1.2
+Tag: role::enduser
+Section: Tweaks
+Homepage: https://ginsu.dev
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: firmware (>=14.0), preferenceloader
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+Filename: ./debs/com.ginsu.libgscommon.deb
+Size: 76888
+MD5sum: 07c56043477f78443e1576f4181b9fff
+SHA1: 42d8462644edffd41650053a5aebc0fbf44751c3
+SHA256: 69a7be32c658797f7d1f62d3b986b399649cd81514c000475680e55d68bc877a
+Description: Support package for Ginsu’s tweaks.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.libgscommon/icon.png
+Name: GSCommon
+Author: Ginsu <njl02@outlook.com>
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.libgscommon.html
+SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.libgscommon.json
+ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.libgscommon.json

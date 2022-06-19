@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.1.2</version>
+		<change>After tapping the value indicator on the slider/stepper cells to more precisely edit a value, the alert will now show the default value as a placeholder when no text is entered</change>
+	</changes>
+</changelog>
