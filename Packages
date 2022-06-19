@@ -5059,7 +5059,7 @@ Size: 76888
 MD5sum: 07c56043477f78443e1576f4181b9fff
 SHA1: 42d8462644edffd41650053a5aebc0fbf44751c3
 SHA256: 69a7be32c658797f7d1f62d3b986b399649cd81514c000475680e55d68bc877a
-Description: Support package for Ginsu’s tweaks.
+Description: Support package for Ginsuâ€™s tweaks.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.libgscommon/icon.png
 Name: GSCommon
 Author: Ginsu <njl02@outlook.com>
@@ -5067,3 +5067,23 @@ Tags: compatible_min::ios14.0, compatible_max::ios15.9
 Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.libgscommon.html
 SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.libgscommon.json
 ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.libgscommon.json
+
+Package: curl
+Priority: standard
+Version: 7.65.0-1
+Tag: purpose::console, role::hacker
+Section: Networking
+Homepage: http://curl.haxx.se/
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnghttp2-14, libssh2, libssl1.0
+Architecture: iphoneos-arm
+Filename: ./debs/curl_7.65.0-1_iphoneos-arm.deb
+Size: 322348
+Installed-Size: 1896
+MD5sum: 5b755c7b00631efaa87b157048f29b66
+SHA1: 1f3b280ea398194680c63fe884ef0c1774053d66
+SHA256: 5e89a61fc6cb427cff1d34e5ce2edfbb129ab086dcc5471b2ddf7c329dceaaac
+Description: flexible multi-protocol file transfers
+Name: cURL
+Depiction: https://apt.bingner.com/info/curl/
