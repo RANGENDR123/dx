@@ -5108,3 +5108,22 @@ Name: IAmLazy
 Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://chariz.com/get/iamlazy
 SileoDepiction: https://chariz.com/api/sileo/package/me.lightmann.iamlazy/depiction.json
+
+Package: com.bengiannis.complications
+Version: 4.0
+Section: Tweaks
+Maintainer: benjamingiannis
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.bengiannis.complications_4.0_iphoneos-arm.deb
+Size: 629034
+Installed-Size: 3436
+MD5sum: 18eb34b8cd9bc2558baf6d821e8cd1d4
+SHA1: 0340ca096ad766a3a17a862e85c72898673dcbdf
+SHA256: 308f04303ad1145ef0ba8dc49264853321da28eaf4397582008ae9815bf7ef58
+Description: watchOS widgets on your lock screen
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/621007d33258486a32d66253
+Name: Complications
+Author: benjamingiannis
+Depiction: https://havoc.app/depiction/complications
+SileoDepiction: https://havoc.app/package/complications/depiction.json
