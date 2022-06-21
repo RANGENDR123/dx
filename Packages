@@ -5228,3 +5228,23 @@ Name: Sentinel
 Author: Megadev
 Depiction: https://havoc.app/depiction/sentinel
 SileoDepiction: https://havoc.app/package/sentinel/depiction.json
+
+Package: com.johnzaro.orion
+Version: 1.2
+Section: Tweaks
+Maintainer: John Zarogiannis <johnzrgnns@gmail.com>
+Depends: firmware (>=13.0), firmware (<<15.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), firmware (<=13.7) | com.opa334.libundirect (>= 1.1.1), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.johnzaro.orion_1.2.deb
+Size: 3230852
+Installed-Size: 9344
+MD5sum: 02bb663d2315a5eda1d93cafa3013e07
+SHA1: 5e2343259b93b1310b39126332e8d46cab1b3211
+SHA256: f40ffe3c7b003d19123dda61caa593a09616e6895edc3809b12077db9a22b79b
+Description: An All-In-One Tweak For iOS 13.0 - 14.5
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/orion/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/orion.jpg
+Name: Orion
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Depiction: https://chariz.com/buy/orion
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.johnzaro.orion/depiction.json
