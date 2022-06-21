@@ -5282,7 +5282,30 @@ SHA1: dc58e52652b125daf463bb8ac68ea8080f914b03
 SHA256: 283231ed5d278552a0c79c350c7790d7b6af768af5160b83427934ca41bee43e
 Description: One tweak to quit them all
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/quitall/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/quitall.jpg
 Name: QuitAll
 Author: Dave van Wijk <vanwijkdave@gmail.com>
 Depiction: https://chariz.com/get/quitall
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.daveapps.quitall/depiction.json
+
+Package: ws.hbang.newterm2
+Version: 2.5
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Filename: ./debs/ws.hbang.newterm2_2.5_iphoneos-arm.deb
+Size: 2017880
+Installed-Size: 6664
+MD5sum: edfc0edf0e2080c1f7e3f762c19fb23e
+SHA1: b7137d41b2f51d3a9d6047405ba2f54485694f58
+SHA256: 20a7e7716cc1cb088136e92b0128ef12fa57670296023f93f3ec73c7be94916e
+Description: A powerful terminal app for iOS
+Support: https://hashbang.productions/support/
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/newterm/icon@3x.png
+Name: NewTerm 2
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.newterm2/depiction.json
