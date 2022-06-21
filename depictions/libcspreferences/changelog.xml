@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.5.7</version>
+		<change>Updated changelog controller appearance, Fixed issue preventing libprefs controllerForSpecifier: from returning the correct controller for pushToPlist specifiers, Fixed CSPStepperCell layout issue causing the stepper to be miss-aligned while pressing the control, Added Debian package information popup for the CSPVersionCell default action, Added support for previewing dynamic and gradient colors</change>
+	</changes>
+</changelog>
