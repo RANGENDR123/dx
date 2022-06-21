@@ -5248,3 +5248,22 @@ Name: Orion
 Author: John Zarogiannis <johnzrgnns@gmail.com>
 Depiction: https://chariz.com/buy/orion
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.johnzaro.orion/depiction.json
+
+Package: com.eliassfeir.SmartDND
+Priority: optional
+Version: 1.1
+Section: Tweaks
+Maintainer: EliasSfeir <esfeir4@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.eliassfeir.smartdnd_1.1_iphoneos-arm.deb
+Size: 2425156
+MD5sum: 26bf4f719499f1d6f472c9e4ad02333b
+SHA1: c79811882079f991b9c37f19d510d82670c04ce1
+SHA256: f374b297c56ff79f41684edfc4d4af9a8a2b927d9e8117d286299d5be1c5aa24
+Description: SmartDND
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61fc6f9394bb9ecb0d322043
+Name: SmartDND
+Author: EliasSfeir <esfeir4@gmail.com>
+Depiction: https://havoc.app/depiction/smartdnd
+SileoDepiction: https://havoc.app/package/smartdnd/depiction.json
