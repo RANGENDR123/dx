@@ -5309,3 +5309,24 @@ Name: NewTerm 2
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/newterm
 SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.newterm2/depiction.json
+
+Package: ws.hbang.newtermfonts
+Version: 1.0
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: ws.hbang.newterm2 (>= 2.5)
+Breaks: ws.hbang.newterm2 (<< 2.5)
+Architecture: iphoneos-arm
+Filename: ./debs/ws.hbang.newtermfonts_1.0_iphoneos-arm.deb
+Size: 1492720
+Installed-Size: 4468
+MD5sum: 699ce0daf1d6feac2a70f934588a4be8
+SHA1: 64f1ab48edb0b25f37b56e1f65a62d0c4341ba5e
+SHA256: a0320e5685f8d208156772cf2734ea81e03221fbb5cde4fe8d2f39da145b074d
+Description: Optional extra fonts for NewTerm
+Support: https://hashbang.productions/support/
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/newterm-fonts/icon@3x.png
+Name: NewTerm Fonts Add-on
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/newterm-fonts
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.newtermfonts/depiction.json
