@@ -5151,3 +5151,23 @@ Tags: compatible_min::ios14.0, compatible_max::ios15.9
 Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.androbar.html
 SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.androbar.json
 ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.androbar.json
+
+Package: com.creaturesurvive.libcscolorpicker
+Tag: purpose::extension, compatible_min::iosiOS7
+Version: 1.0.6
+Section: System
+Homepage: https://creaturecoding.com/
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Pre-Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm.deb
+Size: 149628
+Installed-Size: 960
+MD5sum: a595a5e7e5e62502b741249c039d6328
+SHA1: 444a9abd9ee260bed98e432b356b9a3b34c8b2b7
+SHA256: a94cf0ad8d13f4d03e390ea244906834b0e93acc4be5f305628ca50d3e9022a2
+Description: A minimal color picker library for developers
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
