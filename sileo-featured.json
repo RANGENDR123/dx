@@ -6,25 +6,27 @@
         {
             "title": "YouPiP",
             "package": "com.ps.youpip",
-            "url": "https://poomsmart.github.io/repo/features/youpip.png"
-			
+            "url": "https://poomsmart.github.io/repo/features/youpip.png"	
 		},
         {
             "title": "Akara",
             "package": "com.tr1fecta.akara",
             "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/akara.jpg"
+		},
+        {
+            "title": "Felicity Pro",
+            "package": "com.xandesign.felicitypro",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/felicity-pro.jpg"
         },
         {
             "title": "Amber",
             "package": "com.ps.amber",
             "url": "https://poomsmart.github.io/repo/features/amber.png"	
-			
 		},
         {
             "title": "Cercube",
             "package": "me.alfhaily.cercube",
             "url": "https://apt.alfhaily.me/cdn/assets/cercube-header.jpg"
-			
 		},
         {
             "title": "Rocket",
@@ -40,12 +42,21 @@
             "title": "EmojiPort",
             "package": "com.ps.emojiportpe",
             "url": "https://poomsmart.github.io/repo/features/emojiport.png"
+		},
+        {
+            "title": "Kalm",
+            "package": "hi.my.name.is.ubik.kalm",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/kalm.jpg"
         },
         {
             "title": "HighGraphics",
             "package": "com.ps.highgraphics",
             "url": "https://poomsmart.github.io/repo/features/highgraphics.png"	
-			
+		},
+        {
+            "title": "SnapBack",
+            "package": "me.midnightchips.snapback",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/snapback.jpg"	
 		},
         {
             "title": "Sydney",
@@ -56,7 +67,6 @@
             "title": "Zinnia",
             "package": "me.aspenuwu.zinnia",
             "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/zinnia.jpg"
-			
 		},
         {
             "title": "Divisé",
@@ -67,12 +77,11 @@
             "title": "Anywhere Widgets for iPad",
             "package": "com.ps.anywherewidgetsforipad",
             "url": "https://poomsmart.github.io/repo/features/anywherewidgetsforipad.png"
-			
-			},
+		},
         {
-            "title": "Legizmo Jupiter",
+            "title": "Legizmo 'Jupiter'",
             "package": "lunotech11.legizmo.jupiter",
-            "url": "https://cdn.chariz.cloud/asset/legizmo-jupiter/bCsAaM3AMksj_8kc9FzYGuOiS7miKAiR/assets/bnRYEdDrwgk58jLhRKGhgNX_MVtcT_2n_07hE0NsneUhWOu1p_LkBCdWMK549a1jrIJL9aGmKGA3r6Jarz41bQ.jpg"
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/asset/legizmo-jupiter/bCsAaM3AMksj_8kc9FzYGuOiS7miKAiR/assets/bnRYEdDrwgk58jLhRKGhgNX_MVtcT_2n_07hE0NsneUhWOu1p_LkBCdWMK549a1jrIJL9aGmKGA3r6Jarz41bQ.jpg"
 		},
         {
             "title": "Linear for Status Bar",
@@ -82,8 +91,12 @@
         {
             "title": "NotTodayHomeScreenSideBar",
             "package": "com.ps.nottodayhomescreensidebar",
-            "url": "https://poomsmart.github.io/repo/features/nottodayhomescreensidebar.png"
-			
+            "url": "https://poomsmart.github.io/repo/features/nottodayhomescreensidebar.png"	
+		},
+        {
+            "title": "Return YouTube Dislike",
+            "package": "weeb.lillie.youtubedislikesreturn",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/youtube-dislikes-return.jpg"
 		},
         {
             "title": "Appaze 2",
@@ -91,20 +104,49 @@
             "url": "https://cdn.chariz.cloud/asset/appaze2/5Q3A7M4s9uPsMHRO3ScMj-DIl_jPntSu/assets/OeMrjNQPG1EDY_jWP_4js8D21SAhDOsTtASrAiJG9nlBbYmpFdv_0ST-TG6JPJodsBzVEviOYgHl5AboBMP2sg.jpg"
 		},
         {
+            "title": "SwitchShades",
+            "package": "com.anthopak.switchshades",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/asset/switchshades/CbXBCts2oUetU4a-eisNSNvBjlzl4Jn-/assets/eKgHXz5QDXPDqBq5B4-Q1CNyXRUJus-j0nioKFFcuGzyZlE1QnJ3FgbmkW4wGQ2a4OhF9-qsXoKvGMbnBjgZcQ.jpg"
+		},
+        {
+            "title": "BlueFinder",
+            "package": "com.anthopak.bluefinder",
+            "url": "https://cdn.chariz.cloud/asset/bluefinder/ukp-WMMsCIImy9LmtcTcuz8ot-Xl8T-n/assets/S7b5FnonuEmkZqNeQ3rp7NeGpyb0A_LLm3mLKhcZzB9IqVhmzqF3iBWmAfSZI5tcfl3ibMbpO9F4pNhjLaAefg.jpg"
+		},
+        {
             "title": "Goji",
             "package": "com.gabehern.goji",
             "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/goji.jpg"
+		},
+        {
+            "title": "Goji Pro",
+            "package": "com.gabehern.gojipro",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/gojipro.jpg"
+		},
+        {
+            "title": "Emotive",
+            "package": "com.cheeco.emotive",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/emotive.jpg"
+		},
+        {
+            "title": "Emotive Dark",
+            "package": "com.cheeco.emotivedark",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/emotivedark.jpg"
         },
         {
             "title": "Battery Health Enabler",
             "package": "com.ps.batteryhealthenabler",
             "url": "https://poomsmart.github.io/repo/features/batteryhealthenabler.png"
-			
 		},
         {
             "title": "PowerApp",
             "package": "com.dave1482.powerapp",
             "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/powerapp.jpg"
+		},
+        {
+            "title": "Cylinder Reborn",
+            "package": "com.ryannair05.cylinder",
+            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/cylinder-reborn.jpg"
         }
     ]
 }
