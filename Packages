@@ -5191,3 +5191,21 @@ Name: libCSPreferences
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
+Package: com.creaturecoding.libcsweather
+Tag: role::developer
+Version: 0.5.1b
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.creaturecoding.libcsweather_0.5.1b_iphoneos-arm.deb
+Size: 36596
+Installed-Size: 300
+MD5sum: 9203093eb225bb7dce0d662e6fe4aad2
+SHA1: 4b0d3c0c08adbe03ace9817ef9682062cb9919cc
+SHA256: 18dea080e9237294114ddf50d18e6f845c581ed82037fff064f167af0a6cc437
+Description: a simple library for fetching weather information
+Name: libCSWeather
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.libcsweather/index.html
