@@ -5375,3 +5375,24 @@ Name: Sleepizy 2
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://chariz.com/buy/sleepizy2
 SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.sleepizy2/depiction.json
+
+Package: com.semvis.sonitus
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Sem Visscher <semvisscher10@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>=13.0)
+Conflicts: com.semvis123.sonyfy, com.semvis123.headphonify
+Architecture: iphoneos-arm
+Filename: ./debs/com.semvis.sonitus_1.0.1_iphoneos-arm.deb
+Size: 60068
+Installed-Size: 444
+MD5sum: 08a169bda64cf530dfb8e0c54f02c5e3
+SHA1: 59c5001d6bbf784c100afe813d51c133e55e8cf6
+SHA256: 8e0f883ae586705263b3fa1c8e8d7b1e7d4f001969c3135dd8ae897cb9a604c1
+Description: Sonitus, bring the noise cancellation control of your headphones to the built-in iOS menu.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/sonitus/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/sonitus.jpg
+Name: Sonitus
+Author: Sem Visscher <semvisscher10@gmail.com>
+Depiction: https://chariz.com/get/sonitus
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.semvis.sonitus/depiction.json
