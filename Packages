@@ -5434,3 +5434,22 @@ Name: Darker
 Author: tntt <hi@tntt.me>
 Depiction: https://havoc.app/depiction/darkerlite
 SileoDepiction: https://havoc.app/package/darkerlite/depiction.json
+
+Package: com.0xkuj.3dappversionspoofer
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/com.0xkuj.3dappversionspoofer_1.0.1_iphoneos-arm.deb
+Size: 14972
+Installed-Size: 208
+MD5sum: fd91fc5f7f4ba9955d98fc4a4271e1ee
+SHA1: 0e00eb6c9b7807cf9b2e77229be48e0b1950a5aa
+SHA256: a2724c10e484fb93bd515b015de71eab01a51a0e99cb0da7ccbd3ba872715b24
+Description: A tweak to add app spoofing capabilities right from your 3D menu
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/62b19ca956016114f746df4e&size=60x60
+Name: 3DAppVersionSpoofer
+Author: 0xkuj <0xkujz@gmail.com>
+Depiction: https://havoc.app/depiction/3dappversionspo
+SileoDepiction: https://havoc.app/package/3dappversionspo/depiction.json
