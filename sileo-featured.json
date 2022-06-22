@@ -87,11 +87,6 @@
             "title": "Goji",
             "package": "com.gabehern.goji",
             "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/goji.jpg"
-		},
-        {
-            "title": "Emotive",
-            "package": "com.cheeco.emotive",
-            "url": "https://api.ios-repo-updates.com/image.php?url=https://cdn.chariz.cloud/sileo-banner/emotive.jpg"
         },
         {
             "title": "Battery Health Enabler",
