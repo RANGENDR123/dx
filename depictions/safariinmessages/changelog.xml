@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.0.2</version>
+		<change>Enables support for arm64e devices (iPhone XS and newer)., Fixes an issue where links in the conversation info view wouldn’t open., Adds an option to open Universal Links in the Messages app too., Adds an option to enable/disable the tweak</change>
+	</changes>
+</changelog>
