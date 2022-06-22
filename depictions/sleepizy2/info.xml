@@ -1,0 +1,45 @@
+<package>
+	<id>com.anthopak.sleepizy2</id>
+	<name>Sleepizy 2</name>
+	<version>1.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Fall asleep with your music! Set a timer to stop your music directly from Control Center, with many features.</shortDescription>
+	<descriptionlist>
+		<description>Sleepizy 2 1.2.1,  compatible to iOS 14.2 - iOS 14.8</description>
+		<description>Sleepizy 2 For Jailbreak!.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

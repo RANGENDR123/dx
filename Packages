@@ -5349,7 +5349,29 @@ SHA256: fb11d155e534ceaf5567c843e04f6fe4edbb8647712fbb85585650cd1ad1636c
 Description: Terminal extensions supported by iTerm2 and NewTerm
 Support: https://hashbang.productions/support/
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/iterm2-shell-integration/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/iterm2-shell-integration.jpg
 Name: iTerm2 Shell Integration
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/iterm2-shell-integration
 SileoDepiction: https://repo.chariz.com/api/sileo/package/iterm2-shell-integration/depiction.json
+
+Package: com.anthopak.sleepizy2
+Version: 1.2.1
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.2)
+Conflicts: com.anthopak.sleepizy
+Architecture: iphoneos-arm
+Filename: ./debs/com.anthopak.sleepizy2_v1.2.1_iphoneos-arm.deb
+Size: 233584
+Installed-Size: 1084
+MD5sum: b28f2e0e2d9864c29ced9037d97a9d0b
+SHA1: 39dc2b7565985bf133320922854d24f28e752f0f
+SHA256: af3e802ab62fd33e3f4d1c360fb696d41332260fd2fbecef9043df3b2c66de82
+Description: Fall asleep with your music! Set a timer to stop your music directly from Control Center, with many features
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/sleepizy2/icon@3x.png
+Header: https://img.chariz.cloud/sileo-banner/sleepizy2.jpg
+Name: Sleepizy 2
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://chariz.com/buy/sleepizy2
+SileoDepiction: https://chariz.com/api/sileo/package/com.anthopak.sleepizy2/depiction.json
