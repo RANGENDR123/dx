@@ -2826,23 +2826,24 @@ Depiction: https://chariz.com/buy/legizmo-grace
 SileoDepiction: https://chariz.com/api/sileo/package/lunotech11.legizmo.grace/depiction.json
 
 Package: lunotech11.legizmo.jupiter
-Version: 3.2
+Version: 3.3.2-1
 Section: Tweaks
 Maintainer: lunotech11 <support@legizmo.app>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, gsc.telephony
 Conflicts: lunotech11.legizmo
 Replaces: lunotech11.legizmo
+Provides: lunotech11.Legizmo
 Architecture: iphoneos-arm
-Filename: ./debs/apt.cydiakk.legizmo.jupiter_3.2_iphoneos-arm.deb
-Size: 410674
-Installed-Size: 3608
-MD5sum: f048cdddf9e5017e4ca51b5c08d17a76
-SHA1: c46838626cd0513d04d84c51169890d000e8032a
-SHA256: 1534f4c7a16002c2acfaa93039e078fafa71f35bfb1e2f0ca8912c027dfc958b
+Filename: ./debs/lunotech11.legizmo.jupiter_v3.3.2-1_iphoneos-arm.deb
+Size: 421908
+Installed-Size: 3715
+MD5sum: b51e8f236c9c1644e1dcdc4ca0a4774c
+SHA1: 343e631f2d2a0e4eea9e8321b00505eccfe9febc
+SHA256: 9ae6383d6a23e740677059f5a265b0707130428a3832288e40a1680a95adf7a1
 Description: Enables pairing, connecting and updating to unsupported versions of watchOS
 Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/legizmo-grace/icon@3x.png
 Header: https://img.chariz.cloud/sileo-banner/legizmo-jupiter.jpg
-Name: Legizmo Jupiter
+Name: Legizmo 'Jupiter'
 Author: lunotech11 <support@legizmo.app>
 Depiction: https://chariz.com/buy/legizmo-jupiter
 SileoDepiction: https://chariz.com/api/sileo/package/lunotech11.legizmo.jupiter/depiction.json
