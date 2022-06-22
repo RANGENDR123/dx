@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.9.3</version>
-		<change>Remove UILabel Hook, Add -[UIFont initWithCoder:] hooking, Add -[UIFont initWithCoder:] hooking, Add Keybase support, Fix fontDescriptor bug, Fix NaverCafe App crash, Fix Spotify App crash, Fix iOS 14 Stock App crash</change>
-	</changes>
-</changelog>

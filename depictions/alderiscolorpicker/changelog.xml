@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.2</version>
-		<change>Adds a Contrast Checker tab, where you can try your selected color in various configurations, and test its contrast against an algorithm., Adds a context menu on color wells, allowing copying a color in a variety of formats. (Requires iOS 14.), Adds HSL (Hue, Saturation, and Lightness) to the color sliders tab. As compared to the existing HSB (Hue, Saturation, and Brightness) sliders, HSL uses a slightly different formula that is considered more realistic to how we perceive color. HSL is also used by CSS., Adds a gradient background to color sliders, so you can see how your color will change if you tweak each slider., Hopefully fixes an issue with Alderis sometimes not working on iOS 12., Reduces install size by a nice 69%</change>
-	</changes>
-</changelog>

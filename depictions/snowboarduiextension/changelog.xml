@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.1.0~Beta4</version>
-		<change>Fix crashes that could occur with certain images, Fix large icons in some notifications, Fix crash in certain applications, Various fixes and improvements for iOS 14, Note: Message Bubbles are still currently unsupported on iOS 14.</change>
-	</changes>
-</changelog>

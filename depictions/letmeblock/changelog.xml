@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.0.0</version>
-		<change>Increased Jetsam memory limit to 512 MB</change>
-	</changes>
-</changelog>

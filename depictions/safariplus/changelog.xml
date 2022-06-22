@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.7.20</version>
-		<change>New option 'Unsandbox Safari' under Tweak Specific Settings, gives Safari read access to / and write access to /var, enabled by default, replaces very hacky old solution where all file operations would be executed by SpringBoard</change>
-	</changes>
-</changelog>

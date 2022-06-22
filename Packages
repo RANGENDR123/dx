@@ -5416,3 +5416,21 @@ Name: Safari in Messages
 Author: Andrew Abosh <andrewaboshartworks+chariz@gmail.com>
 Depiction: https://chariz.com/get/safari-in-messages
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.andrewabosh.safari-in-messages/depiction.json
+
+Package: in.tnttaol.darkerlite
+Version: 2.9.1
+Section: Themes
+Homepage: https://darker.tntt.me
+Maintainer: tntt <hi@tntt.me>
+Architecture: iphoneos-arm
+Filename: ./debs/in.tnttaol.darkerlite_2.9.1.deb
+Size: 11939710
+MD5sum: a1848b04159ddffce2bc5a97ba5fcd8d
+SHA1: ace8753f3505ff0fded46dba75bd12b3de7aa33f
+SHA256: 4b61e50e00fca732c3a144c5d3207ed864a4700053b1a72da5ae38f4e159ae4e
+Description: Same icons, same style, just darker.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620bf60cd7e208af001fe652&size=60x60
+Name: Darker
+Author: tntt <hi@tntt.me>
+Depiction: https://havoc.app/depiction/darkerlite
+SileoDepiction: https://havoc.app/package/darkerlite/depiction.json

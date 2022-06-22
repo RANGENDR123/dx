@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>0.1</version>
-		<change>Automatically restarts installd on install, Adds AltStore support to activate more than 3 apps</change>
-	</changes>
-</changelog>

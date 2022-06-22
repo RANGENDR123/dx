@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.3</version>
-		<change>On iOS 14, Add To Folder item is now added to "Modify HomeScreen Layout" section, Fix support for App Library Search field, Code cleaning</change>
-	</changes>
-</changelog>

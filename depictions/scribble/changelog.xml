@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>2.1</version>
-		<change>fixed ios 13 bug where scribble wouldn't load on non-face id enabled devices</change>
-	</changes>
-</changelog>

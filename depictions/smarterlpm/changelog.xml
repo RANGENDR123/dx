@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.0.9</version>
-		<change>Uses notifications now instead of alerts, iOS 14 support</change>
-	</changes>
-</changelog>

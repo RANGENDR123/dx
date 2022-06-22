@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.3.1</version>
-		<change>Remove the 1x1 size requirement if Prysm is installed</change>
-	</changes>
-</changelog>

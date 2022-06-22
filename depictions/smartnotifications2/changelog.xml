@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.5</version>
-		<change>Added the ability to only play notification sounds for specific apps you select when the phone is locked, do not play sounds when it's unlocked so it doesn't disrupt what you're doing or listening to, Snoozed notifications now have a special sound and title in order to differentiate them.</change>
-	</changes>
-</changelog>

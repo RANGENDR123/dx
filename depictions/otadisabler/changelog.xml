@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>0.2</version>
-		<change>pseudo-install tvOS 15 beta profile, Added alerts recommending userspace reboot, etc. during uninstallation</change>
-	</changes>
-</changelog>

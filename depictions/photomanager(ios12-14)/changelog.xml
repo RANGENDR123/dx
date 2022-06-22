@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.2.5</version>
-		<change>Added an option to hide the imports folder, Fixed a bug where certain folders would start at the beginning instead of the end</change>
-	</changes>
-</changelog>

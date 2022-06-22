@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.0.6</version>
-		<change>Fixed issue preventing CSColorPicker from launching in TweakSettings for some users, Added CSBaseDisplayCell as a base implementation for display cells, Added support for dynamic UIColors supporting hex strings, custom dynamic color picker coming soon, Updated project automation</change>
-	</changes>
-</changelog>

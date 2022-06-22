@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.0.1</version>
-		<change>Attempted to fix crash during setup for some users, Streamlined weather data loading. (This should fix problems with weather not appearing on the home screen), Fixed activation errors causing crashes, Fixed activation warning appearing for paid users</change>
-	</changes>
-</changelog>

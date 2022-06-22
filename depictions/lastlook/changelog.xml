@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>3.4.1</version>
-		<change>Fix arm64e slice for iOS 13 devices</change>
-	</changes>
-</changelog>

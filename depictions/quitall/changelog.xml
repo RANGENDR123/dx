@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>3.0</version>
-		<change>Added support for grid switcher, Cleaned up the code quite a bit, Smoother transition from switcher to app</change>
-	</changes>
-</changelog>

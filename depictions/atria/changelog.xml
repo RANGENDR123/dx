@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.3.1</version>
-		<change>Fixed an issue that caused settings to appear in the editor view when they shouldn’t have, Fixed issues editing background blur settings, Corrected issues that broke per-page editing</change>
-	</changes>
-</changelog>

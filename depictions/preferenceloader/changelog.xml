@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>2.2.6</version>
-		<change>Add detailed description display option when a preference bundle fails to load </change>
-	</changes>
-</changelog>

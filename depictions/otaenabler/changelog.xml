@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>0.4.1</version>
-		<change>Fixed incorrect contents being written to /private/preboot/active, Fixed preboot fix not working on non-unc0ver jailbreaks</change>
-	</changes>
-</changelog>

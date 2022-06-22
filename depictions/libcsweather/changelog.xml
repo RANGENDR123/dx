@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>0.5.1b</version>
-		<change>further optimizations to fetching technique, working on solution to verify and cache weather so it can persist through resprings without re-fetching</change>
-	</changes>
-</changelog>

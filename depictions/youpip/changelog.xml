@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>1.7.4</version>
-		<change>Added missing parentResponder property to YTPlayerPIPController (iOS 14-) in YouTube 17.23.6, Added fr and zh_tw localization</change>
-	</changes>
-</changelog>

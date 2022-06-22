@@ -1,6 +1,0 @@
-<changelog>
-	<changes>
-		<version>2.4.1</version>
-		<change>Improvement: The device will now longer go to sleep while skipping/going back a song</change>
-	</changes>
-</changelog>
