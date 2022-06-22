@@ -5330,3 +5330,25 @@ Name: NewTerm Fonts Add-on
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/newterm-fonts
 SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.newtermfonts/depiction.json
+
+Package: iterm2-shell-integration
+Tag: role::hacker, compatible_min::ios11.0
+Version: 1.0+gita586923
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: bash, coreutils, gawk
+Suggests: python3.7
+Architecture: iphoneos-arm
+Filename: ./debs/iterm2-shell-integration_1.0+gita586923_iphoneos-arm.deb
+Size: 23926
+Installed-Size: 136
+MD5sum: e2a8e0242bc708c3f049606706c8113e
+SHA1: 14c8771f07e40a95ed21f13086709c8053045101
+SHA256: fb11d155e534ceaf5567c843e04f6fe4edbb8647712fbb85585650cd1ad1636c
+Description: Terminal extensions supported by iTerm2 and NewTerm
+Support: https://hashbang.productions/support/
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/iterm2-shell-integration/icon@3x.png
+Name: iTerm2 Shell Integration
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/iterm2-shell-integration
+SileoDepiction: https://repo.chariz.com/api/sileo/package/iterm2-shell-integration/depiction.json
