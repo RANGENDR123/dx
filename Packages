@@ -5556,3 +5556,22 @@ Name: Libellum
 Author: LacertosusDeus <lacertosusthemes@gmail.com>
 Depiction: https://chariz.com/get/libellum
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.lacertosusrepo.libellum/depiction.json
+
+Package: com.polytweaks.aerial2
+Version: 1.0.3
+Section: Tweaks
+Maintainer: sharedroutine <sharedroutine@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.polytweaks.aerial2_v1.0.3_iphoneos-arm.deb
+Size: 81404
+Installed-Size: 5172
+MD5sum: 65cab20675d59c620ad6fd1801ecf2b5
+SHA1: 8406dab1a9ae8b6dfd2bf772303e4cc55975a77b
+SHA256: 9e556ff03505688fbf1a9bf51290095625715927d7a477357d02983a3faf4593
+Description: Colour your status bar icons from a variety of colours that suits both you, and iOS!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620bf6aed7e208af00207915&size=60x60&timestamp=1656003138408
+Name: Aerial 2
+Author: sharedroutine <sharedroutine@icloud.com>
+Depiction: https://havoc.app/depiction/aerial2
+SileoDepiction: https://havoc.app/package/aerial2/depiction.json
