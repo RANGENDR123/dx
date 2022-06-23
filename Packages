@@ -5497,3 +5497,23 @@ Name: RuntimeBrowser
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/runtimebrowser
 SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.runtimebrowser/depiction.json
+
+Package: com.initwithframe.velvet
+Version: 1.5.1
+Section: Tweaks
+Maintainer: initWithFrame <initwithframe@protonmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, net.limneos.libbulletin (>= 0.1-158), com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.initwithframe.velvet_1.5.1_iphoneos-arm.deb
+Size: 181928
+Installed-Size: 764
+MD5sum: 78a42e747b91a9e7a3eb0ca9dfe58a36
+SHA1: 4c1f060d1ddbd36dfbc06b08e5d5473fa01d0f4a
+SHA256: b529ba7d3f73ecb08e045d0a605a552e68846cb2a8bee1e3bc6521207da4180b
+Description: A new way to customize your notifications!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/velvet/icon@3x.png&size=60x60
+Header: https://img.chariz.cloud/sileo-banner/velvet.jpg
+Name: Velvet
+Author: initWithFrame <initwithframe@protonmail.com>
+Depiction: https://chariz.com/buy/velvet
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.initwithframe.velvet/depiction.json
