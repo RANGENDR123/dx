@@ -5517,3 +5517,23 @@ Name: Velvet
 Author: initWithFrame <initwithframe@protonmail.com>
 Depiction: https://chariz.com/buy/velvet
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.initwithframe.velvet/depiction.json
+
+Package: com.lacertosusrepo.libellum
+Version: 1.6.5
+Section: Tweaks
+Maintainer: LacertosusDeus <lacertosusthemes@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), ws.hbang.alderis (>= 1.0), com.lacertosusrepo.libdeusprefs (>= 1.0.4)
+Architecture: iphoneos-arm
+Filename: ./debs/com.lacertosusrepo.libellum_1.6.5_iphoneos-arm.deb
+Size: 379120
+Installed-Size: 1068
+MD5sum: b7ccbae578c520916878239132f68477
+SHA1: ba046c29e09a82a131f7a504f5a03ad1f0115e0a
+SHA256: e825a3de6ab32f990a07af318f35708b0d31b47eff41c1e1760ab4ac681b4868
+Description: Notes on your lockscreen and notification center...
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/libellum/icon@3x.png&size=60x60
+Header: https://img.chariz.cloud/sileo-banner/libellum.jpg
+Name: Libellum
+Author: LacertosusDeus <lacertosusthemes@gmail.com>
+Depiction: https://chariz.com/get/libellum
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.lacertosusrepo.libellum/depiction.json
