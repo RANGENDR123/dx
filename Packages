@@ -5477,3 +5477,23 @@ Tags: compatible_min::ios14.0, compatible_max::ios15.9
 Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.notchbanners.html
 SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.notchbanners.json
 ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.notchbanners.json
+
+Package: ws.hbang.runtimebrowser
+Tag: role::hacker, compatible_min::ios8.0
+Version: 1.1
+Section: Utilities
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Architecture: iphoneos-arm
+Filename: ./debs/ws.hbang.runtimebrowser_1.1_iphoneos-arm.deb
+Size: 1469598
+Installed-Size: 5072
+MD5sum: 5573b9ac1d02859f68b651555cd565a4
+SHA1: 3971ea3c2f0aab8130e29026d6e487d79178c779
+SHA256: 53f36ffb4b89e4c258e26d38e48ff5249a0e0c0f389a6c1b2c08bf129df8121b
+Description: Class browser for Objective-C runtime
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/runtimebrowser/icon@3x.png&size=60x60
+Header: https://img.chariz.cloud/sileo-banner/runtimebrowser.jpg
+Name: RuntimeBrowser
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/runtimebrowser
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.runtimebrowser/depiction.json
