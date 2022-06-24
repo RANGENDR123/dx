@@ -4517,9 +4517,12 @@ Depiction: https://repo.packix.com/package/com.ahmedmakls.11red/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.ahmedmakls.11red/depiction
 
 Package: jp.r-plus.libcanopenurl
+Tag: role::developer, purpose::library, cydia::obsolete, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Version: 1.1.1
 Section: Development
-Maintainer: r_plus
+Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcanopenurlDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
+dev: rplus
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Filename: ./debs/libcanopenurl_1.1.1.deb
@@ -4531,15 +4534,19 @@ SHA256: b3d199f80f8fc48f7f21cb817892c988f23a02070827197cdbac4c90c79d2069
 Description: patch iOS 9 canOpenURL:restriction.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/jp.r-plus.libcanopenurl.png
 Name: libCanOpenURL
-Author: r_plus
+Author: r_plus <anasthasia.r+libcanopenurl@gmail.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcanopenurlDp
 
 Package: com.iarrays.libiarrays
+Tag: purpose::library, cydia::obsolete
 Version: 1.0.14
 Section: Development
-Maintainer: IArrays
+Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libarraysDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
+dev: iarrays
 Depends: firmware(>= 7.0)
 Architecture: iphoneos-arm
+Sponsor: thebigboss.org <http://thebigboss.org>
 Filename: ./debs/libiarrays_1.0.14.deb
 Size: 147634
 Installed-Size: 719
@@ -4549,7 +4556,7 @@ SHA256: 11426e09e0a01833ca305815e3563c636494eae446e095f7c0424ab0fc26b575
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.iarrays.libiarrays.png
 Name: libiarrays
-Author: IArrays
+Author: IArrays <support@iarrays.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libarraysDp
 
 Package: com.iAnas.AceCata
@@ -5596,3 +5603,43 @@ Name: Dayn (iOS 14)
 Author: Devvix <support@devvix.com>
 Depiction: https://chariz.com/buy/dayn-14
 SileoDepiction: https://chariz.com/api/sileo/package/com.devvix.dayn14/depiction.json
+
+Package: org.coolstar.sileoalpha
+Priority: required
+Tag: cydia::essential
+Version: 2.0.0a2
+Section: Packaging
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), apt-lib (>= 1.8.0-sileo) | libapt (>=1.8.2-sileo), apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), cydia (>= 2.2), cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0), org.coolstar.sileo
+Conflicts: cydia-gui (<<99.0)
+Architecture: iphoneos-arm
+Filename: ./debs/org.coolstar.sileoalpha_2.0.0a2_iphoneos-arm.deb
+Size: 2788696
+MD5sum: 44c9e6d274a1504d6bfb5a035a36e674
+SHA1: 0a4b66e39f5b3e44b740f91ab4832dc53cbce137
+SHA256: be780c9c396b025e22a55cf8eb8f574f08fb45ad84adfb24642cfd1c12562de1
+Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Name: Sileo (Alpha Channel)
+Author: Sileo Team <getsileoapp@gmail.com>
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.coolstar.sileo
+
+Package: org.coolstar.sileobeta
+Priority: required
+Tag: cydia::essential
+Version: 1.8.7b3
+Section: Packaging
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), apt (>= 2.1.0) | apt-lib (>= 1.8.0-sileo) | libapt (>=1.8.2-sileo2), apt (>= 2.1.0) | apt-key (>= 1.8.0), dpkg (>= 1.19.2-4), procursus-keyring | cydia, zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0), org.coolstar.sileo (>= 1.8.3)
+Conflicts: cydia-gui (<<99.0)
+Architecture: iphoneos-arm
+Filename: ./debs/org.coolstar.sileobeta_1.8.7b3_iphoneos-arm.deb
+Size: 3149912
+MD5sum: 27a8a095845e21e29add7b0eeffad6d1
+SHA1: 58d61731e7b7fee7c7c2c7bf679028932be96d32
+SHA256: 4a605ef27f923406bf0a341f02bbda82120da5828dea252e53df98f790be1b16
+Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
+Name: Sileo (Beta Channel)
+Author: Sileo Team <getsileoapp@gmail.com>
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.coolstar.sileo
