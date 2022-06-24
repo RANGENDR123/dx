@@ -5698,3 +5698,21 @@ Name: Succession
 Author: Samg_is_a_Ninja
 Depiction: https://repo.dynastic.co/depiction/175663146852155392/
 SileoDepiction: https://repo.dynastic.co/sileo-depiction/175663146852155392/
+
+Package: com.shade.libpalette
+Version: 1.0
+Section: Development
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Depends: firmware (>= 12.2) | org.swift.libswift
+Architecture: iphoneos-arm
+Filename: ./debs/com.shade.libpalette_1.0_iphoneos-arm.deb
+Size: 34662
+Installed-Size: 308
+MD5sum: e482057f4f5013e442a5f4faf8ea0a44
+SHA1: 5b55ffb1fcf26df02c00aaccf1995e89f1cf5d51
+SHA256: 9b1af5f1083770fe29337a399b2e02c237c43e847e189d5697b969159cede3ed
+Description: Retrieves color palette of image
+Name: libPalette
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Depiction: https://chariz.com/get/libpalette
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.shade.libpalette/depiction.json
