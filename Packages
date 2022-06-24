@@ -5682,3 +5682,22 @@ Name: Local SSH
 Author: MidnightChips <midnightchips@gmail.com>
 Depiction: https://repo.packix.com/package/com.midnightchips.localhostssh/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.midnightchips.localhostssh/depiction
+
+Package: com.foxfort.gmailmidnight
+Version: 2.0.0
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.gmailmidnight_2.0.0.deb
+Size: 143910
+Installed-Size: 828
+MD5sum: e588d7abe99b9d02d717c4e3344ae9ea
+SHA1: 436dca69c92be733c5153d518fdc4ad3173db5ed
+SHA256: 4b841cf9a5ecc6615d6c78d1cc387f89233f87fa56e087831b8e3581f2a1a9fe
+Description: Night mode for Gmail
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61f8d6dd28560770cfb1f7c1&size=60x60&timestamp=1656085885505
+Name: Gmail Midnight
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/gmailmidnight
+SileoDepiction: https://havoc.app/package/gmailmidnight/depiction.json
