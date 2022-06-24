@@ -5664,3 +5664,21 @@ Name: SemiRestore11 / Rollectra
 Author: Pwn20wnd <pwn20wndstuff@gmail.com>
 Depiction: https://repo.packix.com/package/com.pwn20wnd.semirestore11/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.pwn20wnd.semirestore11/depiction
+
+Package: com.midnightchips.localhostssh
+Version: 0.0.2
+Section: Development
+Maintainer: MidnightChips <midnightchips@gmail.com>
+Depends: firmware (>= 11.0), openssh
+Architecture: iphoneos-arm
+Filename: ./debs/localssh.deb
+Size: 1400
+MD5sum: adc4b6d4e78a71ea38681b8756e22ac4
+SHA1: 58109c070b723928701f35709101ef13449e78de
+SHA256: 4754061b2fecba16c693ad127d127647cc75e268c5c11c47185bfd2234e27fd2
+Description: Access localhost through SSH on iOS 11
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5b675f1b72ff89001134b960/icon/download?size=medium&hash=2&size=60x60&timestamp=1656082240706
+Name: Local SSH
+Author: MidnightChips <midnightchips@gmail.com>
+Depiction: https://repo.packix.com/package/com.midnightchips.localhostssh/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.midnightchips.localhostssh/depiction
