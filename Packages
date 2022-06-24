@@ -5680,3 +5680,21 @@ Name: libDeusPrefs
 Author: LacertosusDeus <lacertosusthemes@gmail.com>
 Depiction: https://chariz.com/get/libdeusprefs
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.lacertosusrepo.libdeusprefs/depiction.json
+
+Package: com.samgisaninja.successionrestore
+Version: 1.4.15
+Section: Utilities
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Architecture: iphoneos-arm
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.15_iphoneos-arm.deb
+Size: 1176050
+MD5sum: 49897046f0f21b2a5b69a8f035aa9201
+SHA1: bc8377c3723535aa71af974d3e7b4cede404e879
+SHA256: b62349fb95e1773ecde52407034f33b3bb223c2c2aef2e97d148556f944cc36a
+Description: Restore without updating via rootfilesystem DMG — Supports iOS 8.0+.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.dynastic.co/data/static/version/329423700182958080/329423700489142272?size=180&size=60x60&timestamp=1656101833774
+Name: Succession
+Author: Samg_is_a_Ninja
+Depiction: https://repo.dynastic.co/depiction/175663146852155392/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/175663146852155392/
