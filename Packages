@@ -5701,3 +5701,22 @@ Name: Gmail Midnight
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/gmailmidnight
 SileoDepiction: https://havoc.app/package/gmailmidnight/depiction.json
+
+Package: com.lacertosusrepo.libdeusprefs
+Version: 1.0.4
+Section: Development
+Maintainer: LacertosusDeus <lacertosusthemes@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.lacertosusrepo.libdeusprefs_1.0.4_iphoneos-arm.deb
+Size: 45972
+Installed-Size: 308
+MD5sum: ce575314fa3751110c50f0ea6082c40b
+SHA1: b282b7b0c1a4da209b1235e1d4bc8177557bd7e3
+SHA256: 36223f1063c694c62bcabcb685348fcd09571ee5385bac7a066e94f29605a629
+Description: Support library for my preferences...
+Header: https://img.chariz.cloud/sileo-banner/libdeusprefs.jpg
+Name: libDeusPrefs
+Author: LacertosusDeus <lacertosusthemes@gmail.com>
+Depiction: https://chariz.com/get/libdeusprefs
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.lacertosusrepo.libdeusprefs/depiction.json
