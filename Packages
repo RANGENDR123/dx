@@ -5716,3 +5716,23 @@ Name: libPalette
 Author: Shade Zepheri <ziroalpha@gmail.com>
 Depiction: https://chariz.com/get/libpalette
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.shade.libpalette/depiction.json
+
+Package: com.ryannair05.libmitsuhaforever
+Version: 1.4.2
+Section: Development
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Depends: mobilesubstrate, com.ryannair05.audiosnapshotserver
+Replaces: me.nepeta.libmitsuha, me.conorthedev.libmitsuhaforever
+Architecture: iphoneos-arm
+Filename: ./debs/com.ryannair05.libmitsuhaforever_1.4.2_iphoneos-arm.deb
+Size: 129170
+Installed-Size: 920
+MD5sum: a18aa4a9b68ffe4ffd8f0b1f36fe30db
+SHA1: f0a4022a78d0835a797d58a930c4212c581af564
+SHA256: 0df0feda7c2c326d6e2052eab15a38708ac46e0f5852e7b90e0246611842f8b6
+Description: An advanced audio visualizer library for Mitsuha Forever
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/libmitsuhaforever/icon@3x.png&size=60x60&timestamp=1656104977497
+Name: libmitsuhaforever
+Author: Ryan Nair, ConorTheDev, Nepeta <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/buy/libmitsuhaforever
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.libmitsuhaforever/depiction.json
