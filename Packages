@@ -5736,3 +5736,23 @@ Name: libmitsuhaforever
 Author: Ryan Nair, ConorTheDev, Nepeta <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/buy/libmitsuhaforever
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.libmitsuhaforever/depiction.json
+
+Package: com.ryannair05.audiosnapshotserver
+Version: 2.1.2
+Section: Development
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Replaces: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Provides: io.ominousness.ass, me.conorthedev.audiosnapshotserver
+Architecture: iphoneos-arm
+Filename: ./debs/com.ryannair05.audiosnapshotserver_2.1.2_iphoneos-arm.deb
+Size: 5182
+Installed-Size: 168
+MD5sum: 8c42760b2804dab566125f424a83a4e3
+SHA1: 0076b42807edd7d41f61afd4b1479cb06457700c
+SHA256: dbf4a505bc017a3f69c108f1d96f7f88b819bdb94481efa33c5da3df286b7d97
+Description: A modified iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/audiosnapshotserver/icon@3x.png&size=60x60&timestamp=1656110446824
+Name: AudioSnapshotServer
+Author: Ryan Nair and Nepeta <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/audiosnapshotserver
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.audiosnapshotserver/depiction.json
