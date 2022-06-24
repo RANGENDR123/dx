@@ -5643,3 +5643,24 @@ Description: A proper APT client for iOS 11 and higher. (View this package in Si
 Name: Sileo (Beta Channel)
 Author: Sileo Team <getsileoapp@gmail.com>
 SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=org.coolstar.sileo
+
+Package: com.pwn20wnd.semirestore11
+Version: 1.1.2-1
+Section: Development
+Maintainer: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depends: cy+cpu.arm64, coreutils-bin, uikittools, firmware (>= 11.3), firmware (<< 11.4.1)
+Conflicts: org.coolstar.semirestore11-lite
+Replaces: org.coolstar.semirestore11-lite
+Architecture: iphoneos-arm
+Filename: ./debs/semirestore11rollectra.deb
+Size: 50368
+Installed-Size: 172
+MD5sum: 30ebd24c2fa06648e5e90dbc266de008
+SHA1: 3f306ddc2c25d482ca8655d85167bc2a5aded252
+SHA256: ceb20e88ada95e4ed7313e98248c77fced393014560e5a9a13486f5fe55405fd
+Description: A full system unjailbreaker that supports all devices running iOS 11.3 to 11.4 Beta 3.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.packix.com/api/Packages/5b4db56eb5ae7300107adfee/icon/download?size=medium&hash=5d75651e3fb7400011e7f3fa&size=60x60&timestamp=1656080476545
+Name: SemiRestore11 / Rollectra
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Depiction: https://repo.packix.com/package/com.pwn20wnd.semirestore11/
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.pwn20wnd.semirestore11/depiction
