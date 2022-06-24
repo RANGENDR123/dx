@@ -5756,3 +5756,20 @@ Name: AudioSnapshotServer
 Author: Ryan Nair and Nepeta <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/get/audiosnapshotserver
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.audiosnapshotserver/depiction.json
+
+Package: zip
+Priority: important
+Tag: purpose::console, role::hacker
+Version: 3.0-11
+Section: Archiving
+Maintainer: Hayden Seay <me@diatr.us>
+Multi-Arch: foreign
+Architecture: iphoneos-arm
+Filename: ./debs/zip_3.0-11_iphoneos-arm.deb
+Size: 129616
+Installed-Size: 1392
+MD5sum: 2c18a4d60d8fa382bb87f30b08be403e
+SHA1: 21d65a364f7f96259755d03b725608b6e4a8ff6e
+SHA256: 6ad81265a6e2b16b0b3da24d65ffe7aaf35d1ebfb0be0656a9f85312e48862fc
+Description: standard Windows compression tool
+Name: zip
