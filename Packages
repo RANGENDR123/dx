@@ -5575,3 +5575,24 @@ Name: Aerial 2
 Author: sharedroutine <sharedroutine@icloud.com>
 Depiction: https://havoc.app/depiction/aerial2
 SileoDepiction: https://havoc.app/package/aerial2/depiction.json
+
+Package: com.devvix.dayn14
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Devvix <support@devvix.com>
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 1.14), preferenceloader
+Replaces: com.jannikcrack.dayn, com.devvix.dayn
+Architecture: iphoneos-arm
+Filename: ./debs/com.devvix.dayn14_v1.0.2_iphoneos-arm.deb
+Size: 658496
+Installed-Size: 1936
+MD5sum: b6badc75ab6f6011daeb595dd662dfd7
+SHA1: f6a861621f432963ae654f1824091851558d6a01
+SHA256: 1046e2135d5fffde6f6ebd19c2de07b40f9ed669216d024bed27cf9a78adbf8a
+Description: New notification concept
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/dayn-14/icon@3x.png&size=60x60&timestamp=1656040609810
+Header: https://img.chariz.cloud/sileo-banner/dayn-14.jpg
+Name: Dayn (iOS 14)
+Author: Devvix <support@devvix.com>
+Depiction: https://chariz.com/buy/dayn-14
+SileoDepiction: https://chariz.com/api/sileo/package/com.devvix.dayn14/depiction.json
