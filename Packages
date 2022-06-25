@@ -5979,3 +5979,25 @@ Name: Veza
 Author: ApexTweaks <support@apextweaks.com>
 Depiction: https://chariz.com/get/veza
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veza/depiction.json
+
+Package: com.greg0109.forwardnotifier
+Version: 1.4.3
+Section: Tweaks
+Maintainer: Greg0109 <greg.rabago@gmail.com>
+Depends: mobilesubstrate, sshpass, openssh, applist, preferenceloader, curl
+Conflicts: com.yourepo.greg0109.forwardnotifier8
+Replaces: com.yourepo.greg0109.forwardnotifier8
+Architecture: iphoneos-arm
+Filename: ./debs/com.greg0109.forwardnotifier_1.4.3_iphoneos-arm.deb
+Size: 109446
+Installed-Size: 732
+MD5sum: b5151c1980f5ecff17773c4d0b973850
+SHA1: f1413b6664a71dfc19af1af2bd8291ae875128ff
+SHA256: 50cd283b59e1edee0ad6b8a31b6e6c4c20721fed4630648953b173d4591d4b46
+Description: Forward Notifications to your PC!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/forwardnotifier/icon@3x.png&size=60x60&timestamp=1656182586789
+Header: https://img.chariz.cloud/sileo-banner/forwardnotifier.jpg
+Name: ForwardNotifier
+Author: Greg0109 <greg.rabago@gmail.com>
+Depiction: https://chariz.com/get/forwardnotifier
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.greg0109.forwardnotifier/depiction.json
