@@ -6041,3 +6041,21 @@ Name: Quanta
 Author: HASHBANG Productions <support@hbang.ws>
 Depiction: https://chariz.com/get/quanta
 SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.quanta/depiction.json
+
+Package: com.tr1fecta.magmaapi
+Version: 1.0
+Section: Tweaks
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Depends: mobilesubstrate, com.noisyflake.magmaevo
+Architecture: iphoneos-arm
+Filename: ./debs/com.tr1fecta.magmaapi_1.0_iphoneos-arm.deb
+Size: 9364
+Installed-Size: 104
+MD5sum: cc429080c5ddc9c5a49711122061b038
+SHA1: 2685ba2cf27d79cc1d75f3ae1f4c9d37439ae66b
+SHA256: f942e12d0e3c0878f2c7bccac2b2f199e98fb27e763b3d665bfc3ae67644d602
+Description: An API for Magma (Evo) for developers
+Name: MagmaAPI
+Author: Tr1Fecta <tr1fecta@pm.me>
+Depiction: https://chariz.com/get/magmaapi
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tr1fecta.magmaapi/depiction.json
