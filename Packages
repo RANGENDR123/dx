@@ -6079,3 +6079,24 @@ Name: Wonderbar
 Author: Aryan Nambiar <awesomeajn@gmail.com>
 Depiction: https://repo.chariz.com/package/dev.aryanjnambiar.wonderbar/
 SileoDepiction: https://repo.chariz.com/api/sileo/package/dev.aryanjnambiar.wonderbar/depiction.json
+
+Package: me.daveapps.counted
+Version: 11.1
+Section: Tweaks
+Maintainer: Dave van Wijk <vanwijkdave@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/me.daveapps.counted_1.1_iphoneos-arm.deb
+Size: 46754
+Installed-Size: 268
+MD5sum: 0f7a6a2fbb0121def028ba93a2da6ee3
+SHA1: 64925de0bcbef03b5d6b519c79abf701f159065e
+SHA256: 9dcd61f0716ff5966a94a44e843ace2dfcc8fc03ea75d1282b69c7fb9b7d055f
+Description: Your days are Counted
+Support: https://github.com/vanwijkdave/Counted/issues
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/counted/icon@3x.png&size=60x60&timestamp=1656184703944
+Header: https://img.chariz.cloud/sileo-banner/counted.jpg
+Name: Counted
+Author: Dave van Wijk <vanwijkdave@gmail.com>
+Depiction: https://repo.chariz.com/package/me.daveapps.counted/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/me.daveapps.counted/depiction.json
