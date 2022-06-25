@@ -5919,3 +5919,24 @@ Name: Multipla Lite
 Author: Thomz and ren7995 <lau7995ren@gmail.com>
 Depiction: https://chariz.com/get/multipla-lite
 SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multiplalite/depiction.json
+
+Package: com.ryannair05.mitsuhaforever
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0)
+Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
+Architecture: iphoneos-arm
+Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.2_iphoneos-arm.deb
+Size: 92248
+Installed-Size: 912
+MD5sum: 2689d7ce0f41cda4a882cb10333da551
+SHA1: 35b3a1b99bc5952c3eebe9c2ad05b179ba80e3f7
+SHA256: c7de60c302de33a4c48ee06ed797a5be59f42c5dd081b50c2986ce76c7433c59
+Description: Universal audio visualizer for iOS
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/mitsuha-forever/icon@3x.png&size=60x60&timestamp=1656180783136
+Header: https://img.chariz.cloud/sileo-banner/mitsuha-forever.jpg
+Name: Mitsuha Forever
+Author: Ryan Nair, ConorTheDev, and Nepeta <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/buy/mitsuha-forever
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.mitsuhaforever/depiction.json
