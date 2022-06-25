@@ -5859,3 +5859,23 @@ Name: WeatherGround
 Author: Tr1Fecta <tr1fecta@pm.me>
 Depiction: https://chariz.com/get/weatherground
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tr1fecta.weatherground/depiction.json
+
+Package: com.burritoz.ash
+Version: 1.0.1
+Section: Tweaks
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.burritoz.ash_1.0.1_iphoneos-arm.deb
+Size: 47790
+Installed-Size: 448
+MD5sum: f5372b0c9979494760181341ad599bb5
+SHA1: ff6c58383d6ef5f9c21746d5e5896f1577100d30
+SHA256: b6be899215dbfc60da300b2202051efac5ead5f7d65362ebe7ac20b19bc95274
+Description: Easily tell which apps you have opened!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/ash/icon@3x.png&size=60x60&timestamp=1656176535060
+Header: https://img.chariz.cloud/sileo-banner/ash.jpg
+Name: Ash
+Author: ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/buy/ash
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.ash/depiction.json
