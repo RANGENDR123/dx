@@ -5822,3 +5822,20 @@ SHA1: c2209799ae41bf2768269eb0b6339eef43a5f3d6
 SHA256: 6ccf8846fd3df8eddf20a3a56fd7c91cb71b4e9987f9844074d73b46b891b102
 Description: Unarchiver for .rar files (non-free version) Unrar can extract files from .rar archives. If you want to create .rar archives, install package rar.
 Name: unrar
+
+Package: p7zip
+Priority: optional
+Tag: purpose::console, role::hacker
+Version: 17.04
+Section: Archiving
+Maintainer: Hayden Seay <me@diatr.us>
+Multi-Arch: foreign
+Architecture: iphoneos-arm
+Filename: ./debs/p7zip_17.04_iphoneos-arm.deb
+Size: 2077274
+Installed-Size: 9572
+MD5sum: 05fb143edf50b435e3621e1b289554b3
+SHA1: 6d61139162c4e5a8bfbf9b1058f4722c5c3aa062
+SHA256: d7d36f954cc41b1b7b434833ff07413089f95213fc143cee72a8293cc2efa87b
+Description: claims to be a good compressor
+Name: 7-zip (POSIX)
