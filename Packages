@@ -6059,3 +6059,23 @@ Name: MagmaAPI
 Author: Tr1Fecta <tr1fecta@pm.me>
 Depiction: https://chariz.com/get/magmaapi
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tr1fecta.magmaapi/depiction.json
+
+Package: dev.aryanjnambiar.wonderbar
+Version: 1.1
+Section: Tweaks
+Maintainer: Aryan Nambiar <awesomeajn@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 12), ws.hbang.alderis, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/dev.aryanjnambiar.wonderbar_1.1_iphoneos-arm.deb
+Size: 24958
+Installed-Size: 368
+MD5sum: fd5ace56a34c3c8659ff2fbebcff8fa8
+SHA1: 2713c9e3e81a18c6b8729b5d18402161783409f0
+SHA256: 0bf5cdab724751624279885211baf629f3b0fb27ff906ba24a1eb0f767bcfcea
+Description: Complete status bar customization at your fingertips!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/wonderbar/icon@3x.png&size=60x60&timestamp=1656184266207
+Header: https://img.chariz.cloud/sileo-banner/wonderbar.jpg
+Name: Wonderbar
+Author: Aryan Nambiar <awesomeajn@gmail.com>
+Depiction: https://repo.chariz.com/package/dev.aryanjnambiar.wonderbar/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/dev.aryanjnambiar.wonderbar/depiction.json
