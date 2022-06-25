@@ -6100,3 +6100,20 @@ Name: Counted
 Author: Dave van Wijk <vanwijkdave@gmail.com>
 Depiction: https://repo.chariz.com/package/me.daveapps.counted/
 SileoDepiction: https://repo.chariz.com/api/sileo/package/me.daveapps.counted/depiction.json
+
+Package: com.squ1dd13.inky
+Version: 1.0
+Section: System
+Maintainer: Squ1dd13 <squ1dd13dev@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.squ1dd13.inky_1.0_iphoneos-arm.deb
+Size: 666898
+Installed-Size: 3028
+MD5sum: 4c8ba3e2d38c420de6ef1845298f33df
+SHA1: c8098a8e60046570a66cb44faa005c925c6b837d
+SHA256: a8ed45cd7a660699d975eb8032a8da1a70e99357ef58e089a5ed9a90b17b3145
+Description: Inky is a colour picker library that can be used to provide colour options in tweak preference bundles.
+Name: Inky
+Author: Squ1dd13 <squ1dd13dev@gmail.com>
+Depiction: https://repo.chariz.com/package/com.squ1dd13.inky/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.squ1dd13.inky/depiction.json
