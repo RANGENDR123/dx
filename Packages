@@ -5879,3 +5879,21 @@ Name: Ash
 Author: ren7995 <lau7995ren@gmail.com>
 Depiction: https://chariz.com/buy/ash
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.ash/depiction.json
+
+Package: com.justnewdesigns.crayon
+Version: |.2
+Section: Themes
+Maintainer: justnewdesigns <justnewdesigns@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.justnewdesigns.crayon_1.2_iphoneos-arm.deb
+Size: 6754230
+MD5sum: 26c154b1cb0eca5b1e52e9ec3e03b6fe
+SHA1: 59d75f855542951e9bcb7478b8131fc5f350b389
+SHA256: a880104cef582b690c094c145459a7709804adae59413e2118ad848395e11eef
+Description: A theme with beautiful Linear icons filled with Pastel colors!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/62191b8893d1c5b25bbad90c&size=60x60&timestamp=1656178348866
+Name: Crayon
+Author: justnewdesigns <justnewdesigns@gmail.com>
+Depiction: https://havoc.app/depiction/crayon
+SileoDepiction: https://havoc.app/package/crayon/depiction.json
