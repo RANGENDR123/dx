@@ -6021,3 +6021,23 @@ Name: Cenamo
 Author: Thomz <thom.laffay@gmail.com>
 Depiction: https://chariz.com/get/cenamo
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.thomz.cenamo/depiction.json
+
+Package: ws.hbang.quanta
+Version: 1.0.1
+Section: Tweaks
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Architecture: iphoneos-arm
+Filename: ./debs/ws.hbang.quanta_1.0.1_iphoneos-arm.deb
+Size: 19034
+Installed-Size: 308
+MD5sum: f54d8fed53bc553b23283236ea0a112d
+SHA1: 1cbd2bbd9b8ef282c9c9f1ea754fbcacddc995e1
+SHA256: b7bbf9626e37806a11972865f35fb98d7683cc90b6dabda616048693993482c9
+Description: Better Smart Battery Case support
+Support: https://hashbang.productions/support/
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/quanta/icon@3x.png&size=60x60&timestamp=1656183533407
+Name: Quanta
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/quanta
+SileoDepiction: https://repo.chariz.com/api/sileo/package/ws.hbang.quanta/depiction.json
