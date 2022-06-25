@@ -5959,3 +5959,23 @@ Name: BTManager+
 Author: Beckett O'Brien <beckett@pobhouse.com>
 Depiction: https://chariz.com/get/btmanager
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.beckettobrien.btmanager+/depiction.json
+
+Package: com.apextweaks.veza
+Version: 1.2.0
+Section: Tweaks
+Maintainer: ApexTweaks <support@apextweaks.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.apextweaks.veza_1.2.0_iphoneos-arm.deb
+Size: 3211268
+Installed-Size: 5036
+MD5sum: c4a0f6a7e1d80e5c7e3c4e635c86f4cd
+SHA1: 0e7a945fa8e0c1a0b69e89155413277912616303
+SHA256: c9cea24b31cdb8c71a8f67e76d64bb67e0ecef3735856cfab55b1dcf715d1edc
+Description: Quick Controls right at your disposal!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/veza/icon@3x.png&size=60x60&timestamp=1656182160834
+Header: https://img.chariz.cloud/sileo-banner/veza.jpg
+Name: Veza
+Author: ApexTweaks <support@apextweaks.com>
+Depiction: https://chariz.com/get/veza
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.apextweaks.veza/depiction.json
