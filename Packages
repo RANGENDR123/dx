@@ -5839,3 +5839,23 @@ SHA1: 6d61139162c4e5a8bfbf9b1058f4722c5c3aa062
 SHA256: d7d36f954cc41b1b7b434833ff07413089f95213fc143cee72a8293cc2efa87b
 Description: claims to be a good compressor
 Name: 7-zip (POSIX)
+
+Package: com.tr1fecta.weatherground
+Version: 1.4
+Section: Tweaks
+Maintainer: Tr1Fecta <tr1fecta@pm.me>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tr1fecta.weatherground_1.4_iphoneos-arm.deb
+Size: 26684
+Installed-Size: 324
+MD5sum: 57d30c4f11de80df0987febfd5a94817
+SHA1: 6f38716f72655dfd601346c466418fb05c1851c9
+SHA256: 58d1c00beaa58bc3281a19adf03cf4f7b58fde36a4ba7530d5ac298638ef8cfd
+Description: Weather right at your fingertips!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/weatherground/icon@3x.png&size=60x60&timestamp=1656175877178
+Header: https://img.chariz.cloud/sileo-banner/weatherground.jpg
+Name: WeatherGround
+Author: Tr1Fecta <tr1fecta@pm.me>
+Depiction: https://chariz.com/get/weatherground
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.tr1fecta.weatherground/depiction.json
