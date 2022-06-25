@@ -6001,3 +6001,23 @@ Name: ForwardNotifier
 Author: Greg0109 <greg.rabago@gmail.com>
 Depiction: https://chariz.com/get/forwardnotifier
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.greg0109.forwardnotifier/depiction.json
+
+Package: com.thomz.cenamo
+Version: 1.1
+Section: Tweaks
+Maintainer: Thomz <thom.laffay@gmail.com>
+Depends: mobilesubstrate, preferenceloader, me.conorthedev.libappearancecell
+Architecture: iphoneos-arm
+Filename: ./debs/com.thomz.cenamo_1.1_iphoneos-arm.deb
+Size: 609218
+Installed-Size: 1232
+MD5sum: 79b032a7c17bd5bb3f3d2559432b83e3
+SHA1: 2e6ce20c04565ab514911da3cc518dd6d9fea64e
+SHA256: 7076a3413622811db55b57891223e86c32285cfe5182445206452a14fc05ec50
+Description: Know your battery by looking at your dock
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/cenamo/icon@3x.png&size=60x60&timestamp=1656183063039
+Header: https://img.chariz.cloud/sileo-banner/cenamo.jpg
+Name: Cenamo
+Author: Thomz <thom.laffay@gmail.com>
+Depiction: https://chariz.com/get/cenamo
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.thomz.cenamo/depiction.json
