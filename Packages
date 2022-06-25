@@ -5940,3 +5940,22 @@ Name: Mitsuha Forever
 Author: Ryan Nair, ConorTheDev, and Nepeta <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/buy/mitsuha-forever
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ryannair05.mitsuhaforever/depiction.json
+
+Package: com.beckettobrien.btmanager+
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Beckett O'Brien <beckett@pobhouse.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.beckettobrien.btmanager+_1.2.0_iphoneos-arm.deb
+Size: 41474
+Installed-Size: 376
+MD5sum: ce21f79f1dda9277768d1290aed89056
+SHA1: 042ef41ef72ba17dc8fd724ccf44ba8a7ffc81b5
+SHA256: d4290623ce21937a105f6035c4603bfd79cab1724489928c9b350d851428e840
+Description: A tweak to manage the way applications interface your bluetooth devices
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/btmanager/icon@3x.png&size=60x60&timestamp=1656181465721
+Name: BTManager+
+Author: Beckett O'Brien <beckett@pobhouse.com>
+Depiction: https://chariz.com/get/btmanager
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.beckettobrien.btmanager+/depiction.json
