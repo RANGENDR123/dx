@@ -5881,7 +5881,7 @@ Depiction: https://chariz.com/buy/ash
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.burritoz.ash/depiction.json
 
 Package: com.justnewdesigns.crayon
-Version: |.2
+Version: 1.2
 Section: Themes
 Maintainer: justnewdesigns <justnewdesigns@gmail.com>
 Depends: com.anemonetheming.anemone | com.spark.snowboard
@@ -5897,3 +5897,25 @@ Name: Crayon
 Author: justnewdesigns <justnewdesigns@gmail.com>
 Depiction: https://havoc.app/depiction/crayon
 SileoDepiction: https://havoc.app/package/crayon/depiction.json
+
+Package: xyz.burritoz.thomz.multiplalite
+Version: 2.0.0~lite-1
+Section: Tweaks
+Maintainer: Thomz and ren7995 <lau7995ren@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.peppa.Primo, com.eswick.harbor7, xyz.burritoz.thomz.multipla
+Replaces: xyz.burritoz.thomz.multipla
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.burritoz.thomz.multiplalite_2.0.0_lite-1_iphoneos-arm.deb
+Size: 497990
+Installed-Size: 1308
+MD5sum: c8046dc58376dbf3d20b0db12824cd30
+SHA1: 05022b88f9c633aa3f415113e3b1f0c1a3aebd7b
+SHA256: 967b8832f5e7508a13ecb50a72c04df084371d634a2da421b72901932478f22b
+Description: Power to your Dock
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/multipla-lite/icon@3x.png&size=60x60&timestamp=1656178067057
+Header: https://img.chariz.cloud/sileo-banner/multipla-lite.jpg
+Name: Multipla Lite
+Author: Thomz and ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/get/multipla-lite
+SileoDepiction: https://repo.chariz.com/api/sileo/package/xyz.burritoz.thomz.multiplalite/depiction.json
