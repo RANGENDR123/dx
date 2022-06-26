@@ -6287,3 +6287,21 @@ Name: Dark GMaps
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/darkgmaps
 SileoDepiction: https://havoc.app/package/darkgmaps/depiction.json
+
+Package: me.conorthedev.libappearancecell
+Version: 1.0.3
+Section: Development
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/me.conorthedev.libappearancecell_1.0.3_iphoneos-arm.deb
+Size: 15318
+Installed-Size: 204
+MD5sum: b93607aad9ae0cc41f9785fef827d784
+SHA1: 17f25ecfb19fbc83edda70f92f268e0c68e3c205
+SHA256: eea75346c6de162a47deb316f20984b72cb45459be429b8a2f9db92693fd2664
+Description: A library for that allows usage of an iOS 13-style appearance selector — If you're a developer, you can check out the documentation on GitHub (https://github.com/cbyrne/libappearancecell/ (https://github.com/cbyrne/libappearancecell/))
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.dynastic.co/data/static/version/327094967153459200/327094967363174400?size=180&size=60x60&timestamp=1656262643615
+Name: libappearancecell
+Author: ConorTheDev
+Depiction: https://repo.dynastic.co/depiction/324883012787372032/
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/324883012787372032/
