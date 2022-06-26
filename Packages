@@ -6305,3 +6305,20 @@ Name: libappearancecell
 Author: ConorTheDev
 Depiction: https://repo.dynastic.co/depiction/324883012787372032/
 SileoDepiction: https://repo.dynastic.co/sileo-depiction/324883012787372032/
+
+Package: com.julioverne.debrepack
+Version: 1.0-1a
+Section: Development
+Homepage: https://twitter.com/ijulioverne
+Maintainer: Julio
+Depends: dpkg
+Architecture: iphoneos-arm
+Filename: ./debs/com.julioverne.debrepack_1.0-1a_iphoneos-arm.deb
+Size: 1156
+MD5sum: 41b32bf563f667454301b2efe847c681
+SHA1: cba2897b43838d4318105a75d1bec3b3de0d16aa
+SHA256: bc28c32b8d5efa3f20018f39e48340df8fb5217e56815c422755eb2129420833
+Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
+Name: deb Repack
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.debrepack
