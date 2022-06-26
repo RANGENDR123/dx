@@ -6155,3 +6155,21 @@ Name: Musica
 Author: Eric Rabil <ericjrabil@gmail.com>
 Depiction: https://repo.chariz.com/package/com.ericrabil.musica/
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ericrabil.musica/depiction.json
+
+Package: com.laughingquoll.sunflower
+Version: 1.1
+Section: Tweaks
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.sunflower_1.1_iphoneos-arm.deb
+Size: 2998
+Installed-Size: 200
+MD5sum: dbc369fff41893b8b0524adb3f46c75f
+SHA1: b9065ed8149af6bfcbad63a7c46c640d0cb5e457
+SHA256: 68ea699de12d7e1f1714daea9b71a25b2b7dc5532179ed0f71c466dadd685ddf
+Description: Make 3D Touch great again!
+Name: Sunflower
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: https://repo.chariz.com/package/com.laughingquoll.sunflower/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.sunflower/depiction.json
