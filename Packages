@@ -6249,3 +6249,22 @@ Name: Viola White
 Author: bossgfx <bousrih20@gmail.com>
 Depiction: https://havoc.app/depiction/violawhite
 SileoDepiction: https://havoc.app/package/violawhite/depiction.json
+
+Package: com.foxfort.darksounds
+Version: 1.5.6
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.foxfort.foxforttools (>= 1.1.4), com.foxfort.libfoxfortsplash
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.darksounds_1.5.6.deb
+Size: 251716
+Installed-Size: 952
+MD5sum: 8d07638b16e617bc386bda740aa7a472
+SHA1: 8ea19cb61a145f723638371304684a183eddae2a
+SHA256: 486b79a1b360d1ddae4a6abd20111b09ff169cb1fcc5d8bd6ebc97076fe1d4f0
+Description: Dark mode for Apple Music
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61f8d78228560770cfb1fc11&size=60x60&timestamp=1656261080239
+Name: DarkSounds
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/darksounds
+SileoDepiction: https://havoc.app/package/darksounds/depiction.json
