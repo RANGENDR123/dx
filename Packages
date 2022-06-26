@@ -6357,3 +6357,22 @@ Name: Dimage
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/dimage
 SileoDepiction: https://havoc.app/package/dimage/depiction.json
+
+Package: com.foxfort.edisonite
+Version: 1.1.0
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, me.nepeta.libcolorpicker, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.edisonite_1.1.0.deb
+Size: 142616
+Installed-Size: 788
+MD5sum: 4a4dcb98225e0703ac0ff94f5d17f76f
+SHA1: 7e573847da5dc20e6372a7fd600c0dbbc55d172f
+SHA256: 638184a52dc3c17dbf2f7086e9bb3c228103770bcdafbc464354d09e77809e87
+Description: Dark mode for Edison mail app
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61f8d7f928560770cfb219f9&size=60x60&timestamp=1656273240896
+Name: EdisoNite
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/edisonite
+SileoDepiction: https://havoc.app/package/edisonite/depiction.json
