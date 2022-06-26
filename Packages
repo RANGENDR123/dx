@@ -6136,3 +6136,22 @@ Name: DarkAlertsPls
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://repo.chariz.com/package/com.laughingquoll.darkalertspls/
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.darkalertspls/depiction.json
+
+Package: com.ericrabil.musica
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ericrabil.musica_1.0.0_iphoneos-arm.deb
+Size: 8200
+Installed-Size: 264
+MD5sum: 5b9876fc9a3cc741e6731835f96d3f5b
+SHA1: fe8560a72da0df2ef2c2de6d8a033c6afad0147f
+SHA256: 22803fcf1de52dae4239d70c4fff8f8da31dd0272d4a3c734540a6d56cb15565
+Description: remap battery case button to media controls
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/musica/icon@3x.png&size=60x60&timestamp=1656216307812
+Name: Musica
+Author: Eric Rabil <ericjrabil@gmail.com>
+Depiction: https://repo.chariz.com/package/com.ericrabil.musica/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ericrabil.musica/depiction.json
