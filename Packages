@@ -6338,3 +6338,22 @@ Description: link library in executable that's already compiled. type on termina
 Name: liblinker
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.liblinker
+
+Package: com.foxfort.dimage
+Version: 1.2.3
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, applist, preferenceloader, com.foxfort.foxforttools(>= 1.2.13), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.dimage_1.2.3.deb
+Size: 259304
+Installed-Size: 1148
+MD5sum: e398eeb96e488c673ec138f0bf334ee2
+SHA1: 77b4f726359c47c3334e78d9063462556b1a7f5d
+SHA256: 789592d2ed5ff9ac8c68475d4bb6a3c5419940175026e840ff7b70f0dbfc0553
+Description: Smart image dimmer
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61f8d7cb28560770cfb218e1&size=60x60&timestamp=1656272549724
+Name: Dimage
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/dimage
+SileoDepiction: https://havoc.app/package/dimage/depiction.json
