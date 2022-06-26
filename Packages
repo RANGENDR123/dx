@@ -6192,3 +6192,20 @@ Name: Daisy
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://repo.chariz.com/package/com.laughingquoll.daisy/
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.daisy/depiction.json
+
+Package: com.bousrih.violaWhite
+Version: 1.8
+Section: Themes
+Maintainer: bossgfx <bousrih20@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.bousrih.violawhite_1.8.deb
+Size: 14469756
+MD5sum: 80c452a77a8c0230e5c5627ccd9d9a38
+SHA1: 7f615fd1869914aeb16590999db456c5cde5df7a
+SHA256: 5571c5c0352400e0afb0f7c1c5c081abd53ee8732b4fe847d3a151416861fa83
+Description: The simple, modern & beautiful White version of Viola!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61fc716757c005d8f9993ab2&size=60x60&timestamp=1656218611933
+Name: Viola White
+Author: bossgfx <bousrih20@gmail.com>
+Depiction: https://havoc.app/depiction/violawhite
+SileoDepiction: https://havoc.app/package/violawhite/depiction.json
