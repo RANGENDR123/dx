@@ -6173,3 +6173,22 @@ Name: Sunflower
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://repo.chariz.com/package/com.laughingquoll.sunflower/
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.sunflower/depiction.json
+
+Package: com.laughingquoll.daisy
+Version: 1.0
+Section: Tweaks
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.daisy_1.0_iphoneos-arm.deb
+Size: 28728
+Installed-Size: 300
+MD5sum: 85a6da554f928cfa210875544abd3cfa
+SHA1: 8b4c9f041233648c8cc939a3208d78812fd1aa5b
+SHA256: 1b1e69b09e82b2fa7fe856bcabcfe171a436512f9227cc84345ae4b1a938b079
+Description: A better audio interface experience.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/daisy/icon@3x.png&size=60x60&timestamp=1656217194094
+Name: Daisy
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: https://repo.chariz.com/package/com.laughingquoll.daisy/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.daisy/depiction.json
