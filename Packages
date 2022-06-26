@@ -6117,3 +6117,22 @@ Name: Inky
 Author: Squ1dd13 <squ1dd13dev@gmail.com>
 Depiction: https://repo.chariz.com/package/com.squ1dd13.inky/
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.squ1dd13.inky/depiction.json
+
+Package: com.laughingquoll.darkalertspls
+Version: 1.0
+Section: Tweaks
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.darkalertspls_1.0_iphoneos-arm.deb
+Size: 3520
+Installed-Size: 200
+MD5sum: c80e5d8df5e184bf5d72ba49fda9868e
+SHA1: 19bba1acc249f12f63e286f20c49a0f53cf78a07
+SHA256: 0b9e6e5e69cef6ce5ea419308b4ddb64ee259855b2a2972a5e1e5e4f1e76a172
+Description: Force alerts to respond to iOS 13 dark mode.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/darkalertspls/icon@3x.png&size=60x60&timestamp=1656215723108
+Name: DarkAlertsPls
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: https://repo.chariz.com/package/com.laughingquoll.darkalertspls/
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.darkalertspls/depiction.json
