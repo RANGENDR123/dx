@@ -6322,3 +6322,19 @@ Description: bash command to repack deb file Easy Repack deb files. type debextr
 Name: deb Repack
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.debrepack
+
+Package: com.julioverne.liblinker
+Version: 0.3
+Section: Development
+Homepage: https://twitter.com/ijulioverne
+Maintainer: Julio
+Architecture: iphoneos-arm
+Filename: ./debs/com.julioverne.liblinker_0.3_iphoneos-arm.deb
+Size: 34032
+MD5sum: b3854e8aadf991f97033e532e4e4f001
+SHA1: 9627bb80e048298aefd795bc0a20bf2230dfc59c
+SHA256: 86dba078a051588909026e11eebb00e6a0756fe4205d638e10eb2c3b033d8565
+Description: link library in executable that's already compiled. type on terminal:liblinker [EXECUTABLE_PATH] [LIBRARY]
+Name: liblinker
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.liblinker
