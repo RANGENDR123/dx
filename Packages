@@ -6268,3 +6268,22 @@ Name: DarkSounds
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/darksounds
 SileoDepiction: https://havoc.app/package/darksounds/depiction.json
+
+Package: com.foxfort.darkgmaps
+Version: 3.0.1
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.foxfort.libfoxfortsplash, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.darkgmaps_3.0.1.deb
+Size: 225790
+Installed-Size: 932
+MD5sum: 0b51c3074b5919e6128e534217e95154
+SHA1: 70f26d713720ea68215c3e5c874a2c33af624a67
+SHA256: 7eb1bddd336f1e5cf67895125fbda4b44943174b941e62d8dd2593eb6539bd7a
+Description: Dark mode for Google Maps
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61f8d7ac28560770cfb2170e&size=60x60&timestamp=1656261911699
+Name: Dark GMaps
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/darkgmaps
+SileoDepiction: https://havoc.app/package/darkgmaps/depiction.json
