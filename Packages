@@ -6519,3 +6519,22 @@ Name: Watermelon
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://chariz.com/buy/watermelon
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
+
+Package: com.laughingquoll.quart
+Version: 1.4.6.1
+Section: Tweaks
+Maintainer: timeloop <timeloopvisuals@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.quart_1.4.6.1.deb
+Size: 1079000
+Installed-Size: 1844
+MD5sum: 55f25ee358e67270ba22720d74377c44
+SHA1: ba057574cb467f8960334c8d405b7ce8b70b0ffc
+SHA256: e2745fa97fc81cecd11238008648bbb703194b128f3ba49f1ff9ca961c29624e
+Description: Notifications, redefined.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620c6473e96ba40e823f2c38&size=60x60&timestamp=1656371374975
+Name: Quart
+Author: timeloop <timeloopvisuals@gmail.com>
+Depiction: https://havoc.app/depiction/quart
+SileoDepiction: https://havoc.app/package/quart/depiction.json
