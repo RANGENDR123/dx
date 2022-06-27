@@ -6426,3 +6426,23 @@ SHA256: df8a9370ff64c8f31aa7af168dfddc584775b0a2f0e6b52465ab0b20d602a97e
 Description: Tweak reviews made easy. Easily read and create reviews about your tweaks with TweakReviewsDB. Works with Sileo, Zebra, Cydia and Installer 5.
 Name: TweakReviewsDB
 Author: pixelomer
+
+Package: com.kadir1009.kara13
+Version: 2.5
+Section: Themes
+Maintainer: kadir1009 <abdulkadirkeles@me.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.kadir1009.kara13_2.5_iphoneos-arm.deb
+Size: 13744828
+Installed-Size: 21656
+MD5sum: 88250fa90dee3749413b70d3d3ad75db
+SHA1: ec15d3ee7b25ef51532eb9c8d85c1a3b5bd439c9
+SHA256: 5789fadbe642b7912a8f9199e423bf9250428bcf668049b825b9d38cc473191b
+Description: Dark theme for dark lovers.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/kara13/icon@3x.png&size=60x60&timestamp=1656351326579
+Header: https://img.chariz.cloud/sileo-banner/kara13.jpg
+Name: Kara 13 & 15
+Author: kadir1009 <abdulkadirkeles@me.com>
+Depiction: https://chariz.com/buy/kara13
+SileoDepiction: https://chariz.com/api/sileo/package/com.kadir1009.kara13/depiction.json
