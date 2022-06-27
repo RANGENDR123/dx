@@ -6409,3 +6409,20 @@ SHA1: 82ab2110519d5b9565b52a78a984c795a2ce3db7
 SHA256: 054bf09b50c5c8e072b9fbf1779364337d81abf7759eba6af1812d3877f8842f
 Description: 4x4 tile mathematics puzzle game The 2048 game is a mathematics based puzzle game where you have to slide tiles in a 4x4 board in any of the four possible directions. Touching tiles with the same value are then merged into tiles with the added value of the merged ones. You start with a couple of 2-valued tiles and new tiles appear randomly after sliding. The target of the game is to reach a tile with a value of 2048 before the board is full.
 Name: 2048
+
+Package: com.pixelomer.tweakreviews-db
+Version: 1.1.10
+Section: Tweaks
+Maintainer: pixelomer
+Depends: mobilesubstrate, firmware (>=9.0)
+Conflicts: com.samgisaninja.tweakcompatible-zebra, bz.jed.tweakcompatible
+Architecture: iphoneos-arm
+Filename: ./debs/com.pixelomer.tweakreviews-db_1.1.10_iphoneos-arm.deb
+Size: 141086
+Installed-Size: 640
+MD5sum: d1b41529b34fc7e0df36c21e37bb9e31
+SHA1: 923667ec27a47e81e9fd61318224fe665d7005e6
+SHA256: df8a9370ff64c8f31aa7af168dfddc584775b0a2f0e6b52465ab0b20d602a97e
+Description: Tweak reviews made easy. Easily read and create reviews about your tweaks with TweakReviewsDB. Works with Sileo, Zebra, Cydia and Installer 5.
+Name: TweakReviewsDB
+Author: pixelomer
