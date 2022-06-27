@@ -6446,3 +6446,20 @@ Name: Kara 13 & 15
 Author: kadir1009 <abdulkadirkeles@me.com>
 Depiction: https://chariz.com/buy/kara13
 SileoDepiction: https://chariz.com/api/sileo/package/com.kadir1009.kara13/depiction.json
+
+Package: com.ibagraphics.Elusive
+Version: 1.2
+Section: Themes
+Maintainer: Iba_Graphics <layouniibrahim@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.ibagraphics.elusive_1.2.deb
+Size: 14484312
+MD5sum: 5fbe559a42fddea6771a5648e1dd6c4e
+SHA1: d87bfbc4027345271fbfa83a5cfa666e7699786e
+SHA256: c0cbb88e948016a5454b6244f53b1427f07b74dcf09329ba7272fe4d98c700c3
+Description: A marvelous & vibrant IOS theme!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/61fec3db7aea288023c79be1&size=60x60&timestamp=1656355795320
+Name: Elusive
+Author: Iba_Graphics <layouniibrahim@gmail.com>
+Depiction: https://havoc.app/depiction/elusive
+SileoDepiction: https://havoc.app/package/elusive/depiction.json
