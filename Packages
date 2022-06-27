@@ -6463,3 +6463,21 @@ Name: Elusive
 Author: Iba_Graphics <layouniibrahim@gmail.com>
 Depiction: https://havoc.app/depiction/elusive
 SileoDepiction: https://havoc.app/package/elusive/depiction.json
+
+Package: co.shoyu.miso
+Version: 1.0
+Section: Themes
+Homepage: ramenrepo.github.io
+Maintainer: ty_ios
+Architecture: iphoneos-arm
+Filename: ./debs/co.shoyu.miso_1.0.deb
+Size: 2047992
+MD5sum: 46a6ee1895a9f167acec5b334a26d303
+SHA1: dbccd6895f930f424127cadaa1804e2df4a7f001
+SHA256: 3cf29fb7f07f8e085cd9103518f569b139e0601a4877eccc58d449bd62e34bbe
+Description: Cartoon glyphs!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/6222d5061cee0e538b47d1c5&size=60x60&timestamp=1656352797980
+Name: Miso
+Author: ty_ios
+Depiction: https://havoc.app/depiction/miso
+SileoDepiction: https://havoc.app/package/miso/depiction.json
