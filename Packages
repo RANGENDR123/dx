@@ -4732,6 +4732,23 @@ Depiction: https://havoc.app/depiction/emerald
 SileoDepiction: https://havoc.app/package/emerald/depiction.json
 
 Package: lol.itsnebula.modernos
+Version: 1.2
+Section: Themes
+Maintainer: nebula <me@itsnebula.net>
+Architecture: iphoneos-arm
+Filename: ./debs/modernOS.deb
+Size: 2696806
+MD5sum: 3a5f1da04a32ee073155aa65e93b5d2e
+SHA1: 9175a7b517bef95e0e28b032b7adf8f2718eb309
+SHA256: 99a6e36c26104e76fdd428424971e0c99d8318d6d46438d30bdbc52c23e929a6
+Description: Colorful, happy, modern.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://havoc.app/media/620bf40b37dac70285c835cc
+Name: modernOS
+Author: nebula <me@itsnebula.net>
+Depiction: https://havoc.app/depiction/modern
+SileoDepiction: https://havoc.app/package/modern/depiction.json
+
+Package: lol.itsnebula.modernos
 Version: 1.1
 Section: Themes
 Maintainer: nebula <me@itsnebula.net>
