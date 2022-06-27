@@ -6499,3 +6499,23 @@ Name: ZEZE
 Author: 23Aaron <support@23aaron.com>
 Depiction: https://havoc.app/depiction/zeze
 SileoDepiction: https://havoc.app/package/zeze/depiction.json
+
+Package: com.laughingquoll.watermelon
+Version: 1.4.2
+Section: Tweaks
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>= 12.0), mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.watermelon_1.4.2_iphoneos-arm.deb
+Size: 457034
+Installed-Size: 1224
+MD5sum: c9eb6bff21c7e5bc925dfdb1d5feb880
+SHA1: b7b168ce5e0e4415863be7b5f1c808f453b87dea
+SHA256: c24b9bacf70643cf059b8e6081122bc67db5cbcfb4e4682aa47a8536ea8199d3
+Description: WatchOS style lockscreen widgets.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/watermelon/icon@3x.png&size=60x60&timestamp=1656361182990
+Header: https://img.chariz.cloud/sileo-banner/watermelon.jpg
+Name: Watermelon
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: https://chariz.com/buy/watermelon
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.watermelon/depiction.json
