@@ -6481,3 +6481,21 @@ Name: Miso
 Author: ty_ios
 Depiction: https://havoc.app/depiction/miso
 SileoDepiction: https://havoc.app/package/miso/depiction.json
+
+Package: com.23aaron.zeze
+Version: 1.9.1
+Section: Themes
+Maintainer: 23Aaron <support@23aaron.com>
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.23aaron.zeze_1.9.1_iphoneos-arm.deb
+Size: 24955782
+MD5sum: 2757b67499194f23991ec9ec517d7594
+SHA1: 5e4dd91b3375bc94f73f8a5cceba50fc11434a76
+SHA256: 0bb844035c7a91f50b70f01eb062661c3639ed5c69e55b1d7fdb38bafd04e7ad
+Description: A tropical vibe theme with beautiful icons!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/6215b5e34aea3a0f537817eb&size=60x60&timestamp=1656356767660
+Name: ZEZE
+Author: 23Aaron <support@23aaron.com>
+Depiction: https://havoc.app/depiction/zeze
+SileoDepiction: https://havoc.app/package/zeze/depiction.json
