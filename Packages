@@ -6629,3 +6629,20 @@ Name: N95ThemePack
 Author: ETHN <ethanwhited2208@gmail.com>
 Depiction: https://havoc.app/depiction/n95themepack
 SileoDepiction: https://havoc.app/package/n95themepack/depiction.json
+
+Package: com.nahtedetihw.n95themepackv2
+Version: 1.0
+Section: Themes
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.nahtedetihw.n95themepackv2.deb
+Size: 5499336
+MD5sum: 9fe34e0163828c198dca34619e6b9f16
+SHA1: 3603eef68d926a07c8df6af76157b1034cb3e605
+SHA256: 3611ee90aa4bab43d6ec977b2d11d9401e609874f035d467a768d62c0ea66ada
+Description: Official ThemePack for N95 V2
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620dd23b686805d0d16b6762&size=60x60&timestamp=1656435137965
+Name: N95ThemePackV2
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://havoc.app/depiction/n95themepackv2
+SileoDepiction: https://havoc.app/package/n95themepackv2/depiction.json
