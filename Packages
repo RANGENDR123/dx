@@ -6646,3 +6646,25 @@ Name: N95ThemePackV2
 Author: ETHN <ethanwhited2208@gmail.com>
 Depiction: https://havoc.app/depiction/n95themepackv2
 SileoDepiction: https://havoc.app/package/n95themepackv2/depiction.json
+
+Package: com.springtomize.st4.new
+Version: 4.1.0
+Section: Tweaks
+Maintainer: sharedroutine <sharedroutine@icloud.com>
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.springtomize.st4
+Replaces: com.springtomize.st4
+Provides: com.springtomize.st4.new
+Architecture: iphoneos-arm
+Filename: ./debs/com.springtomize.st4.new_v4.1.0_iphoneos-arm.deb
+Size: 550436
+Installed-Size: 3352
+MD5sum: 8af2764fe7b9588cf1d184a633a8bc23
+SHA1: 7dfe679e62a651eb4fb5306de783180b603255d3
+SHA256: b8d7998fb869745ff1ccacaf55b936efe63c9b4619c7c5b1d40ece2491fef9ab
+Description: Customize your device like never before.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620bf630d7e208af001ff64b&size=60x60&timestamp=1656439470583
+Name: Springtomize 4
+Author: sharedroutine <sharedroutine@icloud.com>
+Depiction: https://havoc.app/depiction/springtomize4
+SileoDepiction: https://havoc.app/package/springtomize4/depiction.json
