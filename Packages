@@ -6668,3 +6668,22 @@ Name: Springtomize 4
 Author: sharedroutine <sharedroutine@icloud.com>
 Depiction: https://havoc.app/depiction/springtomize4
 SileoDepiction: https://havoc.app/package/springtomize4/depiction.json
+
+Package: com.springtomize.st5
+Version: 5.2.6
+Section: Tweaks
+Maintainer: sharedroutine <sharedroutine@icloud.com>
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: ./debs/com.springtomize.st5_v5.2.6_iphoneos-arm.deb
+Size: 461608
+Installed-Size: 2488
+MD5sum: c1b4dc05db7a12667bd90bb6064fcda1
+SHA1: e1616ba4df778008baad2523a56b143bd1cfa0f5
+SHA256: 0d0680d84b315892bb601fee3b1adbe8cb76716a04f4b839554d6e7a774e0843
+Description: Customize your device like never before.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620bf665d7e208af00207078&size=60x60&timestamp=1656440428278
+Name: Springtomize 5
+Author: sharedroutine <sharedroutine@icloud.com>
+Depiction: https://havoc.app/depiction/springtomize5
+SileoDepiction: https://havoc.app/package/springtomize5/depiction.json
