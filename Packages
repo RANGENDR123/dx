@@ -6573,3 +6573,21 @@ Name: Morandi
 Author: rowandesign <rowandesign666@gmail.com>
 Depiction: https://havoc.app/depiction/666
 SileoDepiction: https://havoc.app/package/666/depiction.json
+
+Package: com.bank5ia.iosx
+Version: 0.6.1
+Section: Themes
+Maintainer: Bank5ia <designbank5ia@gmail.com>
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.bank5ia.iosx_0.6.1.deb
+Size: 8223792
+MD5sum: 8f52c0786b21d5b378be4c6acc62ddaa
+SHA1: a298ff5540ed49a93935391724788742c8299424
+SHA256: 5d40d9d72a7fb948dc53c7d2c126cad04ec2d92555a349df653c4812db081d0b
+Description: iOS with a hint of MacOS
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/629372b8284c9345b94ce507&size=60x60&timestamp=1656387235813
+Name: iOSX
+Author: Bank5ia <designbank5ia@gmail.com>
+Depiction: https://havoc.app/depiction/iosx
+SileoDepiction: https://havoc.app/package/iosx/depiction.json
