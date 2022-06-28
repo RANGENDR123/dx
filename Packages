@@ -6612,3 +6612,20 @@ Name: Noctis Neo
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://chariz.com/buy/noctis-neo
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
+
+Package: com.nahtedetihw.n95themepack
+Version: 1.4
+Section: Themes
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.nahtedetihw.n95themepack.deb
+Size: 16014980
+MD5sum: ef1c9ce7bfda5948ce7a9b1b9c4a2d98
+SHA1: ebcea644fb4ee68a5aaae0b3105b6aa4fd621a3b
+SHA256: f10b2327e3ab063a9c7636eca3ab72fa549b3febdc48eb91ce65c335f482836d
+Description: Official ThemePack for N95
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620dd230686805d0d16b6718&size=60x60&timestamp=1656434488329
+Name: N95ThemePack
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://havoc.app/depiction/n95themepack
+SileoDepiction: https://havoc.app/package/n95themepack/depiction.json
