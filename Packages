@@ -6591,3 +6591,24 @@ Name: iOSX
 Author: Bank5ia <designbank5ia@gmail.com>
 Depiction: https://havoc.app/depiction/iosx
 SileoDepiction: https://havoc.app/package/iosx/depiction.json
+
+Package: com.laughingquoll.noctis13
+Version: 1.2.9
+Section: Tweaks
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Filename: ./debs/com.laughingquoll.noctis13_1.2.9_iphoneos-arm.deb
+Size: 72844
+Installed-Size: 652
+MD5sum: 34ac8f76780ea99e80c9d6b4d13bb3c1
+SHA1: 963968af77beedf5d97b81def208dbb41380a601
+SHA256: 7b12af13bc6907ac13dc44dedb7e1cf7f5a88aab540aa697345e62ed930bf3eb
+Description: Dark mode, your way.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/noctis-neo/icon@3x.png&size=60x60&timestamp=1656388321086
+Header: https://img.chariz.cloud/sileo-banner/noctis-neo.jpg
+Name: Noctis Neo
+Author: LaughingQuoll <me@laughingquoll.net>
+Depiction: https://chariz.com/buy/noctis-neo
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.laughingquoll.noctis13/depiction.json
