@@ -6555,3 +6555,21 @@ Name: Quart
 Author: timeloop <timeloopvisuals@gmail.com>
 Depiction: https://havoc.app/depiction/quart
 SileoDepiction: https://havoc.app/package/quart/depiction.json
+
+Package: com.rowandesign.morandi
+Version: 1.0.0
+Section: Themes
+Maintainer: rowandesign <rowandesign666@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Filename: ./debs/Morandi1.0.0.deb
+Size: 6208168
+MD5sum: 6ab99593ce3f6b7c1db51e0e1237c9e3
+SHA1: fbe36ae98ad7373e6229104618e144aa4d0ce45b
+SHA256: 6751bf116cb6edcb156929ef1783ad5eeebcd30fad39e7773f5508e6ac0af595
+Description: Morandi - Pay tribute to my favorite painter
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620d7ac62420463e15a4b4b5&size=60x60&timestamp=1656386649629
+Name: Morandi
+Author: rowandesign <rowandesign666@gmail.com>
+Depiction: https://havoc.app/depiction/666
+SileoDepiction: https://havoc.app/package/666/depiction.json
