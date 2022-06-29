@@ -5027,6 +5027,27 @@ Depiction: https://repo.packix.com/package/com.ianas.acevivid/
 SileoDepiction: https://repo.packix.com/api/sileo/package/com.ianas.acevivid/depiction
 
 Package: com.ps.youpip
+Version: 1.7.7
+Section: Tweaks
+Maintainer: PoomSmart
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Architecture: iphoneos-arm
+Filename: ./debs/com.ps.youpip_1.7.7_iphoneos-arm.deb
+Size: 23732
+Installed-Size: 236
+MD5sum: 50eaddce312fb5f0c5508ac1e436c911
+SHA1: c73b9a6c8bd63cfcedd80395e5be9006904ef3d7
+SHA256: f969cc99d2cac7152da8105ef2f2851c6ca056847fa1e40e35cb3cd13f12e3ca
+Description: Enable native PiP in YouTube app.
+Name: YouPiP
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
+
+Package: com.ps.youpip
 Version: 1.7.6
 Section: Tweaks
 Maintainer: PoomSmart
