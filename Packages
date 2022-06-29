@@ -6768,3 +6768,18 @@ Description: XZ-format compression utilities
   * improved support for multithreading (not used in xz-utils);
   * support for flushing the encoder.
 Name: XZ Utils
+
+Package: com.cokepokes.libtweakemail
+Priority: optional
+Version: 0.1-1
+Section: Development
+Maintainer: CokePokes
+Architecture: iphoneos-arm
+Filename: ./debs/com.cokepokes.libtweakemail_0.1-1_iphoneos-arm.deb
+Size: 153126
+MD5sum: d9d8b62566c64cbe55fadd162258e3d5
+SHA1: 9fc62640bcae019f53a57bc3b0268c08b9a542eb
+SHA256: 1fb9c1fb2ebc0ee0c736aec653396c63fba7d78ea866230064258e604886463e
+Description: Send emails via code
+Name: libtweakemail
+Author: CokePokes
