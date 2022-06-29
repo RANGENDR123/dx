@@ -6709,3 +6709,24 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/ic
 Name: QQ主题管家
 Author: Vencent <2500830339@qq.com>
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qqztgjDp
+
+Package: rar
+Priority: optional
+Version: 6.1
+Section: Archiving
+Homepage: https://www.rarlabs.com/
+Maintainer: Procursus Team <support@procurs.us>
+Suggests: unrar
+Architecture: iphoneos-arm
+Filename: ./debs/rar_6.1_iphoneos-arm.deb
+Size: 316844
+Installed-Size: 848
+MD5sum: da38ad041ad856251bd90d90d03c0380
+SHA1: 7e99bfb1a5c5511baaa80b325fe35b98d597c9f6
+SHA256: e95e55a49c8baca5801425fa9a4ba81c912bd9f07dcb1ceb8989382e2c569ed2
+Description: Archiver for .rar files (non-free)
+ This is the RAR archiver from Eugene Roshal. It supports multiple volume archives and damage protection. It can also create 
+ SFX-archives. There are versions which run on DOS, Windows (3.1x,95,NT), FreeBSD, BSDI.
+ .
+ This program is shareware and you must register it after 40 days of use.
+Name: rar
