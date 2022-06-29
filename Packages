@@ -6804,3 +6804,21 @@ SHA256: 1fb9c1fb2ebc0ee0c736aec653396c63fba7d78ea866230064258e604886463e
 Description: Send emails via code
 Name: libtweakemail
 Author: CokePokes
+
+Package: com.foxfort.noautostraighten
+Version: 1.0.0
+Section: Tweaks
+Maintainer: foxfortmobile <foxfortmobile@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.foxfort.noautostraighten_1.0.0.deb
+Size: 2758
+Installed-Size: 136
+MD5sum: d9f51533610705025724f5e2177427f7
+SHA1: 323f401ebe5388add4f721a059281b5b5c98a49d
+SHA256: 45387e1598ed473f66660baccb26efeff78cea516a6cfb98c3f64506092a4671
+Description: Disable auto straighten image when cropping photos
+Name: NoAutoStraighten
+Author: foxfortmobile <foxfortmobile@gmail.com>
+Depiction: https://havoc.app/depiction/noautostraighte
+SileoDepiction: https://havoc.app/package/noautostraighte/depiction.json
