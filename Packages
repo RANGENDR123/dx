@@ -6687,3 +6687,25 @@ Name: Springtomize 5
 Author: sharedroutine <sharedroutine@icloud.com>
 Depiction: https://havoc.app/depiction/springtomize5
 SileoDepiction: https://havoc.app/package/springtomize5/depiction.json
+
+Package: com.lizenan.qqztgj
+Version: 1.1-6
+Tag: purpose::uikit, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Section: Messaging
+Homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qqztgjDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
+dev: lizenan
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Sponsor: thebigboss.org <http://thebigboss.org>
+Filename: ./debs/qqztgj_1.1-6.deb
+Size: 1533870
+Installed-Size: 3811
+MD5sum: b2f4184e2689fb1b600a47c755e3bfd3
+SHA1: 50a1481af3398bf07307df32e18104afd75cb486
+SHA256: 80e4c9298a3d41f546996e8a2d6a75f40880f4b2e26b24633a99a24e5eadcb99
+Description: QQ主题管家是一款一键更新手机QQ主题的工具，抛去繁琐的手动覆盖.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.saurik.com/icon/com.lizenan.qqztgj.png&size=60x60&timestamp=1656461235866
+Name: QQ主题管家
+Author: Vencent <2500830339@qq.com>
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qqztgjDp
