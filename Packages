@@ -6730,3 +6730,41 @@ Description: Archiver for .rar files (non-free)
  .
  This program is shareware and you must register it after 40 days of use.
 Name: rar
+
+Package: xz-utils
+Priority: standard
+Version: 5.2.5-3
+Section: Archiving
+Homepage: https://tukaani.org/xz/
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: liblzma5 (>= 5.2.5-3), libintl8
+Conflicts: xz (<<1:0), lzma (<<3:0)
+Replaces: xz, lzma
+Provides: xz (=1:0), lzma (=3:0)
+Architecture: iphoneos-arm
+Filename: ./debs/xz-utils_5.2.5-3_iphoneos-arm.deb
+Size: 61454
+Installed-Size: 244
+MD5sum: 34654b0eb51352a93f1816e0f86bd6c6
+SHA1: b541db4bcb0149cbc8eb653178d0aa3096b47caf
+SHA256: 47c8186a70aeb5fdc25dd0c79397a781c65ea086aed79a95915871a7b194719b
+Description: XZ-format compression utilities
+ XZ is the successor to the Lempel-Ziv/Markov-chain Algorithm
+ compression format, which provides memory-hungry but powerful
+ compression (often better than bzip2) and fast, easy decompression.
+ .
+ This package provides the command line tools for working with XZ
+ compression, including xz, unxz, xzcat, xzgrep, and so on. They can
+ also handle the older LZMA format, and if invoked via appropriate
+ symlinks will emulate the behavior of the commands in the lzma
+ package.
+ .
+ The XZ format is similar to the older LZMA format but includes some
+ improvements for general use:
+ .
+  * 'file' magic for detecting XZ files;
+  * crc64 data integrity check;
+  * limited random-access reading support;
+  * improved support for multithreading (not used in xz-utils);
+  * support for flushing the encoder.
+Name: XZ Utils
