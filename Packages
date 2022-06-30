@@ -2068,6 +2068,26 @@ Depiction: https://chariz.com/get/goji
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.gabehern.goji/depiction.json
 
 Package: me.alfhaily.cercube
+Version: 5.3.10
+Section: Tweaks
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Filename: ./debs/me.alfhaily.cercube_5.3.10_iphoneos-arm.deb
+Size: 3330308
+Installed-Size: 14300
+MD5sum: 7532af91b1857879ad65e74d5e07a7ef
+SHA1: fb78dfaeb5186e39355c7f7f17874e598e103c2e
+SHA256: da2860b5d6d5dc5f1ca81af0cffdd9c95075dd45e3cd7135327a68c3fb907350
+Description: Download YouTube videos and more! 
+Icon: https://api.ios-repo-updates.com/image.php?url=https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Name: Cercube for YouTube
+Author: Majd Alfhaily 
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+
+Package: me.alfhaily.cercube
 Version: 5.3.9
 Section: Tweaks
 Maintainer: Majd Alfhaily <freemanrepo@me.com>
