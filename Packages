@@ -6862,3 +6862,26 @@ Name: CamControls X
 Author: foxfortmobile <foxfortmobile@gmail.com>
 Depiction: https://havoc.app/depiction/camcontrolsx
 SileoDepiction: https://havoc.app/package/camcontrolsx/depiction.json
+
+Package: com.mtac.icarus
+Version: 1.0.3
+Tag: role::enduser
+Section: Tweaks
+Homepage: https://mtac.app/repo
+Maintainer: MTAC <mtac@mtac.app>
+Depends: firmware (>=14.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Filename: ./debs/com.mtac.icarus.deb
+Size: 2365044
+MD5sum: 55ae037e2547954e067cbedea65d16e0
+SHA1: e4b2579b2dd7dbde546da6e77031c35d7c05f6f5
+SHA256: 43beeca137326788c6edccebbdc1edef2a2be524faa10eb69073a451b15eb37f
+Description: An incredible new way to switch apps
+Icon: https://api.ios-repo-updates.com/image.php?url=https://mtac.app/repo/assets/com.mtac.icarus/icon.png&size=60x60&timestamp=1656620112627
+Name: Icarus
+Author: MTAC <mtac@mtac.app>
+Tags: compatible_min::ios14.0, compatible_max::ios14.8
+Depiction: https://mtac.app/repo/depiction/web/com.mtac.icarus.html
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.icarus.json
+ModernDepiction: https://mtac.app/repo/depiction/native/com.mtac.icarus.json
