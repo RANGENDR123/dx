@@ -6908,3 +6908,21 @@ Tags: compatible_min::ios13.0, compatible_max::ios14.6
 Depiction: https://mtac.app/repo/depiction/web/com.mtac.aperture.html
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.aperture.json
 ModernDepiction: https://mtac.app/repo/depiction/native/com.mtac.aperture.json
+
+Package: me.oatmealdome.csdbgd
+Version: 2.1.0-248
+Section: Utilities
+Homepage: https://oatmealdome.me/
+Maintainer: OatmealDome <julian@oatmealdome.me>
+Conflicts: me.oatmealdome.dolphinios (<= 2.0.2-3), me.oatmealdome.dolphinios-patreon-beta (<= 2.1.0-230)
+Architecture: iphoneos-arm
+Sponsor: OatmealDome's Patrons <https://patreon.com/oatmealdome>
+Filename: ./debs/me.oatmealdome.csdbgd-2.1.0-248_iphoneos-arm.deb
+Size: 4464
+MD5sum: 3306e05bac8a1c93c90ac0b862cb688f
+SHA1: ce35a06baebd0a416806adf65fe15253f08c3cba
+SHA256: f107376805dfc52c5a90f1f412ffe6dd72d645e206d95a3064199853c624d864
+Description: Sets processes as debugged on request.
+Name: csdbgd
+Author: OatmealDome <julian@oatmealdome.me>
+Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.csdbgd
