@@ -6979,3 +6979,21 @@ SHA1: 3c64bea64e9585d1909c11e9a1923f51f9f68fba
 SHA256: f0e4e0b3157f9f080d48b8014ef60f2c0c7760d2b2d1a62424240f7be8f71713
 Description: (Relatively) permanent install of Taurine.
 Name: taurine-permanent
+
+Package: com.synnyg.backupaz4-activator
+Version: 1.0.0
+Section: Applications
+Maintainer: synnygdevjb <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, libactivator, com.synnyg.backupaz4
+Architecture: iphoneos-arm
+Filename: ./debs/BackupAZ4-Activator_1.0.deb
+Size: 85756
+MD5sum: 5fe16487254d4ef01baef0b9ffeda4b8
+SHA1: 4c6c2182a4e2765d067435d3746d042a6c67a10e
+SHA256: f6e24a1501bd908f3ee0d7648509023486a72ad846ff3035217665e06a1a466d
+Description: An Activator extension for BackupAZ4!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620cadc4375e996644469d4b&size=60x60&timestamp=1656794195555
+Name: BackupAZ 4 - Activator
+Author: synnygdevjb <synnyg.devjb@gmail.com>
+Depiction: https://havoc.app/depiction/baz4activator
+SileoDepiction: https://havoc.app/package/baz4activator/depiction.json
