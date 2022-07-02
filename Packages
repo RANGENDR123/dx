@@ -6945,3 +6945,22 @@ Description: A GameCube and Wii emulator for iOS
 Name: DolphiniOS
 Author: OatmealDome <julian@oatmealdome.me>
 Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.dolphinios
+
+Package: me.oatmealdome.dolphinios-patreon-beta
+Version: 3.2.0-211
+Section: Games
+Homepage: https://oatmealdome.me/
+Maintainer: OatmealDome <julian@oatmealdome.me>
+Depends: me.oatmealdome.csdbgd, mobilesubstrate
+Conflicts: me.oatmealdome.dolphinios (<= 2.0.2-3)
+Architecture: iphoneos-arm
+Sponsor: OatmealDome's Patrons <https://patreon.com/oatmealdome>
+Filename: ./debs/3.2.0-211-Beta.deb
+Size: 52165860
+MD5sum: 54a7d67746eb3958647f12cfcf04b43a
+SHA1: 9ed7c633acf144d3fdf5b2cabc69bae8b790945c
+SHA256: 779b2fbeacd3c000e665218cae9b76d7ae8cab798de6eb825a7de898c2b3418a
+Description: A GameCube and Wii emulator for iOS
+Name: DolphiniOS (Beta)
+Author: OatmealDome <julian@oatmealdome.me>
+Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.dolphinios
