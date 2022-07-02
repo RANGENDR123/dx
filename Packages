@@ -6964,3 +6964,18 @@ Description: A GameCube and Wii emulator for iOS
 Name: DolphiniOS (Beta)
 Author: OatmealDome <julian@oatmealdome.me>
 Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.dolphinios
+
+Package: taurine-permanent
+Priority: standard
+Version: 1.1.3
+Section: Applications
+Homepage: https://taurine.app/
+Maintainer: Odyssey Team
+Architecture: iphoneos-arm
+Filename: ./debs/taurine-permanent_1.1.3_iphoneos-arm.deb
+Size: 31016208
+MD5sum: 109b23ad1dca14226fcf5b3b5cf79f2a
+SHA1: 3c64bea64e9585d1909c11e9a1923f51f9f68fba
+SHA256: f0e4e0b3157f9f080d48b8014ef60f2c0c7760d2b2d1a62424240f7be8f71713
+Description: (Relatively) permanent install of Taurine.
+Name: taurine-permanent
