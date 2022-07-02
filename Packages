@@ -6926,3 +6926,22 @@ Description: Sets processes as debugged on request.
 Name: csdbgd
 Author: OatmealDome <julian@oatmealdome.me>
 Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.csdbgd
+
+Package: me.oatmealdome.dolphinios
+Version: 3.2.0-211
+Section: Games
+Homepage: https://oatmealdome.me/
+Maintainer: OatmealDome <julian@oatmealdome.me>
+Depends: me.oatmealdome.csdbgd, mobilesubstrate
+Conflicts: me.oatmealdome.dolphinios-patreon-beta (<= 2.1.0-230)
+Architecture: iphoneos-arm
+Sponsor: OatmealDome's Patrons <https://patreon.com/oatmealdome>
+Filename: ./debs/3.2.0-211.deb
+Size: 52144220
+MD5sum: 534eb5c4aed777b1589254f4c19571a8
+SHA1: be3069140f16fc4c7a44ebcaca33b6af1079a482
+SHA256: 0b13fad92ffc140ad9766463504dc1e00fed9ca5edb69dcdd7e91f046e2a3949
+Description: A GameCube and Wii emulator for iOS
+Name: DolphiniOS
+Author: OatmealDome <julian@oatmealdome.me>
+Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.dolphinios
