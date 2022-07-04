@@ -7064,3 +7064,27 @@ Description: The first real iOS system cleaner & optimizer
 Name: iCleaner Pro
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+
+Package: com.ginsu.docksearch
+Version: 2.1.3
+Tag: role::enduser
+Section: Tweaks
+Homepage: https://ginsu.dev
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, preferenceloader
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+Filename: ./debs/com.ginsu.docksearch.deb
+Size: 234678
+MD5sum: 6f24e9fdccb5af14284edf47949cc744
+SHA1: 452f1fbc82a3e1a436e1a2fd097b84f851fddb92
+SHA256: 7b8f1a418503ca0cb37de1472204603f0191327f35b5d41e1a0c58019b017082
+Description: Adds a browser search bar to your dock.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.docksearch/icon.png&size=60x60&timestamp=1656894946150
+Name: DockSearch
+Author: Ginsu <njl02@outlook.com>
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.docksearch.html
+SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.docksearch.json
+ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.docksearch.json
