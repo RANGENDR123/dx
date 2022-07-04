@@ -5258,6 +5258,30 @@ SileoDepiction: https://havoc.app/package/complications/depiction.json
 
 Package: com.ginsu.androbar
 Tag: role::enduser
+Version: 3.1
+Section: Tweaks
+Homepage: https://ginsu.dev
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), com.opa334.altlist, preferenceloader, com.ginsu.libgscommon
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+Filename: ./debs/com.ginsu.androbar3.1.deb
+Size: 531480
+MD5sum: 69f9ea6901773a0d09763511e46f3a24
+SHA1: ad99b955854920c836d6061aeb3bd7b929ade1f6
+SHA256: 8cf6579a7b3aef98e1e4b85629c766d7de75703d308040b0a46118a9d5ded124
+Description: Adds the Android navigation bar to iOS.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.androbar/icon.png
+Name: AndroBar
+Author: Ginsu <njl02@outlook.com>
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.androbar.html
+SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.androbar.json
+ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.androbar.json
+
+Package: com.ginsu.androbar
+Tag: role::enduser
 Version: 3.0.6
 Section: Tweaks
 Homepage: https://ginsu.dev
