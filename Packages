@@ -7095,7 +7095,7 @@ Tag: role::enduser
 Section: Tweaks
 Homepage: https://ginsu.dev
 Maintainer: Ginsu <njl02@outlook.com>
-Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, preferenceloader
+Depends: firmware (>=14.0), firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.ginsu.libgscommon
 Someotherentrytocontrol: True
 Architecture: iphoneos-arm
 Sponsor: Ginsu Tweaks <njl02@outlook.com>
