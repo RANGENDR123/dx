@@ -7112,3 +7112,22 @@ Tags: compatible_min::ios14.0, compatible_max::ios15.9
 Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.dockls.html
 SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.dockls.json
 ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.dockls.json
+
+Package: com.bandarhl.BHTwitter
+Priority: optional
+Version: 2.9.7
+Section: Tweaks
+Maintainer: BandarHL <bandarhelal190@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.bandarhl.BHTwitter_2.9.7_iphoneos-arm.deb
+Size: 1195962
+MD5sum: af312844abde484b15755c3868236f03
+SHA1: 8c718e48a7a86365e6a86332a7027ab0d86a2b57
+SHA256: e6b65d958f1d4266bcb128b8d3250601e39db5b05d79c670bb305a0f648f7d84
+Description: Awesome tweak for Twitter
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620c1eb746257c1c18d6d49a&size=60x60&timestamp=1657076928888
+Name: BHTwitter
+Author: BandarHL <bandarhelal190@gmail.com>
+Depiction: https://havoc.app/depiction/bhtwitter
+SileoDepiction: https://havoc.app/package/bhtwitter/depiction.json
