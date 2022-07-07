@@ -7214,3 +7214,26 @@ Name: BHTwitter
 Author: BandarHL <bandarhelal190@gmail.com>
 Depiction: https://havoc.app/depiction/bhtwitter
 SileoDepiction: https://havoc.app/package/bhtwitter/depiction.json
+
+Package: com.mtac.lynxapp
+Version: 2.0
+Tag: role::enduser
+Section: Utilities
+Homepage: https://github.com/MTACS/Symbols
+Maintainer: MTAC <mtac@mtac.app>
+Depends: firmware (>=14.0), firmware (>= 12.0)
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Filename: ./debs/com.mtac.lynxapp.deb
+Size: 1365978
+MD5sum: fd7eaa4dba442b5be8e15577408ad80a
+SHA1: 64c1bb3d81188e68297e51a42f60431f4ff28a94
+SHA256: 65a9c4c18435d8bb50473e930d2912573066502809fc63ffebc7d65ead458732
+Description: Access Lynx' settings easily
+Icon: https://api.ios-repo-updates.com/image.php?url=https://mtac.app/repo/assets/com.mtac.lynxapp/icon.png&size=60x60&timestamp=1657161890800
+Name: Lynx App
+Author: MTAC <mtac@mtac.app>
+Tags: compatible_min::ios14.0, compatible_max::ios14.8
+Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxapp.html
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
+ModernDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
