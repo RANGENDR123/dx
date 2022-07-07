@@ -7026,6 +7026,25 @@ Author: OatmealDome <julian@oatmealdome.me>
 Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.dolphinios
 
 Package: me.oatmealdome.dolphinios-patreon-beta
+Version: 3.2.1b1-213
+Section: Games
+Homepage: https://oatmealdome.me/
+Maintainer: OatmealDome <julian@oatmealdome.me>
+Depends: me.oatmealdome.csdbgd, mobilesubstrate
+Conflicts: me.oatmealdome.dolphinios (<= 2.0.2-3)
+Architecture: iphoneos-arm
+Sponsor: OatmealDome's Patrons <https://patreon.com/oatmealdome>
+Filename: ./debs/DolphiniOS-JB-Beta-3.2.1b1-213.deb
+Size: 52170192
+MD5sum: eb6b344bd9eaf36e781a2c8647c3d803
+SHA1: aa5c40f2c4685e7971d124730d42410853d11d51
+SHA256: 016ff345fae0d064b7623d0103076573755568753db4b9ce20d34136444558e9
+Description: A GameCube and Wii emulator for iOS
+Name: DolphiniOS (Beta)
+Author: OatmealDome <julian@oatmealdome.me>
+Depiction: https://cydia.oatmealdome.me/depictions/?p=me.oatmealdome.dolphinios
+
+Package: me.oatmealdome.dolphinios-patreon-beta
 Version: 3.2.0-211
 Section: Games
 Homepage: https://oatmealdome.me/
