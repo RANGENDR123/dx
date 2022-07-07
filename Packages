@@ -7255,3 +7255,18 @@ Icon: https://rangendr123.github.io/dx/./img/taurine.png
 Name: Taurine
 Author: Odyssey Team
 Depiction: https://taurine.app
+
+Package: com.rileytestut.Delta
+Version: 1.3.1
+Section: Applications
+Maintainer: Riley Testut
+Architecture: iphoneos-arm
+Filename: ./debs/com.rileytestut.Delta_1.3.1_iphoneos-arm.deb
+Size: 16385402
+MD5sum: e59d85997bf5f5281d0d6532b8f80d80
+SHA1: 1ece5f94eae5e0acf0c07b66be9c607cb737038f
+SHA256: 65516528b7cb1b746979b399b393430a19fa817d2a1ffe127e4599d88c0f5087
+Description: Classic games in your pocket.
+Icon: https://appsmirror.com/wp-content/uploads/2019/04/Delta_icon.png
+Name: Delta
+Author: Riley Testut
