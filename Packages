@@ -5615,7 +5615,7 @@ Package: com.0xkuj.3dappversionspoofer
 Version: 1.1
 Section: Tweaks
 Maintainer: 0xkuj <0xkujz@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
 Architecture: iphoneos-arm
 Filename: ./debs/com.0xkuj.3dappversionspoofer_1.1_iphoneos-arm.deb
 Size: 50356
@@ -7237,3 +7237,21 @@ Tags: compatible_min::ios14.0, compatible_max::ios14.8
 Depiction: https://mtac.app/repo/depiction/web/com.mtac.lynxapp.html
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
 ModernDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxapp.json
+
+Package: com.odysseyteam.taurine
+Version: 1.1.5
+Section: Jailbreaks
+Homepage: https://taurine.app
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.odysseyteam.taurine_1.1.5_iphoneos-arm.deb
+Size: 31017162
+MD5sum: 6b8f494294bbc74bfcd71459550f0181
+SHA1: 03bb7e8dd3468c3cc249423ccd18be0a1fd85f7e
+SHA256: 7b23a97551144248bfc93a93fc762fe8f5fe7b26a9ec4858068483c7f83b99cb
+Description: Time to get amped.
+Icon: https://rangendr123.gituhb.io/dx/./img/taurine.png
+Name: Taurine
+Author: Odyssey Team
+Depiction: https://taurine.app
