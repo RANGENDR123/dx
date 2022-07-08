@@ -7270,3 +7270,22 @@ Description: Classic games in your pocket.
 Icon: https://appsmirror.com/wp-content/uploads/2019/04/Delta_icon.png
 Name: Delta
 Author: Riley Testut
+
+Package: re.frida.server
+Priority: optional
+Version: 15.1.28
+Section: Development
+Homepage: https://www.frida.re/
+Maintainer: Ole AndrÃ© Vadla RavnÃ¥s <oleavr@nowsecure.com>
+Conflicts: re.frida.server64
+Architecture: iphoneos-arm
+Filename: ./debs/re.frida.server_15.1.28_iphoneos-arm.deb
+Size: 15960968
+Installed-Size: 55592
+MD5sum: ca4c258b746a7431b8940fca1ff98e2c
+SHA1: dd77945d6be177b81fa24066a1b9d8afa1b893af
+SHA256: 53d901d30cc23a6816cbc41d76cf7dcd3e433a5c6dda2dadec747fb2bc3ba559
+Description: Inject JavaScript to explore iOS apps over USB.
+Icon: https://api.ios-repo-updates.com/images/repositories/frida.png?timestamp=1657308692884
+Name: Frida
+Author: Frida Developers <oleavr@nowsecure.com>
