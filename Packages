@@ -7289,3 +7289,22 @@ Description: Inject JavaScript to explore iOS apps over USB.
 Icon: https://api.ios-repo-updates.com/images/repositories/frida.png?timestamp=1657308692884
 Name: Frida
 Author: Frida Developers <oleavr@nowsecure.com>
+
+Package: re.frida.server64
+Priority: optional
+Version: 14.2.13
+Section: Development
+Homepage: https://www.frida.re/
+Maintainer: Ole AndrÃ© Vadla RavnÃ¥s <oleavr@nowsecure.com>
+Conflicts: re.frida.server
+Architecture: iphoneos-arm
+Filename: ./debs/re.frida.server64_14.2.13_iphoneos-arm.deb
+Size: 12064904
+Installed-Size: 42760
+MD5sum: ffbc876d5e4958ebf1a7385555fe906c
+SHA1: 4243deffcc47857dfcb6634a151cfdf4881afe41
+SHA256: af574c5a6f9e0cc321155d1c9d402da740734d28e85f18b6977dd0732dc750d6
+Description: Inject JavaScript to explore iOS apps over USB.
+Icon: https://api.ios-repo-updates.com/images/repositories/frida.png?timestamp=1657308692884
+Name: Frida for A12+ devices
+Author: Frida Developers <oleavr@nowsecure.com>
