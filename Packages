@@ -7308,3 +7308,21 @@ Description: Inject JavaScript to explore iOS apps over USB.
 Icon: https://api.ios-repo-updates.com/images/repositories/frida.png?timestamp=1657308692884
 Name: Frida for A12+ devices
 Author: Frida Developers <oleavr@nowsecure.com>
+
+Package: com.simplycode.PostBox
+Version: 0.7
+Section: Applications
+Homepage: https://postbox.news
+Maintainer: PostBoxTeam <getpostboxapp@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/PostBox-0.7-beta.deb
+Size: 44121360
+MD5sum: 7ee0586fb621ca47c7618b7a5a347172
+SHA1: 375c674c5b9d458a3658aba1cf7752b9f0b81f7a
+SHA256: ace2fa7b4a489d075e459abbf92a2917cd4cb19b0fc18fcc3150835df05217fc
+Description: News, package lists, and repo lists, all community centered.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://postbox.news/depicts/app/icon.png&size=60x60&timestamp=1657337641359
+Name: PostBox
+Author: PostBoxTeam <getpostboxapp@gmail.com>
+Depiction: https://postbox.news/depicts/app
+SileoDepiction: https://postbox.news/depicts/app/fancydeps.json
