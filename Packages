@@ -7350,3 +7350,22 @@ Tags: compatible_min::ios14.0, compatible_max::ios15.9
 Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.killcontrol.html
 SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.killcontrol.json
 ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.killcontrol.json
+
+Package: com.ps.ytabgoodies
+Version: 1.0.3
+Section: Tweaks
+Maintainer: PoomSmart
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.ps.youremembercaption, com.ps.ytnochecklocalnetwork, com.ps.ytsystemappearance, com.ps.youarethere
+Architecture: iphoneos-arm
+Filename: ./debs/com.ps.ytabgoodies_1.0.3_iphoneos-arm.deb
+Size: 2806
+Installed-Size: 72
+MD5sum: 0f8dfc773c1065e64df20df315e827a0
+SHA1: f710ede1b22a45509466dc5e81089cd98dade8db
+SHA256: 532dcc1dc98d20a98aa0a82a540667a5cb17aa2c1b968e60d4a876080d923f41
+Description: Enforce useful YouTube features that are otherwise 50/50 available to you.
+Name: YTABGoodies
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
