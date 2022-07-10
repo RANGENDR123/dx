@@ -7369,3 +7369,21 @@ Name: YTABGoodies
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
+
+Package: net.angelxwind.mobileterminal-applesdk
+Version: 521-karen-2
+Section: Terminal Support
+Homepage: https://cydia.angelxwind.net
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Pre-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/net.angelxwind.mobileterminal-applesdk.deb
+Size: 248692
+MD5sum: fb2e35fd8ee6fe53963dd65fd659174c
+SHA1: c9da4581484e70761e440ac7a8e5b7e64c44497c
+SHA256: 1ad7e0d6c8cc90c546b8a63df85c5694a1bd2f4d6b150612183944ec7fe34a64
+Description: A Terminal emulator. This is a Terminal emulator for the iPhone. With it you can do all of your standard system administration tasks from anywhere:SSH into remote boxes, download files, edit configuration files, whatever.
+Name: MobileTerminal
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mobileterminal-applesdk
