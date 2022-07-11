@@ -5150,6 +5150,30 @@ Depiction: https://havoc.app/depiction/amazonite
 SileoDepiction: https://havoc.app/package/amazonite/depiction.json
 
 Package: com.ginsu.libgscommon
+Version: 1.2.1
+Tag: role::enduser
+Section: Tweaks
+Homepage: https://ginsu.dev
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: firmware (>=14.0), preferenceloader
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+Filename: ./debs/com.ginsu.libgscommonversion1.2.1.deb
+Size: 105768
+MD5sum: a10894c963bd88b8bfc68c2fd3d23ad0
+SHA1: b76d156a3149bc5fd5008b726b5b19238816d9b3
+SHA256: cd68f321ad22b09ca657b0de23b64dad21709a440d2ff586a08465dc2f88f74f
+Description: Support package for Ginsu’s tweaks.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.libgscommon/icon.png
+Name: GSCommon
+Author: Ginsu <njl02@outlook.com>
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.libgscommon.html
+SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.libgscommon.json
+ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.libgscommon.json
+
+Package: com.ginsu.libgscommon
 Version: 1.2
 Tag: role::enduser
 Section: Tweaks
