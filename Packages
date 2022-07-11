@@ -7497,3 +7497,43 @@ Name: EmojiAttributes
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: h.ryan.youtubereborn
+Version: 3.1.2
+Section: Tweaks
+Maintainer: Lillie
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.galacticdev.isponsorblock, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
+Architecture: iphoneos-arm
+Filename: ./debs/h.ryan.youtubereborn_3.1.2_iphoneos-arm.deb
+Size: 9139356
+Installed-Size: 25280
+MD5sum: 188944983394bae8850df270ee0c6fb6
+SHA1: 3c1701fdeda62c523ee2fad4826eca54c8d9c89c
+SHA256: b08bda74095af17f9575c4aad2c260735ab23defc6329cb46931324f30aa04d8
+Description: YouTube Customizer
+Name: YouTube Reborn
+Author: Lillie
+
+Package: weeb.lillie.enhancerforyoutubepremium
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Lillie
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: net.sarahh12099.youtubereborn, h.ryan.youtubreborn, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, prasa.youtubeplus, weeb.lillie.youtubepremiumplus
+Replaces: weeb.lillie.youtubepremiumplus
+Architecture: iphoneos-arm
+Filename: ./debs/weeb.lillie.enhancerforyoutubepremium_1.0.6_iphoneos-arm.deb
+Size: 43698
+Installed-Size: 232
+MD5sum: 6ee7f226958a85ef26611e6eba7761e3
+SHA1: bb89c13793115a1edae368eab9aa6be1cc1da060
+SHA256: ee72182689b67354d78755ea573ad0e1a7d2b3d9d055f3bd7316d7c792aa9ad4
+Description: Add More Features To YouTube Premium
+Icon: https://api.ios-repo-updates.com/image.php?url=https://chariz.com/cdn/icon/enhancer-for-youtube-premium/icon@3x.png&size=120x120&timestamp=1657565605895
+Name: Enhancer for YouTube Premium
+Author: Lillie
+Depiction: https://repo.lillieweeb001.xyz/depictions/enhancerforyoutubepremium.html
+SileoDepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.enhancerforyoutubepremium/depiction.json
