@@ -7430,3 +7430,22 @@ Description: A Terminal emulator. This is a Terminal emulator for the iPhone. Wi
 Name: MobileTerminal
 Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
 Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mobileterminal-applesdk
+
+Package: com.ps.emojiattributes
+Version: 1.6.0~b1
+Section: Tweaks
+Maintainer: PoomSmart
+Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
+Conflicts: com.ps.flexmoji
+Architecture: iphoneos-arm
+Filename: ./debs/com.ps.emojiattributes_1.6.0_b1_iphoneos-arm.deb
+Size: 54216
+Installed-Size: 596
+MD5sum: 0b2cd062e99c1d5450baf1cfdb161980
+SHA1: 783b2e841e37ca72e07d762823325278fca3a8ee
+SHA256: f915fba79c0856db7ecf0c9ffb82cbd4916da57022c4e0353b4ca9fbe29f6b0c
+Description: Various under-the-hood fixes for emoji display.
+Name: EmojiAttributes
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
