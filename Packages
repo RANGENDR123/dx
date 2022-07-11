@@ -7347,6 +7347,30 @@ Depiction: https://postbox.news/depicts/app
 SileoDepiction: https://postbox.news/depicts/app/fancydeps.json
 
 Package: com.ginsu.killcontrol
+Version: 1.0.2
+Tag: role::enduser
+Section: Tweaks
+Homepage: https://ginsu.dev
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), com.ginsu.libgscommon, com.opa334.altlist, preferenceloader
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+Filename: ./debs/com.ginsu.killcontrolversion1.0.2.deb
+Size: 227974
+MD5sum: 97d5afacf0737cb422799e6ba2df0865
+SHA1: 2662545b24dcd54ab1aea397effab0e83293c775
+SHA256: 0a310397176b5c16b075c85baf2ff68d3eeb2145b9d675f59f20c5122e82cfb5
+Description: Kill apps with one swipe + more.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.killcontrol/icon.png&size=60x60&timestamp=1657395849179
+Name: KillControl
+Author: Ginsu <njl02@outlook.com>
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.killcontrol.html
+SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.killcontrol.json
+ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.killcontrol.json
+
+Package: com.ginsu.killcontrol
 Version: 1.0.1
 Tag: role::enduser
 Section: Tweaks
