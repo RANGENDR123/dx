@@ -7539,6 +7539,25 @@ Depiction: https://repo.lillieweeb001.xyz/depictions/enhancerforyoutubepremium.h
 SileoDepiction: https://repo.lillieweeb001.xyz/sileodepictions/weeb.lillie.enhancerforyoutubepremium/depiction.json
 
 Package: com.ichitaso.undecimus
+Version: 8.0.2
+Section: Applications
+Homepage: https://ichitaso.com
+Maintainer: ichitaso
+Depends: firmware (>=14.0), firmware (<<15.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.ichitaso.undecimus_8.0.2_iphoneos-arm.deb
+Size: 54459334
+MD5sum: be11becb9319198af796926d95764f8f
+SHA1: dd3c39b3122f09c78c4413d76818d72a146b6a4a
+SHA256: 825071f4c17f25e17ff29d27e5b4dd5bb68092dbc9fe9da49b890bea21b940bd
+Description: Works even after reboot due to unc0ver re-signing by Permasigner (iOS 14.0 - 14.8)
+Icon: https://api.ios-repo-updates.com/image.php?url=https://cydia.ichitaso.com/images/unc0ver-Icon-200px.png&size=120x120&timestamp=1657662157258
+Name: unc0ver
+Author: unc0ver
+Tags: compatible_min::ios14.0, compatible_max::ios14.8
+Depiction: https://cydia.ichitaso.com/depiction/unc0ver.html
+
+Package: com.ichitaso.undecimus
 Version: 6.1.2
 Section: Applications
 Homepage: https://ichitaso.com
