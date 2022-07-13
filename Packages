@@ -31,6 +31,25 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.ichitaso.altstore
+Version: 1.5
+Section: Utilities
+Maintainer: ichitaso <cuentasdesechable1@gmail.com>
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Conflicts: com.rileytestut.altstore.alpha.jailbroken, com.rileytestut.AltStore
+Replaces: com.ichitaso.altstore
+Architecture: iphoneos-arm
+Filename: ./debs/com.ichitaso.altstore_1.5_iphoneos-arm.deb
+Size: 5210490
+MD5sum: 76745a337f7170f19997a5f50a19f140
+SHA1: ba63c78d2aa958bac75320db8f7a31ce7e35a39b
+SHA256: 4e296b27f7a8e590342a06f3006fc140c9e7326119549a8d39e950fbdfa36ed2
+Description: Jailbroken version of AltStore with on device signing feauture.
+Icon: https://img.chariz.cloud/icon/altdaemon/icon@3x.png
+Name: AltStore
+Author: Riley Testut <support@altstore.io>
+Depiction: https://cydia.ichitaso.com/depiction/altstore.html
+
+Package: com.ichitaso.altstore
 Version: 1.4.9
 Section: Utilities
 Maintainer: ichitaso <cuentasdesechable1@gmail.com>
@@ -83,7 +102,7 @@ Description: Compatibility layer to use coolstar tweaks on substrate/substitute 
 Icon: https://repo.lauren.sh/assets/me.lau.libhookersupport/icon.png
 Name: libhooker support
 Author: DX <cuentasdesechable1@gmail.com>
-Depiction: https:/repo.lauren.sh/depiction/web/me.lau.libhookersupport.html
+Depiction: https://repo.lauren.sh/depiction/web/me.lau.libhookersupport.html
 SileoDepiction: https://repo.lauren.sh/depiction/native/me.lau.libhookersupport.json
 ModernDepiction: https://repo.lauren.sh/depiction/native/me.lau.libhookersupport.json
 
