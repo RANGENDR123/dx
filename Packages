@@ -7642,3 +7642,20 @@ Tags: compatible_min::ios14.0, compatible_max::ios15.0
 Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.ramundertime.html
 SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.ramundertime.json
 ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.ramundertime.json
+
+Package: app.enmity
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Zoey, eternal
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: ./debs/app.enmity_2.0.1_iphoneos-arm.deb
+Size: 34950
+MD5sum: 62ba41edd12de5ab55f0525ae6f40009
+SHA1: 28591181366af993e47a7451a1875823b9ed3203
+SHA256: aad5b6356b19fa79b08258a87675fe35ea77f38efa2deb1589bfd63de145ed6e
+Description: The power of addons, all in your hand.
+Icon: https://repo.enmity.app/icons/Enmity.png
+Name: Enmity
+Author: Enmity Team
+SileoDepiction: https://repo.enmity.app/depictions/enmity.json
