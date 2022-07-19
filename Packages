@@ -7707,3 +7707,23 @@ Icon: https://repo.enmity.app/icons/Enmity.png
 Name: Enmity
 Author: Enmity Team
 SileoDepiction: https://repo.enmity.app/depictions/enmity.json
+
+Package: com.ios.alwaysvpn
+Version: 1.0
+Section: Tweaks
+Maintainer: iosrouter <iosrouter69@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.muirey03.libmryipc, com.yulkytulky.actify, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.ios.alwaysvpn_1.0_iphoneos-arm.deb
+Size: 30580
+Installed-Size: 798
+MD5sum: 6c4e07b0e8fb862aee48878d1d6fff67
+SHA1: 821bf77263502ec88965e48ffc8c5821a16da6ef
+SHA256: aa6aa4d4e82b4214b213e13681f2e807073c8d9924248a1cc4ae55a3294dc599
+Description: Disallows apps opening without a VPN connection. *Configurable
+Icon: https://api.ios-repo-updates.com/image.php?url=https://img.chariz.cloud/icon/alwaysvpn/icon@3x.png&size=120x120&timestamp=1658190745109
+Name: AlwaysVPN
+Author: iosrouter <iosrouter69@gmail.com>
+Depiction: https://chariz.com/get/alwaysvpn
+SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ios.alwaysvpn/depiction.json
+
