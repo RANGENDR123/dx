@@ -5674,6 +5674,25 @@ Depiction: https://havoc.app/depiction/3dappversionspo
 SileoDepiction: https://havoc.app/package/3dappversionspo/depiction.json
 
 Package: com.0xkuj.3dappversionspoofer
+Version: 1.1.1
+Section: Tweaks
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Architecture: iphoneos-arm
+Filename: ./debs/com.0xkuj.3dappversionspoofer_1.1.2_iphoneos-arm.deb
+Size: 50440
+Installed-Size: 388
+MD5sum: 3f623f80889def8b033b21ec821488bf
+SHA1: 02914453ad4e0a001cab5782aa558cc57ad18d3c
+SHA256: 1c6e0084810a803f9386c353e4d495406ff605b6064134046a9c25698a4a5826
+Description: A tweak to add app spoofing capabilities right from your 3D menu
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/62b19ca956016114f746df4e&size=60x60
+Name: 3DAppVersionSpoofer
+Author: 0xkuj <0xkujz@gmail.com>
+Depiction: https://havoc.app/depiction/3dappversionspo
+SileoDepiction: https://havoc.app/package/3dappversionspo/depiction.json
+
+Package: com.0xkuj.3dappversionspoofer
 Version: 1.1
 Section: Tweaks
 Maintainer: 0xkuj <0xkujz@gmail.com>
