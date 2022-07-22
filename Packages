@@ -7794,3 +7794,21 @@ Author: iosrouter <iosrouter69@gmail.com>
 Depiction: https://chariz.com/get/alwaysvpn
 SileoDepiction: https://repo.chariz.com/api/sileo/package/com.ios.alwaysvpn/depiction.json
 
+Package: com.hyperixa.hyperixa
+Version: 1.0
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Depends: mobilesubstrate, com.hyperixa.hyperixakit, firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.hyperixa.hyperixa_1.0_iphoneos-arm.deb
+Size: 13582042
+Installed-Size: 29168
+MD5sum: 45faccc102f508f1e8bd82650ac6790e
+SHA1: a2b4c400e7e41ec32f29e185f75fe23ff013add7
+SHA256: a13cf86628cf87f4768a4e3ad895e7fa9160b1ed024813bfd9b0e7da1947cac1
+Description: Hyperixa app to manage Hyperixa's tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.hyperixa.com/depictions/hyperixa/assets/icon.png&size=120x120&timestamp=1658454090884
+Name: Hyperixa
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/hyperixa/index.html
+
