@@ -7863,3 +7863,20 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.hyperixa.com/d
 Name: HyperixaKit
 Author: Hyperixa
 Depiction: https://repo.hyperixa.com/depictions/hyperixakit/index.html
+
+Package: com.sugiuta.dcframe
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugiuta
+Architecture: iphoneos-arm
+Filename: ./debs/com.sugiuta.dcframe_1.0.0_iphoneos-arm.deb
+Size: 474678
+Installed-Size: 812
+MD5sum: bc8962288e20c8fb91edb5660a795012
+SHA1: e0f27c878043b04e739b11c8b250587fecc34739
+SHA256: 195401a12df92e1498258e92f5236e0074bd8ed6291f5b84b9ba7cabaa761ebc
+Description: Change the Discord background to your 
+Icon: https://api.ios-repo-updates.com/image.php?url=https://sugiuta.github.io/descriptions/com.sugiuta.dcframe/DCFrame.png&size=120x120&timestamp=1658547496260
+Name: DCFrame
+Author: sugiuta
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.dcframe
