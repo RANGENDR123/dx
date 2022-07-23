@@ -7846,3 +7846,20 @@ Name: Hyperixa
 Author: Hyperixa <hyp3rixa@gmail.com>
 Depiction: https://repo.hyperixa.com/depictions/hyperixa/index.html
 
+Package: com.hyperixa.hyperixakit
+Version: 1.0
+Tag: role::developer
+Section: System
+Maintainer: Hyperixa
+Architecture: iphoneos-arm
+Filename: ./debs/com.hyperixa.hyperixakit_1.0_iphoneos-arm.deb
+Size: 267502
+Installed-Size: 1512
+MD5sum: 41e201818aa5129ef54b1db7a1032f1d
+SHA1: 4317d0597ad71f1913e411350a05be799ca84eb8
+SHA256: 0d79a47aff6063a1b9f2dea54ceb9d662d93b0032a832bfc612b6f6cabb18ad3
+Description: Framework for Hyperixa tweaks
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.hyperixa.com/depictions/hyperixakit/assets/icon.png&size=120x120&timestamp=1658544582801
+Name: HyperixaKit
+Author: Hyperixa
+Depiction: https://repo.hyperixa.com/depictions/hyperixakit/index.html
