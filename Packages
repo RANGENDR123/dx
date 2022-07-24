@@ -7880,3 +7880,21 @@ Icon: https://api.ios-repo-updates.com/image.php?url=https://sugiuta.github.io/d
 Name: DCFrame
 Author: sugiuta
 Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.dcframe
+
+Package: com.hyperixa.phoenix
+Version: 2.1
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.hyperixa.phoenix_2.1_iphoneos-arm.deb
+Size: 576226
+Installed-Size: 1356
+MD5sum: 84ded24e45172ff8674ddef13a020b9a
+SHA1: 8c8972a982ca636e489c4b0ddca41eb1fd67e85c
+SHA256: fa5261d9b8ed6126be306cc3025bb83f46bfdb2c861c58293a33c4991fc15589
+Description: A redesign of the contact list for the Phone app
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.hyperixa.com/depictions/phoenix/assets/icon.png&size=120x120&timestamp=1658629670580
+Name: Phoenix
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/phoenix/index.html
+
