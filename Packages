@@ -7351,10 +7351,10 @@ Someotherentrytocontrol: True
 Architecture: iphoneos-arm
 Sponsor: Ginsu Tweaks <njl02@outlook.com>
 Filename: ./debs/com.ginsu.dockls.deb
-Size: 251768
-MD5sum: 59d2505254f42785c28ededd2b0a84a7
-SHA1: a39b4bdf5241abcc65a77cb8c2ab208dc89a26ef
-SHA256: 7c3b2e0c13c5acd83a95d8f30d8a94c2bad9127386ebd001e9f0bda5de362ad7
+Size: 251772
+MD5sum: d39d5e8dc575a9c6957168ddc5533749
+SHA1: e140b21b771243beae370709cd5b8f35e2b00437
+SHA256: 149a0654a81e9e28433bcc6427d8c3c6f1af34e3a7492f132032cbb4516b7cd6
 Description: Adds the dock to the LS.
 Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.dockls/icon.png&size=60x60&timestamp=1656985612363
 Name: DockLS
