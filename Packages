@@ -7383,6 +7383,25 @@ Author: BandarHL <bandarhelal190@gmail.com>
 Depiction: https://havoc.app/depiction/bhtwitter
 SileoDepiction: https://havoc.app/package/bhtwitter/depiction.json
 
+Package: com.bandarhl.BHTwitter
+Priority: optional
+Version: 2.9.8
+Section: Tweaks
+Maintainer: BandarHL <bandarhelal190@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.bandarhl.BHTwitter_2.9.8_iphoneos-arm.deb
+Size: 1089916
+MD5sum: e21575550bbefeb2540e6eacbb3e2824
+SHA1: 480be7fa97b05c5bb4cdd31552775f14b5efb818
+SHA256: a52b8dfd5a2e57a1f68bc804aaa1c3a987de4dd6cf11287e10ad6a9b2b929a99
+Description: Awesome tweak for Twitter
+Icon: https://api.ios-repo-updates.com/image.php?url=https://media.havoc.app/620c1eb746257c1c18d6d49a&size=60x60&timestamp=1657076928888
+Name: BHTwitter
+Author: BandarHL <bandarhelal190@gmail.com>
+Depiction: https://havoc.app/depiction/bhtwitter
+SileoDepiction: https://havoc.app/package/bhtwitter/depiction.json
+
 Package: com.mtac.lynxapp
 Version: 2.0
 Tag: role::enduser
