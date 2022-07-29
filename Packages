@@ -7936,3 +7936,22 @@ Name: Helix
 Author: Hyperixa <hyp3rixa@gmail.com>
 Depiction: https://repo.hyperixa.com/depictions/helix/index.html
 
+Package: com.hyperixa.ipsw
+Version: 1.1
+Section: Tweaks
+Maintainer: Hyperixa <hyp3rixa@gmail.com>
+Depends: mobilesubstrate, firmware (>= 14.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.hyperixa.ipsw_1.1_iphoneos-arm.deb
+Size: 3585096
+Installed-Size: 7640
+MD5sum: a25eca58d8a5c7f51c415fffc0347922
+SHA1: a26fc9d128946c5c4dbc3fbebe30aa8944c05341
+SHA256: c79192a5eac069cca44dc0c3b3c04e1e0d2c120ed239a826b4861140ddb6c10d
+Description: Check if iOS/iPadOS version is still signed
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.hyperixa.com/depictions/ipsw/assets/icon.png&size=120x120&timestamp=1659064017620
+Name: IPSW
+Author: Hyperixa <hyp3rixa@gmail.com>
+Depiction: https://repo.hyperixa.com/depictions/ipsw/index.html
+
+
