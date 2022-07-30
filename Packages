@@ -5799,6 +5799,30 @@ ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.notchbanners.
 
 Package: com.ginsu.notchbanners
 Tag: role::enduser
+Version: 2.2.5
+Section: Tweaks
+Homepage: https://ginsu.dev
+Maintainer: Ginsu <njl02@outlook.com>
+Depends: firmware (>=14.0), dev.theos.orion14, firmware (>= 14.0), preferenceloader, com.ginsu.libgscommon
+Someotherentrytocontrol: True
+Architecture: iphoneos-arm
+Sponsor: Ginsu Tweaks <njl02@outlook.com>
+Filename: ./debs/com.ginsu.notchbannersversion2.2.5.deb
+Size: 467798
+MD5sum: 6e3fec1847654e7c71c7cd8c13622ab2
+SHA1: 6fa959ffe71e2c0c5bc7d3a8ef439abf6a5cfc24
+SHA256: 9a935407b64d554abbca5710ef9dbf8ac1bc4153a0ce39a31e72796429de1cff
+Description: Make notifications come from the notch!
+Icon: https://api.ios-repo-updates.com/image.php?url=https://repo.ginsu.dev/assets/com.ginsu.notchbanners/icon.png&size=60x60
+Name: NotchBanners
+Author: Ginsu <njl02@outlook.com>
+Tags: compatible_min::ios14.0, compatible_max::ios15.9
+Depiction: https://repo.ginsu.dev/depiction/web/com.ginsu.notchbanners.html
+SileoDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.notchbanners.json
+ModernDepiction: https://repo.ginsu.dev/depiction/native/com.ginsu.notchbanners.json
+
+Package: com.ginsu.notchbanners
+Tag: role::enduser
 Version: 2.2.4
 Section: Tweaks
 Homepage: https://ginsu.dev
