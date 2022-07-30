@@ -7557,6 +7557,24 @@ Author: PostBoxTeam <getpostboxapp@gmail.com>
 Depiction: https://postbox.news/depicts/app
 SileoDepiction: https://postbox.news/depicts/app/fancydeps.json
 
+Package: com.simplycode.PostBox
+Version: 0.8
+Section: Applications
+Homepage: https://postbox.news
+Maintainer: PostBoxTeam <getpostboxapp@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/PostBox-0.8-beta.deb
+Size: 5038160
+MD5sum: 1d0b456ef31906ed1080dd2844dbedef
+SHA1: 21599dc3e104c2bce472e708faf6fd245c0c44d2
+SHA256: 6304c65c41457c76cf48cd5c251854d33d333caead44ec140d016ddaee3a884c
+Description: News, package lists, and repo lists, all community centered.
+Icon: https://api.ios-repo-updates.com/image.php?url=https://postbox.news/depicts/app/icon.png&size=60x60&timestamp=1657337641359
+Name: PostBox
+Author: PostBoxTeam <getpostboxapp@gmail.com>
+Depiction: https://postbox.news/depicts/app
+SileoDepiction: https://postbox.news/depicts/app/fancydeps.json
+
 Package: com.ginsu.killcontrol
 Version: 1.2.2
 Tag: role::enduser
