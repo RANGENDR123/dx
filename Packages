@@ -2790,6 +2790,22 @@ Name: perl
 
 Package: libiosexec1
 Priority: required
+Version: 1.2.2
+Section: Libraries
+Homepage: http://github.com/ProcursusTeam/libiosexec
+Maintainer: Hayden Seay <me@diatr.us>
+Architecture: iphoneos-arm
+Filename: ./debs/libiosexec1_1.2.2_iphoneos-arm.deb
+Size: 6292
+Installed-Size: 60
+MD5sum: 22ff162a9ba5ea9759a34af985e10f99
+SHA1: 814f52f2593f01509bb5bbb3efdc03fc9cfd3004
+SHA256: b217798be2cf3b4794c115b2116eea34bb1f0d1af229aa91e4e119ef3148d8db
+Description: shim for execve w/ shell script support
+Name: libiosexec1
+
+Package: libiosexec1
+Priority: required
 Version: 1.0.18~1.2-alpha1
 Section: Libraries
 Homepage: http://github.com/ProcursusTeam/libiosexec
