@@ -145,6 +145,28 @@ Depiction: https://rangendr123.github.io/dx/depictions/?p=com.dx.guatemalaflag
 Package: cydia
 Priority: important
 Tag: purpose::uikit, role::enduser
+Version: 1.1.36-3
+Section: Packaging
+Maintainer: Procursus Team <support@procurs.us>
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=12.0)
+Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xzutils, zstd
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Architecture: iphoneos-arm
+Filename: ./debs/cydia_1.1.36-3_iphoneos-arm.deb
+Size: 1242528
+MD5sum: f55218a68a1f0ac9966bd40d8cc5ee67
+SHA1: 6f175ddec364c843427ac50372a57bf36d79b353
+SHA256: 340a1b8ee2048f24ef50ba89cd405e205721180ab2f87f45c333640092d3c3ac
+Description: graphical iPhone front-end for APT
+Icon: https://cydia.saurik.com/icon@2x/cydia7.png
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: https://cydia.saurik.com/info/cydia/
+
+Package: cydia
+Priority: important
+Tag: purpose::uikit, role::enduser
 Version: 1.1.36-2
 Section: Packaging
 Maintainer: Procursus Team <support@procurs.us>
@@ -154,7 +176,7 @@ Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydi
 Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
 Architecture: iphoneos-arm
 Filename: ./debs/cydia_1.1.36-2_iphoneos-arm.deb
-Size: 1240728 
+Size: 1240728
 MD5sum: a5d19b0410bd817c62328d0189ad15c8
 SHA1: 9cdd17c8f6c96901908cdf75bd445e8797ee5fab
 SHA256: 6fd60fb927dd1b9eda231fc41a63708b1f6a8118a33e8de0233e90e9b56155ab
